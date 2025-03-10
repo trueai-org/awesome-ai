@@ -4,8 +4,8 @@
 
 ## 收录标准
 
-1. 产品正常使用。
-2. 产品拥有官方账号（YouTube/TikTok/X/Facebook/Reddit/Instagram/WhatsApp/LinkedIn/VK/Snapchat/Vimeo/Pinterest/Behance/Flickr/Quora/Discord/Tumblr/Medium/快手/抖音/微博/小红书/Bilibili/GitHub等）。
+1. 产品发布正常可用
+2. 产品拥有官方账号（YouTube、TikTok、X、Facebook、Reddit、Instagram、WhatsApp、LinkedIn、VK、Snapchat、Vimeo、Pinterest、Behance、Flickr、Quora、Discord、Tumblr、Medium、快手、抖音、微博、小红书、Bilibili、GitHub等）
 
 ## AI 对话
 1. [智谱清言](https://chatglm.cn/) - 中国版对话语言模型，与GLM大模型进行对话。
@@ -813,11 +813,7 @@ Build new features, fix bugs, //add comments and understand your codebase.
 25. [GitHub - Stability-AI/StableLM: StableLM: Stability AI Language Models](https://github.com/Stability-AI/StableLM) - StableLM: Stability AI Language Models. Contribute to Stability-AI/StableLM development by creating an account on GitHub.
 26. [Runway Research | Gen-2: Generate novel videos with text, images or video clips](https://research.runwayml.com/gen2) - A multimodal AI system that can generate novel videos with text, images or video clips.
 27. [Latest News - DeepSpeed](https://www.deepspeed.ai/) - DeepSpeed is a deep learning optimization library that makes distributed training easy, efficient, and effective.
-28. [Our latest AI models – Google AI
-      
-      
-        
-        - Google AI](https://ai.google/discover/palm2) - The AI models behind our most impactful innovations and their capabilities.
+28. [Our latest AI models - Google AI](https://ai.google/discover/palm2) - The AI models behind our most impactful innovations and their capabilities.
 29. [OpenBMB](https://www.openbmb.org/home) - 清华团队支持发起的大规模预训练语言模型库与相关工具
 30. [Segment Anything | Meta AI](https://segment-anything.com/) - Meta最新推出的AI图像分割模型
 31. [Hugging Face – The AI community building the future.](https://huggingface.co/) - We’re on a journey to advance and democratize artificial intelligence through open source and open science.
@@ -935,11 +931,7 @@ Build new features, fix bugs, //add comments and understand your codebase.
 16. [AI大学堂](https://www.aidaxue.com/) - AI大学堂是科大讯飞打造的AI在线学习平台，为各行业各领域的技术人才提供人工智能培训,人工智能学习,编程入门自学,计算机编程入门,Python数据分析等课程，旨在为AI领域开发者、爱好者提供专业的课程、资源及服务支持
 17. [人工智能学习路线（学+测） - 阿里云开发者社区](https://developer.aliyun.com/learning/roadmap/ai) - 人工智能学习路线，算法原理、框架精讲、机器学习实战、图像识别实战、自然语言处理实战，人工智能技术一站式学习
 18. [Just a moment...](https://www.udacity.com/school/school-of-ai) - Udacity推出的School of AI，从入门到高级
-19. [Making AI helpful for everyone - Google AI
-      
-      
-        
-        - Google AI](https://ai.google/) - Committed to improving the lives of as many people as possible, responsibly building products and platforms powered by the most advanced technology.
+19. [Making AI helpful for everyone - Google AI](https://ai.google/) - Committed to improving the lives of as many people as possible, responsibly building products and platforms powered by the most advanced technology.
 20. [ShowMeAI知识社区](https://www.showmeai.tech/) - ShowMeAI是人工智能领域的资料库和学习社区，覆盖Python、数据科学、机器学习、深度学习、自然语言处理、计算机视觉等方向。我们为学习、求职、项目落地、业务探索等场景，提供了结构化路径和全套资料库。构建AI解决方案，用知识加速每一次技术成长！ShowMeAI，只做精品。
 21. [TXYZ - Integrate all paths to knowledge](https://www.txyz.ai/) - Integrate all paths to knowledge.
 

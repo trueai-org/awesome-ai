@@ -4,6 +4,6 @@
 
 ## 收录标准
 
-1. 产品公开且正常使用
-2. 产品拥有官方账号（YouTube/TikTok/X/Facebook/Reddit/Instagram/WhatsApp/LinkedIn/VK/Snapchat/Vimeo/Pinterest/Behance/Flickr/Quora/Discord/Tumblr/Medium/快手/抖音/微博/小红书/Bilibili/GitHub等）
+1. 产品发布正常可用
+2. 产品拥有官方账号（YouTube、TikTok、X、Facebook、Reddit、Instagram、WhatsApp、LinkedIn、VK、Snapchat、Vimeo、Pinterest、Behance、Flickr、Quora、Discord、Tumblr、Medium、快手、抖音、微博、小红书、Bilibili、GitHub等）
 {{content}}
