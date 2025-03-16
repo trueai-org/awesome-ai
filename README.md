@@ -1,937 +1,1012 @@
 # 全球 AI 排名
 
-收录全球 AI 产品，每 10 分钟更新一次，秉承开放、公平、公正原则，依据开放信息进行排名（日/月活跃用户、官方粉丝量、全球热度、估值与市场等指标）。
+收录全球 3000+ AI 产品，每小时更新一次，依据开放信息进行排名（活跃用户、官方粉丝、全球热度、市场估值等）
 
 ## 收录标准
 
 1. 产品发布正常可用
-2. 产品拥有官方账号（YouTube、TikTok、X、Facebook、Reddit、Instagram、WhatsApp、LinkedIn、VK、Snapchat、Vimeo、Pinterest、Behance、Flickr、Quora、Discord、Tumblr、Medium、快手、抖音、微博、小红书、Bilibili、GitHub等）
+2. 产品拥有官方账号（YouTube、TikTok、X、Twitter、Facebook、Reddit、Instagram、WhatsApp、LinkedIn、VK、Snapchat、Vimeo、Pinterest、Behance、Flickr、Quora、Discord、Tumblr、Medium、快手、抖音、微博、小红书、Bilibili、GitHub、Telegram 
 
-## AI 对话
-1. [智谱清言](https://chatglm.cn/) - 中国版对话语言模型，与GLM大模型进行对话。
-2. [Neeva - Search](https://cn.bing.com/search) - 集成了AI问答的AI搜索引擎
-3. [秘塔写作猫](https://xiezuocat.com/) - 写作猫是新一代交互式中英文写作辅助平台，集智能文本纠错、改写润色、自动续写、智能配图为一体。
-4. [腾讯元宝 - 轻松工作 多点生活](https://yuanbao.tencent.com/) - 腾讯元宝是基于腾讯混元大模型的AI应用，可以帮你写作绘画文案翻译编程搜索阅读总结的全能助手
-5. [DeepSeek](https://www.deepseek.com/) - 幻方量化旗下深度求索推出的开源大模型和聊天助手
-6. [Kimi - 会推理解析，能深度思考的AI助手](https://kimi.moonshot.cn/) - Kimi 是一个有着超大“内存”的智能助手，可以一口气读完二十万字的小说，还会上网冲浪，快来跟他聊聊吧 | Kimi - Moonshot AI 出品的智能助手
-7. [海螺AI—MiniMax 旗下生产力产品，你的AI伙伴，10倍速提升工作学习效率](https://hailuoai.com/) - 海螺AI是 MiniMax基于自研的多模态大语言模型为用户打造的AI伙伴，可以帮你智能搜索问答、精准识图解析、沉浸语音通话、专业/创意写作、文档速读总结、还有独家悬浮球功能帮你把琐事化繁为简。10倍速获取信息，10倍速解决问题。从学生到打工人，或者是自由工作者、创作者，不管你是任何角色都可以随时召唤它，上手即用，张嘴就问，无论是AI写作、AI搜题、AI办公、AI翻译、AI编程、AI创作、AI文档总结，还是陪你AI聊天、AI对话、口语陪练、模拟面试。它是你全能的AI助手。
-8. [通义 - 你的个人AI助手](https://tongyi.aliyun.com/qianwen/) - 通义是一个通情、达义的国产AI模型，可以帮你解答问题、文档阅读、联网搜索并写作总结，最多支持1000万字的文档速读。通义tongyi.ai_你的全能AI助手
-9. [问小白 - DeepSeek R1 推理图片生成独家首发](https://www.wenxiaobai.com/) - 问小白让你更有料, AI 智能聊天, 问答助手, AI 智能搜索, 免费无限量使用 DeepSeek R1 模型，支持联网搜索。
-10. [讯飞星火大模型-AI大语言模型-星火大模型-科大讯飞](https://xinghuo.xfyun.cn/desk) - 讯飞星火大模型，是由科大讯飞推出的新一代认知智能大模型，拥有跨领域的知识和语言理解能力，能够基于自然对话方式理解与执行任务，提供语言理解、知识问答、逻辑推理、数学题解答、代码理解与编写等多种能力。
-11. [文心一言](https://yiyan.baidu.com/) - 文心一言既是你的智能伙伴，可以陪你聊天、回答问题、画图识图；也是你的AI助手，可以提供灵感、撰写文案、阅读文档、智能翻译，帮你高效完成工作和学习任务。
-12. [阶跃AI](https://yuewen.cn/chats/new) - 阶跃AI是一个聪明可靠的个人效率助手，可以帮你获取知识、查询信息、学习语言、创意写作、编写代码，在工作、学习、生活等各种场景下帮你解决问题。阶跃AI，带你发现和理解世界~
-13. [百小应-懂搜索的AI助手](https://ying.baichuan-ai.com/chat) - 懂搜索的AI助手，读论文，读财报，轻松无忧！写代码，写文案，样样精通！能识图，可语音，简洁易用！
-14. [天工AI - 聊天写作对话的全能AI助手，搜索更深度，阅读更多彩](https://www.tiangong.cn/) - 天工是一款支持搜索、写作、对话、文档分析、画画、做PPT的全能型AI助手。你可以借助AI技术，检索信息、多语言翻译、写论文、写代码、写方案、写汇报、做PPT、归纳总结文档和音频视频，还可以智能编辑彩页和宝典，让AI生成高质量彩页内容，收获点赞关注。
-15. [Microsoft Copilot：您的 AI 小幫手](https://copilot.microsoft.com/) - Microsoft Copilot 是您的小幫手，可以通知、娛樂和激發靈感。取得建議、意見反應和直接解答。立即試用 Copilot。
-16. [Grok](https://x.ai/grok) - 马斯克旗下xAI推出的人工智能助手
-17. [Gemini - Google DeepMind](https://deepmind.google/technologies/gemini/) - Gemini 2.0 our most capable AI model yet, built for the agentic era.
-18. [Meta AI](https://www.meta.ai/) - Use Meta AI assistant to get things done, create AI-generated images for free, and get answers to any of your questions. Meta AI is built on Meta&#039;s...
-19. [Koko AI | Unfiltered Free 3D Anime Chat in Virtual Worlds (NSFW friendly)](https://www.seeles.ai/) - Free unfiltered 3D chatbo with anime agents and beyond (NSFW friendly). Enjoy immersive chats, calls, and interactions with our AI girlfriends/boyfriends...
-20. [Ohai](https://beta.ohai.bot/discover) - 月之暗面旗下推出的AI角色扮演虚拟陪伴应用
-21. [Me.bot - Your AI Second Brain](https://www.me.bot/) - Me.bot turns your notes into a second brain by understanding your inputs, connecting forgotten memories, and making sense of your world.
-22. [Saylo | Free AI Character Story Chat](https://www.sayloai.com/) - Welcome to Saylo, enjoy immersive character AI chat, interactive AI story games,unravel mysteries and ignite your imagination!
-23. [通义星尘_角色对话智能体_角色扮演_人工智能-阿里云](https://tongyi.aliyun.com/xingchen/) - 阿里云通义星尘是基于通义大模型设计的，它是一个能够快速创造独有人设、风格的角色对话智能体，可在多种场景中进行人工智能互动，广泛应用在角色扮演、智能NPC等领域。
-24. [CueMe](https://cueme.cn/) - 夸克推出的AI智能对话助手，支持2万字长文写作
-25. [造梦次元 | 总有奇妙在发生](https://ciyuan.ideaflow.pro/) - 造梦次元是一个AI虚拟世界，造梦师们会创造各种AI角色、场景，来陪伴用户消灭不开心。
-26. [Museland | Human-Like Interactions | Redefining AI Role-Play Experiences](https://www.museland.ai/) - AI stories and episodes are interactive and visualized on Museland! Love stories, fantasy adventure, and much more! Millions of AI stories and AI roleplay episodes on Museland are available for you to play at all times.
-27. [百度AI搜索 - 办公学习一站解决](https://chat.baidu.com/) - 百度AI搜索，一站式解决复杂问题，激发PC端超级生产力！独有「灵感探索」功能深入剖析问题核心，智能文字创作、图片创作、AI阅读、智能体海量应用启迪无限创意，开启高效智能学习办公新篇章！
-28. [商量 - AI生活小帮手](https://chat.sensetime.com/wb/home) - 商量（SenseChat）是你的AI 商量Sensechat是你的AI聊天问答助手，擅长总结财经资讯、解读政策、分析财报，也可以辅助文案创作、生成图片、编写代码，或畅聊你感兴趣的话题。
-29. [小悟空](https://wukong.com/tool) - AI智能工具，助力美好生活。轻轻一键，唤醒专属于你的私人助理。智慧服务，美好生活。
-30. [紫东太初](https://taichu-web.ia.ac.cn/) - 中国科学院自动化研究所和武汉人工智能研究院推出新一代多模态大模型，支持多轮问答、文本创作、图像生成、3D理解、信号分析等全面问答任务，拥有更强的认知、理解、创作能力，带来全新互动体验。
-31. [字节](https://chatwiz.cn/h5/feely) - 字节跳动旗下推出的AI虚拟交友聊天平台
-32. [冒泡鸭 AI](https://maopaoya.com/) - 冒泡鸭 AI 是由阶跃星辰基于自研多模态大模型开发的面向个人用户的 AI 互动平台。它提供了覆盖拟人、工具、内容、游戏、娱乐等多个领域的海量智能体。用户可以在平台上找到满足各种需求的智能体，体验到丰富的剧情故事，参与到自由多样的互动玩法中。冒泡鸭 AI 依靠超长的上下文记忆能力和实时联网搜索的能力，能够深度理解用户意图，并提供即时、准确、个性化的回复和选择。用户还可以根据个人喜好和需求，定制更加个性化的 AI 智能体，使得互动体验更符合用户个性化的期待和偏好。
-33. [Cici, browser AI copilot.](https://www.ciciai.com/browser-extension/landing/zh/) - Cici is your browser AI assistant, powered by GPT. She can answer all your questions, summarize complex websites, perform quick full-text translations, intelligently organize and summarize search results, quickly summarize videos and interact with them, and more.
-34. [百小应-懂搜索的AI助手](https://chat.baichuan-ai.com/home) - 懂搜索的AI助手，读论文，读财报，轻松无忧！写代码，写文案，样样精通！能识图，可语音，简洁易用！
-35. [Le Chat - Mistral AI](https://chat.mistral.ai/) - Chat with Mistral AI&#x27;s cutting edge language models.
-36. [超级助理-百度智能云](https://cloud.baidu.com/product/infoflow.html) - 超级助理是一款可面向所有人应用的智能助手，以满足日常生活和工作中的各种需求。无论是浏览网页、深入阅读长篇文档，还是高效的信息服务，超级助理都能提供无缝的体验。超级助理不仅是您的信息获取助手，更是您的创意伙伴。它能够基于您的需求生成专业、富有创意的文案，让创作变得轻而易举，提供更加智能、高效的工作和生活方式。除此之外，超级助理也支持插件工具的调用进行任务处理，体验前所未有的便捷和效率
-37. [钉钉·个人版 - 探索未来的工作方式](https://workspace.dingtalk.com/welcome) - 每个人的数字生产力工具，让智能化变革普惠每一个个体
-38. [Trip Planner AI: Smart Travel Guide | WanderBoat.ai](https://wanderboat.ai/) - Plan your trips effortlessly with WanderBoat.ai. Our AI-powered travel planner helps with itinerary creation, trip planning, accommodation, travel tips, and more. Perfect for every adventure.
-39. [孟子 GPT 大语言模型 | 澜舟科技-业界领先的认知智能公司](https://www.langboat.com/portal/mengzi-gpt) - 致力于以NLP技术为基础，为全球企业提供新一代认知智能平台
-40. [Luca](https://luca-beta.modelbest.cn/) - 
-41. [元象大模型 XChat](https://chat.xverse.cn/home/index.html) - 元象通用大模型，自研高性能，从零训练，国内领先，可大幅降低开发门槛与推理成本，满足不同复杂度的多任务需求。
-42. [魔搭社区](https://www.modelscope.cn/studios/damo/ModelScopeGPT) - 汇聚各领域最先进的机器学习模型，提供模型探索体验、推理、训练、部署和应用的一站式服务。
-43. [TigerBot](https://tigerbot.com/) - TigerBot是一个多语言多任务的大规模语言模型（LLM）。TigerBot致力于开源，目前已经开源的成果包括模型（TigerBot-7B,TigerBot-7B-base,TigerBot-180B）、基本训练和推理代码、数据、API、领域数据等。另外TigerBot还致力于不同类型的插件研发，目前已经推出的代表性的插件有“TigetBot Search”。随着不断的研发，TigerBot还会为人们带来更多的便利与科技体验。
-44. [Stable Chat](https://research.stability.ai/chat) - Stability AI 最新推出的免费聊天对话网站
-45. [MOSS](https://moss.fastnlp.top/) - 复旦大学团队开发的对话式大型语言模型
-46. [商量 - AI生活小帮手](https://chat.sensetime.com/wb/) - 商量（SenseChat）是你的AI 商量Sensechat是你的AI聊天问答助手，擅长总结财经资讯、解读政策、分析财报，也可以辅助文案创作、生成图片、编写代码，或畅聊你感兴趣的话题。
-47. [360智脑 — 以人为本，安全可信](https://ai.360.com/) - 360智脑 — 以人为本，安全可信
+## 排行榜 AI TOP 1000
 
-## AI 写作
-1. [火山写作](http://dis.haodxi.cn/dbff/dbaiboa2.html) - 字节推出的免费AI写作助手（已合并至豆包）
-2. [笔灵AI·小说 - AI小说生成器、小说素材库、教你如何写小说](https://ibiling.cn/novel-workbench/) - 在笔灵AI小说，我们为您提供强大的AI写小说工具和智能AI小说生成器，帮助您轻松掌握如何写小说的技巧，并提供丰富的小说素材，助您创作出色的故事。
-3. [墨狐AI](https://inkfox-ai.com/) - 短篇小说AI写作助手，专为网文小说作者设计
-4. [绘蛙](https://www.ihuiwa.com/workspace/ai-text/article-rewrite) - 绘蛙-是阿里巴巴旗下一款功能强大，简洁好用的智能图片、文案创作平台，并且拥有海量虚拟模特可选择。在绘蛙，你可训练自己的商品模型和模特模型，可通过AI生成商拍图和种草文案，可以创作小红书图片,电商商品主图,跨境电商主图,小红书种草文案,穿搭文案，视频口播文案，可在线一键美图,输入口令修改图片内容,一键换装,一键去水印,一键智能消除，一键换脸，一键高清修复图片。
-5. [稿易 - AI论文写作指导平台](https://gaoyiai.com/) - 稿易是AI原创论文写作平台，10分钟产出3万字，提供真实网络数据、图、表、公式、代码，不限次2000字3级大纲，附带ppt、开题报告、任务书、40篇真实参考文献。
-6. [AIPaperPass - AI论文写作指导平台](https://www.aipaperpass.com/) - AIPaperPass是AI原创论文写作平台，10分钟产出3万字，提供真实网络数据、图、表、公式、代码，不限次2000字3级大纲，附带ppt、开题报告、任务书、40篇真实参考文献。
-7. [66论文AI写作](https://www.66paper.cn/) - 高质量、低查重、低AIGC率的AI论文写作工具
-8. [创一AI - 专业AI内容脚本创作工具 | 提升脚本写作效率](https://www.creatifyone.com/) - 创一AI,领先的脚本创作工具,服务高质量短视频创作者,一键分析视频,AI优化主题,一键生成脚本,创作AI播客
-9. [松果AI写作 - 专业的AI写作工具，免费批量文章生成 ｜ 官网](https://songguoai.com/) - 松果AI是专为写作设计的智能工具，帮助用户快速生成高质量的文本内容。该免费AI写作工具支持批量文章生成，无论是文章、报告还是创意文案，都能提供个性化写作辅助，提升写作效率。
-10. [深言达意 – 找词找句](https://www.shenyandayi.com/) - 深言达意是一款写作辅助工具，核心功能包括据意查词、据意查句。根据模糊的描述，找到贴切的词语和名言佳句，支持汉英双语。深言达意基于最先进的人工智能算法实现，由深言科技出品。
-11. [橙篇AI - 用橙篇，就成了](https://cp.baidu.com/) - 百度推出的AI长文理解和内容创作工具
-12. [小鱼AI写作](https://www.xiaoyuxiezuo.com/) - 一站式AI写作平台，一键生成高质量原创内容
-13. [光速写作-广州博美出品/AI助力全流程让写作更轻松/智能写作软件，提供全文生成，大纲生成、文章改写、续写、扩写，AI问答](https://www.guangsuxie.com/static/college-write-web/home) - 光速写作转为大学生及职场（公务）人士提供的全新智能写作软件。提供全文生成，大纲生成、文章改写、续写、扩写，AI问答，以及在各类根据您输入需求自动生成您需要的文本等AI功能。
-14. [讯飞写作-智能AI写作助手-在线AI写作软件](https://huixie.iflyrec.com/list) - 讯飞写作是基于科大讯飞星火大模型的一款AI智能写作助手，提供会议纪要、公文写作、工作总结、心得体会、新闻稿、面试自我介绍、朋友圈文案、改写润色、论文摘要等AI智能写作功能
-15. [FlowUs息流官网-新一代知识管理与协同平台,在线文档笔记知识库,项目管理协作](https://flowus.cn/ai) - FlowUs息流新一代知识管理与协作平台，以云端笔记为载体， 为个人和团队提供在线协作文档、多维表、流程图、网盘等多形态功能。产品覆盖移动及PC端全生态链条，依托FlowUs息流，团队和个人用户能够实现项目管理、知识库、网盘、内部工作流等一站式解决方案。
-16. [AI写作 - AI在线写作软件 - 迅捷AI写作在线](https://www.aichat1234.com/app/) - 迅捷AI写作是一款简单高效的AI在线写作软件,支持标准的文档操作功能,用户可以借助AI智能写作工具快速生成内容大纲或者完整文本内容,畅享高效写作体验.
-17. [讯飞绘文_一站式AIGC内容运营平台](https://turbodesk.xfyun.cn/) - 讯飞绘文，集AI写作，选题，配图，排版，润色，发布等功能为一体的智能创作平台。通用稿件30分钟生成，深度稿件效率翻番。应用于企业公众号，头条，新闻、等场景。释放创意，让内容创作更轻松！
-18. [万能小in - 我的AI外脑](https://xiaoin.cn/home/index) - 万能小in是一款AI知识助手应用，在行业内首创了基于个人知识库的文档学习、检索提问、长文写作、资讯导读等产品服务，致力于让每个人拥有自己的AI 外脑。不止是工具,更是AI学习伙伴!
-19. [彩云小梦](https://if.caiyunai.com/) - AI续写 · 平行世界
-20. [MidReal - Free AI Story Generator](https://midreal.ai/) - Create captivating novels and stories easily with ONE sentence. No prompt, unlimited memory, infinite length. Read others&#x27; stories for inspiration!
-21. [Just a moment...](https://try.quillbot.com/6eqrqpoysmlh) - AI英/德语写作润色和改进工具
-22. [库宝AI工作助手](https://588tool.com/) - 千库网推出的多功能AI创作工具
-23. [茅茅虫AI论文写作助手-免费AIGC论文查重_写毕业论文降重](https://mymmc.cn/) - 茅茅虫论文写作助手5分钟快速论文灵感，结合您的专业背景，从超五亿篇文献中搜索相关文献知识投喂MMC模型，精准校正生成内容，同时我们提供论文智能续写，实时论文查重，实时纠错，实时论文降重，一键引用，赋能高效写作，沉浸式享受。
-24. [Grammarly: Free AI Writing Assistance](https://www.grammarly.com/) - Grammarly makes AI writing convenient. Work smarter with personalized AI guidance and text generation on any app or website.
-25. [文状元](https://www.wenzhuangyuan.cn/workspace/writing-store) - AI公文写作助手，提供大量范文库
-26. [晓语台-先进的点击式文本创作平台！](https://www.xiaoyutai.com/) - 晓语台，是一款基于大语言模型、混合大模型和AIGC技术研发的智能创作平台。创作能力主要围绕营销文本的AI创作，覆盖了行业、平台、职业等不同场景500余款创作主题，旨在助力企业与自媒体人便捷高效的获取内容创作灵感和营销物料。
-27. [DeepL Write: AI-powered writing companion](https://www.deepl.com/write) - DeepL Write is a tool that helps you perfect your writing. Write clearly, precisely, with ease, and without errors. Try for free now!
-28. [有道翻译AI写作 - 论文、邮件、文案一键生成](https://fanyi.youdao.com/aiwrite) - 论文、邮件、文案、公文通知等内容一键生成；润色、扩写、去重等功能助力内容质量提升；英文内容智能纠错，助力高效创作
-29. [AI 智能写作助手 - 免费在线写作工具 | Wordvice AI](https://wordvice.ai/cn) - Wordvice AI 智能写作网站，具备免费语法检查和改写润色等多种辅助写作功能，起草学术论文、留学申请、商业文件时活用 AI 写作工具，提高效率和品质。
-30. [AI新媒体文章](https://vt.quark.cn/blm/creator-773/index) - 夸克推出的AI写作工具
-31. [魔音工坊--达人热推的短视频/有声书AI配音平台](https://www.moyin.com/) - 魔音工坊是一款可以在线将文字转成语音的智能配音产品。提供不同性别、不同口音的真人声音，在你输入文字后直接配音。你可快速对短视频等需要配音的内容进行配音。是一款功能强大AI语音合成神器。
-32. [宙语Cosmos_智能AI创作助手在线使用](https://ailjyk.com/pc/creation/model) - 宙语Cosmos是原创营销文案写作神器,通过强大的自然语言处理能力,通过输入关键词,快速生成原创的软文,可以发布在各个媒体和自媒体平台,大幅提高创作效率
-33. [Lingo灵构笔记-融合笔记、AI创作和知识管理的团队协作平台](https://88lingo.com/ai) - Lingo灵构笔记融合AI创作和知识管理的团队协作平台，以云端笔记为载体， 为个人和团队提供在线协作文档、多维表、流程图、网盘等多形态功能
-34. [有道写作](https://write.youdao.com/) - 网易有道出品的智能英文写作修改和润色工具
-35. [LittleFrog.ai | Your Intelligent Writing Partner](https://littlefrog.ai/) - Advanced AI writing assistance with multiple language models, voice integration, and creative tools.
-36. [【官网】文思助手 | 体验强大的AI写作助手_智能写作_公文写作_AI搜索_AI对话](https://wensi.sodabot.cn/) - 文思助手 - 专业的AI写作平台，用户可以上传文件创建可靠内容,避免幻觉。基于检索增强生成技术，用户可以上传自己的业务文档并与各种内外部数据源对接，进行基于自有业务知识的智能写作，从而确保生成的内容准确、可靠、专业。在1分钟内创建专业内容、一键生成调研报告、汇报材料、述职报告等专业长文。智能续写、润色、校正、快速丰富文章内容、拓展内涵、提高文章质量。
-37. [WriteWise](https://www.ximalaya.com/gatekeeper/write-wise-web) - WriteWise AI作家助手，AI写小说，一款专业的小说创作工具，小说创作的全流程帮你赋能与提效，他是专业的、懂你的、最新的AI智能作家助手
-38. [百度作家平台-一站式AI小说创作与投稿平台](https://zuojia.baidu.com/) - 百度作家平台，一站式AI小说创作与投稿平台，专业的AI网文写作助手，提供AI续写，AI润色，AI扩写，AI智能连载，AI一键成文服务，生成高质量原创内容。AI写作神器，AI作家助手，解决写小说的开书、卡文难题，作家可以在平台创作、投稿并管理作品，查看作品收益。
-39. [爱创作 - AI写作](https://ai.zaker.cn/) - 
-40. [Verse - 新一代生产力工具](https://verse.app.yinxiang.com/product/) - 灵感自动产生|文章一键生成|创作领先一步,新一代免费的AI生产力工具,多种场景内容智能生成,会议纪要,公文假条,小说作文,日报,新闻稿,广告创作等等高效产出
-41. [万彩AI - AI智能写作生成神器,AI数字人制作,AI短视频制作](https://ai.kezhan365.com/inviteCode/FwJFxy) - 万彩AI是一款强大的AI内容创作工具合集，除了提供AI智能写作支持之外，还集成了AI换脸、AI数字人制作和AI短视频制作等强大的AI生成内容功能，进一步扩展了AI的创作领域，使您的创作具有无限可能
-42. [WritingPal](https://writingpal.ai/) - 面向留学生的AI英文写作工具
-43. [NovelAI - AI Anime Image Generator &amp; Storyteller](https://novelai.net/) - NovelAI is the #1 AI image generator tool for generating AI anime art and crafting epic stories with our storytelling models. Unleash your creativity, generate anime images and stories, with no restrictions!
-44. [奇妙文](https://wen.mobvoi.com/) - 出门问问推出的AI写作助理
-45. [蛙蛙写作——超级AI智能写作助手](https://www.wawawriter.com/) - 蛙蛙写作是一款智能AI写作工具，提供公众号写作,工作报告,学术论文,ppt,演讲稿,简历润色,活动策划,旅游攻略,好物种草,短视频脚本创作,AI智能续写扩写等服务。为专业小说作者、自媒体运营者等内容生产者，帮助提升写作速度、优化创作模式、突破内容生产力瓶颈。
-46. [悉语](https://chuangyi.taobao.com/pages/aiCopy) - 阿里旗下智能文案工具，一键生成电商营销文案
-47. [Effidit](https://effidit.qq.com/) - Effidit is a writing assistant developed by Tencent AI Lab for exploring the use of AI technologies to improve writing efficiency and creative experience.
-48. [火龙果—轻松写作](https://www.mypitaya.com/) - 通过校对、改写、扩展等功能实现高质量内容的快速生产。
-49. [树熊AI写作，在线智能完成各种办公文档写作](https://ai.koalaoffice.com/ai/homePage) - 树熊AI写作是一款卓越的在线智能工具，专注于快速、高效地完成办公文档写作任务。其强大的算法和智能化技术使用户能够轻松创建各种文档，提供了全面而可靠的写作支持，为工作和学习提供了便捷而智能的解决方案
-50. [爱改写 - AI在线人工智能文字生产力工具](https://www.aigaixie.com/) - 爱改写是一款在线AI内容创作工具，帮助您通过查词、智能改写、纠错、查原创度等功能，帮助提高您的内容生产效率。让您在最短时间内创作出更多、更好的内容。
-51. [HeyFriday - 智能AI写作工具（星期五）](https://www.heyfriday.cn/home) - Friday AI智能写作平台,一键生成高质量原创内容! Friday AI-国内顶尖算法模型,AI自动生成原创文章,60+丰富写作模板,十大写作场景全覆盖,支持改写,续写,扩写,搜索引擎优化,全场景媒体运营神器!
-52. [易撰自媒体工具](https://www.yizhuan5.com/work.html) - 新媒体AI内容创作助手
-53. [智搜](https://www.giiso.com/) - Giiso写作机器人，内容创作AI辅助工具
-54. [创作王](https://aiapp.cc/) - AI一键帮助你创作营销内容
-55. [字符狂飙](https://vgoapp.com/) - 全方位AI文档生成工具，快速生成专业文档
-56. [XPaper Ai —论文写作辅助指导平台 【官网】](https://www.130ai.com/) - ai撰写论文、开题报告生成、AI论文生成器尽在XPaper Ai论文写作辅助指导平台
-57. [悟智AI - 悟智AI写作系统 - 悟智科技](https://www.wuz.com.cn/) - 悟智AI是一款全面的AI写作辅助工具和智能助手，涵盖多种常见写作场景。通过大模型技术的驱动，为您开启全新的写作体验。
-58. [讯飞智检-智能AI写作、文档纠错校对、文本图像合规检测平台](https://zj.xfyun.cn/exam/text) - 讯飞智检，支持对纯文本、Word、图片、音频、视频进行批量审查，实现文本校对，并有效识别涉政、违禁、色情、暴恐、辱骂、广告导流等风险内容，节省人工审核成本，提升数据安全性。
-59. [快文CopyDone_原创文案写作神器_写作机器人_AI一键智能生成](https://copyai.cn/) - 快文CopyDone是必优科技旗下AI原创营销文案写作神器,通过强大的自然语言处理能力,通过输入关键词,快速生成原创的软文,可以发布在各个媒体和自媒体平台,大幅提高创作效率
-60. [Sudowrite - Best AI Writing Partner for Fiction](https://www.sudowrite.com/) - Write your novel or screenplay faster with the best AI tool for fiction. Start for free today and see why The New Yorker calls it &quot;a salvation&quot; for writers and why NY Times, The Verge, and many more love Sudowrite.
-61. [免费 AI 研究论文撰写者 | 研究论文生成器](https://smodin.io/zh-cn/%E4%BD%9C%E5%AE%B6/%E7%A0%94%E7%A9%B6%E8%AE%BA%E6%96%87) - 在几分钟内从摘要或标题轻松生成具有 APA 来源的学术文章的研究论文。快速查找任何主题或主题的来源，以生成多个部分、讨论和介绍。
-62. [PaperBetterAI智能写作官网](http://www.ai.paperbetter.com/) - 
-63. [AI论文写作工具](https://ai.wolian.chat/openmao/) - 面向大学生的AI论文写作工具
-64. [小微智能ai论文写作](http://t2unr1.checkmore.net/tb/NY6p0S) - 小微AI论文智能生成软件，10分钟生成万字毕业论文、期刊论文、文献综述、PPT，附赠Aigc查重、降重报告、文献资料。只需一个标题，从开题报告到答辩一键生成软件，论文范文结构完整，包含摘要、目录、参考文献。
-65. [笔杆论文写作](https://write.bigan.net/) - 专业的写论文平台，为您提供内容生成、素材推荐、修改润色、论文查重、审核校对、智能降重、多语言翻译的全流程写论文工具，让写论文变得简单高效。
-66. [AI论文君](https://www.ailunwenjun.com/) - AI论文辅助写作工具，可一键生成论文选题、开题报告、论文大纲、论文全文、中期报告、答辩PPT等。
-67. [ProWritingAid: The Storyteller's Toolkit](https://prowritingaid.com/) - Your personal writing coach. A grammar checker, style editor, and writing mentor in one package. The best writing depends on much more than good grammar.
-68. [星火网文助手](http://writersdesk.net/) - 星火网文助手，一款专为网文作者设计的一站式AI创作平台，您只需要简单输入写作需求，可以是您的灵感或想法，星火网文助手便能迅速生成高质量的小说内容，让您的创作更加高效。提供多个AI辅助写作功能，包括提炼热榜、AI智能拆书、卡文灵感启发、细节描写、润色、续写、扩写等服务，免费使用，简单便捷高效
-
-## AI 图像
-1. [即梦](http://dis.csqixiang.cn/unpo/jimeng_1.html) - 抖音旗下免费AI图片创作工具
-2. [绘蛙](https://ihuiwa.paluai.com/aibot) - 绘蛙-是阿里巴巴旗下一款功能强大，简洁好用的智能图片、文案创作平台，并且拥有海量虚拟模特可选择。在绘蛙，你可训练自己的商品模型和模特模型，可通过AI生成商拍图和种草文案，可以创作小红书图片,电商商品主图,跨境电商主图,小红书种草文案,穿搭文案，视频口播文案，可在线一键美图,输入口令修改图片内容,一键换装,一键去水印,一键智能消除，一键换脸，一键高清修复图片。
-3. [Tensor.Art](https://tusiart.com/) - AI model sharing platform, online run models to generate image and traning model for free. Your can upload and download models, include Checkpoint, Embedding, ControlNet, LoRA, Pony, LoCon, LyCORIS. Also we offer some base model like Stable Diffusion 1.5, SDXL and Hunyuan-DiT to generate.
-4. [在线抠图软件_一键去除背景_ps抠图软件-美间美盒](https://www.meijian.com/mj-box/ai-pic-matting-intro) - 美间美盒在线抠图工具是一款AI智能在线抠图工具,一键自动抠图,无需ps基础,就能去除背景获得高质量透明图像,免费体验,简单快捷
-5. [阿贝智能 - 人工智能辅助创作 - AI绘本 - 睡前故事 - 有声书](https://abeiai.com/) - 阿贝智能是人工智能辅助创作儿童绘本、睡前故事和有声书的平台，也是儿童探索和学习人工智能的乐园。
-6. [Just a moment...](https://www.midjourney.com/home) - AI图像和插画生成工具
-7. [Civitai: The Home of Open-Source Generative AI](https://civitai.com/) - Explore thousands of high-quality Stable Diffusion &amp; Flux models, share your AI-generated art, and engage with a vibrant community of creators
-8. [堆友—AI设计生产力工具：零门槛AI绘画+多种电商设计神器](https://d.design/) - 堆友是Alibaba Design打造的设计师全成长周期服务平台，围绕品质、效率、技能、成就、收入五大用户价值布局平台能力，全力服务设计师，旨在成为设计师的好朋友。
-堆友历经大厂设计师团队多轮打磨雕刻，集海量高品质3D素材、实时在线渲染、多元场景功能应用、轻便好学易上手等多重优势于一身的设计神器，更自带免费可商用属性，为专业设计师、运营工友、学生小白、社交达人提供了一个零成本的在线设计站点和资源库。
-9. [通义万相_AI创意作画_AI绘画_人工智能-阿里云](https://tongyi.aliyun.com/wanxiang/) - 通义万相是阿里云通义旗下的AI创意作画平台，可提供AI艺术创作，可支持文生图、图生图、涂鸦作画、虚拟模特、个人写真等多场景的图片创作能力
-10. [图片丨灵感广场 - 画令人惊，不如令人喜，令人喜不如令人思](https://miaohua.sensetime.com/inspiration) - 会打字就会用的AI绘画神器，完美支持中文提示词，支持摄影、可爱、精致、赛博朋克、电影等超多风格，人人都可以是插画师！快速创作二次元、写实向等多种风格小姐姐！
-11. [WHEE - 高品质的AI素材生成器](https://www.whee.com/) - WHEE是一款AI绘画与图片生成器，提供一站式AI视觉创作服务。WHEE不仅会画也会修图，各种AI修图功能一应俱全。使用门槛低，用户只需用自然语言表述需求，就能轻松上手。在画廊中，用户可以欣赏并学习来自多领域创作者的精美作品，为创作提供丰富的灵感来源，进而促进二创和设计师间的交流与合作。
-12. [LiblibAI-哩布哩布AI - 中国领先的AI创作平台](https://www.liblib.art/) - AI绘画原创模型分享社区，10万+模型免费下载;原汁原味的webUI、comfyUI，在线AI绘图工具免费使用;还可在线进行模型训练。欢迎每一位创作者加入，共同探索AI绘画
-13. [美图设计室-智能生成海报-一键生成-免费设计平面设计编辑软件-免费模板图文素材](https://design.meitu.com/aigc/text-to-image) - 美图设计室是美图秀秀旗下的智能设计在线协作平台，是一款平面设计工具和在线平面设计软件,提供海量海报模板,跨境电商模板,跨境电商banner,跨境电商主图,邀请函,公告通知,喜报,logo等免费设计素材和模板,可在线智能生成海报,一键换色,一键换装,一键去水印,图片高清修复,无损放大,抠图,拼图。
-14. [奇域](https://www.qiyuai.net/) - 奇域,探索新中式美学的AI绘画社区。利用人工智能生成精美的画作,展现东方美学的魅力。无论是艺术爱好者还是专业艺术设计师,都可以在奇域找到灵感。加入奇域,一起探索现代科技与中式审美的完美结合。
-15. [KLING AI](https://klingai.kuaishou.com/) - KLING AI, tools for creating imaginative images and videos, based on state-of-art generative AI methods.
-16. [在线修改图片大小尺寸；免费抠图照片处理工具 - AI设计师](https://img.logosc.cn/) - 万能图片在线编辑器；AI,EPS,PSD,SVG全格式支持。一键修改照片颜色大小尺寸，自定义尺寸图片裁剪，智能抠图添加水印文字...
-17. [KREA](https://www.krea.ai/) - AI creative tooling.
-18. [AI 照片编辑器：去除背景，创建产品图片 | Photoroom](https://www.photoroom.com/zh) - 在手机上使用我们的 AI 照片编辑工具就能创建产品和肖像图片。去除背景，更改背景，展示产品。
-19. [Ribbet.ai | AI photo editing made free and simple](https://ribbet.ai/) - Simple, free, AI photo editing
-20. [万相营造](https://agi.taobao.com/) - 万相营造，原名万相实验室，是阿里妈妈旗下专注商业经营领域的AI创意生产工具，基于生成式AI智能技术进行创新孵化的实验专项，致力于围绕商业经营探索新应用、新能力、新工具，为商业经营提供更智能、更高效、更降本、更具创造性的服务。提供智慧营销、增强分析，创意生产等系列能力建设。“万相融绘”是AI智能创意生成工具，为品牌推广、运营、设计提供多维丰富的商品创意生成的服务。尝试提供商品数字分身训练、高保真品牌还原、创造性融合背景、模特拿商品等商品创意生成能力，并提供自定义模特、场景风格的AI快速换装服务。未来将逐步研发品牌风格定制、套图生成、微动效等能力。
-21. [悟空图像-专业图像处理-亦心科技官网](https://www.photosir.com/) - 悟空图像是一款专业的图像处理软件，支持十亿像素图片处理，拥有强大的图片处理功能矩阵同时兼容PSD格式。可在Windows、macOS、Linux、麒麟、统信、方德等多系统完美运行，致力打造拥有完整自主知识产权的中国版Photoshop。
-22. [【360智图】AI图片创作平台_智能生成背景_一键生成_免费模板图文素材_体验智能化内容生成](https://chacha.so.com/home) - 360智图是一个专业的图片版权查询平台，基于360搜索算法和图像AI识别能力，为广大运营、市场、广告、设计师等需要用到配图或者进行设计的用户服务。版权图片数量多，且质量优。平台具有图片版权一键查询、版权图片搜索、相似版权图片推荐、免费版权图供给等服务。
-23. [像素蛋糕PixCake - 像素级AI精修软件](https://www.pixcakeai.com/) - 像素蛋糕是一款简单易用的AI修图工具，只需要拖入图片，即可实现一键智能Raw转档调色，一键磨皮全身液化，轻松实现“一秒初修，三秒精修”的批量修图操作
-24. [remove.bg](https://www.remove.bg/zh) - 强大的AI图片背景移除工具
-25. [如果相机](https://ifshot.com/) - 探索人生的 10000 种可能
-26. [ARC官网-腾讯](https://arc.tencent.com/zh/ai-demos/) - 腾讯旗下ARC实验室推出的免费AI图片处理工具
-27. [Cutout.Pro - AI Photo Editing | Visual Content Generation Platform, best for image and video design](https://www.cutout.pro/) - All-in-one visual design platform containing AI photo and video editing tools. Automatic process for background remove, image restoration, graphic design, and content generation. With Cutout.Pro, it is one click away to optimize your content and transform your design ideas into special asset effectively.
-28. [Magic Studio：利用 AI 制作精美图像](https://magicstudio.com/zh) - 借助 Magic Studio，任何人都可以使用 AI 创建图像、添加和删除对象、背景等。 为产品页面、广告和社交媒体制作精美的图像。
-29. [Booltool](https://booltool.boolv.tech/home) - 在线AI图像工具箱
-30. [Face Swapper - Free Face Swap And Reface Online](https://faceswapper.ai/) - Face Swap is an online tool that allows you to swap faces in photos. Upload your images and swap faces with ease. Try Face Swap now!
-31. [Create stunning visuals in seconds with AI.](https://clipdrop.co/) - Remove background, cleanup pictures, upscaling, Stable diffusion and more…
-32. [Vmake AI - All-in-One Talking Head Video Solution](https://vmake.ai/) - Vmake is a video editor designed for talking head videos, making it easier to generate creative video editing ideas.
-33. [Free AI Face Swap Online: Instantly Swap Faces in Photos &amp; Videos](https://www.deepswapper.com/) - Swap faces in photos and videos with our free AI-powered face swap tool. Enjoy seamless and realistic face swaps online with Deep Swapper. Try it now!
-34. [Kacha - AI写真、头像与照片风格化应用](https://www.kacha.ai/zh) - Kacha是一款领先的AI照片应用，提供AI写真生成器、AI照片风格化和AI自拍写真功能。使用我们的AI照片编辑和AI照片增强工具，让您的照片焕然一新。轻松创建独特的AI头像和惊艳的写真。立即体验Kacha，享受终极照片转换体验！
-35. [PicTech AI &#8211; 免费在线图片翻译 &#8211; 学以致用，科技改变世界](https://www.pictech.cc/) - 免费的在线图片翻译工具，支持一键抠图
-36. [猫目 - 探索AIGC无限可能](https://maomu.com/) - AI绘画模型社区和内容创作平台，支持文生图、文生视频
-37. [Pic Copilot](https://www.piccopilot.com/create/) - 阿里国际推出的AI电商营销工具
-38. [触手AI](https://acgnai.art/) - 支持文字生成AI图；支持图生图；可controlnet条件生图，上传特征参考图和特征，依照特征进行创作；支持inpainting的神奇涂抹，可局部修改，支持自训练AI绘画模型；支持在基础风格模型上，使用叠加AI绘图模型；支持在模型广场收藏各类画风、IP、场景、人物、设计类模型。
-39. [文心一格 - AI艺术和创意辅助平台](https://yige.baidu.com/) - 文心一格，AI艺术和创意辅助平台，依托飞桨、文心大模型的技术创新推出的“AI作画”产品，可轻松驾驭多种风格，人人皆可“一语成画”
-40. [造梦日记 - AI一下，妙笔生画](https://zmrj.art/) - 造梦日记，原名盗梦师，是西湖心辰联合西湖大学研发的一款AI绘画工具，覆盖多模态模型训练和图像生成，包括二次元头像生成、图片设计等，可应用于绘画、动漫游戏、运营策划和电商等领域，人人都可实现自己的创作梦。
-41. [超能画布首页](https://photo.baidu.com/photasy/home) - 超能画布是百度网盘荣誉出品的专注人像摄影的AI创意生成工具，致力于让每个人的图像创意都成真，是摄影师的降本增效神器
-42. [免費 AI 影像產生器 - Bing 中的影像建立工具](https://www.bing.com/images/create) - 免費的 AI 支援 Bing 影像建立工具能在幾秒鐘內將您的文字轉換為驚人的視覺效果。透過 DALL-E 快速且輕鬆地生成影像。
-43. [简单AI-AI绘图，AI文案写作，在线图片编辑，设计素材库，AI分享社区](https://ai.sohu.com/search) - AI时代必备的全能AI工具，为用户提供全方位AI服务，如AI绘图、AI写作、AI在线图片处理。提供海量图片制作设计模板：电商图，logo设计，证件照，智能抠图，图片高清修复，一键去水印，一键换背景等各种应用场景。新手小白也能轻松玩转AI。
-44. [PixWeaver - 释放无限想象](https://pw.shengshu-ai.com/) - PixWeaver - 释放无限想象
-45. [摩笔马良](https://maliang.mthreads.com/) - 摩尔线程推出的AI图像绘画创作平台
-46. [exactly.ai | bespoke ai models, built for your brand](https://exactly.ai/) - Advanced AI artwork creation platform for artists that understands your style, creates inspiring images and streamlines your creative process
-47. [画宇宙](https://creator.nolibox.com/) - 人工智能AI作画网站
-48. [6pen Art](https://6pen.art/) - 面包多团队推出的从文本描述生成绘画艺术作品
-49. [AI图文创作平台_AI图片编辑工具集__创客贴AI](https://aiart.chuangkit.com/landingpage) - 创客贴智能设计在线协作平台，是一款平面设计工具和在线平面设计软件,提供海量海报模板,新媒体配图,电商模板,主图模板,邀请函,公告通知,喜报,logo等免费设计素材和模板,创客贴AI工具箱提供在线智能生成海报,一键抠图,一键消除,一键去水印,图片高清修复,无损放大，智能拼图等众多智能AI工具。
-50. [360智绘](https://aigc.360.com/) - 360推出的AI图片和绘画生成工具
-51. [AI设计工坊 - 网易云课堂](https://ke.study.163.com/artWorks/painting) - 网易云课堂AI设计工坊，是面向AI绘画设计师的一站式学习、创作、分享、接单平台。这里有：便捷的云端Stable Diffusion工具，免安装部署、笔记本/MAC/平板都可轻松生图；多个专业设计领域的Checkpoint和LoRA风格模型，免下载、一键使用；在线模型训练工具，定制专属人物/风格/IP；以及持续更新的丰富插件。另外，你还可以在这里学习AI设计专业课程，深入掌握AI绘画技能；在社区分享交流AI绘画作品和设计作品集、与同学们一起进步提升；发现兼职接单机会，实现技能变现。
-52. [Access Denied](https://www.freepik.com/ai/image-generator) - Freepik最新推出的AI图片生成工具
-53. [Stable Doodle](https://clipdrop.co/stable-doodle) - StabilityAI最新推出的将手绘草图转换成精美图像的工具
-54. [175FUN](https://175.fun/) - 免费AI绘画社区，国货之光
-55. [行者AI赋能智慧文娱及教育新生态](https://xingzheai.cn/) - 我们秉承以先进的AI技术促进教育、文娱数字化转型的创新示范，自主研发有AI音乐、AI美术、AI智能体、AI安全等产品
-56. [Skybox AI](https://skybox.blockadelabs.com/) - Skybox AI: One-click 360° image generator from Blockade Labs
-57. [千鹿AI：AI生图设计工具，每日免费300张](https://qianlu.cc/) - 千鹿AI提供AI生图,AI抠图,AI扩图,AI模特,AI商品图,模型训练等图像处理功能。每日免费生成300张图,服务跨境电商主图、AI商拍、素材管理、小红书种草文案等场景,实现一键换装,一键去水印,一键消除,一键高清修复。
-58. [包图网_专注原创商用设计图片下载，免费设计素材模板独家图库](https://ibaotu.com/) - 包图网汇集了各种流行趋势，视觉冲击力强的原创广告图片设计、电商淘宝、企业办公模板素材，由顶尖的设计师供稿，符合各个行业的商用需求，下载高品质正版素材就到包图网。
-59. [Midjourney中国实验室(悠船)-专业AI创意智能工具](https://www.youchuan.cn/) - 使用悠船稳定高效地辅助完成艺术创作,为艺术创作的流程和完整度锦上添花.同时也针对企业用户提供了丰富的团队协同功能。
-60. [Welcome to nginx!](https://sky-paint.singularity-ai.com/index.html) - 免费的AI插画绘制工具，由昆仑万维与奇点智源合作推出
-61. [一键背景去除工具 | 美图抠图](https://cutout.designkit.com/) - Meitu Cutout为您提供免费的图片背景去除工具。只需几步简单操作，您就可以去除图片背景并获得高质量的透明图像。立即体验我们强大的在线编辑功能。
-62. [鲜艺AI抠图-不收费不联网的AI抠图工具](https://kt.94xy.com/) - 鲜艺AI抠图，免费的AI抠图工具，鲜艺抠图,ai。
-63. [Remove Background from Image, Free, No Signup - Pixian.AI](https://pixian.ai/) - Image background removal without annoying subscriptions. Great quality at an unbeatable price.
-64. [堆友—AI设计生产力工具：零门槛AI绘画+多种电商设计神器](https://d.design/toolbox/cutout) - 堆友是Alibaba Design打造的设计师全成长周期服务平台，围绕品质、效率、技能、成就、收入五大用户价值布局平台能力，全力服务设计师，旨在成为设计师的好朋友。
-堆友历经大厂设计师团队多轮打磨雕刻，集海量高品质3D素材、实时在线渲染、多元场景功能应用、轻便好学易上手等多重优势于一身的设计神器，更自带免费可商用属性，为专业设计师、运营工友、学生小白、社交达人提供了一个零成本的在线设计站点和资源库。
-65. [AI Background Remover – Remove Background From Image](https://icons8.com/bgremover) - Erase image backgrounds and make a transparent background, using AI. Remove backgrounds from any photo online for free
-66. [消除或者替换图像背景，无需上传图像 - BgSub](https://bgsub.cn/) - 在5秒内消除或者替换图像背景，智能调整颜色，所有操作都在浏览器完成，无需上传图像 - BgSub
-67. [Clipdrop - Remove background](https://clipdrop.co/remove-background) - Remove your image background in a click
-68. [免費去背景軟體：在线抠图软件_图片去除背景 - Erase.bg](https://www.erase.bg/zh) - 让背景对人类、动物或物体的图像透明。免费下载高分辨率的图像，用于电子商务和个人使用。不需要信用卡。
-69. [千图设计室|全能AI设计助手|在线AI抠图_AI绘画_AI聊天_免费证件照](https://hisheai.com/) - 千图设计室全能AI设计助手是千图网旗下的AI智能设计在线编辑平台，提供一键抠图,批量AI换背景,AI绘画,AI聊天,消除笔,AI证件照制作,艺术字logo生成,老照片修复等功能,一键稿定设计,更有AI生成美图,助力设计师释放无限创意。
-70. [Free Image Background Remover | Adobe Express](https://www.adobe.com/express/feature/image/remove-background) - Remove the background from images online with our free background eraser. Download your clear background image and change the photo background in seconds.
-71. [Image Background Remover | Remove BG from Image for Free](https://removal.ai/) - Remove BG from your images with AI. Our background remover tool can process your images FAST &amp; FREE--no signup required. Upload an image now!
-72. [几秒钟内移除背景 | Magic Studio 的背景移除器](https://magicstudio.com/zh/backgrounderaser) - 使用 AI 自动移除产品、肖像、时装、汽车、宠物和其他对象照片上的背景。在下载结果前，可添加白色、黑色或彩色背景。
-73. [Remove background from image for free - slazzer.com](https://www.slazzer.com/) - Remove background from image automatically in 5 seconds. Don't waste time manually selecting pixels. Just upload photo & get instant cutout.
-74. [免费批量图像背景去除器 - 从在线图像中去除背景 | Cutout.pro](https://www.cutout.pro/zh-cn/remove-background) - Remove background from images automatically for free. Remove background in bulk online for pictures of various categories with our free background eraser: people, vegetation, animals, sky, objects, cars, vehicles, graphics, icons, symbols. Change photo background color and make background transparent easily.
-75. [BGremover Background Remover | AI Remove Background From Image Free Online](https://bgremover.vanceai.com/) - Remove background from image for free online with ONE click. Background Remover is an AI background remover that helps automatically remove background from photo. Remove BG now!
-76. [Picsart](https://tools.picsart.com/image/background-remover/) - Picsart website
-77. [Zyro Website Builder Joins Forces With Hostinger](https://zyro.com/tools/image-background-remover) - In a significant move to enhance and expand our web hosting services, we are excited to announce that Zyro and Hostinger are joining forces.
-78. [Remove Background from Image | Free Background Remover](https://photoscissors.com/) - Automatically remove background and replace it with a transparent, solid color or background image with just a few clicks!
-79. [一键抠图-在线一键抠图换背景,专业的快速抠图软件](https://www.yijiankoutu.com/) - 一键抠图网站为用户提供AI智能在线一键抠图换背景服务,还支持物品抠图、人像抠图、证件照换背景、老照片修复等多种图片编辑功能,是一款专为用户提供智能抠图服务的在线抠图软件.
-80. [Clipping Magic: Remove Background From Image](https://clippingmagic.com/) - Remove background from image 100% automatically — Smart Clip Editor — Crop, rotate, fix colors, add shadows &amp; reflections — for Free
-81. [图可丽抠图-视频剪辑-ps抠图-在线图片编辑软件-最美证件照-照片动漫-图可丽一键抠图](https://www.tukeli.net/) - AI图片和视频抠图，一键抠图神器
-82. [Hotpot AI Background Remover](https://hotpot.ai/remove-background) - Hotpot.ai推出的图片背景移除工具
-83. [Stylized](https://www.stylized.ai/) - AI产品图背景替换
-84. [Booth.ai](https://www.booth.ai/) - 高质量AI产品展示效果图生成
-85. [Pixelcut | Free AI Photo Editor](https://www.pixelcut.ai/) - Easy-to-use AI tools to make your photos stand out!
-86. [PicWish AI Photo Editor | Free Online Photo Editing Tools](https://picwish.com/) - PicWish brings easy photo editing for you. Free to use! Use PicWish AI photo editor to remove background, unblur image, and do more image editing.
-87. [GoProd for Mac – Remove Backgrounds and Upscale Images](https://icons8.com/goprod) - Upscale low quality images, remove backgrounds and get your images prepared for posting with GoProd. GoProd is a free AI-powered desktop app for MacOS.
-88. [AI无损放大_图像升级器一键提升画面清晰度-美间美盒](https://www.meijian.com/mj-box/ai-pic-zoom-intro) - 美间美盒无损放大工具是基于AI算法快速提升图片画面清晰工具,一键提升画质,画质增强,呈现真实细节,免费体验,简单快捷
-89. [无损改尺寸 - 免费修改图片尺寸 - 美图设计室](https://www.designkit.com/upscale/) - 在线尽享高清图片放大神器，专业技术有效保留细节，摒除模糊与像素化困扰。极简操作，一键搞定图片尺寸调整，快速处理让您省时省心。免费试用，为您的作品锦上添花！
-90. [Upscayl - AI Image Upscaler](https://www.upscayl.org/) - Upscayl - AI Image Upscaler
-91. [Bigjpg - AI Super-Resolution lossless image enlarging / upscaling tool using Deep Convolutional Neural Networks](https://bigjpg.com/) - Bigjpg - Image Super-Resolution for Anime-style artworks using the Deep Convolutional Neural Networks without quality loss. Photos are also supported.
-92. [Mejorar Calidad de Imagen y Fotos Online Gratis con IA](https://mejorarimagen.org/) - Potente mejorador de imágenes con IA que permite mejorar la resolución hasta 10x. La mejor herramienta para mejorar la calidad de imagen y fotos.
-93. [Magnific AI — The magic image Upscaler & Enhancer](https://magnific.ai/) - The most advanced AI upscaler & enhancer. Magnific can reimagine as many details in your image or photo as you wish, guided by your prompt and parameters!
-94. [LetsEnhance: Image quality AI - make photos HD/4k &amp; more online](https://letsenhance.io/) - AI to enhance, upscale and generate pictures. Increase resolution and quality. Fix blurry, pixelated, low res images. Make every photo sharp and clear. Start for free.
-95. [AI Image Upscaler: Upscale Images &amp; Photos Online](https://icons8.com/upscaler) - AI Image Upscaler to upscale images and photos with AI online. Enhance image quality and resolution up to 8x in batch or access the scaling API.
-96. [Clipdrop - Image upscaler](https://clipdrop.co/image-upscaler) - Upscale your images in one click
-97. [Just a moment...](https://imgupscaler.com/) - 免费的AI图片放大工具
-98. [AI Image Upscaler - Upscale Photo Quality Online](https://www.fotor.com/image-upscaler/) - Upscale images online in seconds with Fotor’s free AI image upscaler. Increase image resolution and enhance quality automatically. Try AI upscaling now!
-99. [Zyro Website Builder Joins Forces With Hostinger](https://zyro.com/tools/image-upscaler) - In a significant move to enhance and expand our web hosting services, we are excited to announce that Zyro and Hostinger are joining forces.
-100. [AI Image Upscaler - Upscale Image to 4K Online Free](https://www.media.io/image-upscaler.html) - Enhance and enlarge your photos with our AI Image Upscaler. Boost image size up to 8x with stunning 4K quality, using our easy drag-and-drop tool.
-101. [AI图像高档 - 免费放大和增强您的照片](https://www.upscale.media/zh) - 使用我们的AI工具，无损纹理和细节，将您的图像放大至2倍或4倍。通过我们的超分辨率工具，让您的图片焕发新生。立即体验提升图片清晰度、增强画质的效果，获得高清、细腻的图像。。
-102. [AI Image Upscaler | Upscale & enhance photos](https://ai.nero.com/image-upscaler) - Free online Image Upscaler to upscale and enlarge low-resolution images & photos with one click by 400%. Enhance jpg/png/jpeg/webp/bmp in seconds.
-103. [VanceAI Image Resizer | Resize Image Online](https://vanceai.com/image-resizer/) - VanceAI Image Resizer allows you to resize image online in seconds. Try best photo resizer to resize image for free in one click.
-104. [Free Online AI Image Enlarger](https://photoaid.com/en/tools/ai-image-enlarger) - PhotoAid出品的免费在线人工智能图片放大工具
-105. [Upscalepics](https://upscalepics.com/) - 在线图片放大工具
-106. [将图像尺寸增大至 4K | Magic Studio 的图像升频器](https://magicstudio.com/zh/enlarger) - 调整图像大小，最高可达 4K 分辨率，且不会降低质量。通过 AI 放大图像，保留完整的细节和清晰度，不会出现任何像素化现象。
-107. [Pixelhunter — 🧠 AI-powered image resizer for social media](https://pixelhunter.io/) - 🧠 AI-powered image resizer for social media
-108. [Joseph Simon Reisinger — joer.ai](https://facet.ai/) - I founded Facet and Premise; Ex-Google Research, UT Austin PhD. Exploring the intersection of AI and human creativity.
-109. [Clipdrop - Relight](https://clipdrop.co/relight) - Relight your photos automatically with AI
-110. [美图云修](https://yunxiu.meitu.com/) - 美图云修，云修软件，影楼软件，智能修图，AI修图，修图软件，影楼智能修图，影楼AI修图，影楼后期制作软件，影楼照片处理软件，美图影楼软件，美图智能修图，影楼后期软件，影楼修图软件，影楼修片软件，影楼调色软件，影楼制作软件，专业影楼软件，美图智能修图软件，云图修图软件，云图影楼修图软件，美图修图软件，影楼AI，影楼液化，液化软件，照片直播，一键抠图，影楼ps，影楼lr
-111. [Remini - AI Photo Enhancer](https://remini.ai/) - Remini uses innovative, state-of-the-art AI technology to transform your old photos into HD masterpieces.
-112. [人工智能老照片无损修复, 利用2025年最先进人工智能 AI 将老照片无损高清修复（支持老照片修复、老照片上色和魔法动态照片）](https://jpghd.com/zh) - jpgHD.com - 利用2025年最先进人工智能 AI 将老照片无损高清修复（支持老照片修复、老照片上色和魔法动态照片）
-113. [海南星图速云科技有限公司](https://www.aixtsy.com/) - 智能修图，影楼，工具，效率，速度，修图机器人，咻图机器人，咻图云，咻图AI机器人，达摩院修图，达摩院智能修图影楼二销，美肤，液化，转档，初修，选片，AI，人工智能，AI修图，达摩院，阿里巴巴，批量修图，影楼软件，影楼照片处理软件，咻图AI，咻图智能，影楼ps
-114. [Face Photo Restorer](https://www.restorephotos.io/) - Restore your old face photos and keep the memories alive.
-115. [AI智能画质修复,老照片修复翻新-点击进入](https://picma.magictiger.ai/zh) - PicMa基于先进深度学习技术，为低质量图片提供去雾、对比度增强、无损放大等优化处理。实现智能快速去噪和细节恢复，创造清晰自然的高清图像。适用于照片修复、图片编辑、画质提升等需求。
-116. [transpic](https://transpic.cn/) - AI图像转绘插画创作平台
-117. [在线为黑白照片着色 - Cutout.Pro](https://www.cutout.pro/zh-CN/photo-colorizer-black-and-white) - Cutout.Pro 的照片着色器。 智能免费在线为黑白照片着色。 为黑色图像、褪色的照片或旧的家庭照片着色。
-118. [Colorize Photo | Try Free | Realistic Colors](https://palette.fm/) - Colorize your black and white images within seconds. Try our online AI colorize tool for free, no sign-up needed.
-119. [Free AI Design Tool: Logos, T-Shirts, Social Media - Playground](https://playgroundai.com/) - Create custom designs and graphics with Playground
-120. [AI电商设计_电商主图头图一键生成_电商模板在线设计_电商素材免费下载-美间AI创意商拍](https://www.meijian.com/e-commerce) - 美间AI创意商拍是电商模板图片一站式设计平台,涵盖电商模板,电商设计素材,电商图片大全等,可为您提供电商模板图片在线设计制作编辑与免费下载服务。
-121. [AI商品图 - AI电商设计- 美图设计室](https://www.designkit.com/product-shoot/) - 依托美图秀秀AI图像处理技术，仅需1张素材，即可10秒内生成海量AI商品图片；智能AI精准识别，提供海量场景商品图片，商用无忧
-122. [蜂鸟AI](https://fengniaoai.com/) - 赶海科技推出的跨境电商AI营销工具
-123. [PhotoStudio AI](https://psai.cn/) - PhotoStudio® AI致力于极低成本、极高效率满足商业拍摄需求。写实高颜值AI模特，海量AI商业场景，专业电商行业AI作图工具，无需下载，简单3步生成超高颜值的AI摄影大片，助力电商商家降本增效！
-124. [cliclic_productView_default_ckt](https://www.cliclic.ai/) - 创客贴创建新商品图功能，上线国内与海外
-125. [内容生产与管理一站式服务平台 - 内容驱动增长](https://ling.jd.com/) - 京东羚珑 - 营销内容创意平台：一键抠图、免费抠图、商品打腰带、改尺寸、商品主图设计、线上广告banner设计、店铺首页设计、活动页设计、页面设计、互动营销设计、小程序设计、动图视频设计、视频广告设计、商品主图视频设计、海报设计、公众号配图设计、二维码名片设计、DM传单设计、物流面贴设计、易拉宝设计、张贴海报设计，海量精美模板，免费设计，免费素材，专区，致力于成为商家经营的设计合作伙伴。
-126. [创自由-专业AI作图工具-在线图片设计-AI换模穿衣-AI商品图合成替换 | website-generate-template](https://chuangziyou.com/) - 创自由是一款AI工具，功能强大，提供AI作图，AI穿衣，AI商品图合成替换，在线图片设计，海报/视频封面/广告图在线编辑制作，多个平台AI文案生成等功能，帮助电商、自媒体、传统企业快速设计制作图片、修改图片、生成模特效果图、撰写文案内容，零基础小白都可以轻松上手的AI工具，通过AI赋能，为您的企业降本增益。
-127. [灵动AI - 新一代创意营销影像生成AI智能体](https://www.redoon.cn/) - 灵动AI，超级好用的在线设计工具，商家或者设计小白都能轻松上手快速出图。提供海量精美模板和素材，适用于美妆、快消、3C、家电、家装等产品品类。可以输出电商主图、电商海报、商品视频等营销物料，拥有横版、竖版和方形尺寸，适配各种用途。
-128. [PhotoMagic](https://www.photomagic.cn/) - AI快速生成商拍图片
-129. [Pebblely AI Product Photography | Create beautiful product photos in seconds with AI](https://pebblely.com/) - Boring product photos? Pebblely helps you create beautiful photos in seconds with AI
-130. [Mokker AI - Instant AI Background Replacement](https://mokker.ai/) - Upload a photo of a product and Mokker AI magically replaces the background in a realistic way - no more photoshop looks. Try it for free.
-131. [花生图像](https://www.hsphoto.cn/) - AI电商产品图生成和背景抠图工具
-132. [图生生-为AI作图而生（南京一言万相网络科技有限公司）](https://tushengsheng.com/home/) - 图生生AI，精美电商图片一键生成，免费试用。AI智能抠图，一键背景变透明，选择场景后即可生成对应图片，可用于电商推广、市场宣传等众多场景。省时，省心，省钱。
-133. [WeShop唯象 - 专注电商需求的AI商拍工具](https://www.weshop.com/) - WeShop唯象是专注电商需求的AI商拍工具，专注电商产品图片的智能生成。品牌方无需再受到模特、经纪、摄影、后期、场租、机酒的限制，在高效产出优质商品图的同时，还能大幅节约拍摄成本。用WeShop唯象妙境，鼠标就是快门，点击即看成片。
-134. [腾讯混元3D](https://3d.hunyuan.tencent.com/) - 腾讯混元3D AI创作引擎基于腾讯混元3D生成大模型2.0版本，业界首个一站式3D内容AI创作平台。腾讯混元3D创作平台是一站式3D内容AI创作平台。具备文生、图生3D、3D动画生成、纹理生成等功能，支持草图生3D、3D人物生成，有低多边形模型生成优势。
-135. [Hitems](https://hitems.ai/) - HITEMS is an AI-based design platform that provides one-click product generation and delivery solutions. We are committed to helping everyone bring their creativity to life and making design simple and accessible.Whether it’s a personal project or a brand concept, HITEMS ensures that every idea has the opportunity to become a reality
-136. [绘蛙](https://www.ihuiwa.com/workspace/ai-image/partial-redraw) - 绘蛙-是阿里巴巴旗下一款功能强大，简洁好用的智能图片、文案创作平台，并且拥有海量虚拟模特可选择。在绘蛙，你可训练自己的商品模型和模特模型，可通过AI生成商拍图和种草文案，可以创作小红书图片,电商商品主图,跨境电商主图,小红书种草文案,穿搭文案，视频口播文案，可在线一键美图,输入口令修改图片内容,一键换装,一键去水印,一键智能消除，一键换脸，一键高清修复图片。
-137. [AI智能消除_在线消除_一键去遮挡-美间美盒](https://www.meijian.com/mj-box/ai-eliminate-intro) - 美间美盒AI智能消除，支持在线一键去除图片中的logo，人物和遮挡，自动消除照片中的路人或多余主体，AI智能消除能够快速改善图片的画面内容细节，节省时间和精力
-138. [美图AI消除 - 一键去水印去遮挡 - 美图设计室](https://www.designkit.com/aieraser/) - 美图抠图AI消除，不仅自动去除图片中的水印和遮挡，而且可以消除照片中的路人或其他多余主体，还能轻松地克隆人或物。总之，美图秀秀AI消除快速地改善照片的质量，节省时间和精力。
-139. [HAMA | AI Object remover, Image Eraser](https://www.hama.app/zh) - An AI image eraser that makes it simple and easy to remove unwanted people, objects, text, and more from your photos or images. Just brush over the part of the photo you want to erase and click Erase to delete unnecessary objects for free in 5 seconds. We recommend hama AI Image Eraser tool.
-140. [IOPaint – IOPaint](https://www.iopaint.com/) - 免费开源的AI图像擦除、修复和处理工具
-141. [BgEraser | Bulk Remove Background from Images Online Free](https://bgeraser.com/) - 100% free online services to remove background from images in batch, replace background color in one single click, and download images in zip file.
-142. [Photo Editor Online - AI Editing Photo Free - SnapEdit.App](https://snapedit.app/) - Online photo editor powered by AI - SnapEdit. Edit photos easily with AI photo editing tools. Try it for free to remove background, remove object, enhance photo, and more.
-143. [Cleanup.pictures - Remove objects, people, text and defects from any picture for free](https://cleanup.pictures/) - Remove unwanted objects from photos, people, text, and defects from any picture for free. It's extremely easy in just a few clicks with our creative editing tool.
-144. [免费自动在线照片润饰，删除不需要的对象，擦除人物，恢复图像 - Cutout.Pro](https://www.cutout.pro/zh-CN/image-retouch-remove-unwanted-objects) - Cutout.Pro 提供免费的轻松在线修饰。 它会自动删除不需要的对象、文本和符号，还可以通过修饰照片来消除皱纹、雀斑、皮肤粉刺和发红来修复和恢复图像。
-145. [免费在线去水印工具，快速视频去水印图片水印](https://beecut.cn/online-watermark-remover) - 完全免费的去水印工具，你可以上传图片和视频去水印，只需简单几步就能轻松擦除视频和图片的水印，效果自然，高效快速。
-146. [HitPaw Watermark Remover AI - Remove Watermark from Photo/Video](https://www.hitpaw.com/remove-watermark.html) - AI图片和视频去水印工具
-147. [删除照片中的物体 | Magic Eraser by Magic Studio](https://magicstudio.com/zh/magiceraser/) - 只需几秒钟就能编辑图片，用画笔选择并用 AI 擦除图片上的物体、人物、文字、瑕疵和图案。无限制免费使用，无需注册。
-148. [水印去除剂 - 删除照片中的任何水印](https://www.watermarkremover.io/zh) - 使用我们的人工智能技术从您的图像中删除水印。使用我们的水印删除工具，让您的图像免费水印。
-149. [Icongen.io - Your Icon app design generator](https://www.icongen.io/) - Create Stunning icons for your business, presentations, and more with IconGen.io – the best icon generator tool powered by AI. Sign up now and start generating your own icons in just a few seconds.
-150. [魔音工坊--达人热推的短视频/有声书AI配音平台](https://paint.mobvoi.com/) - 魔音工坊是一款可以在线将文字转成语音的智能配音产品。提供不同性别、不同口音的真人声音，在你输入文字后直接配音。你可快速对短视频等需要配音的内容进行配音。是一款功能强大AI语音合成神器。
-151. [百度智能云一念](https://yinian.cloud.baidu.com/creativity/main/workbench) - 智能创作平台基于百度领先的NLP、KG、多模态AI技术,从媒体内容生产的策采编审发全流程角度,推出智能策划,智慧采编,智能审校,科学评馈场景功能,为媒体工作者提供一站式的内容生产服务和工具,全面提升内容创作效率.
-152. [艾绘 - 一站式绘本创作平台](https://www.aiyou.art/) - 一键创作故事、绘画、配音，轻松创建高质量的绘本故事
-153. [Diffus: Professional AI Image Generation with Precision](https://www.diffus.graviti.com/) - Transform your creative vision with Diffus - a powerful AI image generator offering unprecedented control, 70,000+ models, and professional-grade features for stunning visual content generation.
-
-## AI 视频
-1. [即梦](http://dis.csqixiang.cn/unpo/jimeng_1.html) - 抖音旗下免费AI图片创作工具
-2. [白日梦AI-领先的AI视频创作类AIGC创作平台](https://aibrm.paluai.com/bairimeng) - 白日梦AI是一款领先的文生视频类AIGC创作平台，专注于AI视频内容生成，提供AI生成视频教程、AI文生视频、AI动态画面、AI形象生成、人物/场景一致性等创作技巧及成功案例，助您快速上手并打造专业级视频内容。
-3. [讯飞绘镜-官方网站](https://typemovie.art/) - 讯飞绘镜
-4. [Vidu AI - 全球领先的AI内容生产平台](https://www.vidu.cn/) - Vidu AI 作为国内首个纯自研的AI视频生成模型，专注于将文字和图像转化为高质量的动态视频的同时，保持主体一致性。需3步即可生成创意视频，带您开启人工智能视频创作之旅。
-5. [绘蛙](https://www.ihuiwa.com/workspace/ai-video/from-image) - 绘蛙-是阿里巴巴旗下一款功能强大，简洁好用的智能图片、文案创作平台，并且拥有海量虚拟模特可选择。在绘蛙，你可训练自己的商品模型和模特模型，可通过AI生成商拍图和种草文案，可以创作小红书图片,电商商品主图,跨境电商主图,小红书种草文案,穿搭文案，视频口播文案，可在线一键美图,输入口令修改图片内容,一键换装,一键去水印,一键智能消除，一键换脸，一键高清修复图片。
-6. [声动视界 - 视频翻译、视频配音、语音克隆、短视频脚本、智能字幕](https://soundviewai.com/invitation) - 声动视界是一款解决跨境电商视频创作的平台，利用多语种翻译、语音合成、语音识别、大模型等技术，提供视频配音、视频翻译、文本配音等业务，让带货视频、产品视频、选窜视频的创作更简单更高效。
-7. [AI数字人形象-AI视频生成-视频制作软件-虚拟数字人直播-有言AI](https://www.youyan3d.com/platform/) - 魔珐有言，一站式AIGC视频创作平台，革新视频制作领域。利用AI数字人技术，打造虚拟主播与丰富虚拟形象，无需真人出镜，一键生成高质量3D视频。从场景构建到镜头剪辑，全程自动化，数字人直播轻松实现。有言让视频制作变得简单快捷，满足多元化创作需求。
-8. [AI故事绘图，AI漫画推文小说推文授权，AI绘画AI视频文生视频](https://ai.jurilu.com/) - 一站式一键生成AI漫画推文神器，免费体验，免费小说推文授权平台；AI绘画文生图、AI视频文生视频、文本转视频、AI漫画创作平台；自媒体、漫剪、小说漫画推文工具教程
-9. [可灵](https://kling.kuaishou.com/) - 快手推出的视频生成大模型，可生成2分钟的视频
-10. [Runway | Tools for human imagination.](https://runwayml.com/) - Runway is an applied research company shaping the next era of art, entertainment and human creativity.
-11. [Pika](https://pika.art/) - The idea-to-video platform that sets your creativity in motion.
-12. [Luma Dream Machine: New Freedoms of Imagination](https://lumalabs.ai/dream-machine) - Ideate, visualize, create videos, and share your dreams with the world, using our most powerful image and video AI models.
-13. [Sora](https://openai.com/sora) - OpenAI推出的AI文本到视频生成模型
-14. [【官网】秒创（一帧秒创）-AI视频创作,数字人,秒创视频生成,智能内容创作平台](https://aigc.yizhentv.com/) - 一帧秒创是基于新壹大模型及秒创AIGC引擎的智能AI内容生成平台，包含AI数字人、AI帮写、AI视频、AI作画等AIGC工具，可将百家号、公众号、头条号、搜狐号、新浪微博、小红书等文章一键转视频，一键生成数字人播报视频，为企业及自媒体提供一站式视频生产，全面提升内容创作效率。
-15. [即创 - 一站式智能创意生产与管理平台](https://aic.oceanengine.com/) - 即创专注于智能创意生产与管理分析，同时兼容开放生态，提供视频创作、图文生成、直播工具等多种场景服务，帮助客户解锁创意生产力、携手服务商激发创新，撬动多元供给，助力商业化经营。
-16. [Hedra](https://www.hedra.com/) - Video creation for everyone.
-17. [Vozo - Generate, Edit &amp; Translate Talking Videos with AI](https://www.vozo.ai/) - Translate, edit scripts, dub, and lip sync your videos with prompts! Add auto subtitles, change voices, and modify voiceovers with ease.
-18. [Just a moment...](https://viggle.ai/) - AI生成角色动态视频的工具
-19. [SkyReels｜Visualize Your Story](https://skyreels.ai/beta) - SkyReels - All-in-one Al Video Creation. Just one click, transform your idea into a completed video!
-20. [MOKI - 我用AI做短片](https://www.moki.cn/) - 美图推出的AI视频短片创作工具
-21. [Attention Required! | Cloudflare](https://flowgpt.com/flow-studio) - AI视频生成工具，一键生成电影级质量的3分钟长视频
-22. [Create social-ready videos with AI instantly | Vizard.ai](https://vizard.ai/) - An AI-powered video generator and editor that turns one long video into 10+ clips instantly. Try it forever free.
-23. [寻光](https://xunguang.com/) - 阿里达摩院推出的全流程AI视频创作平台
-24. [Hotshot - Capture Your Imagination](https://hotshot.co/) - Hotshot is the best way to make AI Videos. Use it to picture your imagination, Make everything from funny AI Videos, AI reaction Videos, unique AI Videos and more.
-25. [AI Video &amp; Image Creation Tools | vivago.ai Free Trial](https://vivago.ai/) - vivago.ai is a Free AI Generation Tool and Community, There are Text-to-Image, Image-to-Image, Text-to-Video, Image-to-Video and other generation functions, as well as powerful AI editing tools, you can expand image, repainting anything, and make the images and videos to become more high-quality and 4K. The most critical thing is that all of these are free of charge, viva makes the AI creation simpler and more efficient.
-26. [Humva - Your Easiest Go-To Avatar Tool](https://humva.ai/) - Humva provides free customized spokesperson videos and thousands of video presenters for social media content, testimonials, product introductions and more, powered by generative AI and most advanced lip-syncing technology.
-27. [Stable Video | Generate Videos with AI](https://www.stablevideo.com/) - Create videos with text or image, turning your concepts into captivating cinematics.
-28. [OneStory](https://onestory.art/) - OneStory
-29. [Noisee AI](https://noisee.ai/) - 月之暗面旗下推出的AI音乐视频MV生成工具
-30. [腾讯智影-在线智能视频创作平台](https://zenvideo.qq.com/) - 腾讯智影是一款云端智能视频创作工具，集素材搜集、视频剪辑、渲染导出和发布于一体的免费在线剪辑平台。强大的AI智能工具，支持文本配音、数字人播报、自动字幕识别、文章转视频、去水印、视频解说、横转竖等功能，拥有丰富的素材库，极大提升创作效率，帮助用户更好地进行视频化的表达。
-31. [【官网】万兴播爆：AI短视频营销-个人IP打造神器](https://virbo.wondershare.cn/) - 万兴播爆是A股上市公司万兴科技旗下的AIGC产品，致力于提供AI数字人定制、IP人设定位、声像复刻、话题推荐、文案生成、智能混剪的一站式IP营销解决方案。
-32. [商汤](https://www.sensetime.com/) - 商汤科技推出的可控人物视频生成AI模型
-33. [Etna](https://etna.7volcanoes.com/) - 七火山科技推出的AI文生视频工具
-
-34. [艺映AI - 免费AI视频创作工具](https://www.artink.art/) - 释放每一帧的创造力和创新，免费AI视频生成平台，专业创建文生视频和AI动态短视频。将文本转换为高质量AI视频，适用于多种场景，如抖音短视频、小说推文、AI短片、AI电影等制作。
-35. [LensGo | Create Style Transfer Videos Easily](https://lensgo.ai/) - LensGo is a free AI-powered tool for creating images and videos. Bring your favorite characters to videos with just one image! Make your first style transfer AI video with LensGo.
-36. [必剪Studio](https://member.bilibili.com/york/bilibili-studio/) - 必剪Studio一站式集成“数字分身”及“音色定制”功能，能帮助出镜创作者、录音创作者有效提升创作效率。“数字分身”技术可利用真人视频、语音，借助AI技术1:1生成人物数字模型。获得模型后，UP主只需上传录音文件或输入文本，即可生成类似实拍效果的出镜口播视频，节省常规创作流程中的实拍出镜环节。“音色定制”技术可在用户提交30分钟音频后，通过AI技术生成具有个人音色的模型。获得模型后，UP主只需输入文字，即可生成语音，提升UP主创作效率。
-37. [度加创作工具-百度官方出品-人人可用的AIGC创作平台-一站式聚合百度AIGC能力](https://aigc.baidu.com/) - 度加创作工具是一个百度出品的、人人可用的AIGC创作平台。度加致力于通过AI能力降低内容生成门槛，提升创作效率，一站式聚合百度AIGC能力，引领跨时代的内容生产方式。度加的主要功能包括AI成片（图文成片/文字成片）、AI数字人等。自2022年3月百家号开放内测以来，一年时间共计超过45万+百度创作者使用AIGC技术能力，创作700万篇+作品，百度累计分发量超过200亿+。
-38. [Wink App_Wink PC版官网_手机端桌面端视频剪辑神器](https://wink.meitu.com/) - Wink App是高清画质修复必备神器，打造自然服帖精致人像，照片&amp;视频都能修，360度还原美貌无死角，Get氛围感影像，美图秀秀荣誉出品。 Wink PC版是桌面端AI视频编辑工具，打造“AI+视频剪辑=修一帧，用全局”的全新创作体验，服务于视频内容创作者，AI视频前沿效果尽在Wink PC版。
-39. [VMagic AI：将视频转换为动画并进行AI换脸](https://www.vmagic.app/zh) - AI视频平台，提供视频转动画、图像舞蹈、AI视频换脸、面部动作捕捉、视频增强功能
-40. [讯飞虚拟数字人-全栈式AI虚拟人应用服务平台](https://virtual-man.xfyun.cn/) - 科大讯飞虚拟人平台,运用最新的AI虚拟数字形象技术,结合语音识别、语义理解、语音合成、星火大模型等AI核心技术,提供虚拟数字人形象资产构建、AI驱动、多模态交互的多场景虚拟人解决方案。提供形象定制、声音克隆、多模态智能交互、虚拟主播视频制作、虚拟人直播、虚拟人能力开放等服务内容。
-41. [飞影数字人 - 无限克隆高保真数字人形象与声音](https://www.flyworks.live/) - 行业头部数字人创作平台，技术源头厂商，聪明的老板都在用。不需要昂贵的定制费用，不需要额外的等待时间，您在飞影平台可0等待0费用定制数字人形象和声音。
-42. [ToVideo: Convert Image to Video Free](https://www.vidustudio.net/zh) - Turn image to video with ToVideo. Our free photo to video converter offers AI tools, editing features, and high-quality MP4 downloads.
-43. [PixFun - Create amazing videos with PixFun AI](https://app.pixfun.ai/home) - PixFun is an innovative AI video creation platform that unlocks the full potential of video creation with our powerful generative AI.
-44. [Decohere - World&#x27;s Fastest AI Generator](https://www.decohere.ai/) - Create videos, images, art, and more for free with Decohere AI. Instant creativity with the world&#x27;s fastest AI generator.
-45. [YoYo](https://avolutionai.com/) - 鹿影科技推出的二次元动漫视频AI创作平台
-46. [Free AI Video Generator: Create AI Videos in 1 Min | KreadoAI](https://kreadoai.com/) - KreadoAI is the best free AI video generator, creating AI videos with 700+ digital avatars, 1,600+ AI voices and 140 languages. Even create your AI avatar & voice clone.
-47. [OpusClip: #1 AI video clipping and editing tool](https://www.opus.pro/) - OpusClip turns long videos into high-quality viral clips, and publishes them to all social platforms in one click. We help 10M+ creators create and grow faster.
-48. [[Official] Wondershare Filmora – AI Video Editing Software](https://filmora.wondershare.com/) - Enjoy Smart Short Clips, AI video enhancer, and a vast library of creative assets in Filmora AI video editor, making video creation easy for all skill levels.
-49. [Descript: Edit Videos &amp; Podcasts Like a Doc | AI Video Editor](https://www.descript.com/) - Edit your videos &amp; podcasts just by typing. Descript&#x27;s powerful AI editing tools let you make videos, podcasts, &amp; short clips for social fast. Try it for free.
-50. [曦灵数字人平台_数字人直播_数字人视频_数字人对话-百度智能云](https://xiling.cloud.baidu.com/) - 百度智能云曦灵数字人平台，该平台提供数字人形象定制、数字人直播、视频、对话等多场景应用服务。用户可以通过曦灵数字人平台体验极致开播效率和卓越带货体验的视频及直播服务、实现数字人资产一站式管理、声音克隆与2D高清人像克隆小时级高效产出、文生超写实3D数字人等数字人服务
-51. [开拍 - 用AI制作口播视频](https://kaipai.meitu.com/) - 用AI制作口播视频
-52. [Duix](https://www.duix.ai/duix-app-landing-page/) - 硅基智能推出的AI数字人生成平台
-53. [场辞-AI视频字幕制作软件｜自动加字幕｜语音转变生成字幕](https://trans.xinpianchang.com/) - 场辞是一款基于语音识别技术的视频字幕制作软件，提供语音转字幕、一键加字幕、视频加字幕，字幕快捷校对等功能，最快5min即可完成1小时的视频字幕制作，准确率高达97.5%。
-54. [一起剪 - AI视频剪辑](https://www.yiqijian.com/) - 一起剪是一款强大的免费在线视频剪辑工具,通过海量素材库,精美视频模板,视频剪辑,文本识别,文本断句,文本转字幕,语音转字幕,智能配音播报,自动匹配素材及模板等能力,实现视频云端自动合成,同时一键发布发布至主流视频平台,帮助自媒体,媒体生产者实现零成本制作视频,多渠道快速传播。
-55. [Spikes Studio | Ai clip generator for YouTube Twitch TikTok &amp; Reels](https://spikes.studio/) - Spikes Studio transforms long content into viral clips for YouTube, TikTok, and Reels. Built with a powerful Ai editor with auto-captions and more.
-56. [Google Vids：網上影片製作及編輯工具 | Google Workspace](https://workspace.google.com/products/vids/) - Google Vids 是 Google Workspace 的強大網上影片編輯器，採用 Google Gemini 技術，助您製作豐富的影片內容。
-57. [DomoAI | AI Art Generator &amp; Video to Animation Converter](https://domoai.app/) - AI video editor that converts videos, text, and images into animation. Make your character move as you want.
-58. [Gatekeep | Start learning faster with personalized videos.](https://gatekeep.ai/) - Get started with Gatekeep, the text-to-video AI that transforms your questions into engaging educational explainer videos. Now available on web and Discord.
-59. [Home - Morph Studio](https://www.morphstudio.com/) - Discover Morph Studio’s powerful AI-driven features designed to elevate your video creation and editing process. Our tools include text-to-video and image-to-video converters, video style transfer, advanced enhancers and upscalers, and video object removers, all crafted to streamline your workflow and deliver exceptional video quality for e-commerce, marketing, and professional projects.
-60. [Unlock Creativity with AI Content Generator Tools | Haiper](https://haiper.ai/) - Explore Haiper's free AI content generator tools for video, animation and more. Unleash your creativity like never before with our advanced technology.
-61. [Home | Showrunner](https://www.showrunner.xyz/) - AI动画视频剧集生成工具
-62. [即构数智人](https://aigc.zego.im/) - 即构科技推出的AI数字人创作平台
-63. [快剪辑官网-好用的视频剪辑软件|电脑在线视频剪辑工具！](https://www.kuaijianji.com/) - 快剪辑SaaS是国内领先的视频剪辑软件,拥有强大的云端剪辑能力,支持在线去水印,录屏,录音,视频文字互转,添加字幕,拥有海量版权视频模板,音乐,特效,贴纸,适用于个人和中小企业定制,支持手机APP和电脑PC下载
-64. [蝉镜 - 数字人视频创作平台](https://www.chanjing.cc/) - 蝉镜是一个在线数字人视频创作平台，它利用AI简化视频创作的过程，提供AI数字人播报、AI数字人短视频制作、AI数字人分身定制等服务，100+精品数字人形象库任您选择。
-65. [【官网】 闪剪-AI数字人视频在线创作平台-AI一键成片](https://shanjian.tv/) - 闪剪是国内领先的AI数字人口播视频在线创作平台，同时拥有移动端APP版本，平台有丰富的数字人视频模板，你只需输入关键词，AI自动创作文案一键生成数字人视频，还可在线定制专属数字人形象及声音；内含200+国际化数字人模特、24+国家AI配音、AI文案创作、智能成片、照片数字人、直播快剪、视频订阅号等功能，让企业团队轻松实现矩阵营销引流，降本增效。
-66. [AI-Powered CG Animation Online - Revolutionize VFX with Autodesk Flow Studio (formerly Wonder Studio)](https://wonderdynamics.com/) - Discover the innovative AI tool transforming VFX. Effortlessly animate, light, and compose CG characters into live scenes. Elevate your storytelling today!
-67. [Magicam, The Ultimate Real-Time Face Swap Solution](https://magicam.ai/) - The revolutionary real-time face swap tool. Seamlessly swap faces in high-quality live streams using just a single photo. Elevate your content creation game and unlock endless creative possibilities with Magicam
-68. [Visualize your concept | LTX Studio](https://ltx.studio/) - LTX Studio is a holistic, AI-driven filmmaking platform for creators, marketers, filmmakers and studios. From ideation to production, LTX Studio enables you to control every aspect of your story, allowing elevated outcomes that actualize your vision.
-69. [Clipfly](https://www.clipfly.ai/) - <!--description-placeholder-->
-70. [Captions | Your AI-powered creative studio](https://www.captions.ai/) - Meet Captions. The next generation of storytelling - at your fingertips. Discover the power of AI and create studio-grade videos in just a few taps.
-71. [Capsule](https://capsule.video/) - Meet Capsule—the AI-powered video editor made for content and marketing teams. Create stunning videos 10x faster, collaborate seamlessly, and stay on brand.
-72. [GoEnhance AI - Video to video, Image enhancer and upscaler](https://www.goenhance.ai/) - Video to animation Platform, transform your videos into a variety of animated styles, including pixel and flat anime. Enhance and upscale images to extreme detail by AI.
-73. [Invideo AI - Bring your Ideas to life](https://invideo.io/) - Type your video idea and get a full-length with generated with AI clips, stock media, voiceover, subtitles and much more.
-74. [Unscreen](https://www.unscreen.com/) - AI智能视频背景移除工具
-75. [EbSynth - Transform Video by Painting Over a Single Frame](https://ebsynth.com/) - AI将真人视频转化为油画风动画
-76. [Revid AI - Ideate, Publish, Go Viral | #1 AI Video Generator](https://www.typeframes.com/) - Create viral short videos for TikTok, Instagram, and YouTube. Turn ideas into content instantly. Ideate, create, edit, publish — all in one. No skills needed.
-77. [Dreamface - Fast AI Video Generator at Your Fingertips](https://dreamfaceapp.com/) - Dreamface, The Best AI Video Generator in 2025, Create Effortless AI Videos &amp; Photos. Create avatar video, AI video, and AI photo with a single click! Create Heartwarming Pet Videos and Cute Funny Baby Videos, with AI Templates.
-78. [Mootion | Turn your ideas into visual stories](https://mootion.com/) - Mootion is an AI-native content creation platform,  on a mission to unlock creativity in the digital realm for everyone, transforming professional workflows into accessible, universal processes. Mootion aims to build an AI-driven creative hub encompassing 3D, video, animation, gaming, and more, becoming a platform that inspires creativity, fosters sharing, and facilitates collaboration for all.
-79. [来画-动画和数字人智能生成平台](https://www.laihua.com/) - 来画，动画和数字人生成平台！成立九年以来，来画依托自身1800万动画数据资产，自主研发出SkinSoul动画模型，成功打造了AI动画和AI数字人生成创作工具，搭建了数字人MCN和AI教育平台，并孵化出AI硬件品牌InnAIO，兼具好看的皮囊 (Skin)+有趣的灵魂 (Soul)，致力于用AI实现下一代交互方式！ 截至目前，来画平台产生了上千万部创意作品，累计服务数千万用户，覆盖全球100多个国家和地区，始终坚持为全世界提供更快更好的AI产品！
-80. [奇妙元-数字人](https://weta365.com/conduct) - 数字人，AI数字人，虚拟数字人，数字人直播，数字人视频制作
-81. [绘影字幕_为视频自动添加字幕，字幕翻译，字幕制作软件](https://huiyingzimu.com/) - 绘影字幕，为您提供视频加字幕、字幕制作、字幕翻译服务。软件采用先进的语音识别技术，自动识别视频中的人声，转化成字幕。并提供翻译服务，轻松制作中英字幕、中日字幕等双语字幕。为抖音、vlog、快手、自媒体、教育课程等视频创作者提供快捷的加字幕服务。
-82. [Free video translate by Anylang.ai of Guiji.ai](https://anylang.ai/) - An online AI translate tool to support video language translation with your own tone, lip-sync and talking style for free, powered by Anylang.ai of Guiji.ai.
-83. [万彩微影 - AI智能短视频制作软件合集,文字视频制作,图文转视频,手绘视频制作,PPT转动画视频工具](https://www.animiz.cn/microvideo/) - 万彩微影，一款全能的AI智能短视频制作软件合集，专门制作热门的手绘动画视频，文字动画视频，还能一键把图文/文章/PPT转换为视频。
-84. [录咖-在线AI语音/录音转文字、文字转语音、字幕生成、视频翻译工具](https://reccloud.cn/) - 录咖是全球领先的AI音视频处理平台，全方位满足音视频创作、编辑的需求。包含AI语音转文字、AI字幕、AI文字转语音、AI视频翻译等超多实用功能，操作简单，在线即可使用。
-85. [怪兽AI数字人，怪兽智能交互数字人，数字人直播软件，数字人克隆软件，数字人制作公司](https://www.guaishouai.com/) - 怪兽AI数字人为怪兽智能科技推出的产品，包含全息交互数字人、3D超写实交互数字人，AIGC生产、SaaS管理和直播服务平台。创始团队来自怪兽智能大数据平台，在互联网、物联网、智能软硬件等领域积累了丰富的行业经验，致力于打造全球领先的AIGC数字人智能平台。通过真人形象克隆、真人声音克隆、孪生姿态合成、唇形同步驱动、实时视频渲染、多素材集成人工智能等核心技术及模块式交付SAAS及应用软件系统，帮助客户实现数字人的短视频内容生产创作及直播宣传。怪兽AI为品牌商家及本地生活商家提供数字人克隆、数字人短视频生成、数字人直播解决方案、3D超写实全息交互屏及数字人交互解决方案。
-86. [闪剪-团队快剪|AI一键成片|团队智能剪辑|AIGC|AI批量视频生成系统](https://teamcut.shanjian.tv/) - 团队快剪是闪剪智能旗下一款专门为团队带货打造的视频创作系统，团队快剪集爆款脚本库、短视频拍摄模板、商品素材管理为一体，致力于帮助本地生活、线上电商、虚拟产品等行业企业，解决团队短视频营销中的爆款内容生产、矩阵账号运营、低成本推广引流视频生产营销难题。
-87. [鬼手剪辑官网 - AI视频创作软件-GhostCut](https://cn.jollytoday.com/) - 鬼手剪辑是一款专业的视频创作工具，他能高效实现无痕去除视频字幕、多角色视频克隆翻译和一键短剧解说等，帮助短剧、电商客户、MCN机构和影视剪辑人员制作精彩的视频。
-88. [模力视频 - AIGC视频制作平台 | AI剪辑 | 云剪辑 | 海量模板](https://www.mooliv.com/) - 模力视频：一站式AI视频剪辑解决方案，助力电商、信息流、企业和教育等行业。提供电商主图视频制作、批量化视频生成、脚本生成视频等，让视频创作更简单、更高效。释放您的创意潜能，提升视频营销效果。
-89. [自动从视频中删除背景 - VEED](https://www.veed.io/zh-CN/tools/video-background-remover) - 使用 VEED 的自动背景去除器或绿屏编辑器一键从视频中去除背景。用您喜欢的图像替换背景，编辑您的视频等等！
-90. [BgRem](https://bgrem.deelvin.com/zh/remove_video_bg/) - 无水印AI视频背景移除
-91. [Homepage - Colourlab.ai](https://colourlab.ai/) - 好莱坞也在用的AI视频颜色分级工具
-92. [去除视频背景无绿屏，全自动免费 - Cutout.Pro](https://www.cutout.pro/zh-CN/remove-video-background) - Cutout.Pro - 无需单击即可在线视频背景去除器，自动免费制作无背景视频，无需色度键控、绿屏或后期效果。 从任何地方拍摄的镜头中擦除背景。 与专业的非屏幕工具相比，简单易用，并在删除背景的情况下创建高质量的结果。
-93. [Remove Video Background 100% Automatically with AI](https://app.avclabs.com/) - Remove video background 100%, automatically, and freely with the power of AI.
-94. [Leading AI video localization &amp; dubbing tool](https://www.rask.ai/) - Say goodbye to expensive translators. Our goal is to provide a dubbing and translation experience with AI that is as good as a human
-
-## AI 办公
-1. [美图设计室LivePPT](https://www.designkit.com/ppt/) - 美图设计室提供ppt制作ai工具,ai生成ppt,ai ppt,ai做ppt,ai自动生成ppt,美图ai ppt,让你轻松打造精美的PPT。支持一键智能排版，以及丰富的模板和素材库。
-2. [Gamma](https://gamma.app/) - AI幻灯片演示生成工具
-3. [PPT AI生成工具- 免费在线AI PPT生成器-笔灵AI写作](https://ibiling.cn/ppt-zone) - 使用笔灵AI写作助手的PPT AI生成工具，1分钟快速生成精美PPT+千字自述稿件，支持上传文档！大厂外企都在用的PPT逻辑框架，让你的工作被更好的“看到”！
-4. [稿定PPT](https://www.gaoding.com/templates-ppt) - 稿定推出的PPT模板资源库
-5. [讯飞智文 - AI在线生成PPT、Word](https://zhiwen.xfyun.cn/) - 讯飞智文，由科大讯飞推出的一键生成ppt/word产品。根据一句话、长文本、音视频等指令智能生成文档，同时支持在线编辑、美化、排版、导出、一键动效、自动生成演讲稿等功能，让AI全流程服务到底。
-6. [百度文库](https://wenku.baidu.com/ndlaunch/browse/chat) - 基于文心一言的一站式智能文档助手
-7. [【官网】万兴智演-网课_微课_讲课-名师必备演示神器](https://zhiyan.wondershare.cn/) - 万兴智演，新一代知识分享培训视频创作神器来了，知识内容视频博主、产品视频营销团队、企业培训人力部门等
-8. [Napkin AI - The visual AI for business storytelling](https://www.napkin.ai/) - Just type, copy-paste or generate your text and Napkin will instantly transform it into insightful visuals. Make your communication more effective with Napkin.
-9. [VisDoc](https://www.visdoc.cn/) - AI文生图表工具，支持生成柱状图、折线图、饼图等
-10. [万知 I 问答、阅读、创作的一站式AI工作平台](https://www.wanzhi01.com/) - 零一万物推出的一站式AI文档阅读和PPT创作工作台
-11. [彩漩](https://gezhe.caixuan.cc/) - 彩漩PPT推出的AI PPT生成工具
-12. [ChatBA: Generative AI for Slides ✨](https://www.chatba.com/) - Instantly create slide decks using ChatBA
-13. [Tome – The AI assistant for sales](https://tome.app/) - Automate account research by getting a 360° view of target accounts from the web and internal data.  Prioritize, outbound, and prep for meetings for effectively.
-14. [Decktopus AI | Make presentations with AI | AI Presentation Assistant](https://www.decktopus.com/) - Decktopus is an AI presentation maker, that will create amazing presentations in seconds. You only need to type the presentation title and your presentation is ready.
-15. [Powerpresent AI - Create powerful presentations with AI](https://powerpresent.ai/) - Create amazing presentations 10x faster with AI. Just enter a topic or some text and let Present AI do the rest.
-16. [希沃白板5 为互动教学而生 | 课件制作神器](https://easinote.seewo.com/) - 希沃白板5，是一款专门针对教学场景设计的互动课件工具，提供课件云同步、学科工具、思维导图、课堂活动、超级分类等多种备授课常用功能，只需简单的操作就能让您的知识点跃然呈现。
-17. [秒出PPT - AIPPT一键生成 - Word转PPT](https://10sppt.com/pptx/) - 秒出PPT提供创意精美高端PPT模板下载，AI辅助编辑PPT内容，支持自动排版、智能生成PPT
-18. [GAIPPT官网-AI美化PPT神器](https://www.gaippt.com/) - Gaippt是下一代PPT美化神器，基于AI智能辅助，可根据内容生成带有高度结构化可视化的PPT版式，并提供丰富的快捷操作，让PPT设计制作更简单。
-19. [AI Presentation Maker | Make it Beautiful with Beautiful.ai](https://www.beautiful.ai/) - Beautiful.ai is the best AI-powered presentation software for teams. Stay on brand, level up and automate presentation design, and collaborate from anywhere.
-20. [ChatPPT_AI一键对话生成PPT_智能排版美化-必优科技智能PPT](https://www.chat-ppt.com/) - ChatPPT为必优科技旗下国内AI生成PPT的办公产品，基于AI Chat指令式内容生成与创作，辅助职场办公人工更高效去创作PPT文档，目前接入超过350+指令集，可以在1分钟内完成全篇PPT生成、设计与排版。
-21. [AI生成PPT | 博思AIPPT - PPTGO](https://pptgo.cn/) - 博思AIPPT来了，让繁琐的PPT GO吧，海量PPT模板任选，布局灵活切换，在线编辑PPT内容，零基础也能快速用ai制作PPT。
-22. [轻竹PPT - AI一键生成PPT - 海量PPT模版 - 智能PPT制作网站](https://qzoffice.com/) - 在线智能生成和设计PPT的AI工具
-23. [Chronicle](https://chroniclehq.com/) - The modern format of storytelling
-24. [Presentations.AI - ChatGPT for Presentations](https://www.presentations.ai/) - Use AI to transform ideas into captivating presentations in seconds. Ideal for businesses, educators, and personal projects. Start now - it&#x27;s free!
-25. [SlidesAI: Free AI Presentation Maker | Generate Slides with AI](https://www.slidesai.io/) - Create stunning presentations using simple text prompts with SlidesAI. Free, customizable AI PPT &amp; slides generator for students, educators &amp; businesses. Try now!
-26. [auxi - AI for PowerPoint](https://www.auxi.ai/) - auxi is the most advanced powerpoint add-in on the market. auxi has been built specifically for management consultants and visual graphic designers.
-27. [职得AIPPT官网 - AI一键生成PPT工具](https://www.lgppt.cn/) - 职得AIPPT是一款AI生成PPT工具，可为您提供一站式智能PPT制作服务，只需输入一句话，即可智能定制一份逻辑清晰、设计精美的PPT；职得AIPPT已涵盖PPT内容生成与理解、丰富生成交互、自动化排版、海量PPT模板、智能美化、智能辅写、智能配图、智能配音等几大核心能力；帮助您处理冗长的文档资料，一键提取关键信息，自动生成清晰的内容框架，快速梳理出逻辑清晰、重点突出的PPT内容，省去手动整理的繁琐步骤。
-28. [MindShow官网 | AI生成PPT，快速演示你的想法](https://www.mindshow.fun/) - 国内独立开发者开发的输入内容自动生成演示工具
-29. [简单听记-全能的AI音视频转文字专家-语音转文字-视频转文字-高精转写-AI总结和分析](https://pan.baidu.com/embed/listennote) - 简单听记是百度推出的音视频转文字处理专家，支持高精度语音转文字、视频转文字、实时翻译。基于AI大模型，支持全流程自动化的音频分析和整理，一键生成AI会议纪要和总结，是工作和学习的最佳效率神器。
-30. [TXYZ - Integrate all paths to knowledge](https://www.txyz.ai/) - Integrate all paths to knowledge.
-31. [小浣熊家族 Raccoon - AI 智能助手 - 商汤科技](https://www.xiaohuanxiong.com/) - Raccoon - Another Comprehensive CO-pilOt Navigator ｜ Raccoon是基于商汤自研大语言模型的智能助手，包含代码助手、办公助手，满足用户代码编写、数据分析、编程学习等各类需求。
-32. [vika维格云 - 一键训练AI的多维表格 - vika维格云](https://vika.cn/) - 一键训练AI的多维表格，将表格数据训练成AI客服、AI线索收集器、数据分析师和更懂你的GPT。
-33. [百度GBI-你的大模型商业分析助手](https://gbi.cloud.baidu.com/) - 百度GBI-你的大模型商业分析助手
-34. [Data Analytics Platform: AI Excel Tools &amp; Business Intelligence](https://ajelix.com/) - Simple data analytics platform with AI Excel tools, Excel formula generator, Data visualization, and Business Intelligence.
-35. [LLCBuddy® - Your Business Formation &amp; Management Buddy](https://sheetplus.ai/) - Comprehensive guides on LLC and business formation and management essentials with LLCBuddy - your business formation &amp; management partner.
-36. [快文CopyDone_原创文案写作神器_写作机器人_AI一键智能生成](https://cloud.yoo-ai.com/) - 轻云图是必优科技开发的一款轻量化3D文字在线生成工具,一键解析文本,生成3D文字云图词云图在线产品，支持PPT、word导入
-37. [北极九章 | 企业级AI数据洞察引擎,用自然语言分析大数据](https://datarc.cn/) - 北极九章官网,北极九章DataGPT,自然语言对话式数据分析软件ChatBI,用AI数据智能问答,实现AI+BI的增强型分析,助力智能决策.已为汽车,制造,金融,零售,快消等行业数十家领先企业提供AI+Data智能应用,满足业务人员自助分析数据,智能生成报表等需求.数据驱动决策.
-38. [Formula bot](https://excelformulabot.com/) - AI将指令转换成Excel的函数公式
-39. [FormX.ai - Automate Data Extraction to Empower Your Business](https://www.formx.ai/) - FormX.ai brings cutting-edge technology to your business, freeing you from manual work and minimizing human errors. Embrace a world where automation reigns, and efficiency is paramount!
-40. [Rows: The spreadsheet where data comes to life](https://rows.com/) - 集成了AI功能的在线表格处理工具
-41. [Excelly-AI](https://excelly-ai.io/index.html) - 将文本转换成Excel或Google Sheets公式
-42. [Microsoft Excel Formulas Ai Powered Tool - Sheetgod](https://www.boloforms.com/sheetgod/) - If you need help with Excel formulas, our free Excel Formulas Generator can help. With just a few clicks, you can create custom formulas for any situation.
-43. [Excel Formularizer](https://excelformularizer.com/) - AI将文本输入转换为Excel公式处理
-44. [包阅AI-你的智能AI阅读助手](https://baoyueai.com/channel) - 包阅，您的智能AI阅读助手。包阅AI阅读助手支持一键总结、AI问答、多语言翻译，同时还支持网页阅读、论文文献、法律文档、学术科研、产品手册、市场报告、电子书等众多内容，包阅AI帮你阅读广，理解深，效率高。
-45. [Doc2X文档图片公式识别/翻译/转换](https://noedgeai.com/) - 上传PDF或图片，精准公式识别和表格识别,一键高效转换为 Word、LaTeX、HTML、Markdown 等多种格式。支持多语言翻译，提供双语对照翻译体验，搭载大模型技术，满足学术、办公和多场景需求。
-46. [Acrobat AI Assistant: Generative AI document &#x26; PDF tool](https://www.adobe.com/acrobat/generative-ai-pdf.html) - Try the trusted Generative AI document reading tool from Adobe Acrobat. Use Generative AI to ask your PDF questions and summarize your documents.
-47. [WPS AI - PPT一键生成 | AI写作文档 | AI表格处理](https://ai.wps.cn/) - WPS AI 是金山办公旗下具备大语言模型能力的人工智能应用，提供智能文档写作、长文阅读处理与人机交互等能力，与 WPS办公结合有自动生成 PPT、表格分析处理、文章改写续写、翻译等功能，助力智能办公，提升用户体验。
-48. [腾讯文档-官方网站-支持多人在线编辑Word、Excel和PPT文档](https://docs.qq.com/) - 腾讯文档是一款可多人协作的在线文档，可同时编辑Word、Excel和PPT文档，云端实时保存。可针对QQ、微信好友设置文档访问、编辑权限，支持多种版本Word、Excel和PPT文档模板。
-49. [Cubox - 你的超强阅读学习助手](https://cubox.pro/) - 为学习而生的阅读器，通过 AI 自动解读，释放你高亮标注和阅读笔记的真正潜力
-50. [Quivr - Open source chat-powered second brains](https://www.quivr.app/) - Introducing Your GenAI Second Brain 🧠 : A Sophisticated Personal Productivity Assistant. Leverage the power of advanced AI technologies, including Langchain, GPT 3.5/4 Turbo, Private, Anthropic, VertexAI, and Ollama, for seamless interaction with your documents (PDF, CSV, Databases..) and applications. This solution, empowered by retrieval-augmented generation⚡️, stands as a private and local alternative to OpenAI&#x27;s GPT models and ChatGPT, ensuring confidentiality while offering the capability to share with users. Elevate your productivity with this cutting-edge tool.
-51. [Coda AI, the work assistant your team deserves - Coda](https://coda.io/product/ai) - Coda AI is the connected work assistant that knows your team—and can take action for you. Free for all Doc Makers. Discover what&#x27;s possible with Coda AI.
-52. [有道速读——最专业的英文文献阅读器](https://read.youdao.com/) - 用AI，重新定义英文文献阅读。专为科研学者和学生量身打造，内置【AI伴读、AI翻译、AI问答、文献解读、章节摘要、笔记批注】等功能，界面简明、操作便捷，让阅读更高效更轻松。
-53. [AI生成问卷 - 腾讯问卷](https://wj.qq.com/ai/generate.html) - 腾讯问卷支撑了腾讯核心业务的⽤户、市场、产品研究工作。平台提供基于数据收集的专业调查研究解决方案，覆盖问卷调查、信息上报、在线测评、在线考试、360度评估、投票打卡等工作场景，致力于为客户提供高效的洞察决策工具。
-54. [匡优 AI 出题 - AI 生成试题](https://ai.kyou.ltd/pc) - 匡优 AI 出题是一款利用人工智能帮助用户根据需求生成试题的网站。我们提供两种模式：模板出题和资料出题。模板出题内置了约 30 多套模板，涵盖数学、语文、英语等基础教育学科，也支持自定义自识点出题；资料出题可以根据用户上传的 Word 文档内容生成试题，帮助教师和学生高效备考。支持生成常用题型，一次可生成超100 题。
-55. [通义智文_AI助手_文档阅读_人工智能-阿里云](https://tongyi.aliyun.com/zhiwen) - 阿里云通义智文是一款更懂你的AI阅读助手，它是基于通义大模型而设计的，支持网页阅读、论文阅读、图书阅读和自由阅读，让AI帮你读得多、读得快、读得懂。
-56. [字语智能](https://getgetai.com/) - 一站式智能Office内容创作平台
-57. [星火知识库](https://chatdoc.xfyun.cn/) - 讯飞星火知识库文档问答，是科大讯飞基于讯飞星火大模型和星火知识库搭建的文档问答服务，能够高效检索文档信息，准确回答专业问题。具备多文档问答，文档知识库，信源原文定位，文档总结，自定义切分等功能。
-58. [PMAI](https://www.pm-ai.cn/) - 面向产品经理的AI助手
-59. [PDF.ai | Chat with your PDF documents](https://pdf.ai/) - We built the ultimate ChatPDF app that allows you to chat with any PDF: ask questions, get summaries, find anything you need!
-60. [司马阅-国产领先的AI文档分析产品，自研文档智能大模型，帮您从繁杂文档中解放出来！](https://smartread.cc/) - 司马阅，是一款基于自研文档智能大模型(DocMind)开发的AI文档阅读分析产品，通过聊天互动形式，精准地从复杂文档提取并分析信息，极大节省文档阅读和检索时间及便捷获取创新灵感，高效应用于工作、学习场景，如读行业市场报告、产品手册、法律文档、论文文献、电子书等。
-61. [知我AI - AI个人知识库 | 总结文档、音视频 | 生成思维导图 | 高效知识管理、检索](https://knowme.xiaoduoai.com/) - 知我AI智能阅读机器人，专注搭建个人专属知识库，提升知识获取和利用效率，知我AI快速阅读视频、网页、文档、且总结相关内容，提炼精华要点，智能阅读分类管理知识库，碎片整合集中阅读实现自我成长。
-62. [星火科研助手](https://paper.iflytek.com/) - 科大讯飞联合中科院推出的AI科研文献助手
-63. [印象AI上线 | 印象笔记](https://www.yinxiang.com/about/yxai-yxbj/) - 作为你的第二大脑，记录就用印象笔记。印象笔记可以帮助你高效工作、学习与生活。支持无缝多端同步，快速保存微信、微博、网页等内容，一站式完成信息的收集备份、高效记录、分享和永久保存。
-64. [Craft the best docs in the world](https://www.craft.do/) - Everything you create, plan, and schedule, perfectly organized your way.
-65. [Humata: AI for your files](https://www.humata.ai/) - Unlock AI insights for your files instantly. Ask, learn, and extract data 10X faster with Humata.
-66. [ChatDOC - AI Chat with PDF Documents](http://chatdoc.com/) - Dive into PDFs like never before with ChatDOC. Let AI summarize long documents, explain complex concepts, and find key information in seconds.
-67. [PandaGPT](https://www.pandagpt.io/) - AI文档要点总结工具
-68. [AI Document Processing For Transactional Workflows](https://rossum.ai/) - Automate complex transactional workflows with Rossum’s AI document processing solution. Reduce manual tasks, increase accuracy, drive efficiency.
-69. [Process 100% of Complex Documents | super.AI](https://super.ai/) - Automate business processes end-to-end with guaranteed results using super.AI Intelligent Document Processing (IDP). Quickly extract data from complex documents using the latest AI models.
-70. [TreeMind树图官网 - 在线AI思维导图软件 | 免费脑图模板](https://shutu.cn/) - TreeMind树图官网(shutu.cn)提供正版AI思维导图工具软件和免费在线脑图模板。支持脑图、逻辑图、树形图、鱼骨图、组织架构图、时间轴等多种专业格式，适合头脑风暴和创意规划，助力您的思维创新。
-71. [boardmix博思白板，团队提效魔法棒](https://boardmix.cn/ai-whiteboard/) - 白板+AI，在一个实时协作的智慧白板上，一键生成PPT、用AI协助创作思维导图、AI绘画、AI写作，共享资源素材，宛如团队提效魔法棒，让创意充满无尽可能
-72. [ProcessOn思维导图流程图-在线画思维导图流程图_在线作图实时协作](https://www.processon.com/) - ProcessOn是一款专业在线作图工具和知识分享社区，提供AI生成思维导图流程图。支持思维导图、流程图、组织结构图、网络拓扑图、鱼骨图、UML图等多种图形，同时可实现人与人之间的实时协作和共享，提升团队工作效率。
-73. [百度文库-自由画布公测预约](https://wenku.baidu.com/pcactivity/freeBoard) - 百度文库和百度网盘联合推出的AI万能白板
-74. [亿图脑图MindMaster 多平台思维导图软件，让您的创意破茧而出](https://www.edrawsoft.cn/mindmaster/) - A股上市公司万兴科技旗下的亿图脑图MindMaster软件是一款多平台思维导图软件，可用于Windows，Mac和Linux等桌面环境，也可以在线使用或在苹果，安卓等移动端上使用。集成思维导图社区和云平台，专业版本提供比免费版本更强大的特色功能。
-75. [妙办画板-免费在线画图软件工具，专业绘图软件、做图工具、示意图工具](https://imiaoban.com/) - 妙办画板，专门为您研发的画图软件工具，实现专业绘图软件工才能绘制的示意图、思维导图、流程图、组织架构图、脑图、关系图、结构图等；大量作图模板让你快速上手做图；妙办画板能够快速提高你的工作效率。
-76. [Mapify: AI 思维导图总结工具](https://mapify.so/cn/) - Mapify 是一个强大的 AI 思维导图工具，能够在几分钟内将包括 PDFs、Word 文档、PowerPoint 演示文稿、YouTube 视频和图片在内的多种内容类型转换成清晰、结构化的思维导图。
-77. [小画桌](https://www.xiaohuazhuo.com/) - 在线协作白板工具，内置AIGC功能
-78. [印象图记](https://www.yinxiang.com/product/evermind/) - 印象图记
-79. [知犀AI，一键智能生成脑图 - 新一代AI思维导图软件](https://www.swdt.com/) - 知犀AI（swdt.com），是一款GPT人工智能Ai思维导图工具，输入一句话即可一键生成思维导图，助您头脑风暴、高效捕捉灵感，并自动拓展脑图或生成文章，显著提高学习或工作效率，快来知犀AI体验吧~
-80. [Xmind AI: The Best AI Brainstorming & Mind Mapping Tool](https://xmind.ai/) - Discover Xmind AI, the ultimate tool for AI-powered brainstorming and mind mapping. Enhance your creative process with smart features that make idea generation, organization, and expansion effortless and intuitive.
-81. [妙办工作台](https://imiaoban.com/work/AIht) - AI免费一键生成流程图、思维导图
-82. [GitMind · 思乎 - AI思维导图流程图白板制作软件](https://gitmind.cn/) - GitMind（思乎）是一款全平台 在线思维导图脑图架构图制作软件工具，支持手机手机思维导图，Windows/Mac/L多平台操作及内容同步。它提供有海量的架构图，流程图、思维导图模板可供用户直接使用，支持在线制作流程图、思维导图、组织结构图、类图、用例图、ER图、网络拓扑图以及UML图等十多种图形。
-83. [亿图图示AI，你的超级办公助手，全面提升你的办公效率。](https://www.edrawsoft.cn/edrawmax/ai/) - 亿图图示AI，支持一键生成流程图、思维导图、时间线等多种图形图表；支持一键分析并优化文本、图形图表；支持AI智能对话和AI一键绘画。
-84. [Page Not Found - Whimsical](https://whimsical.com/ai-mind-maps) - From brainstorm to launch—plan, create, manage, and communicate in one workspace. Experience the difference of calm, focused work for you and your team.
-85. [AmyMind - AI Mind Mapping App](https://amymind.com/) - AmyMind is a free AI app for effortless creation and sharing of mindmaps.
-86. [Autonomous AI Agents &amp; Workflow Automation | Taskade](https://www.taskade.com/) - Meet your AI workforce with Taskade! Build, train, and deploy AI agents that think, learn, and act—ready to plan, research, and complete tasks alongside your team. Unlock agentic workflows where humans and AI collaborate to boost productivity 10X. Automate tasks and turn insights into action—all in one unified workspace.
-87. [Mind Map Maker | Free Mind Mapping Online | Miro](https://miro.com/mind-map/) - Create a free mind map quickly and easily. Organize ideas, thoughts and concepts to see connections and turn insight into action.
-88. [Ayoa Ultimate - Because mind mapping is just the beginning](https://www.ayoa.com/ultimate/) - Supercharge your ideas with AI, brainstorm with your team, task manage projects, and organize personal to-do lists.
-89. [通义听悟-你的工作学习AI助手](https://tingwu.aliyun.com/) - 阿里云通义听悟是聚焦音视频内容的工作学习AI助手，依托大模型，帮助用户记录、整理和分析音视频内容，体验用大模型做音视频笔记、整理会议记录。
-90. [讯飞会议-AI高清视频会议系统|线上远程网络云会议软件](https://meeting.iflyrec.com/) - 讯飞会议是科大讯飞旗下智能A.I云会议系统平台, A.I转写翻译服务，支持超过500方参会者，提供高清视频会议终端,网络视频会议软件,视频会议解决方案。
-91. [飞书妙记-智能会议纪要,快捷语音识别转文字,将会议交流沉淀为知识,一切皆可妙记!](https://www.feishu.cn/product/minutes) - 飞书妙记是新一代的智能会议工具,在线生成会议纪要,智能语音识别转文字,快捷转录视频音频;会议交流沉淀为知识;让会议更专注,更高效！
-92. [Otter.ai - AI Meeting Note Taker &amp; Real-time AI Transcription](https://otter.ai/) - Otter.ai uses an AI Meeting Assistant to transcribe meetings in real time, record audio, capture slides, extract action items, and generate an AI meeting summary.
-93. [腾讯会议AI小助手Pro-腾讯会议](https://meeting.tencent.com/ai/) - 腾讯基于最新人工智能大模型的全能会议助手，能够与您进行对话互动，协助完成会议实时总结、会议待办生成等核心任务，提高您的会议效率，释放更多精力专注于决策。
-94. [Just a moment...](https://www.zoom.com/zh-cn/products/collaboration-tools/) - Zoom推出的AI办公协作和交流沟通平台
-95. [麦耳会记](https://work.duiopen.com/) - 思必驰推出的AI会议助手，语音转文字、字幕同传、AI摘要
-96. [Fireflies.ai | AI notetaker to transcribe, summarize, analyze meetings, Real time AI note taker](https://fireflies.ai/) - Fireflies uses generative AI to bring ChatGPT to meetings. Generate transcripts and smart summaries for Zoom, Google Meet, Microsoft Teams, Webex and several other platforms.
-97. [Noty.ai - Meeting AI Assistant getting work done](https://noty.ai/) - Noty.ai is a Meeting AI assistant that creates, tracks and pushes work-related to-dos. Unlock 2 extra hours daily and make communication 100% actionable. Start for free!
-98. [Airgram](https://www.airgram.io/) - 自动会议笔记和总结的AI助手
-99. [Free AI Writing, PDF, Image, and other Online Tools - TinyWow](https://tinywow.com/) - 免费在线AI工具箱
-100. [ima.copilot-腾讯智能工作台](https://ima.qq.com/) - ima.copilot（简称ima）是一款以知识库为核心的智能工作台产品，已接入腾讯混元大模型和DeepSeek R1模型满血版。ima是搜、读、写一体的效率工具，旨在帮助有较强知识获取、信息处理、内容输出需求的用户，提升学习、办公效率。
-101. [Monica - 万能的助手，懂你的伙伴](https://monica.cn/) - Monica 是一款智能助手，具备强大的记忆功能，随时为你提供个性化的支持与建议。无论是日常生活还是工作学习，Monica 都能成为你的贴心伙伴，帮助你更高效地完成每一件事。
-102. [WPS 灵犀](https://lingxi.wps.cn/) - WPS推出的AI办公助手，支持PPT生成、AI写作
-103. [glif - build AI mini-apps and chatbots using LLMs, image generators, ComfyUI, and more](https://glif.app/) - 无代码的AI小工具构建平台
-104. [奇觅-游戏广告AI制作与投放平台-成都睿晟天和传媒科技有限公司](https://qimi.com/) - 奇觅是游戏行业广告AI制作与投放一体化平台，从素材制作到广告投放全链路在线服务，奇觅已支持巨量引擎，腾讯广告，华为广告，VIVO广告，OPPO广告等媒体的批量广告投放，通过投放数据持续优化素材创意的迭代
-105. [百度网盘-云一朵](https://pan.baidu.com/aipan/welcome) - 百度网盘为您提供文件的网络备份、同步和分享服务。空间大、速度快、安全稳固，支持教育网加速，支持手机端。现在注册即有机会享受2T的免费存储空间
-106. [苏打办公](https://bangong.360.cn/) - 苏打办公，工具就是全，提高办公生活效率，全网最好用的办公导航，优质海量工具
-107. [Hoarder](https://hoarder.app/) - The Bookmark Everything app. Hoard links, notes, and images and they will get automatically tagged AI.
-108. [通义晓蜜](https://tongyi.aliyun.com/xiaomi) - 阿里推出的企业智能服务解决方案
-109. [奇妙问-交互数字人](https://aiask365.com/) - 奇妙问是由出门问问推出的AI交互式数字员工生成平台,基于自研的“序列猴子”大模型,为政企、文旅等行业提供数字接待、客服、销售等服务,提供一站式交互数字人解决方案。
-110. [Google NotebookLM | Note Taking &amp; Research Assistant Powered by AI](https://notebooklm.google/) - Use the power of AI for quick summarization and note taking, NotebookLM is your powerful virtual research assistant rooted in information you can trust.
-111. [小微助手](https://xiaowei.weixin.qq.com/next) - 微信推出的桌面端AI效率助手工具
-112. [影刀AI Power | 影刀AP-帮助企业将AI用起来 - 影刀官网](https://www.yingdao.com/ai-power/) - 影刀AI Power是一款无需代码即可搭建AI应用的产品，它全面聚合现有的AI大模型，提供了一套极简的AI应用搭建工具。使用影刀AP，接入AI的成本只有3分钟，让你真实地感受AI落地可以如此简单。
-113. [巧文书](https://www.tongdaai.com/) - 巧文书(原通答AI)是一款专为企业打造的AI智能编标产品。通过先进的AI大模型，精准解析招标文件，智能生成投标内容，快速制作符合要求的高质量标书。智标易显著提升编标效率，帮助企业缩短编标时间，提高中标率。
-114. [司马诸葛-国产领先的企业级AI数字员工平台(AI智能体)，助力企业加速AI场景落地！](https://smartchoose.cn/) - 司马诸葛是一个基于自研文档智能大模型(DocMind)+大语言模型技术的企业级AI数字员工平台(AI Agent)，企业无需复杂设置，通过企业知识文档，就可训练专属AI数字员工，7*24小时在线解决企业内外部知识问答、专业文档分析、内容再创作等工作任务，并可轻松将AI数字员工接入微信客服、企业微信、飞书、钉钉等平台场景，助力企业十倍速降本增效。
-115. [靠谱AI](https://www.kaopuai.com/) - 靠谱AI是一个专业的AI平台,可以实现AI聊天、AI绘画等功能，打造专属私人AI助手靠谱AI官网聚合文心一言、智谱AI、讯飞星火等先进模型，产品内置30+AI助手，提供学习、工作、咨询、策划等丰富化场景功能，还支持零代码创建AI机器人，量身打造专属AI数字员工。
-116. [Agentforce: Create Powerful AI Agents | Salesforce Asia](https://www.salesforce.com/einsteincopilot) - Build and customise autonomous AI agents to support your employees and customers 24/7, including full integration with the Salesforce ecosystem.
-117. [AI gives you automation superpowers | Zapier](https://zapier.com/ai) - Zapier helps you put AI to use. We make it easy to turn your ideas into real workflows, so you can let computers do more work for you.
-118. [怪兽AI知识库](https://www.guaishouai.net/) - 企业知识库大模型 + 智能AI问答机器人
-119. [【熊猫办公】PPT模板，创意设计素材 高效办公在熊猫](https://www.tukuppt.com/) - 熊猫办公是一家专注创意设计模板下载的网站，涵盖行业优质精品PPT模板、Word模板、Excel模板、免抠元素、视频素材、字体和音效及配乐素材等，集办公设计模板于一体的素材网。
-120. [在线AI创作-智能写作生成神器- AI文案制作-AI表单制作-易企秀](https://ai.eqxiu.com/) - 易企秀小易AI产品是一款AI创作工具,旗下包括多个AI产品,只需要输入文本,即可快速生成你想要的各类内容,借助人工智能的能力高效地为创意设计提供更多个性化的创意选择,人机共创,让创意超越想象
-121. [Merlin](https://merlin.foyer.work/) - 基于ChatGPT的Chrome浏览器扩展，浏览任意网页时利用GPT
-122. [AI that works with your OS - Raycast AI](https://www.raycast.com/ai) - Raycast AI combines leading models like o3-mini, Claude 3.7 Sonnet and DeepSeek R1 with powerful extensions - right on your OS.
-123. [Timely, automatic time tracking for consultancies, agencies and SaaS businesses](https://timelyapp.com/) - Timely&#x27;s AI-powered time tracking software helps teams track their time accurately to report client, project, and work hours easily.
-124. [职徒简历52cv-免费简历模板下载|中英文简历模板|智能求职简历工具](https://www.52cv.com/) - 职徒简历52cv是专业的智能简历制作工具，拥有大量的中英文简历模板、简历案例，可进行智能简历检测，支持金融、互联网、咨询、快销等行业中文简历、英文简历制作，适用于应届生求职、实习、研究生升学等多个场景。
-125. [职得AI简历 - 职得智创旗下免费AI简历生成工具,一键自动简历排版,在线快速设计精美简历](https://www.zdjianli.cn/) - 一款免费且功能强大的AI简历生成器,输入一个岗位名称即可快速生成简历内容,可根据指定的简历模板完成自动排版,支持PDF、WORD格式导出简历;
-126. [AI智能简历云平台_神笔简历服务平台_就业桥资讯服务平台](https://jianli.jiuyeqiao.cn/) - 【神笔简历服务平台】神笔简历为大学生搭建AI智能简历服务平台，包括AI简历服务、AI面试服务、AI职场伴侣等智能化就业指导服务，为您的就业保驾护航!
-127. [蓝字典AI-智能简历生成与优化 | AI笔试面试 | AI求职工具](https://www.lanzidian.com/) - 蓝字典AI专注于提供专业的AI简历生成和优化服务，帮助求职者快速生成高质量的简历，提高求职成功率。通过蓝字典AI求职工具，你可以轻松获得一份符合岗位要求的专业简历。
-128. [YOO简历](https://www.yoojober.com/) - 必优科技推出的AI简历生成工具
-
-## AI 设计
-1. [绘蛙](https://ihuiwa.paluai.com/aibot) - 绘蛙-是阿里巴巴旗下一款功能强大，简洁好用的智能图片、文案创作平台，并且拥有海量虚拟模特可选择。在绘蛙，你可训练自己的商品模型和模特模型，可通过AI生成商拍图和种草文案，可以创作小红书图片,电商商品主图,跨境电商主图,小红书种草文案,穿搭文案，视频口播文案，可在线一键美图,输入口令修改图片内容,一键换装,一键去水印,一键智能消除，一键换脸，一键高清修复图片。
-2. [AI图文创作平台_AI图片编辑工具集__创客贴AI](https://aiart.chuangkit.com/matrix) - 创客贴智能设计在线协作平台，是一款平面设计工具和在线平面设计软件,提供海量海报模板,新媒体配图,电商模板,主图模板,邀请函,公告通知,喜报,logo等免费设计素材和模板,创客贴AI工具箱提供在线智能生成海报,一键抠图,一键消除,一键去水印,图片高清修复,无损放大，智能拼图等众多智能AI工具。
-3. [Figma AI: Your Creativity, unblocked with Figma AI](https://www.figma.com/ai/) - Get started faster, find what you’re looking for, and stay in the flow—with AI tools build for your workflows. Sign up for free today and harness the power of Figma AI.
-4. [蚂上有创意 - 为营销而生的AI创意生成平台](https://idesign.alipay.com/) - 专业的AI营销创意平台，AI帮你轻松搞定Banner设计、商品图优化、海报设计，素材图优化。更有AI创意诊断助手，基于大数据帮你分析高点击率营销素材的秘密，助力商家营销获得高回报。内置海量免费商用素材/模板，一站搞定设计。AIGC功能也超简单，自由对话模式，聊聊天就把创意图做好了！
-5. [爱设计在线设计神器_平面设计网站_作图就用爱设计](https://www.isheji.com/) - 作图就用爱设计,活动海报,公众号配图,朋友圈封面,电商等百万可商用模版一键出图,只需拖拉拽三步在线图片编辑,从此设计不求人
-6. [Just a moment...](https://www.canva.cn/magic/) - Canva可画推出的一站式AI创作套件
-7. [Microsoft Designer - Stunning designs in a flash](https://designer.microsoft.com/) - A graphic design app that helps you create professional quality social media posts, invitations, digital postcards, graphics, and more. Start with your idea and create something unique for you.
-8. [Infinite AI Artboard - Recraft](https://www.recraft.ai/) - Premium image generation and editing tool. Store and share your own styles, create, fine-tune, upscale, and perfect your visuals.
-9. [Just a moment...](https://looka.com/) - AI在线设计和生成logo
-10. [智绘设计](https://taishan.qq.com/brand/) - 腾讯推出的智能设计平台，让内容更精彩
-11. [MasterGo AI 内测申请来啦！](https://mastergo.com/upcoming-ai/apply) - MasterGo重磅推出全新AI功能，结合设计系统，驱动UI设计新体验
-12. [墨刀AI - 激发无限创造力](https://modao.cc/feature/ai.html) - 墨刀AI拥有强大的AI生成能力，支持AI对话、AI生成组件、AI生成原型页面、AI文字填充。墨刀AI是更迅速、更智能的AI助手，轻松应对多元工作场景，能够助力高效完成需求文档、原型线框、流程梳理、思路整理、文案撰写、数据可视化。墨刀AI能即时提供无限创意思路，帮助您在最短时间内完成繁琐的绘制工作，让团队工作更顺畅更省心，全方位赋能原型设计。
-13. [免费AI绘画生成器|在线AI画图工具 — 笔魂AI](https://ibihun.com/draw) - 笔灵AI提供自动生成绘画功能,借助AI画图工具,只需输入文字描述即可进行智能AI作画，满足您多种场景下的AI绘画需求。
-14. [FigJam AI | Figma](https://www.figma.com/figjam/ai/) - Boost collaboration with FigJam&#x27;s AI-powered tools. Get more done as a team and leverage AI to streamline your workflow. Try it now for free!
-15. [鹿班 - 让设计更美好](https://luban.aliyun.com/) - 阿里推出的智能设计商品图和海报的平台
-16. [Canva](https://www.canva.com/magic-design/) - 在线设计工具Canva推出的AI设计工具
-17. [简单设计EasyDesign-免费在线设计工具图片处理工具](https://www.jiandan.link/) - 简单设计是一款专业强大的在线设计工具，图片处理工具，包含海报设计、封面图片设计，LOGO设计、图片压缩、图片裁剪、图片格式转换等功能，是一款良心好用的设计神器。
-18. [AI排版助手 - 公众号智能文案生成与自动排版工具 - 135编辑器](https://www.135editor.com/ai_editor/) - 【135编辑器】专为公众号打造的AI排版解决方案：只需简单3步操作，输入文章主题、获取高质量文案、挑选模板，即可自动完成公众号文章的专业级排版，提升内容质量和阅读体验。
-19. [比格设计-在线图片编辑器_免费在线图片制作_正版图片设计素材](https://bigesj.com/) - 比格设计是一款在线图片编辑器网站，提供海量正版图片、海报图片、公众号配图、图片模板设计素材，大量图片素材均可免费在线图片制作设计，正版配图设计素材，商用无忧。
-20. [Design A New Logo & Brand Identity You Love! - LogoAI.com](https://www.logoai.com/) - Let AI-powered logo maker generate your new logo and create a brand identity design you love.
-21. [豆绘AI - 专业且免费的在线AI绘图设计平台，轻松创作无限可能](https://www.douhuiai.com/) - 豆绘AI是国内领先的AI绘图与设计平台，提供免费且强大的AI工具，支持照片、设计、绘画的一键生成。无论是3D建模、室内设计、动漫游戏、电商图像处理，还是服装设计、广告平面、工业包装，豆绘AI都能助您轻松完成创作。
-22. [VoxCraft: Free 3D AI Generator](https://voxcraft.ai/) - VoxCraft is a powerful 3D generation AI tool that makes it easy to create 3D assets from images or text to accelerate your 3D workflow. We’ve already launched image-to-3D, text-to-3D, and text-to-texture on Discord,and image-to-3D on the web
-23. [Pictographic](https://pictographic.io/) - The illustration dictionary for design
-24. [Fable Prism](https://www.fable.app/prism) - AI动效设计和动画效果制作工具
-25. [Wegic | Your AI website team: designer, developer, manager](https://wegic.ai/) - Hi, we&#x27;re Wegic — your AI website team: designer, developer, and manager.Just chat with us, and we&#x27;ll build, manage, and effortlessly update your site!
-26. [匠紫AI - 让设计更智能](https://jiangziai.com/) - 匠紫AI是生成式智能设计工作台，一键生成30秒，降本提效80%+。面向中小微商家和品牌企业，采用订阅和定制模式。具体功能有AI商品主图、AI商品海报、AI图片翻译、AI文生图、AI banner、AI快闪设计、AI抠图、AI主题海报等。
-27. [Collov AI | The Future of Interior Design With AI](https://collov.cn/) - AI室内家居设计生成平台
-28. [数字艺术图片-数字艺术素材免费下载-包图网](https://ibaotu.com/tupian/shuziyishu.html) - 包图网精选海量数字艺术图片供您下载使用，免费高清数字艺术图片素材，轻松编辑即可完成设计需求，让设计更简单。
-29. [易可图 - 电商做图必备_在线图片编辑及海报设计平台](https://www.yiketu.com/) - 易可图专注融合AI，重塑电商图片编辑体验。提供商品图AI智能换背景、AI模特试衣、一键抠图、图片批量编辑等功能。更有海量电商模版，快速出图，适用各大电商平台，让商品视觉更出众!
-30. [Creatie | Intuitive, affordable, AI-powered product design software](https://creatie.ai/) - AI驱动的UI和UX设计工具
-31. [Kittl | The most intuitive collaborative design platform](https://www.kittl.com/) - Kittl is the intuitive design platform for professionals, featuring real-time collaboration, advanced tools, and a vast library of fonts and assets. Design, deliver, and collaborate seamlessly.
-32. [Dzine (formerly Stylar.ai) - The Most Controllable AI Image &amp; Design Tool](https://www.stylar.ai/) - Transform design with Dzine: the most controllable AI design tool. Enjoy image generation and editing on our all-in-one online free platform.
-33. [Ilus AI - AI illustration Generator](https://ilus.ai/) - Ilus AI is an AI illustration Generator that creates beautiful, stylistically consistent illustrations
-34. [酷家乐AI_让创意更高效，让意向更合拍_AI装修灵感生成工具](https://www.kujiale.cn/activities/AI-kujiale) - 酷家乐AI，一键快速生成多风格效果图。无需等待漫长渲染，轻松应对多种风格需求。无论是设计师还是业主，都能快速获取装修灵感，提升工作效率。
-35. [Pixso官网 - 新一代UI设计工具，替代Sketch，Figma，支持在线实时协作](https://pixso.cn/) - pixso是一体化设计协作工具，助力产研设团队制作原型，ui/ux设计，视觉设计，低代码交付时获得更轻松流畅的工作体验，让团队协作更高效。支持sketch，figma格式。
-36. [Framer AI Website Builder Tools: Translate, Rewrite &amp; Style](https://www.framer.com/ai) - Discover Framer’s AI-powered tools to translate websites, rewrite content, and define brand tone. Build global, professional sites effortlessly with AI.
-37. [内容生产与管理一站式服务平台 - 内容驱动增长](https://ling.jd.com/) - 京东羚珑 - 营销内容创意平台：一键抠图、免费抠图、商品打腰带、改尺寸、商品主图设计、线上广告banner设计、店铺首页设计、活动页设计、页面设计、互动营销设计、小程序设计、动图视频设计、视频广告设计、商品主图视频设计、海报设计、公众号配图设计、二维码名片设计、DM传单设计、物流面贴设计、易拉宝设计、张贴海报设计，海量精美模板，免费设计，免费素材，专区，致力于成为商家经营的设计合作伙伴。
-38. [灵动AI - 新一代创意营销影像生成AI智能体](https://www.redoon.cn/) - 灵动AI，超级好用的在线设计工具，商家或者设计小白都能轻松上手快速出图。提供海量精美模板和素材，适用于美妆、快消、3C、家电、家装等产品品类。可以输出电商主图、电商海报、商品视频等营销物料，拥有横版、竖版和方形尺寸，适配各种用途。
-39. [PhotoMagic](https://www.photomagic.cn/) - AI快速生成商拍图片
-40. [LogoliveryAI — Free AI-powered Logo Generator in SVG Format](https://logolivery.ai/) - Create free custom logotypes in a few seconds by simply entering your prompts. Export all the source files in SVG format.
-41. [Motiff: AI-powered Professional Interface Design Tool](https://motiff.com/) - Motiff is the ultimate Interface AI design tool, powered by AI, offering comprehensive UI/UX design features, prototyping, and Dev Mode. Design all-in-one, online.
-42. [Pimento - Let&#x27;s create together](https://www.pimento.design/) - Pimento is a creative generative AI tool used by thousands of brands, designers, and creatives to produce high-quality visuals. Pimento offers full control along with unlimited creativity, allowing our users to edit and create high-quality images that accurately reflect their brand or artistic direction in a cost-efficient manner. 🌶️
-43. [AI Logo Maker | Logo Maker | Logo Diffusion](https://logodiffusion.com/) - Create custom logos in seconds with Logo Diffusion&#x27;s AI Logo Maker. Start from sketches or text prompts and control every detail. Perfect for professionals and beginners, our tool uses the latest design trends to deliver high-quality results fast.
-44. [一站式3D设计协同_在线3d设计协作平台-Realibox引力波](https://www.realibox.com/product/ai) - Realibox Studio是在线3D设计、产品交互与协同平台，专注于3d设计协同、设计评审和数字展厅的创新应用平台。通过3D建模、实时渲染、AR/VR交互和3d产品交互设计功能，为企业提供产研销一体化解决方案。
-45. [Convert PNG, JPG files to SVG vectors online - Vectorizer.AI](https://vectorizer.ai/) - Trace pixels to vectors in full color. Fully automatically. Using AI.
-46. [模袋云AI](https://www.modaiyun.com/mdy/ai) - 模袋云是一个无需下载安装，可以无限免费出图，无限免费训练Lora风格的Ai创作平台
-47. [Vizcom](https://www.vizcom.ai/) - Vizcom is a creative tool built for design and creative professionals. It offers a transformative approach to concept drawing, enabling users to turn their sketches into impressive realistic renderings quickly and efficiently.
-48. [Dora AI - Sites beyond imagination, one prompt away.](https://www.dora.run/ai) - Generate, customize, and deploy 3D websites with AI in just one prompt- all within Dora&#x27;s powerful no-code editor.
-49. [Designs AI - Free Online Logo, Image, AI Chat Videos &amp; Voice Generator](https://designs.ai/) - Create Online AI logos, generate AI images, social media posts, videos, voices, text-to-speech, company logos, flyers, posters, &amp; animated videos for free
-50. [Galileo AI](https://www.usegalileo.ai/) - AI高保真原型设计
-51. [Spline AI 3D Generation – The power of AI for the 3rd dimension.](https://spline.design/ai) - Use text to 3D and image to 3D to generate 3D mesh objects. Take your ideas from concepts to real life through remixing and referencing any of your previous results.
-52. [千图设计室|AI海报|-智能生成-免费海报设计-平面模板-在线设计神器](https://hihaibao.com/) - 千图设计室AI海报是千图网旗下的智能海报在线设计平台，提供免费AI智能海报生成，只需输入一句话，即可快速生成各种节日海报,日签,邀请函,电商主图,公众号配图,喜报,倒计时等模板生成。一键可生成多种设计风格美图，满足您的个性化需求，快速稿定设计需求。
-53. [illostrationAI](https://www.illostration.com/) - AI插画生成，low poly、3D、矢量、logo、像素风、皮克斯等风格
-54. [AI UI Design | AI-Powered UI Design Is Here! | Uizard](https://uizard.io/ai-design/) - The future of UI design is here with Uizard, the world&#x27;s first AI UI design tool. Sign up to Uizard for free today.
-55. [Luma Dream Machine: New Freedoms of Imagination](https://lumalabs.ai/) - Ideate, visualize, create videos, and share your dreams with the world, using our most powerful image and video AI models.
-56. [图宇宙-高品质智能设计平台-电商抠图免费设计](https://www.nolibox.com/introduction) - 电商/新媒体/餐饮/人事行政做设计就用「图宇宙」，超懒爽、真智能、零风险；给我需求，给你设计，自动生成多平台、多尺寸结果；臻选素材，正版授权，安心商用
-57. [Meshy AI - The #1 AI 3D Model Generator for Creators](https://www.meshy.ai/) - Meshy is an AI 3D model generator that helps to effortlessly transform images and text into 3D models in seconds.
-58. [Fabrie AI](https://kebuxi.datasink.sensorsdata.cn/r/dF) - 在线白板协作平台Fabrie推出的AI设计助手，支持多种渲染模式
-59. [Poly: The Intelligent Cloud File Browser](https://withpoly.com/browse/textures) - Poly is building a better cloud hosting service for your personal files and media, that lets you search in intuitive natural language, browse and tag things, and sync from your favorite AI services. All with a tool that feels fast and native.
-60. [Illustroke | Vector illustrations from text prompts AI](https://illustroke.com/) - Illustroke allows users to easily create stunning vector illustrations (svg) from text prompts. Simply enter in the text you want to use, and our platform will generate a beautiful, customizable illustration that you can download and use on your website or social media.
-61. [Eva Design System: Deep learning color generator](https://colors.eva.design/) - Generate color pallets using deep learning powered algorithm
-62. [Color Wheel - get color ideas for your logo, illustration or web design](https://brandmark.io/color-wheel/) - Quickly get color inspiration with our AI color palette generator
-63. [Huemint - AI color palette generator](https://huemint.com/) - AI调色生成工具
-64. [AI Agents to Automate Back-Office Work | Zams](https://www.obviously.ai/) - Zams is an enterprise platform to build AI agents that automate back-office work with speed, security and governance.
-65. [Free Logo Maker | Create Your Own Logo Design | Logomaster.ai](https://logomaster.ai/) - Logomaster.ai is your one-stop solution for professional logo design. Create and edit logos with ease, no design skills required. Try it now for free!
-66. [Magician for Figma](https://magician.design/) - A magical design tool for Figma powered by AI.
-67. [Appicons.ai - AI App Icon Generator | Create Mobile Icons Instantly](https://appicons.ai/) - Generate stunning app icons with AI. Create professional mobile app icons, iOS icons, and Android icons in seconds. Free app icon generator powered by artificial intelligence.
-68. [AI Icon Generator - Make unique app icons in seconds](https://www.iconifyai.com/) - Create unique, beautiful and professional app icons with our AI icon generator. Convert text to ready to use logo easily just in seconds.
-69. [Khroma - AI Color Tool for Designers | Discover and Save Color Palettes](https://www.khroma.co/) - Khroma is the fastest way to discover, search, and save color combos and palettes you'll love. Discover a personalized AI-powered color tool for designers to find the perfect color scheme.
-70. [即时 AI - 生成式图像创作及 UI 设计工具](https://jsai.cc/ai/create) - 根据画面描述，可得到四张高质量创意图像作品。支持通过自然语言描述生成可二次编辑的高质量 UI 设计稿。
-71. [Alpaca](https://www.getalpaca.io/) - 将生成式AI集成到Photoshop图像设计中
-
-## AI 编程
-1. [通义灵码](https://click.aliyun.com/m/1000399943/) - 阿里推出的免费AI编程工具，基于通义大模型
-2. [文心快码](https://comate.baidu.com/) - 百度推出的AI编程助手，基于文心大模型
-3. [Generative AI Assistant for Software Development – Amazon Q Developer – AWS](https://aws.amazon.com/codewhisperer/) - Amazon Q Developer is the most capable generative AI–powered assistant for building, operating, and transforming software, with advanced capabilities for managing data and AI/ML.
-4. [GitHub Copilot](https://github.com/features/copilot) - GitHub推出的AI编程工具
-5. [豆包 MarsCode - 编程助手](https://www.marscode.cn/) - 基于豆包大模型，提供智能 AI IDE 和 AI 编程助手，带给你全新的编码体验。AI IDE 提供开箱即用的开发环境，AI 编程助手提供代码生成、代码解释、单测生成和问题修复等功能，支持上百种编程语言和主流开发环境。
-6. [Cursor - The AI Code Editor](https://www.cursor.com/) - Built to make you extraordinarily productive, Cursor is the best way to code with AI.
-7. [CodeGeeX](https://codegeex.cn/zh-CN) - 智谱AI推出的免费AI编程助手
-8. [小浣熊家族 Raccoon - AI 智能助手 - 商汤科技](https://www.xiaohuanxiong.com/code) - Raccoon - Another Comprehensive CO-pilOt Navigator ｜ Raccoon是基于商汤自研大语言模型的智能助手，包含代码助手、办公助手，满足用户代码编写、数据分析、编程学习等各类需求。
-9. [腾讯云AI代码助手_代码智能补全_代码智能诊断- 腾讯云](https://cloud.tencent.com/product/acc) - 腾讯云 AI 代码助手，是一款辅助编码工具，基于混元代码大模型，提供技术对话、代码补全、代码诊断和优化等能力。为你生成优质代码，帮你解决技术难题，提升编码效率。
-10. [Windsurf Editor and Codeium extensions](https://www.codeium.com/) - Codeium is the AI code assistant platform that developers love and enterprises trust. Also the builders of Windsurf, the first agentic IDE.
-11. [Cody | AI coding assistant from Sourcegraph](https://about.sourcegraph.com/cody) - Cody is the most powerful and accurate AI coding assistant for writing, fixing, and maintaining code
-12. [DevChat 编程助手 | 让开发更轻松](https://www.devchat.ai/zh) - 开源的支持多款大模型的AI编程助手
-13. [Codium is now Qodo | Quality-first AI Coding Platform](https://www.codium.ai/) - Codium is now Qodo - multi-agent coding experience to help devs test, review &amp; write code directly within their IDE and Git.
-14. [iFlyCode](https://iflycode.xfyun.cn/) - 科大讯飞推出的智能编程助手
-15. [Twinny - Privacy-First AI Extension &amp; Symmetry Network](https://twinny.dev/) - The free and private AI extension for Visual Studio Code and home of the Symmetry inference network. Enhance your development with privacy-focused AI assistance.
-16. [Project IDX](https://idx.dev/) - Project IDX is an entirely web-based workspace for full-stack application development, complete with the latest generative AI from Gemini, and full-fidelity app previews, powered by cloud emulators.
-17. [Sketch2Code](https://sketch2code.azurewebsites.net/) - 微软AI Lab推出的将手绘草图转换成HTML代码工具
-18. [codefuse](https://codefuse.alipay.com/) - 蚂蚁集团推出的AI代码编程助手
-19. [Tabby - Opensource, self-hosted AI coding assistant](https://tabby.tabbyml.com/) - Tabby is a self-hosted AI coding assistant, offering an open-source and on-premises alternative to GitHub Copilot
-20. [C知道-开发者的首选AI搜索引擎](https://so.csdn.net/chat) - C知道由CSDN和外部合作伙伴联合研发的领先AI产品，能高效完成AI问答、AI对话、文件分析、代码生成以及开发相关的问题，帮您提高工作和学习效率。
-21. [驭码 CodeRider - AI 编程与软件智能研发助手 - 极狐GitLab](https://coderider.gitlab.cn/) - 驭码CodeRider，与 GitLab DevOps 无缝集成。助力您构建企业专属 AI DevOps 平台，用 AI 赋能软件研发！
-22. [GitLab Duo | GitLab](https://about.gitlab.com/gitlab-duo/) - The suite of AI capabilities powering your workflows.
-23. [Attention Required! | Cloudflare](https://coderabbit.ai/) - AI驱动的代码审查平台
-24. [Augment Code – Developer AI for real work](https://www.augmentcode.com/) - Experience the AI platform that truly understands your codebase. Our developer AI helps teams code faster, make smarter decisions, and unlock collective knowledge. Try free today.
-25. [Devin (the Developer)](https://preview.devin.ai/) - Your reliable AI software engineer
-26. [Plandex - AI coding engine for complex tasks](https://plandex.ai/) - An open source, terminal-based AI coding engine. Designed for real-world tasks that span many files.
-27. [Fitten Code](https://code.fittentech.com/) - Fitten Code
-28. [BLACKBOX.AI](https://www.useblackbox.io/) - BLACKBOX.AI is the best ai agent, built to transform the way you work and learn and trusted by +10 M users and Fortune 500 companies
-29. [Solo - Free AI Website Creator](https://soloist.ai/) - Create a beautiful website for your business from a few simple inputs
-30. [JetBrains AI Service and In-IDE AI Assistant](https://www.jetbrains.com/ai/) - Your favorite tools gain new abilities while you are empowered with more information at your fingertips. Free yourself from the routine and stay in the flow like never before.
-31. [CodeArts 盘古助手-华为云](https://www.huaweicloud.com/product/codeartside/snap.html) - 基于盘古研发大模型提供智能生成、智能问答和智能协同3大核心能力，重构需求管理分析、新增代码开发、存量代码优化、代码质量看护、应用便捷部署等多种研发场景。
-32. [AskCodi - AI-Powered Code Assistant | Making Coding Simple – AskCodi](https://www.askcodi.com/) - AskCodi is an AI coding assistant with gen-ai capabilities, proficient in multiple languages and frameworks. Start coding with our AI-Powered Code Assistant today!
-33. [Vercel Security Checkpoint](https://v0.dev/) - AI生成前端React/UI组件，由Vercel推出
-34. [Meet Boxy, Your New AI Coding Assistant - CodeSandbox](https://codesandbox.io/blog/meet-boxy-ai-coding-assistant) - Bring your ideas to life faster by having AI contextually explain, generate and refactor code.
-35. [The easiest way to build React Apps | Figma to React | Quest](https://www.quest.ai/) - Generate React components from your Figma design and export clean code that is extendable. MUI &amp; Chakra UI support built-in.
-36. [天工智码SkyCode](https://sky-code.singularity-ai.com/index.html) - AI智能编程助手，轻松生成各种代码
-37. [Jam AI - Never write repro steps again](https://jam.dev/jamgpt) - Ready-to-share bug reports for your developers, in one click. Never write repro steps again.
-38. [aiXcoder](https://www.aixcoder.com/) - aiXcoder：国内首款基于深度学习的智能化软件开发工具，利用AI技术实现代码⾃动⽣成、代码⾃动补全、代码智能搜索等功能，提升开发者开发效率与代码质量。
-39. [AirOps - Bold SEO Strategies run on AirOps](https://www.airops.com/) - Build powerful LLM workflows that combine your data, GPT-4, Claude, Gemini and more to drive real growth in your business.
-40. [图像大厨imgcook](https://www.imgcook.com/) - 由设计稿一键智能生成代码的大厨 | An intelligent tool turning designs to code
-41. [Deco - 设计稿一键生成多端代码](https://ling-deco.jd.com/) - 京东推出的设计稿一键生成多端代码工具
-42. [Agent &amp; Assistant - Replit](https://replit.com/site/ghostwriter) - 知名在线编程IDE Replit推出的AI编程助手
-43. [Codiga: Static Code Analysis in Real-Time](https://www.codiga.io/) - Static Code Analysis in VS Code, JetBrains, VisualStudio, GitHub, GitLab and Bitbucket.
-44. [Locofy](https://www.locofy.ai/) - AI无代码工具将Figma、Adobe XD和Sketch设计转换成前端代码
-45. [Image to HTML CSS converter. Convert image to HTML CSS with AI: Fronty](https://fronty.com/) - Fronty - Image to HTML CSS code converter. Convert image to HTML powered by AI.
-46. [MarsX is a dev tool that unites AI, NoCode, Code and MicroApps](https://www.marsx.dev/) - AI-powered coding platform (dev tool) to build SaaS tools in days! MarsX / MarsAI or Mars AI.
-47. [Tabnine AI Code Assistant | private, personalized, protected](https://www.tabnine.com/) - Tabnine is the AI code assistant that accelerates and simplifies software development while keeping your code private, secure, and compliant.
-48. [Mutable AI](https://mutable.ai/) - 人工智能加速软件开发
-49. [Debuild](https://debuild.app/) - 低代码快速开发网页应用
-50. [Warp: The intelligent terminal](https://www.warp.dev/) - Warp is the intelligent terminal with AI and your dev team&#x27;s knowledge built-in. Available on MacOS, Windows and Linux.
-51. [Fig](https://fig.io/) - The next-generation command line.
-52. [Code Snippets AI](https://codesnippets.ai/) - Contextually-rich AI chats, integrated with your secure code snippets library.
-Build new features, fix bugs, //add comments and understand your codebase.
-53. [Hocoos AI Website Builder - Create Your Website in 5 Minutes](https://hocoos.com/) - Create professional websites in seconds with Hocoos AI website builder. Get all the sales and marketing tools to start &amp; grow your online business now.
-54. [HTTPie AI — a new way to interact with APIs](https://httpie.io/ai) - Making APIs simple and intuitive for those building the tools of our time.
-55. [AI Code Reviewer](https://ai-code-reviewer.com/) - AI代码检查
-56. [Visual Studio IntelliCode | Visual Studio - Visual Studio](https://visualstudio.microsoft.com/zh-hans/services/intellicode/) - Visual Studio IntelliCode 是一组实验性的 AI 辅助开发功能，用于提高下一代开发人员的工作效率。
-57. [heyCLI - your copilot for linux commands](https://www.heycli.com/) - Linux commands in natural language. Work in terminal but using plain English!
-
-## AI 搜索
-1. [夸克电脑版](https://b.quark.cn/apps/qkhomepage_twofoufeb/routes/model) - 
-2. [心流AI助手 | 让知识随心流动](https://iflow.cn/) - 心流是一款AI助手，帮助你高效获取知识，无论是日常娱乐生活百科还是专业学术论文知识，都可以轻松解答，让你快速进入心流状态，让知识随心流动！
-3. [AMiner](https://www.aminer.cn/chat/g/explain) - 智谱AI推出的大模型学术平台
-4. [Devv AI](https://devv.ai/zh) - Devv - 面向程序员的新一代 AI 搜索引擎，致力于解决 ChatGPT/Claude 无法回答的编程难题。
-5. [知乎直答](https://zhida.zhihu.com/) - 知乎直答（zhida.ai）是知乎推出的一款使用 AI 大模型等先进技术的产品，以知乎社区的优质内容为核心，多种数据源为辅助，为人们提供一种全新的获取可靠信息的途径。知乎直答是多智能体系统，能够满足用户多维度的需求；同时对生成结果进行溯源，以确保内容的可信、可控以及对知识产权和版权的尊重。知乎直答致力于为用户提供卓越的使用体验，用技术拉近创作者和用户之间的距离。有问题，就会有答案。
-6. [百度AI搜索 - 办公学习一站解决](https://think.baidu.com/) - 百度AI搜索，一站式解决复杂问题，激发PC端超级生产力！独有「灵感探索」功能深入剖析问题核心，智能文字创作、图片创作、AI阅读、智能体海量应用启迪无限创意，开启高效智能学习办公新篇章！
-7. [Lumina: The AI Search Engine for Research](https://lumina.sh/) - AI search engine for research. Find 5x more relevant results than Google Scholar. Discover academic papers, articles, and publications with unparalleled accuracy and efficiency.
-8. [Felo - Your Free AI Search Engine](https://felo.ai/search) - Ask AI anything with Felo, the free multilingual answer engine. Get real-time answers &amp; create AI presentations, AI mind maps &amp; posters.
-9. [天工AI - 聊天写作对话的全能AI助手，搜索更深度，阅读更多彩](https://tiangong.cn/) - 天工是一款支持搜索、写作、对话、文档分析、画画、做PPT的全能型AI助手。你可以借助AI技术，检索信息、多语言翻译、写论文、写代码、写方案、写汇报、做PPT、归纳总结文档和音频视频，还可以智能编辑彩页和宝典，让AI生成高质量彩页内容，收获点赞关注。
-10. [Exa | Web Search API | AI Web Researcher](https://exa.ai/) - The Exa API retrieves the best, realtime data from the web for your AI
-11. [Reddo | AI搜索](https://www.reddo.cloud/search_home) - 说出需求,直达产品/游戏/工具/公司/工作/文章/视频/商品/新闻
-12. [博查AI搜索 - 多模态AI搜索，答案丰富多彩](https://bochaai.com/) - 博查是一个无广告干扰的答案引擎。你可以用自然语言提问，它会理解问题、细分检索并生成准确的答案。
-13. [链企AI｜链企智能 - AI搜索｜AI标书写作｜全网招投标｜AI搜索商机｜企业信息查询](https://www.lianqiai.cn/) - AI商业搜索，新的企业查询体验，一句话为你生成企业调查报告。招投标，工商股权，风险，融资，知识产权等商业数据索引，为你归纳，总结，提炼，梳理，直达精准答案。专业AI标书写作工具，写图文并茂的千页标书。10分钟生成20万字长文，提高10倍+效率；智能响应要求和评分点，标书质量提升20%，写标更快，中标更多！2亿+历史全量招投标讯，查看每天实时更新20万全网采购意向，招标公告，中标结果，直接跳转原文，查看附件，随时洞察竞对动态，挖掘隐藏甲方客户，遥遥领先行业对手。-浙江链企智能技术有限公司
-14. [flowith 2.0 - Your AI Creation Workspace, with Knowledge](https://flowith.net/invitation) - Where Ideas Flow:Interact with the world's most powerful AI in a way from the future flowith is your AI Creation Workspace that transforms knowledge. Through innovative interaction, it allows you to collaborate smoothly with AI, with ideas flowing like a vibrant spring.
-15. [Just a moment...](https://www.genspark.ai/) - 基于智能体的AI搜索引擎
-16. [问问小宇宙](https://ask.xiaoyuzhoufm.com/) - 问问小宇宙是小宇宙团队出品的播客AI检索服务
-17. [Access denied | dexa.ai used Cloudflare to restrict access](https://dexa.ai/) - AI播客搜索工具
-18. [cusp.ai](https://www.cusp.ai/) - 剑桥大学推出的材料学专业AI搜索工具
-19. [开搜AI问答搜索_免费无广告直达结果](https://kaisouai.com/) - 开搜AI，是一款面向大众的、直达答案的AI搜索引擎，不仅为用户问题提供直接、精准的答案，还能自动总结重点、生成大纲、思维导图并下载，为您从上亿文献资料中筛选有用信息，提升您信息获取效率的同时，更能享受到快速、无广告的高品质搜索服务。
-20. [Adot](https://www.adot.tech/) - 一个由AI驱动的 Web3 搜索引擎
-21. [XAnswer: Free AI Search Engine with Direct Answers](https://www.xanswer.com/) - XAnswer is a free AI search engine delivers instant answers, cites clear sources, and generates unique mind maps.
-22. [Work AI for all - AI platform for agents, assistant, search](https://www.glean.com/) - Glean is the Work AI platform connected to your enterprise&#x27;s data. Find, create, and automate anything. Explore what Work AI can do for you!
-23. [AlphaSense | Market Intelligence and Search Platform](https://www.alpha-sense.com/) - AlphaSense finds information on companies, data and themes from within millions of research documents in seconds, all with ONE simple search.
-24. [Globe Explorer](https://explorer.globe.engineer/) - 结构化AI知识搜索引擎
-25. [Reportify - AI 投资研究引擎](https://reportify.cc/) - Reportify - AI 投资研究引擎
-26. [Just a moment...](https://www.phind.com/) - 专为开发者设计的AI搜索引擎
-27. [iAsk AI](https://iask.ai/) - 快速准确的AI搜索引擎
-28. [Consensus](https://consensus.app/) - AI科研学术搜索引擎
-29. [Attention Required! | Cloudflare](https://komo.ai/) - 简洁直观的AI搜索引擎
-30. [Searcholic](https://searcholic.com/) - AI驱动的电子书和文档搜索引擎
-31. [Andi - AI Search for the Next Generation](https://andisearch.com/) - Andi is AI search for the next generation. Instead of just links, Andi gives you answers - like chatting with a smart friend.
-32. [Songtell](https://www.songtell.com/) - Unlock the hidden depths of your favorite songs with the help of AI. Discover the true meaning behind the lyrics you love with Songtell.
-33. [Just a moment...](https://thinkany.ai/zh) - 新时代的AI搜索引擎
-34. [Miku AI Search](https://www.hellomiku.com/) - Miku is an AI CIO designed for knowledge workers. Not only can it obtain accurate results quickly, but it can also efficiently manage information content and help users complete various knowledge tasks.
-35. [Qdrant - Vector Database - Qdrant](https://qdrant.tech/) - Qdrant is an Open-Source Vector Database and Vector Search Engine written in Rust. It provides fast and scalable vector similarity search service with convenient API.
-
-## AI 音频
-1. [讯飞智作-文字转语音,语音合成,一站式配音服务平台](https://peiyin.xunfei.cn/) - 讯飞智作是科大讯飞旗下明星配音产品品牌,提供合成配音软件、真人配音、童声配音、广告宣传片、短视频配音、AI虚拟主播、虚拟数字人等一站式配音服务。
-2. [Suno](https://www.suno.ai/) - Suno is building a future where anyone can make great music.
-3. [海绵音乐 - 一键创作你的 AI 音乐](https://www.haimian.com/) - 海绵音乐是一款 AI 音乐创作产品，输入一句话灵感或者歌词，即可快速生成音乐，最大限度拉近每个人同音乐创作的距离。同时，海绵音乐提供了丰富的自定义功能，让每个人都可以一键创作属于自己的 AI 音乐。在这个过程中，偶遇惊喜，发现更多可能，为你打造耳目一新的音乐创作体验。通过 DeepSeek 大模型智能生成优质歌词，一键导入海绵音乐 AI 即刻生成完整歌曲。支持AI写词/作曲/编曲全流程，提供从文本到旋律、从灵感画面到BGM的智能音乐创作体验，音乐人、视频创作者、广告营销的智能创作首选平台。
-4. [音疯](https://www.yinfeng.cn/home) - AI音乐创作工具，输入歌词即可生成完整专属歌曲。支持添加参考音乐、录制旋律动机，让AI可以基于你的喜好和灵感进行创作！
-5. [琅琅配音--全网最高性价比的AI配音平台-配音神器/有声书配音/短视频配音/专业配音](https://lang123.top/) - 琅琅配音是一款卓越的智能文本转语音工具，提供语音合成服务。拥有全网最受欢迎的1100+AI主播，支持中文、英语、德语、法语等80多种语言，以及高兴、悲伤、兴奋等10多种情感风格
-6. [音剪 一站式音频创作平台](https://audioeditor.ximalaya.com/) - 多情感多模态的Al辅助工具，强大的在线剪辑能力，辅助你轻松创作出优秀的音频作品
-7. [简单听记-全能的AI音视频转文字专家-语音转文字-视频转文字-高精转写-AI总结和分析](https://pan.baidu.com/embed/listennote) - 简单听记是百度推出的音视频转文字处理专家，支持高精度语音转文字、视频转文字、实时翻译。基于AI大模型，支持全流程自动化的音频分析和整理，一键生成AI会议纪要和总结，是工作和学习的最佳效率神器。
-8. [讯飞听见-在线语音转文字-录音转文字](https://www.iflyrec.com/zhuanwenzi.html) - 讯飞听见依托科大讯飞的语音识别技术，为用户提供语音转文字、录音转文字等服务。把录音转成文字选讯飞听见，1小时音频最快5分钟出稿，高效安全。
-9. [Memo AI | AI-powered transcription. Convert your audio &amp; video files to text.](https://memo.ac/) - AI-powered transcription. Convert your audio & video files to text.
-10. [Reecho睿声 - 超拟真语音合成与瞬时克隆平台](https://www.reecho.ai/) - Reecho睿声是一款专注于5秒瞬时语音克隆和超拟真语音合成的创新产品，由自研尖端Reecho文生语音大模型驱动，可深入理解文本，瞬时克隆任意声音，并实现与真人无异的超拟真语音合成效果。
-11. [Udio | AI Music Generator - Official Website](https://www.udio.com/) - Discover, create, and share music with the world. Use the latest technology to create AI music in seconds.
-12. [网易天音 - 一站式AI音乐创作工具 - 官网](https://tianyin.163.com/) - 网易天音AI创作平台，词曲编唱样样精通，海量风格全部免费使用，还不快来点亮你的音乐天赋！
-13. [首页-TME Studio](https://y.qq.com/tme_studio/index.html) - TME Studio是由腾讯音乐娱乐公司推出的一款在线音乐创作助手，由旗下银河音效、MUSE、天琴实验室、Tencent AI Lab共同打造，提供包括但不限于音乐分离、MIR计算、辅助写词、智能曲谱等创作工具。助力音乐爱好者，让创作更简单。
-14. [Lyrics Into Song AI - 免费在线将歌词转换为音乐](https://lyricsintosong.ai/zh) - Lyrics Into Song AI 使用先进的 AI 将书面歌词转化为美丽的原创歌曲，完美适合词曲作者和音乐家
-15. [Stable Audio - Generative AI for music &amp; sound fx](https://www.stableaudio.com/) - Make original music and sound effects using artificial intelligence, whether you’re a beginner or a pro.
-16. [Text to Speech.im：在线免费文本转语音](https://texttospeech.im/zh-CN) - 使用我们免费的AI文本转语音工具轻松将文本转换为语音。享受自然流畅的语音合成，并实现高质量音频的无缝下载。我们的文本转语音生成器是制作引人入胜的内容的理想选择。
-17. [在线免费文字转语音 - TTSMaker官网 | 马克配音](https://ttsmaker.cn/) - TTSMaker（马克配音）是一个免费的AI配音平台，可以将文本转换成语音，支持50多种语言和300多种语音风格，包括各种热门短视频声音，强大的神经网络使语音听起来更加自然，您可以在线试听，或者按mp3、wav格式下载音频文件。
-18. [AI Voice Generator: Realistic Text to Speech &amp; Voice Cloning](https://lovo.ai/) - Award-winning AI Voice Generator and text to speech software with 500+ voices in 100 languages. Realistic AI Voices with Online Video Editor. Clone your own voice.
-19. [AI Vocals and Text To Speech | Uberduck](https://uberduck.ai/) - Make Music, Voiceovers and Videos With AI Vocals, Text to Speech, Voice Conversion and Voice Cloning
-20. [Free Text to Speech &amp; AI Voice Generator | ElevenLabs](https://try.elevenlabs.io/mqbahm8egbk8) - Create the most realistic speech with our AI audio tools in 1000s of voices and 32 languages. Easy to use API&#x27;s and SDK&#x27;s. Scalable, secure, and customizable voice solutions tailored for enterprise needs. Pioneering research in Text to Speech and AI Voice Generation.
-21. [Sonauto | New Music by You](https://sonauto.ai/) - An unlimited free AI music generator with lyrics. Turn any idea into a full song with our highest quality model. Share your music with the world.
-22. [天工AI音乐](https://music.tiangong.cn/) - 
-23. [大饼AI变声](https://dubbing.tech/) - 大饼AI变声，WIndows&Mac免费下载，有态度、有感情的AI变声器，IP音效、御姐萝莉，正太萌妹，千百种丰富音色免费试用，一键安装轻松上手，支持全平台游戏、直播、软件内使用
-24. [Supertone Shift](https://product.supertone.ai/shift) - Real-time Voice Changer
-25. [Riffusion](https://www.riffusion.com/) - Create the music you imagine
-26. [Adobe Podcast | AI audio recording and editing, all on the web](https://podcast.adobe.com/) - Next generation audio from Adobe is here. Record, transcribe, edit, share. Crisp and clear, every time.
-27. [网易云音乐·X Studio](https://xstudio.music.163.com/) - 网易云音乐与小冰智能联合推出的免费AI歌手音乐创作软件
-28. [刺鸟配音官网-免费专业配音网站-千万大咖都在用的AI配音平台](https://www.icnpy.com/) - 刺鸟配音是一款AI智能合成的免费配音软件，拥有200多种声音可以选择，其中有魔云熙、魔西毒等热门声音免费使用，支持短视频配音、影视解说、课文朗读、有声小说等多种配音场景。刺鸟配音，一家专注做免费的配音软件！
-29. [AI Powered Audio Studio - Wondercraft](https://www.wondercraft.ai/) - Free AI audio editor to create podcasts, ads, meditations, audiobooks, and more by simply typing. Script, voice and mix audio on any language in a collaborative, easy to use platform.
-30. [Fryderyk](https://fryderyk.ai/) - Fryderyk is a music making web app with a built-in AI assistant, empowering musicians to integrate AI collaboration into their creative process.
-31. [Voicenotes: Transcribe notes, meetings &amp; ask AI](https://voicenotes.com/) - Voicenotes is an intelligent note-taker that let's you transcribe voice notes and meetings in 100+ languages.
-32. [OptimizerAI : Get Unlimited Sounds](https://www.optimizerai.xyz/) - AI声音效果生成工具
-33. [ACE Studio](https://ace-studio.timedomain.cn/) - AI歌声合成工具，输入歌词与旋律即可生成宛如真人的歌声
-34. [声音克隆_文字转语音_短视频/有声书AI配音平台-蓝藻AI](https://aigc.unisound.com/) - 蓝藻AI是一款可以在线将文字转成语音的智能配音产品。用户可以自助实现声音克隆，并提供不同性别、不同口音、不同语种的AI发音人,输入文字后直接配音。可快速对短视频等需要配音的内容进行配音。是一款功能强大AI语音合成神器。
-35. [Deepgram](https://deepgram.partnerlinks.io/ai-bot) - 快速低成本的AI语音文本互转API平台
-36. [Audiobox | Meta FAIR](https://audiobox.metademolab.com/) - Audiobox is Meta's new foundation research model for audio generation. It can generate voices and sound effects using a combination of voice inputs and natural language text prompts.
-37. [AI Voice Generator with Text to Speech and Speech to Speech](https://www.resemble.ai/) - Clone your voice for free with Resemble&#039;s realistic AI voice generator and create voices using real-time speech to speech and text to speech!
-38. [IBM Watson Text to Speech](https://www.ibm.com/cloud/watson-text-to-speech) - Watson Speech to Text is an API that transcribes speech to text in a variety of languages. It’s available as SaaS or for self-hosting.
-39. [FakeYou Celebrity AI Voice and Video Generator](https://fakeyou.com/) - FakeYou Celebrity AI Voice and AI Video Generator
-40. [通义听悟-你的工作学习AI助手](https://tingwu.aliyun.com/) - 阿里云通义听悟是聚焦音视频内容的工作学习AI助手，依托大模型，帮助用户记录、整理和分析音视频内容，体验用大模型做音视频笔记、整理会议记录。
-41. [AI定制背景音乐下载平台-BGM猫](https://bgmcat.com/home) - BGM猫提供版权背景音乐一站式服务,正版商业授权,AI智能生成曲库,免费无限,快捷授权,一键下载.
-42. [快转字幕：新一代 AI 字幕与转录平台](https://www.kzzimu.com/) - 使用先进的 AI 技术进行精确字幕转录和翻译，字幕制作更轻松。立即注册，体验卓越品质！
-43. [悦音ai配音_免费在线配音神器-AI智能配音-机器配音-配音软件-配音工具-制片帮悦音配音](https://yueyin.zhipianbang.com/) - 悦音配音是制片帮旗下配音品牌，提供ai智能配音文字转语音以及真人配音服务。可以在线将文字转成语音的智能配音工具。悦音配音情绪主播声音媲美真人主播，是一款ai智能在线配音神器语音合成工具软件。深受广告片配音，宣传片配音，影视解说配音，有声书配音用户喜欢。
-44. [音虫官网｜编曲软件、录音软件、作曲软件、音乐制作软件｜音虫(SoundBug)](https://www.soundbug.com/) - 音虫（SoundBug）是一款用于音乐编曲和录音的软件，致力于帮助更多的音乐爱好者体会音乐创作的乐趣！
-45. [Mubert AI Music Generator — Royalty Free Music ✓ Best AI Music Generator](https://mubert.com/) - Discover Mubert, the best AI music generator for royalty free music ➠ Generate music from text prompts for videos and projects online ✓ Create royalty free audio
-46. [Beatoven.ai: Royalty Free AI Music Generator](https://www.beatoven.ai/) - Ai music generator to create royalty-free, background music. Recommended for videos, podcasts &amp; games. Try now!
-47. [beatbot.fm](https://beatbot.fm/) - 输入文本提示快速生成歌曲和音乐
-48. [Audo Studio | One Click Audio Cleaning](https://audo.ai/) - One click audio cleaning for YouTubers and Podcasters 🎙️ 📺
-49. [AI Voices - NaturalReader Home](https://www.naturalreaders.com/) - NaturalReader: Free Text to Speech for Online, Mobile App, Commercial license and Education with AI voices.
-50. [AssemblyAI | AI models to transcribe and understand speech](https://www.assemblyai.com/) - With AssemblyAI&#x27;s industry-leading Speech AI models, transcribe speech to text and extract insights from your voice data.
-51. [Vocal Remover & Instrumental AI Splitter | LALAL.AI](https://www.lalal.ai/) - Split vocal and instrumental tracks quickly and accurately with LALAL.AI. Upload any audio file and receive high-quality extracted tracks in a few seconds.
-52. [World’s #1 Noise Cancelling App and AI Meeting Assistant](https://krisp.ai/) - Krisp cancels background noise, records, transcribes, and summarizes meetings and calls.
-53. [AI Voice Generator For Text to Speech &amp; AI Voice Over](https://play.ht/) - #1 AI Voice Generator with 206 ultra realistic AI voices. PlayAI is the voice platform for creators and enterprises. See our low latency Test to Speech API.
-54. [Free AI Voice Generator: Versatile Text to Speech Software | Murf AI](https://murf.ai/) - AI Voice Generator in 20+ languages. 200+ realistic text to speech voices to create the perfect AI voiceover. Go instantly from text to voice with ease.
-55. [Lemonaide AI — The #1 AI Melody Generator Powered By Industry Producers](https://www.lemonaide.ai/) - Discover the #1 AI melody generator, powered by Grammy Nominated and Multi-platinum producers. Create unique melodies and chords in MIDI or Audio.
-56. [Soundraw](https://soundraw.io/) - AI音乐生成工具
-57. [Boomy - Make Generative Music with Artificial Intelligence](https://boomy.com/) - 
-58. [AI Voice Generator with Emotional Text to Speech](https://typecast.ai/) - The online AI voice generator that can turn your text into life-like speech. Our extensive selection of hyper-realistic voices. Create your content just the way you want it!
-59. [AI Voice Generator - Realistic Text to Speech Voiceovers - VEED.IO](https://www.veed.io/tools/text-to-speech-video/ai-voice-generator) - Generate hyper-realistic AI voiceovers in any style and language. Our AI voice generator renders human-like intonations. Convert text to speech instantly.
-60. [AI 画外音生成器。使用逼真的语音将文字转为语音](https://clipchamp.com/zh-hans/features/ai-voice-over-generator/) - 为视频配上语音。你可以使用我们的免费在线画外音生成器，利用人工智能技术将文字转为语音。
-61. [MetaVoice |  AI Phone Receptionist for Customer calls](https://themetavoice.xyz/) - AI agent to automate inbound and outbound customer calls from start to finish. Our AI delivers personalised &amp; human-like experiences, 24x7.
-62. [Speechify：免费文本转语音阅读器 | 超过 250,000 条五星好评](https://speechify.com/zh-hans/) - 聆听 PDF、书籍、文档、网站——任何你阅读的内容。超过 250,000 条五星好评和 4000 万用户。
-63. [Voicemaker® - Text to Speech Converter](https://voicemaker.in/) - Convert text into ultra-realistic speech with Voicemaker, featuring 1,000+ AI voices in 130 languages. Download TTS audio files in MP3 &amp; WAV formats perfect for YouTube Shorts, videos, presentations, and more!
-64. [Free Real Time Voice Changer with AI - Voice.ai](https://voice.ai/) - Download now free real time voice changer for pc. Modify your voice, select one from the Voice Universe or clone any voice you want
-65. [AI Voice Generator: Realistic Text to Speech &amp; Voice Cloning](https://www.listnr.tech/) - Award-winning AI Voice Generator and text to speech software with 1000+ voices in 140 languages. Realistic AI Voices with Online Text to Video Generator. Clone your own voice.
-66. [AI Voice Changer in real-time. And it&#039;s free! | Voicemod](https://www.voicemod.net/ai-voices/) - Discover the ultimate AI voice changer for PC: Voicemod! Download now for free and transform your voice in real-time with advanced algorithms. Create authentic-sounding AI celebrity voices or choose from a variety of vocal tones and styles.
-67. [WellSaid Home](https://wellsaidlabs.com/) - Create professional-quality voice overs in any dialect or production style with our secure AI voices. Try WellSaid’s text-to-speech AI voices for free today.
-68. [Notta - AI Meeting Notetaker &amp; Audio Transcription](https://www.notta.ai/en) - Automatically transcribe and summarize your meetings, interviews, or recordings into searchable text with Notta. Start for Free.
-
-## AI 开发
-1. [Coze](http://dis.csqixiang.cn/unpo/cozeaibot.html) - 海量AI智能体免费用，已接入DeepSeek满血版
-2. [智谱AI开放平台](https://bigmodel.cn/login) - 智谱大模型开放平台-新一代国产自主通用AI大模型开放平台，是国内大模型排名前列的大模型网站，研发了多款LLM模型，多模态视觉模型产品，致力于将AI产品技术与行业场景双轮驱动的中国先进的认知智能技术和千行百业应用相结合，构建更高精度、高效率、通用化的AI开发新模式和企业级解决方案，实现智谱大模型的产业化，将AI的好处带给每个人。
-3. [硅基流动统一登录](https://cloud.siliconflow.cn/i/SjhsJgfH) - 硅基流动统一登录 硅基流动用户系统，统一登录 SSO
-4. [百宝箱](https://tbox.alipay.com/) - 百宝箱平台是一款可以提供一站式 AI 原生应用的开发平台，您无需具有任何代码基础，只需通过自然语言即可三步完成应用的创建与发布。百宝箱平台不仅可以帮助您轻松创建各类智能体，一键发布到支付宝小程序，释放无限可能，快来登录百宝箱平台开启您的 AI 应用创作之旅吧！
-5. [智谱AI开放平台](https://bigmodel.cn/agent) - 智谱大模型开放平台-新一代国产自主通用AI大模型开放平台，是国内大模型排名前列的大模型网站，研发了多款LLM模型，多模态视觉模型产品，致力于将AI产品技术与行业场景双轮驱动的中国先进的认知智能技术和千行百业应用相结合，构建更高精度、高效率、通用化的AI开发新模式和企业级解决方案，实现智谱大模型的产业化，将AI的好处带给每个人。
-6. [文心智能体平台AgentBuilder | 想象即现实](https://agents.baidu.com/) - 文心智能体平台AgentBuilder，是百度推出的基于文心大模型的智能体平台，支持广大开发者根据自身行业领域、应用场景，选取不同类型的开发方式，打造大模型时代的产品能力。开发者可以通过prompt编排的方式低成本开发智能体（Agent），同时文心智能体平台还将为智能体（Agent）开发者提供相应的流量分发路径，完成商业闭环。
-7. [SkyAgents](https://model-platform-skyagents.tiangong.cn/home/agent) - 昆仑万维推出的 AI Agent 开发平台
-8. [言犀-京东智能人机交互平台](https://yanxi.jd.com/) - 言犀，京东智能人机交互平台，懂业务更懂你，是融合京东自身十年客户服务与营销的最佳实践以及自研全链路AI能力的服务数智化平台级产品。为政务、金融、零售、教育等行业领域提供以用户为中心的客户服务、营销、流程自动化的新一代智能化解决方案，助力客户实现服务数智化转型。
-9. [无问芯穹](https://cloud.infini-ai.com/platform/ai) - 无问芯穹（Infinigence AI，简称“无穹”）依托行业领先且经过验证的AI计算优化能力与算力解决方案，追求大模型落地的极致能效。打造 “M 种模型” 和 “N 种芯片” 间的“M×N”中间层产品，实现多种大模型算法在多元芯片上的高效、统一部署。链接上下游，共建AGI时代大模型基础设施，加速AGI落地千行百业。
-10. [魔乐社区](https://modelers.cn/) - 天翼云联合华为推出的AI开发者社区
-11. [企业级AI智能体平台 | 一站式AI应用开发 | BetterYeah](https://www.betteryeah.com/) - BetterYeah，国内顶尖的一站式AI智能体（Agent）构建平台，集成全网最新多模态大模型和独家知识库RAG算法，支持工作流、数据库及插件集成，全面增强 AI Agent能力，企业可以通过prompt编排的方式零代码开发智能体。通过API和SDK无缝接入企业微信、公众号、钉钉等渠道，助力企业低成本打造智能营销、客服与销售场景AI应用，解决大模型落地难题。
-12. [飞桨PaddlePaddle-源于产业实践的开源深度学习平台](https://www.paddlepaddle.org.cn/) - 飞桨致力于让深度学习技术的创新与应用更简单。具有以下特点：同时支持动态图和静态图，兼顾灵活性和效率；精选应用效果最佳算法模型并提供官方支持；真正源于产业实践，提供业界最强的超大规模并行深度学习能力；推理引擎一体化设计，提供训练到多端推理的无缝对接；唯一提供系统化技术服务与支持的深度学习平台
-13. [昇思MindSpore | 全场景AI框架 | 昇思MindSpore社区官网](https://www.mindspore.cn/) - 华为开源自研AI框架MindSpore。自动微分、并行加持，一次训练，可多场景部署。支持端边云全场景的深度学习训练推理框架，主要应用于计算机视觉、自然语言处理等AI领域，面向数据科学家、算法工程师等人群。主要具备基于源码转换的通用自动微分、自动实现分布式并行训练、数据处理、以及图执行引擎等功能特性。借助自动微分，轻松训练神经网络。框架开源，华为培育AI开发生态。
-14. [PyTorch](https://pytorch.org/) - 
-15. [Gumloop | AI Automation Framework](https://www.gumloop.com/) - The no-code platform to build and host AI-powered business automations.
-16. [关于TensorFlow | TensorFlow中文官网](https://www.tensorflow.org/) - TensorFlow是一个端到端开源机器学习平台。它拥有一个全面而灵活的生态系统,其中包含各种工具、库和社区资源，可助力研究人员推动先进机器学习技术的发展。在 TensorFlow机器学习框架下,开发者能够轻松地构建和部署由机器学习提供支持的应用。
-17. [Apache MXNet | A flexible and efficient library for deep learning.](https://mxnet.apache.org/) - A flexible and efficient library for deep learning.
-18. [scikit-learn: machine learning in Python &mdash; scikit-learn 0.16.1 documentation](https://scikit-learn.org/) - Python机器学习库
-19. [MLX &#8212; MLX 0.23.2 documentation](https://ml-explore.github.io/mlx/build/html/index.html) - 苹果推出的开源机器学习框架，专为Apple Silicon芯片设计
-20. [Open Source Data Labeling | Label Studio](https://labelstud.io/) - A flexible data labeling tool for all data types. Prepare training data for computer vision, natural language processing, speech, voice, and video models.
-21. [AI SDK by Vercel](https://sdk.vercel.ai/docs) - The AI SDK is the TypeScript toolkit for building AI applications and agents with React, Next.js, Vue, Svelte, Node.js, and more.
-22. [Keras: Deep Learning for humans](https://keras.io/) - Keras documentation
-23. [Caffe | Deep Learning Framework](https://caffe.berkeleyvision.org/) - UC伯克利研究推出的深度学习框架
-24. [NumPy](https://numpy.org/) - Why NumPy? Powerful n-dimensional arrays. Numerical computing tools. Interoperable. Performant. Open source.
-25. [Deeplearning4j Suite Overview | Deeplearning4j](https://deeplearning4j.konduit.ai/) - Introduction to core Deeplearning4j concepts.
-26. [JAX: High performance array computing &#8212; JAX  documentation](https://jax.readthedocs.io/en/latest/) - Google推出的用于变换数值函数的机器学习框架
-27. [NLTK :: Natural Language Toolkit](https://www.nltk.org/) - Python自然语言处理工具包
-28. [Introduction | 🦜️🔗 LangChain](https://docs.langchain.com/docs/) - LangChain is a framework for developing applications powered by large language models (LLMs).
-29. [Lightning AI](https://lightning.ai/) - The all-in-one platform for AI development. Code together. Prototype. Train. Scale. Serve. From your browser - with zero setup. From the creators of PyTorch Lightning.
-30. [Leap AI | Automate any workflow with AI](https://www.tryleap.ai/) - Create content, generate leads, and run campaigns at scale—just like the big companies do, but with the agility of a small team.
-31. [ChatDev](https://chatdev.modelbest.cn/) - chatDev
-32. [Anakin.ai - 使用 AI 提升 10 倍工作效率](https://anakin.ai/zh-cn) - 内容创作、文案、问答、图像生成、视频生成、语音生成、智能 Agent、自动化工作流、自定义 AI 应用，一站式 AI 应用平台，人人都能定制自己的 AI 应用
-33. [天壤小白LLM APP Stack - 大模型应用全栈开发平台](https://www.tianrang.com/) - 天壤大模型应用全栈开发平台 LLM App Stack是专为企业量身打造的一站式大模型应用开发平台。旨在为大语言模型技术的研究和应用提供一个开放、可扩展、可协作的环境。平台为开发者提供大语言模型、大规模数据集、模型微调工具以及大模型应用开发工具等资源，加速大模型的训练过程，促进大模型在不同领域的应用落地。
-
-## AI 模型
-1. [Coze](http://dis.csqixiang.cn/unpo/cozeaibot.html) - 海量AI智能体免费用，已接入DeepSeek满血版
-2. [Sora](https://openai.com/sora) - OpenAI推出的AI文本到视频生成模型
-3. [天壤小白LLM APP Stack - 大模型应用全栈开发平台](https://www.tianrang.com/) - 天壤大模型应用全栈开发平台 LLM App Stack是专为企业量身打造的一站式大模型应用开发平台。旨在为大语言模型技术的研究和应用提供一个开放、可扩展、可协作的环境。平台为开发者提供大语言模型、大规模数据集、模型微调工具以及大模型应用开发工具等资源，加速大模型的训练过程，促进大模型在不同领域的应用落地。
-4. [Ollama](https://ollama.ai/) - Get up and running with large language models.
-5. [Llama](https://llama.meta.com/llama3/) - The open-source AI models you can fine-tune, distill and deploy anywhere. Choose from our collection of models: Llama 3.1, Llama 3.2, Llama 3.3.
-6. [Google AI Gemma 开放模型 |Google for Developers &nbsp;|&nbsp; Google AI for Developers](https://ai.google.dev/gemma) - Gemma 开放模型采用与 Gemini 模型相同的研究和技术构建而成。Gemma 2 有 2B、9B 和 27B，Gemma 1 有 2B 和 7B 大小。
-7. [豆包大模型-火山引擎](https://www.volcengine.com/product/doubao) - 字节跳动推出的自研大模型。通过字节内部50+业务场景实践验证，每日千亿级tokens大使用量持续打磨，提供多模态能力，以优质模型效果为企业打造丰富的业务体验。
-8. [腾讯混元](https://hunyuan.tencent.com/) - 腾讯混元大模型是由腾讯研发的大语言模型，具备跨领域知识和自然语言理解能力，实现基于人机自然语言对话的方式，理解用户指令并执行任务，帮助用户实现人获取信息，知识和灵感。
-9. [文心大模型-产业级知识增强大模型](https://wenxin.baidu.com/) - 百度文心,产业级知识增强大模型,包含基础通用大模型及面向重点领域和重点任务的大模型,同时有丰富的工具与平台支撑高效便捷的应用开发,学习效率高,可解释性好,大幅降低AI开发与应用门槛.
-10. [GitHub - meta-llama/llama: Inference code for Llama models](https://github.com/facebookresearch/llama) - Inference code for Llama models. Contribute to meta-llama/llama development by creating an account on GitHub.
-11. [AutoGPT](https://agpt.co/) - AutoGPT empowers you to create intelligent assistants that streamline your digital workflow, enabling you to dedicate more time to innovative and impactful pursuits.
-12. [Jan: Open source ChatGPT-alternative that runs 100% offline - Jan](https://jan.ai/) - Chat with AI without privacy concerns. Jan is an open-source alternative to ChatGPT, running AI models locally on your device.
-13. [AgentGPT](https://agentgpt.reworkd.ai/) - Assemble, configure, and deploy autonomous AI Agents in your browser.
-14. [魔搭社区](https://www.modelscope.cn/) - 汇聚各领域最先进的机器学习模型，提供模型探索体验、推理、训练、部署和应用的一站式服务。
-15. [悟道](https://www.baai.ac.cn/portal/article/index/cid/49/id/518.html) - 智源“悟道”大模型，中国首个+世界最大人工智能大模型
-16. [MiracleVision奇想智能-懂美学的AI视觉大模型](https://www.miraclevision.com/) - 美图奇想大模型开放平台是美图公司推出的AI服务平台，将美图秀秀、美颜相机、Wink等经市场验证的图像和视频算法赋能开发者与企业数字化建设，为企业及开发者提供领先的人脸人体、图像识别与处理、生成式AI等技术服务及各行业解决方案。
-17. [Gradio](https://gradio.app/) - Build &amp; Share Delightful Machine Learning Apps
-18. [Squarespace - Website Expired](https://deepfloyd.ai/deepfloyd-if) - StabilityAI旗下的DeepFloyd团队推出的图片生成模型
-19. [The World&#x27;s Leading AI Platform for Enterprise | Cohere](https://cohere.com/) - Cohere is the leading AI platform for enterprise. Augment your workforce, automate workflows, and enrich customer experiences with secure and scalable AI.
-20. [Codex](https://openai.com/blog/openai-codex) - OpenAI旗下AI代码生成训练模型
-21. [序列猴子开放平台](https://openapi.mobvoi.com/index) - 具有长序列、多模态、单模型、大数据等特点的超大规模语言模型，基于其通用的表示能力与推理能力，能够进行多轮交互，打造更便捷流畅的用户体验。
-22. [BLOOM](https://huggingface.co/docs/transformers/model_doc/bloom) - We’re on a journey to advance and democratize artificial intelligence through open source and open science.
-23. [阿里云 - 大数据和AI案例体验馆](https://m6.aliyun.com/) - description
-24. [Lamini - Enterprise LLM Platform](https://lamini.ai/) - Lamini is the enterprise LLM platform for existing software teams to quickly develop and control their own LLMs. Lamini has built-in best practices for specializing LLMs on billions of proprietary documents to improve performance, reduce hallucinations, offer citations, and ensure safety. Lamini can be installed on-premise or on clouds securely. Thanks to the partnership with AMD, Lamini is the only platform for running LLMs on AMD GPUs and scaling to thousands with confidence. Lamini is now used by Fortune 500 enterprises and top AI startups.
-25. [GitHub - Stability-AI/StableLM: StableLM: Stability AI Language Models](https://github.com/Stability-AI/StableLM) - StableLM: Stability AI Language Models. Contribute to Stability-AI/StableLM development by creating an account on GitHub.
-26. [Runway Research | Gen-2: Generate novel videos with text, images or video clips](https://research.runwayml.com/gen2) - A multimodal AI system that can generate novel videos with text, images or video clips.
-27. [Latest News - DeepSpeed](https://www.deepspeed.ai/) - DeepSpeed is a deep learning optimization library that makes distributed training easy, efficient, and effective.
-28. [Our latest AI models - Google AI](https://ai.google/discover/palm2) - The AI models behind our most impactful innovations and their capabilities.
-29. [OpenBMB](https://www.openbmb.org/home) - 清华团队支持发起的大规模预训练语言模型库与相关工具
-30. [Segment Anything | Meta AI](https://segment-anything.com/) - Meta最新推出的AI图像分割模型
-31. [Hugging Face – The AI community building the future.](https://huggingface.co/) - We’re on a journey to advance and democratize artificial intelligence through open source and open science.
-32. [Imagen: Text-to-Image Diffusion Models](https://imagen.research.google/) - Google AI文字到图像生成模型
-33. [IBM watsonx.ai](https://www.ibm.com/products/watsonx-ai) - A next generation enterprise studio for AI builders to train, validate, tune and deploy AI models
-34. [Lobe](https://www.lobe.ai/) - 简单免费的机器学习模型训练工具
-35. [MOSS](https://moss.fastnlp.top/) - 复旦大学团队开发的对话式大型语言模型
-36. [商量 - AI生活小帮手](https://chat.sensetime.com/wb/) - 商量（SenseChat）是你的AI 商量Sensechat是你的AI聊天问答助手，擅长总结财经资讯、解读政策、分析财报，也可以辅助文案创作、生成图片、编写代码，或畅聊你感兴趣的话题。
-37. [Accelerate the Development of AI Applications | Scale AI](https://scale.com/) - Trusted by world class companies, Scale delivers high quality training data for AI applications such as self-driving cars, mapping, AR/VR, robotics, and more.
-38. [Replicate - Run AI with an API](https://replicate.com/) - Run open-source machine learning models with a cloud API
-39. [Evidently AI - AI Observability and ML Monitoring Platform](https://www.evidentlyai.com/) - Collaborative AI quality platform for ML, LLM, and Gen AI. Evaluate, test, and monitor any AI-powered product. Built on open-source.
-
-## AI 检测
-1. [AI Detector - the Original AI Checker for ChatGPT &amp; More](https://gptzero.me/) - Covered by &gt;100 media outlets, GPTZero is the most advanced AI detector for ChatGPT, GPT-4, Gemini. Check up to 50000 characters for AI plagiarism in seconds.
-2. [ChatGPT Detector for Essay Writing - Free and Accurate](https://studycorgi.com/free-writing-tools/chat-gpt-detector/) - Looking for a free online ChatGPT detector to check an essay or research paper? 🎓 With this intuitive and accurate AI detection tool, you&#039;ll easily find out 🕵️ if a piece was written or generated.
-3. [AI Detector | Instantly Detect AI Content from ChatGPT, Gemini &amp; More (Plus Humanize in 1 Click!)](https://aiseo.ai/tools/ai-content-detector.html) - Detect AI-generated content in seconds with AISEO AI Detector. Identify text from ChatGPT, GPT-4, and more to keep your content authentic and SEO-friendly.
-4. [Proofig AI | Upholding Research Integrity with AI Image Detector &amp; Plagiarism Checker](https://www.proofig.com/) - Ensure research integrity with Proofig's AI image detector and image plagiarism checker. Uphold scientific ethics by detecting errors and identifying potential scientific misconduct with our advanced image-proofing solution.
-5. [Free AI Content Detector &amp; Checker - Writecream](https://www.writecream.com/ai-content-detector/) - Check if any content was written by AI or a human. 100% free detector. Content originality score.
-6. [AI Detector &amp; AI Checker Tool for ChatGPT, GPT4, and Gemini](https://smodin.io/ai-content-detector) - Explore our advanced AI detector. Quickly identify AI-generated content with high accuracy. Stay ahead in the digital age with our user-friendly tool.
-7. [AI Detector | ChatGPT, Llama, Gemini | Sapling](https://sapling.ai/utilities/ai-content-detector) - Free AI content detector that checks if text is AI-generated with 97% accuracy. Supports ChatGPT, Claude, Gemini, Llama and other AI models. Analyze text, PDFs, and Word documents with detailed sentence analysis.
-8. [Writefull X: AI Writing Tools for Students and Researchers](https://x.writefull.com/gpt-detector) - 在线检查文本是否由GPT-3或ChatGPT生成
-9. [Mitata AI](https://www.copyleaks.top/login) - 专业的AI文章检测工具，能识别文章是否由AI生成
-10. [AI content detector | ChatGPT detector &amp; AI checker for GPT-4 - Writer](https://writer.com/ai-content-detector/) - Check what percentage of your content is seen as human-generated with this free AI content detector tool. Paste in text or a URL to find out.
-11. [Originality AI Plagiarism and Fact Checker - Publish With Integrity](https://originality.ai/) - At Originality.ai we provide a complete toolset (AI checker, Plagiarism Checker, Fact Checker and Readability Checker) that helps Website Owners, Content Marketers, Writers, Publishers and any Copy Editor hit Publish with Integrity.
-12. [AI-Based Plagiarism &amp; AI Detection | Copyleaks](https://copyleaks.com/) - Instantly detect plagiarized content, AI generated content &amp; more with Copyleaks, the only AI-based platform used by millions worldwide.
-13. [The Most Trusted AI Detector | ChatGPT Detection Tool](https://gowinston.ai/) - Winston AI is the industry leading AI content detector and plagiarism checker software for ChatGPT, GPT4, Google Gemini and more.
-14. [CheckforAi](https://checkforai.com/) - 免费在线检测AI内容
-
-## AI 翻译
-1. [沉浸式翻译 - 双语对照网页翻译插件 | PDF翻译 | 视频字幕翻译](https://immersivetranslate.com/zh-Hans/) - 沉浸式翻译是一款免费的网页翻译插件，为您提供在线双语对照网页翻译，多种格式的文档翻译、论文文献翻译、PDF翻译、EPUB电子书翻译、视频双语字幕翻译(支持Youtube,Netflix等主流视频站点)、TXT文本翻译等文件翻译服务。Chrome、Edge、火狐(Firefox)、Safari等主流浏览器适配，手机端和电脑端均可安装使用。支持中文、英语、日语、韩语、法语、德语、俄语、西班牙语、葡萄牙语、越南语、印尼语、意大利语、荷兰语、泰语等数十种语言的互译。支持多种翻译接口选择：DeepL 翻译、 Google 翻译、OpenAI (ChatGPT) 、Gemini、人工智能翻译、有道翻译、彩云小译、百度翻译、火山翻译、小牛翻译等。做最懂您的网页翻译扩展工具，为您提供最丝滑的网站翻译体验。
-2. [会译-对照式翻译、AI智能、多语种在线即时翻译、支持文档、网页、文本，多场景翻译](https://huiyiai.net/hy_api/activity/invite) - 会译是一款浏览器插件，采用AI智能翻译，支持多语种对照式翻译，在线翻译，文档翻译，英汉互译、智能识别网页内容，降低语言障碍门槛
-3. [腾讯交互翻译TranSmart](https://transmart.qq.com/) - 腾讯交互翻译TranSmart是由腾讯AI Lab发布的一款AI辅助翻译产品，可满足用户快速翻译的需求，用AI辅助人工翻译提高效率和质量。TranSmart采用了团队自研的人机交互式机器翻译技术，融合神经网络机器翻译、统计机器翻译、输入法、语义理解、数据挖掘等多项前沿技术，配合亿级双语平行数据，是一款人工智能辅助翻译互联网落地产品，可为用户提供实时智能翻译辅助，帮助用户更好更快地完成翻译任务。
-4. [Deeptranslate - 免费的 AI 双语页面翻译浏览器插件](https://deeptranslate.ai/zh-CN) - 免费的 AI 双语网页翻译扩展，支持超过 140 种语言。可同时用两种语言浏览社交媒体及任何网站。
-5. [Google Translate](https://translate.google.com/) - Google&#39;s service, offered free of charge, instantly translates words, phrases, and web pages between English and over 100 other languages.
-6. [搜尋 Microsoft 翻譯工具](https://www.bing.com/translator/) - 快速翻譯英文對超過 100 種語言的字詞和片語。
-7. [DeepL Translate: The world&#x27;s most accurate translator](https://www.deepl.com/translator) - Translate texts &amp; full document files instantly. Accurate translations for individuals and Teams. Millions translate with DeepL every day.
-8. [toby: Your Live AI Speech Interpreter for Any Video Call](https://www.trytoby.com/) - Speak any language on your video calls with toby&#x27;s two-way live translation. Experience seamless communication without borders!
-9. [火山翻译 - 在线翻译](https://translate.volcengine.com/) - 火山翻译，字节跳动旗下的机器翻译品牌，支持超过100种语种的免费在线翻译，并支持多种领域翻译
-10. [百度翻译-您的超级翻译伙伴（文本、文档翻译）](https://fanyi.baidu.com/) - 百度翻译打造的新一代AI大模型翻译平台，为用户提供翻译和阅读外文场景的一站式智能解决方案，支持中文、英文、日语、韩语、德语、法语等203种语言，包括文档翻译、AI翻译、英文润色、双语审校、语法分析等多种能力，是智能时代的翻译新质生产力。
-11. [阿里翻译-多领域多语种在线机器翻译](https://translate.alibaba.com/) - 阿里巴巴达摩院推出的多领域多语种的在线机器翻译
-12. [搜狗翻译 - 我的贴身智能翻译专家](https://fanyi.sogou.com/text) - 搜狗翻译可支持中、英、法、日等50多种语言之间的互译功能，为您即时免费提供字词、短语、文本翻译服务。
-13. [腾讯翻译君](https://fanyi.qq.com/) - 翻译君是腾讯出品的跨语言交流软件，支持中、英、日、韩等多门语言，具有翻译准确、高效，稳定的特点，非常适用于境外旅游、对外交流、国际办公等情境，给你带来流畅的翻译体验。
-14. [控制台](https://www.xiangjifanyi.com/console/register-invite/741be04feb30bf16) - AI图片和视频翻译神器，支持多种语言的翻译
-15. [网易见外 - AI智能语音转写听翻平台](https://sight.youdao.com/) - 网易见外由人工智能事业部研发，是一个集视频听翻、直播听翻、语音转写、文档直翻功能为一体的AI智能语音转写听翻平台，致力于用语音识别转写文字、机器翻译等技术为从事和爱好语音转写、翻译的人员提供更便捷的听翻工具，提升工作效率，降低转写成本，进而改变人们跨文化交流与内容跨国界传播的实现方式
-16. [讯飞智能翻译平台](https://fanyi.xfyun.cn/console/trans/text) - 讯飞智能翻译平台是专业的在线文档翻译平台,提供PDF/Word/Excel/PPT文件翻译、图片识别翻译、在线翻译等服务,支持22种文档格式以及60多种语种和中文互译,译文结果高度还原原文样式排版。涵盖期刊论文、法律、金融、计算机、能源、体育、医疗等多个领域翻译，翻译更精准。
-17. [彩云小译官网 - 高效准确的翻译工具 | 文字翻译 | 文档翻译 | 网页翻译 | 浏览器插件 | 双语对照 | 术语库](https://fanyi.caiyunapp.com/) - 欢迎访问彩云小译官网！我们提供高效准确的在线翻译工具，包括文字翻译、文档翻译、网页翻译、术语库、浏览器插件和双语对照服务。借助先进的人工智能技术，彩云小译能够满足您的多语言沟通需求。
-18. [百度翻译，您的掌上翻译专家](https://fanyi.baidu.com/appdownload/download.html) - 中英文音视频同传字幕工具
-
-## AI 法律
-1. [元典智库：智能开放的法律搜索引擎](https://www.chineselaw.com/tyjs/index) - 元典智库是一款面向律师、企业法务、法学师生、法官和检察官等专业法律人提供的一站式法律知识服务平台，收录法律法规文件超过400余万份、公开裁判文书1.5亿余篇。作为智能化的法律数据库、法律检索系统，希望通过法律知识搜索和知识推荐，为用户提供高效、便捷的检索服务。
-2. [通义法睿 法律大模型 法律智能体 法律AI 人工智能-阿里云](https://tongyi.aliyun.com/farui) - 阿里云通义法睿是专门面向法律领域的行业垂类大模型产品，拥有法律的理解和推理能力，能够回答法律问题、推理法律适用、推送裁判类案、辅助案情分析、生成法律文书、检索法律知识。
-3. [法行宝-您的免费AI律师](https://ailegal.baidu.com/) - 您身边的AI律师，法行宝为您提供专业的法律问答咨询服务，帮助您解答法律问题，法律咨询就来法行宝！
-4. [ChatLaw](https://chatlaw.cloud/lawchat/) - 北大开源的法律大模型和助手
-5. [得理 - 法律行业智能化变革引领者](https://www.delilegal.com/search) - 得理门户网站,得理,法律AI,得理律助,得理法搜,法律科技,律师平台,DLS律师数字化平台,案例检索
-6. [法智：法律未来 智在掌握](https://www.fazhi.law/) - 法智AI是法律AI大模型、智能律师助理。法智精准和全面地为用户提供一站式法律服务解决方案，满足检索、咨询、审查、分析、写作、谈判、记录等多种业务场景需求。
-7. [海瑞智法](https://www.hairuilegal.com/) - 一站式法律AI咨询助手。🔍 法条适用查询 🧐 案件智能分析 🖊️ 常用文书撰写 🤖 模拟演练 🔥 AI总结/翻译 🕵️‍♂️ 背调查询
-8. [合同嗖嗖_Chat生成AI智能合同_所问即合同内容文书起草](https://contract.yoo-ai.com/) - 合同嗖嗖提供海量合同模板下载,输入关键词AI生成更贴合实际需求的专业合同
-
-## AI 提示
-1. [提示工程指南 | Prompt Engineering Guide<!-- -->](https://www.promptingguide.ai/zh) - 提示工程指南（Prompt Engine...
-2. [PromptPerfect](https://promptperfect.jinaai.cn/) - PromptPerfect 是一款专业好...
-3. [Attention Required! | Cloudflare](https://flowgpt.com/) - 
-4. [Stable Diffusion Prompt Book](https://openart.ai/promptbook) - Free AI image generator. Free AI art generator. Free AI video generator. 100+ models and styles to choose from. Train your personalized model. Most popular AI apps: sketch to image, image to video, inpainting, outpainting, model fine-tuning, real-time drawing, text to image, image to image, image to text and more!
-5. [PromptHero](https://prompthero.com/) - 
-6. [ClickPrompt](https://www.clickprompt.org/zh-CN/) - 
-7. [AI 提示生成器：为 ChatGPT、Claude、Midjourney、Flux 和 Stable Diffusion 创建和优化提示](https://www.aipromptgenerator.net/zh) - 使用我们的 AI 提示生成器释放 AI 的力量！
-生成、优化和增强 ChatGPT、Claude、Midjourney、Flux 和 Stable Diffusion 的提示。
-8. [AiShort(ChatGPT Shortcut)-简单易用的 AI 快捷指令表，让生产力倍增！ | AiShort(ChatGPT Shortcut)-AI Prompt Management,Productivity Tool](https://www.aishort.top/) - AI Short 是一款用于管理和分享 AI 提示词的工具，帮助用户更有效地定制、保存和共享自己的提示词，以提高生产力。该平台还包括一个提示词分享社区，让用户轻松找到适用于不同场景的指令。
-9. [GitHub - langgptai/LangGPT: LangGPT: Empowering everyone to become a prompt expert!🚀  Structured Prompt，Language of GPT, 结构化提示词，结构化Prompt](https://github.com/langgptai/LangGPT) - LangGPT: Empowering everyone to become a prompt expert!🚀  Structured Prompt，Language of GPT, 结构化提示词，结构化Prompt - langgptai/LangGPT
-10. [Generrated: 9,300 images generated with DALL·E 2 and DALL·E 3 prompts](https://generrated.com/) - An image/prompt reference and inspiration resource containing 9,300 images generated using DALL·E
-11. [Home - Public Prompts](https://publicprompts.art/) - Collection of ‎ Public, Free, High Quality Prompts Browse The Site Models Prompts Embeddings Models Library Fine-Tuned Model Flexible Diffusion model DreamBooth Model Synthwave (DreamBooth model) DreamBooth Model All in one Pixel Art (DreamBooth Model) DreamBooth Model Borderlands (DreamBooth model) DreamBooth Model Cal Arts (DreamBooth Model) DreamBooth Model Pixel Landscapes V1 (DreamBooth model) DreamBooth Model
-12. [Snack Prompt | Discover The Best ChatGPT Prompts](https://snackprompt.com/) - Explore a community-driven platform to discover, upvote, and share the best AI prompts for ChatGPT & Gemini. Follow topics, create and organize prompts, and connect with expert prompters. Unlock AI’s full potential with Snack Prompt.
-13. [AIPRM: Your Cheat Code for AI like ChatGPT, Claude &amp; Midjourney · AIPRM](https://www.aiprm.com/) - The Ultimate Time Saver for ChatGPT and other AI models. Trusted by over 2 million users and some of the world’s biggest brands.
-14. [绘ai](https://www.ai016.com/) - 
-15. [Midjourney Prompt Generator: Helps You Build The Perfect Prompt!](https://prompt.noonshot.com/) - Use this free tool to easily create powerful Midjourney prompts. Start generating beautiful images today with the Midjourney Prompt Generator.
-16. [Visual Prompt Builder](https://tools.saxifrage.xyz/prompt) - 
-17. [GitHub - AI-Prompt-Genius/AI-Prompt-Genius: Curate a custom library of AI Prompts](https://github.com/benf2004/ChatGPT-Prompt-Genius) - Curate a custom library of AI Prompts. Contribute to AI-Prompt-Genius/AI-Prompt-Genius development by creating an account on GitHub.
-18. [PromptVine](https://promptvine.com/) - 
-19. [prompts.chat — awesome AI prompts](https://prompts.chat/) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
-20. [Hello from Learning Prompt | Learning Prompt](https://learningprompt.wiki/) - Free Prompt Engineering and Midjourney tutorial.
-21. [词魂](https://icihun.com/) - 词魂是一个AIGC精品提示词库...
-
-## AI 评测
-1. [Attention Required! | Cloudflare](https://chat.lmsys.org/) - 以众包方式进行匿名随机对战的LLM基准平台
-2. [MMLU Benchmark (Multi-task Language Understanding) | Papers With Code](https://paperswithcode.com/sota/multi-task-language-understanding-on-mmlu) - The current state-of-the-art on MMLU is ds-r1(671b). See a full comparison of 60 papers with code.
-3. [Open LLM Leaderboard - a Hugging Face Space by open-llm-leaderboard](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard) - Track, rank and evaluate open LLMs and chatbots
-4. [排行榜 | C-Eval: 一个适用于大语言模型的多层次多学科中文评估套件](https://cevalbenchmark.com/static/leaderboard_zh.html) - 一个全面的中文基础模型评估套件
-5. [FlagEval](https://flageval.baai.ac.cn/) - 智源研究院推出的FlagEval（天秤）大模型评测平台
-6. [中文通用大模型综合性测评](https://www.cluebenchmarks.com/static/superclue.html) - 中文通用大模型综合性测评基准
-7. [AGI-Eval评测社区](https://agi-eval.cn/mvp/home) - AI大模型评测社区
-8. [OpenCompass司南 - 评测榜单](https://opencompass.org.cn/leaderboard-llm) - 评测榜单旨在为大语言模型和多模态模型提供全面、客观且中立的得分与排名，同时提供多能力维度的评分参考，以便用户能够更全面地了解大模型的能力水平。
-9. [GitHub - haonan-li/CMMLU: CMMLU: Measuring massive multitask language understanding in Chinese](https://github.com/haonan-li/CMMLU/) - CMMLU: Measuring massive multitask language understanding in Chinese - haonan-li/CMMLU
-10. [MMBench](https://mmbench.opencompass.org.cn/leaderboard) - 全方位的多模态大模型能力评测体系
-11. [Holistic Evaluation of Language Models (HELM)](https://crfm.stanford.edu/helm/latest/) - 斯坦福大学推出的大模型评测体系
-12. [LLM-EVAL](http://llmeval.com/index) - 由复旦大学NLP实验室推出的大模型评测基准
-13. [h2o](https://h2o.ai/) - H2O.ai推出的基于Elo评级方法的大模型评估系统
-14. [PubMedQA Homepage](https://pubmedqa.github.io/) - 
-
-## AI 学习
-1. [Home - Day of AI](https://dayofai.org/) - 麻省理工学院（MIT）推出的免费AI学习平台
-2. [fast.ai—Making neural nets uncool again – fast.ai](https://www.fast.ai/) - 免费开源的深度学习和AI学习网站，让每个人都参与到AI！
-3. [Best of Machine Learning &amp;amp; Artificial Intelligence (AI) | Coursera](https://www.coursera.org/collections/best-machine-learning-ai) - We curated this collection for anyone who&#x27;s interested in learning about machine learning and artificial intelligence (AI). Whether you&#x27;re new to these two fields or looking to advance your knowledge, Coursera has a course that can fit your ...
-4. [A free online introduction to artificial intelligence for non-experts](https://www.elementsofai.com/) - Learn more about MinnaLearn's and the University of Helsinki's AI course - no programming or complicated math required.
-5. [DeepLearning.AI: Start or Advance Your Career in AI](https://www.deeplearning.ai/) - DeepLearning.AI | Andrew Ng | Join over 7 million people learning how to use and build AI through our online courses. Earn certifications, level up your skills, and stay ahead of the industry.
-6. [《动手学深度学习》 &#8212; 动手学深度学习 2.0.0 documentation](https://zh.d2l.ai/) - 动手学深度学习的教材和课程
-7. [Just a moment...](https://machinelearningmastery.com/start-here/) - 免费在线学习机器学习，从基础到高级
-8. [Generative AI for Beginners](https://microsoft.github.io/generative-ai-for-beginners/) - Description
-9. [Machine Learning for Beginners](https://microsoft.github.io/ML-For-Beginners/) - Introduction to Machine Learning for Beginners
-10. [Kaggle: Your Machine Learning and Data Science Community](https://www.kaggle.com/) - Kaggle is the world&#x2019;s largest data science community with powerful tools and resources to help you achieve your data science goals.
-11. [Practice Introduction to Neural Networks | Brilliant](https://brilliant.org/courses/intro-neural-networks/) - Brilliant推出的Introduction to Neural Networks课程
-12. [Trancy - 沉浸式翻译 &amp; YouTube AI 双语字幕 &amp; 语言学习助手](https://trancy.org/zh-cn) - Trancy 不仅提供对 YouTube, Netflix, Udemy, Disney+, TED, edX, Kehan, Coursera 等平台的双语字幕支持，还能实现对普通网页的 AI 划词/划句翻译、全文沉浸式翻译等功能，真正的语言学习全能助手。
-13. [Reading Coach](https://coach.microsoft.com/) - Reading Coach is a practice tool for anyone looking to build their literacy skills. With the power to generate stories with AI and a library of leveled passages from ReadWorks, learners can practice reading with content that matches their abilities and interests. Reading Coach keeps learners engaged with opportunities to unlock new characters and settings, practice their most challenging words, and track their progress over time. The application works for learners who know how to decode words.
-14. [飞桨AI Studio星河社区-人工智能学习与实训社区](https://aistudio.baidu.com/) - 飞桨星河社区是面向AI学习者的人工智能学习与实训社区。飞桨星河社区集成了丰富的免费AI课程，大模型社区及模型应用，深度学习样例项目，各领域经典数据集，云端超强GPU算力及存储资源，更有新手练习赛、精英算法大赛等你参与。
-15. [首页-腾讯扣叮](https://coding.qq.com/) - 
-16. [AI大学堂](https://www.aidaxue.com/) - AI大学堂是科大讯飞打造的AI在线学习平台，为各行业各领域的技术人才提供人工智能培训,人工智能学习,编程入门自学,计算机编程入门,Python数据分析等课程，旨在为AI领域开发者、爱好者提供专业的课程、资源及服务支持
-17. [人工智能学习路线（学+测） - 阿里云开发者社区](https://developer.aliyun.com/learning/roadmap/ai) - 人工智能学习路线，算法原理、框架精讲、机器学习实战、图像识别实战、自然语言处理实战，人工智能技术一站式学习
-18. [Just a moment...](https://www.udacity.com/school/school-of-ai) - Udacity推出的School of AI，从入门到高级
-19. [Making AI helpful for everyone - Google AI](https://ai.google/) - Committed to improving the lives of as many people as possible, responsibly building products and platforms powered by the most advanced technology.
-20. [ShowMeAI知识社区](https://www.showmeai.tech/) - ShowMeAI是人工智能领域的资料库和学习社区，覆盖Python、数据科学、机器学习、深度学习、自然语言处理、计算机视觉等方向。我们为学习、求职、项目落地、业务探索等场景，提供了结构化路径和全套资料库。构建AI解决方案，用知识加速每一次技术成长！ShowMeAI，只做精品。
-21. [TXYZ - Integrate all paths to knowledge](https://www.txyz.ai/) - Integrate all paths to knowledge.
+1. [HubSpot CRM](https://www.hubspot.com/ai-powered-crm/am) - Optimize your sales and marketing with a particularly intuitive, AI-driven professional CRM. Track your performance in real time and automate tasks more efficiently
+2. [ChatGPT](https://chatgpt.com/) - The world&#039;s most famous conversational assistant. Ask your questions and get precise answers
+3. [MidJourney V6.1](https://www.midjourney.com/) - Powerful image generator based on text description (Discord + Web)
+4. [Veo 2 Google](https://deepmind.google/technologies/veo/veo-2/) - An HD video generator that creates realistic scenes up to 4K. Control camera movements and different visual styles from prompts
+5. [Grok-3](https://grok.com/) - A powerful chat assistant capable of performing tasks such as mathematics and programming. This AI model boasts tenfold computing power and advanced reasoning modes
+6. [Claude AI](https://www.anthropic.com/app-unavailable-in-region) - An AI assistant with growing capabilities and impressive performance. Its context window approaches one million tokens
+7. [Stable Diffusion 3.5](https://stablediffusionweb.com/) - A free opensource image generator with the ability to use templates (local installation)
+8. [Gemini AI](https://gemini.google.com/) - A powerful AI chat assistant from Google that rivals ChatGPT in performance
+9. [Gen-3 by Runway](https://runwayml.com/product) - Gen-3 Alpha from Runway pushes the boundaries of AI-based video generation. Create long, coherent videos using natural language instructions
+10. [HeyGen AI](https://www.heygen.com/) - Create a hyper-realistic AI avatar and make it speak from text. You can also do video translation and automatically clone your voice.
+11. [Leonardo AI](https://leonardo.ai/) - A complete design platform that generates professional images, 3D textures and designs. Create assets for video games, fashion, architecture and more with intuitive tools like AI Canvas
+12. [Perplexity AI](https://perplexity.ai/pro) - A search engine that gives precise answers to complex questions
+13. [Ideogram 2.0](https://ideogram.ai/) - An image generator capable of creating impressive illustrations and integrating text. Ideal for creating logos, storyboards, advertising banners, etc.
+14. [Infinite Craft By Neal](https://neal.fun/infinite-craft/) - An artificial intelligence game in which you have to combine two elements to create a new one.
+15. [Adcreative AI by Semrush](https://www.semrush.com/lp/adcreative-ai/en/) - Easily design professional-quality ads with AI that adapts to your brand, logo, colors and formats. Recommended for social network marketing and enterprises
+16. [FLUX.1](https://blackforestlabs.ai/) - Generate photorealistic images from text with an open-source model available in 3 versions: Pro (API), Dev (non-commercial) and Schnell (personal use)
+17. [ElevenLabs](https://elevenlabs.io/) - An AI-based voice reader that can read your text with a natural voice and even clone your own voice
+18. [AI Logo by Fiverr](https://www.fiverr.com/logo-maker/) - Design a logo in moments with this AI-powered logo generator. Fast, easy and high-quality design
+19. [AI Town](https://www.convex.dev/ai-town) - Explore a fascinating virtual city where AI characters live, talk and interact. Create your own character and watch what happens next!
+20. [Luma Dream Machine](https://lumalabs.ai/dream-machine) - Create realistic 5s videos from text or images. Smooth movements, precise physics and stunning cinematic camera work!
+21. [FaceFusion](https://github.com/facefusion/facefusion) - Generate DeepFake videos and play the role of anyone you like: a movie hero, a singing star, etc.
+22. [Hidden Door](https://www.hiddendoor.co/) - An AI-driven RPG adventure game that generates creative stories
+23. [Sora by OpenAI](https://sora.com/) - A model created by OpenAI capable of generating 60-second videos from simple text prompts: detailed scenes, complex camera movements, expressive characters, etc.
+24. [Kling 1.6](https://kling.kuaishou.com/en) - Generate 2-minute HD videos from text with its high-definition video generator: realistic movements, natural rendering, overflowing imagination. Sora&#039;s rival?
+25. [Lexica.art](https://lexica.art/) - An incredible number of prompts to generate high quality images on Stable Diffusion
+26. [Social Content AI](https://www.semrush.com/social-content-ai/) - A full content creation tool for social media powered by AI (Semrush). Quickly generate engaging posts, relevant to your audience and optimized for each social platform
+27. [FaceSwapper](https://faceswapper.ai/) - Replace any face in your photos or videos realistically with AI. Change clothes instantly, create avatars and much more
+28. [Qwen2.5-Max](https://chat.qwen.ai/) - A multimodal language model that outperforms GPT-4 and DeepSeek on major benchmarks. Benefit from an optimized MoE architecture that reduces computing costs by 30% while maintaining outstanding performance
+29. [Hunyuan Video](https://aivideo.hunyuan.tencent.com/) - A 13-billion-parameter model that transforms your text into cinema-quality video. Control transitions, movements and special effects for results worthy of professional studios
+30. [Globe Explorer AI](https://explorer.globe.engineer/) - A search engine that visually breaks down any subject using AI models. This approach provides superior capabilities to traditional search engines
+31. [AI Dungeon](https://aidungeon.com/) - A text-based adventure game powered by GPT artificial intelligence that lets you create endless stories. Available in single-player or multiplayer
+32. [DeepSeek-R1](https://chat.deepseek.com/) - An open-source LLM model that excels in mathematical reasoning and programming. Solve complex problems and generate code with accuracy comparable to the best commercial models available
+33. [Recraft V3](https://www.recraft.ai/ai-image-generator) - A high-precision AI image generator. Create designs with positionable text, refine styles, generate vector images and much more
+34. [Canva AI](https://www.canva.com/) - A set of tools for digital creation and visual design. Quickly create all your visuals with an AI-based platform
+35. [Freepik](https://www.freepik.com/) - An ultra-realistic text-to-image generator with a host of new features: real-time editing, image generation with infinite scrolling, etc.
+36. [Character AI](https://character.ai/) - Chat with your favorite characters and discover the new possibilities of AI
+37. [DALL·E 3](https://openai.com/dall-e-3) - An image generator that integrates with the ChatGPT interface. Easily manipulate and create your own images using prompts.
+38. [ChatPDF](https://www.chatpdf.com/) - AI interacts with your PDF files like a human. Easily extract information from even large documents
+39. [ChatPDF](https://www.chatpdf.com/zh) - AI interacts with your PDF files like a human. Easily extract information from even large documents
+40. [Microsoft Copilot](https://copilot.microsoft.com/chats/qxbdRzVvdnXuznAVfw7L4) - A versatile assistant to help you every day. Get customized solutions and useful information at any time
+41. [Runway ML](https://runwayml.com/) - Edit and generate absolutely incredible videos using a wide range of AI tools
+42. [Claude 3.7 Sonnet](https://www.anthropic.com/news/claude-3-7-sonnet) - Enjoy a powerful AI model that can think step-by-step or respond instantly, with exceptional programming and web development performance. Already available on all Anthropic platforms
+43. [Gemini 2.0](https://gemini.google.com/app) - Google&#039;s latest AI model with multimodal and agentic capabilities. Generate text, images and audio using a variety of external tools
+44. [QuillBot](https://quillbot.com/) - A practical tool for quickly rewriting, checking and improving your texts. Available options: paraphrase, grammar, translation, plagiarism, etc.
+45. [Suno AI V4](https://suno.com/home) - A music generator capable of producing music with lyrics. This AI can write and sing the lyrics to your song
+46. [Hexagen World AI](https://www.hexagen.world/) - A simulation game in which you are God. Your objective? Control a world of hexagons. No installation required: works via your web browser
+47. [Civitai](https://civitai.com/) - Download models to use on StableDiffusion in local
+48. [Hailuo AI (MiniMax)](https://hailuoai.video/) - An AI video generator backed by tech giants like Alibaba and Tencent. It works entirely with a prompt, and the results are of the highest quality
+49. [Genmo AI](https://www.genmo.ai/) - Generates images from text and transforms them into video
+50. [Genie by Lumalabs](https://lumalabs.ai/genie) - Design 3D models with a variety of settings (animated transitions, particle scales or densification). Collaborate and share your creations on Discord
+51. [Krea.ai](https://www.krea.ai/) - Generate images or videos using a design-driven AI. This AI is able to produce an illustration from a simple drawing
+52. [DeepFakesWeb](https://deepfakesweb.com/) - Make amazing Deepfakes videos in 2 clicks
+53. [ChatGPT 4.5](https://openai.com/index/introducing-gpt-4-5/) - An AI model that combines emotional intelligence and creativity for more natural interactions. Gain a better understanding of your intentions and reduce hallucinations
+54. [InVideo](https://invideo.io/) - A platform designed to make video editing and generation easier. Unleash your creativity with the help of an AI co-pilot
+55. [TradeUI](https://tradeui.com/) - Increase the quality of your trades and boost your profits quickly with AI
+56. [Make](https://www.make.com/en) - Boost your productivity by automation of your tasks (no code required). Create visually unlimited complex workflows with the help of AI
+57. [ContentShake AI](https://www.semrush.com/contentshake/) - An AI tool for easy generation of SEO-optimized content. Find ideas, write articles and publish them directly on your blog or website
+58. [Meta AI](https://www.meta.ai/) - Chat with the smartest open-source AI assistant. Powered by Llama 3, this tool helps you on a daily basis and can generate images in real time
+59. [OpenAI o1](https://openai.com/index/learning-to-reason-with-llms/) - This new AI model from OpenAI has been reinforcement-trained for complex reasoning. It can think internally before answering you. It outperforms humans in some difficult tests
+60. [Wondershare Virbo](https://virbo.wondershare.com/app/) - Easily generate engaging videos with realistic avatars and natural voices in over 120 languages. Ideal for marketing and training
+61. [Gamma App](https://gamma.app/zh-cn) - AI that makes it easy to create interactive content from your notes and templates
+62. [Audiobox by Meta](https://audiobox.metademolab.com/maker) - An intelligent toolbox for editing your audio: voice cloning, audio creation, fill and sound effects, magic audio editor, etc.
+63. [Notion AI](https://www.notion.com/product/ai) - Increase your creativity, write faster and organize yourself more effectively
+64. [Rytr](https://rytr.me/) - An intelligent copywriting assistant to help you create high-quality content
+65. [iFable](https://www.ifable.ai/home?from=aixploria) - Enter a wonderful world of visual games, where you and your favorite character forge a unique bond thanks to the creativity of AI
+66. [Microsoft Bing](https://www.bing.com/) - The new AI-driven Bing search engine. Ask your questions directly to artificial intelligence and get more precise answers
+67. [Udio](https://www.udio.com/) - An AI-based music generator capable of composing complete, ultra-realistic songs. Possibility of generating very impressive voices
+68. [PimEyes](https://pimeyes.com/) - Give one of your photos to AI and find out where you appear on the internet
+69. [Kinetix](https://www.kinetix.tech/) - A platform to create 3D animations, even without any knowledge
+70. [Framer AI](https://www.framer.com/features/ai/) - Create and publish a website instantly without coding. Customization and inspiration from free templates
+71. [Viggle 2.0](https://www.viggle.ai/) - Generate animated videos from images and text using AI JST-1. Animate your characters very quickly (dance, fight, etc.)
+72. [GitHub Copilot AI](https://github.com/features/copilot) - An AI co-pilot that can provide invaluable assistance to developers and programmers
+73. [Face Swap by Remaker](https://remaker.ai/face-swap-free/) - Easily swap faces in your photos using a free, secure online tool. Perfect for creating humorous videos, memes and more
+74. [Undetectable AI](https://undetectable.ai/) - Make your AI-generated texts undetectable by humanizing them. Ideal for students, SEO copywriters, journalists, etc.
+75. [NPC-Playground](https://huggingface.co/spaces/cubzh/ai-npcs) - Discover the future of video games with intelligent NPCs powered by LLMs that interact and scrupulously follow your instructions. Create your own world for free
+76. [Murf.AI](https://murf.ai/) - A site offering a range of voice production tools using AI: text-to-speech, translation, voice cloning, transcription, etc.
+77. [Video Face Swap](https://aifaceswapper.io/video-face-swap) - An online tool that swaps faces in your videos without registration. Easily preserve realistic expressions and original movements for free in your GIFs and clips
+78. [NovelAI](https://novelai.net/) - Text generation under the GPT algorithm for writing books and theme stories
+79. [Bing Image Creator](https://www.bing.com/images/create) - Bing&#039;s new AI image generator that creates illustrations from text. Now powered by Dall-E 3
+80. [Hugging Face](https://huggingface.co/) - An open source platform with resources and pre-trained models accessible to all
+81. [LTX Studio](https://ltx.studio/) - Create fabulous storytelling videos with an AI generator that follows your instructions precisely. Works via prompt
+82. [Codeium](https://codeium.com/) - Drastically accelerate the way you code with AI and explode your productivity
+83. [ChatSonic](https://writesonic.com/chat) - A conversational AI assistant dedicated to the business world: real-time web searches, ultra-fast analysis of your PDFs and Pro image creation. You can also train your personalized model
+84. [DeepSeek-VL2](https://huggingface.co/spaces/deepseek-ai/deepseek-vl2-small) - A multimodal model that makes images and text much easier to understand. Analyze your visual documents, answer complicated questions and generate detailed descriptions via 3 MLLM models
+85. [GPTforSlides](https://www.gptforslides.app/) - An AI that automatically generates PowerPoint-like presentations by embedding images, text, audio, etc.
+86. [FireFlies](https://fireflies.ai/) - Automate your notes during meetings or classroom sessions. This software captures and transcribes everything for you, saving you precious time
+87. [AI Video by Media.io](https://www.media.io/ai/home) - Easily unleash your creativity with a free AI text-to-video generator at your fingertips. Transform your ideas into engaging videos or scenes instantly
+88. [Le Chat by Mistral AI](https://mistral.ai/) - The official Mistral AI conversational assistant. Chat with an open-source ChatBot that rivals the best OpenAI models
+89. [PixVerse](https://app.pixverse.ai/onboard) - A promising AI to turn your texts into truly amazing videos. Free use during the beta phase
+90. [GPTGO](https://gptgo.ai/) - A high-performance search engine that uses Google and ChatGPT to provide you with the most relevant and accurate answers
+91. [Kreado AI](https://www.kreadoai.com/) - Transform text, images, PowerPoint, audio, url and more into high-quality videos in just minutes. 1,000+ AI avatars and 1,600 voices across 140+ languages.
+92. [GPTExcel](https://gptexcel.uk/) - Improve how you work with your Excel and Google Sheet files with AI. Generate complex formulas, automation scripts, SQL queries and more
+93. [BeforeSunset AI](https://www.beforesunset.ai/) - A personalized AI daily planner that uses proven planning methods. Your todos, calendars and notes are now combined
+94. [Mubert AI](https://mubert.com/render/pricing) - AI-assisted music generation that works from a text prompt. Melodies are easy to create and Royalty-Free
+95. [Interior AI](https://interiorai.com/) - Transform your interior or change the design of any room using a simple photo
+96. [Deepl](https://www.deepl.com/en/translator) - The essential, high-quality translation tool
+97. [FreeTTS](https://freetts.com/) - One of the best text-to-speech converters. Features a simple interface and works in 35 languages.
+98. [Misgif](https://misgif.app/) - Replace the face of a character in a GIF with your own, thanks to an AI technique called Faceswap. Also includes editing tools
+99. [PowerMode AI](https://powermodeai.com/) - Organize your ideas in AI-generated slides and boost your oral presentations (PowerPoint)
+100. [Playground OpenAI](https://platform.openai.com/playground/chat) - Take full advantage of OpenAI&#039;s GPT templates. Choose the one that&#039;s right for you and take advantage of their APIs
+101. [Get3D Nvidia](https://nv-tlabs.github.io/GET3D/) - Generation of realistic 3D models created by the Nvidia team
+102. [o3 by OpenAI](https://openai.com/index/early-access-for-safety-testing/) - O3 is the new super-powerful model from OpenAI. It excels in math, science and programming with record scores. Solve even the most complex problems with the chain-of-thought system
+103. [Uptrends AI](https://www.uptrends.ai/) - An intelligent assistant for investors combining news and social network data for a comprehensive stock market analysis. Ideal for tracking trends and optimising trading decisions
+104. [Face Swap Open](https://huggingface.co/spaces/tuan2308/face-swap) - Swap faces between two photos for free, while preserving original expressions and lighting. Perfect for fast, high-quality deepfakes
+105. [Booom.ai](https://joinplayroom.com/) - Generation of custom trivia games that can be played with friends (multiplayer)
+106. [ReelMagic](https://reelmagic.higgsfield.ai/) - A platform that generates professional videos thanks to specialized AI agents. Screenwriters, actors and virtual editors work together to create studio-quality video content
+107. [Wan 2.1 AI Video](https://huggingface.co/spaces/Wan-AI/Wan2.1) - Create 100% AI-generated videos easily, with precise control over style, movement and temporal consistency. This open source video generation model transforms your prompts into high-quality animated sequences (720p)
+108. [Liner AI](https://getliner.com/) - An AI copilot for your workspace, powered by ChatGPT. Quickly find information and reference sources to improve your research efficiency
+109. [Liner AI](https://getliner.com/zh) - An AI copilot for your workspace, powered by ChatGPT. Quickly find information and reference sources to improve your research efficiency
+110. [Phind](https://phind.com/) - An AI assistant specialized in research and coding. Get detailed answers and working code for your technical questions
+111. [Phind](https://www.phind.com/) - An AI assistant specialized in research and coding. Get detailed answers and working code for your technical questions
+112. [SlidesAI](https://www.slidesai.io/) - Fully AI-driven slide presentation generation. Google Slides and PowerPoint compatible
+113. [AIVA](https://www.aiva.ai/) - An easy-to-use IA music generator that produces some impressive melodies.
+114. [Semrush Social AI](https://www.semrush.com/lp/semrush-social/en/) - A powerful set of AI tools to easily manage and optimize your social media. Analyze, schedule and track your performance via a single interface
+115. [Human or Not 2](https://humanornot.so/) - A game in which you have to find out whether the person you are talking to is a real human or an artificial intelligence
+116. [Freepik AI Video](https://www.freepik.com/ai/video-generator) - A powerful AI video generator that can turn your text and images into high-quality videos. Possibility of choosing from the best video models on the market
+117. [Notion Sites](https://www.notion.com/product/sites) - Create an elegant website without coding, using an intuitive AI tool. Easily customize your pages, add dynamic content and publish everything quickly
+118. [Image To Vector](https://huggingface.co/spaces/openfree/image-to-vector) - Turn your images into vector files with an open source AI model. Get perfectly resizable SVG illustrations for your design projects
+119. [Uberduck](https://www.uberduck.ai/) - Write text and have it read by stars. Possibility to clone your own voice.
+120. [Tome AI](https://tome.app/lp/ai-presentations) - Help in creating a presentation (PowerPoint)
+121. [Code Llama](https://github.com/meta-llama/codellama) - An AI assistant capable of generating code and helping desktop and mobile application developers. Created by Meta
+122. [Free AI Content Writer](https://www.hubspot.com/ai-content-writer/am) - Create impactful content instantly with an AI assistant developed by HubSpot. Generate SEO articles, social media posts or e-mails adapted to your brand and audience
+123. [LogoAI](https://www.logoai.com/logo-maker) - An incredible AI that can create stunning logos for all kinds of projects in just a few clicks
+124. [Riffusion](https://www.riffusion.com/) - Quality and original music creation by text prompt. Available in different styles: rap, rock, classical, etc.
+125. [Inworld](https://www.inworld.ai/) - A series of characters with whom you can chat and create endless stories
+126. [WriteSonic](https://writesonic.com/) - A text generator specially designed to create SEO-optimized articles. Possibility of using different models via a chatbot
+127. [Bagoodex](https://bagoodex.io/) - A powerful AI search engine that delivers highly accurate, trusted results in real time. The tool is free, multilingual and protects your privacy
+128. [Night Café](https://creator.nightcafe.studio/) - Generate images from multiple algorithms
+129. [QuizLet](https://quizlet.com/) - Learn more easily with educational games, flashcards and practice quizzes. Available on browser and mobile
+130. [Pi AI](https://pi.ai/onboarding) - A conversational ChatBot created by Inflection AI that delivers astonishing performance similar to the best AI assistants
+131. [DreamFusion 3D](https://dreamfusion3d.github.io/) - From the generation of 3D objects from a textual prompt
+132. [ChessGPT](https://chessgpt.atomic14.com/) - A chatbot that can play chess and chat with you. This AI can also help you and give you tips
+133. [Beatoven](https://www.beatoven.ai/) - A royalty-free music generator that lets you create songs by choosing from a range of styles, genres, instruments and tempo
+134. [Imagen 3 by Google](https://deepmind.google/technologies/imagen-3/) - Create photorealistic images from text with Google DeepMind&#039;s 3rd generation generator. Enjoy even greater control over the style, composition and even animation of your illustrations
+135. [Pixelcut](https://www.pixelcut.ai/) - A free, easy-to-use AI photo editor. Remove backgrounds, improve image quality and create professional visuals for your products in just a few clicks
+136. [DRESSX.me](https://dressx.me/?ref=04dccc4d50) - Generate high-quality AI fashion outfits for any occasion within seconds. Create looks for your LinkedIn profile, dating apps, or favorite video games from simple text descriptions
+137. [Stable Video Diffusion](https://stability.ai/news/stable-video-diffusion-open-ai-video-model) - Stable Video Diffusion is a brand new video generator working with an image as a reference (soon text-to-video). Created by Stability.ai
+138. [Bolt.new](https://bolt.new/) - Create, run and deploy full-stack web applications from text prompts. Benefit from an AI development environment integrated directly into your browser
+139. [DeepSwapper AI](https://www.deepswapper.com/) - Quickly swap your face on an image using the face swap technique. The result is realistic, watermarked and it&#039;s free
+140. [Hotshot](https://hotshot.co/) - A video generator for creating short, fluid and realistic animations. This model can generate realistic faces, life scenes, special effects (VFX), etc.
+141. [Humva](https://humva.ai/) - Create professional videos with virtual presenters who bring your scripts to life. Customize your avatar&#039;s appearance, voice and gestures for hyper-realistic presentations
+142. [Haiper AI](https://haiper.ai/home) - A powerful IA video generator that&#039;s currently free. You can create videos from a prompt or a simple image
+143. [Play HT](https://play.ht/) - Voice generator that can read almost anything you give it or write. It can also read text in your own voice (voice cloning tool)
+144. [Hunyuan3D](https://github.com/tencent/Hunyuan3D-2) - Create expressive characters and dynamic scenes with this 3D model generator, which can create realistic animations based on your text descriptions
+145. [AIApply](https://aiapply.co/) - A multi-tasking tool to increase your chances of finding a job: CV creation, covering letters, job interview practice, etc.
+146. [Free Face Search Online](https://faceonlive.com/face-search-online/) - Find out where your face appears on the Internet with a reverse image search. Protect your digital identity by quickly locating photos published online
+147. [AI HairStyles](https://aihairstyles.com/) - Try out new hairstyles from one of your selfies with an AI that knows trends and fashion
+148. [Visme](https://www.visme.co/) - An all-in-one design platform that generates professional presentations, infographics and images thanks to AI. Easily create interactive content
+149. [SDXL by Stable Diffusion](https://stablediffusionweb.com/StableDiffusionXL) - A version of Stable Diffusion capable of generating images in large formats and superior quality. Works on local installation or online demo
+150. [Animated Drawings](https://sketch.metademolab.com/) - An Open-Source AI that allows a drawing to come to life and animate in a very surprising way
+151. [Resoomer](https://resoomer.com/) - Easily summarize any text, even long ones, and boost your productivity. Also works from URLs, images or documents such as PDF, DOCX, etc.
+152. [Meta Movie Gen](https://ai.meta.com/research/movie-gen/) - A powerful model for generating high-quality sound videos. Generate videos from text, edit existing videos, create custom videos and produce audio effects with ease
+153. [Semrush](https://www.semrush.com/) - Optimize your SEO and marketing with an AI-enhanced suite of tools. Benefit from an integrated virtual assistant, search for keywords, generate optimized content and analyze your data with intelligent algorithms
+154. [MailerLite](https://www.mailerlite.com/) - A professional e-mail marketing platform powered by AI. Create newsletters, automate campaigns and analyze performance with intuitive tools
+155. [insMind AI Logo](https://www.insmind.com/ai-logo-generator/) - A free online AI logo generator. Enter your brand name and slogan, and our AI will generate multiple logo options for you to customize further
+156. [DeepFaceLab](https://github.com/iperov/DeepFaceLab) - Creation of relevant Deepfakes. Swap your face while keeping a realistic and high quality video
+157. [FaceMex](https://www.facemex.ai/?utm_source=aixploria) - Edit your images with over 20 tools including face swapping, avatar generation and photo retouching. This AI toolbox is ideal for photo and video editing
+158. [OpenVoice AI](https://research.myshell.ai/open-voice) - Quickly clone your voice and generate text-to-speech content. Emotion, accent, rhythm, pauses and realistic intonation
+159. [VLOGGER by Google](https://enriccorona.github.io/vlogger/) - VLOGGER is a Google AI project capable of creating a realistic video avatar from a simple photo, controllable by voice!
+160. [Swapface](https://swapface.org/) - AI to make realistic face swaps in real time. Ideal for streaming, video calls, etc.
+161. [Deepfakes.lol](https://deepfakes.lol/) - Create DeepFake videos with powerful, realistic lip-synching. Share and discuss your creations on a dedicated Discord server
+162. [Mixus](https://www.mixus.ai/?ref=aixploria) - A powerful collaborative platform that lets you integrate ChatGPT, Claude, Perplexity or Gemini into your conversations with friends, colleagues or experts, in real time!
+163. [Aifaceswap](https://aifaceswap.io/) - A free AI tool that swaps faces on your photos with a natural result. Create fun montages in seconds, without registration or computer skills
+164. [DeepAI](https://deepai.org/machine-learning-model/text2img) - A simple, free image generator with multiple customization options. You can also create optical illusion illustrations
+165. [FraimeBot](https://t.me/fraimebot) - Easily exchange faces (faceswap) in your videos with Telegram&#039;s built-in AI using a ChatBot
+166. [DeepSwap](https://www.deepswap.ai/) - AI-generated Face Swap from any of your photos, GIFs or videos. Replace any face with ease
+167. [Faceless.video](https://faceless.video/) - Enter the subject of your TikTok account and the AI will create relevant videos. It will then automatically post them to your account every week
+168. [AI Video Translator](https://www.vidnoz.com/video-translate.html) - Automatically translate your videos into over 140 languages with AI. Subtitles can be activated, and it supports formats such as MP4, M4V, MOV, WEBM, etc.
+169. [Devin AI by Cognition](https://app.devin.ai/) - An AI assistant capable of generating and assisting you with highly complex code. It can create complete applications
+170. [Vidnoz AI](https://www.vidnoz.com/?a_aid=65ceadc79cea6?insur=en_md_aixploria) - A free AI-powered video creation platform, offering 1200+ avatars, 2800 pre-designed templates, and 1240+ realistic AI voices.
+171. [Janus-Pro-7B](https://huggingface.co/spaces/deepseek-ai/Janus-Pro-7B) - An open-source multimodal model that outperforms DALL-E 3 in image generation and analysis. Take advantage of an MIT license to freely use its capabilities in your commercial projects
+172. [AI Ease Face Swapper](https://www.aiease.ai/face-swap/) - A free tool that swaps faces in your photos in seconds. Create realistic montages with multiple people, switch genders and more
+173. [Roast Dating](https://roast.dating/) - Quickly increase your number of matches in applications like Tinder, Hinge or Bumble
+174. [Speech Synthesis](https://speechsynthesis.online/) - An online text-to-speech AI tool that converts your texts into natural voices (TTS). Choose from hundreds of voices in over 40 languages, and customize tone, rhythm and intonation
+175. [Voicemy.ai](https://voicemy.ai/) - Create AI Covers thanks to a site offering hundreds of voices of international stars. You can also clone a voice
+176. [Synthesia 2.0](https://www.synthesia.io/) - Create expressive video avatars that look like real people. Get professional-quality results quickly.
+177. [WolframAlpha](https://www.wolframalpha.com/) - Calculate or ask anything you want to this incredible AI, expert in science (very advanced level)
+178. [Vidu AI](https://www.vidu.com/) - An ambitious video generator that can produce high-quality videos from a brief description. Create coherent videos with multiple characters and objects in under 30 seconds
+179. [Free Text To Speech Online](https://www.text-to-speech.online/) - Convert your text into a natural-sounding human voice, free of charge. Voice reader available in 129 languages
+180. [Unstuck AI](https://unstuckstudy.com/) - Turn your course documents into an intelligent study assistant. Discuss your PDFs, presentations and recordings for detailed answers and course summaries
+181. [Klaviyo](https://www.klaviyo.com/) - Automate your marketing campaigns with AI. Send ultra-personalized e-mails and SMS using real-time customer data
+182. [Jammable](https://www.jammable.com/) - Easily replace the voice on a song of your choice and create your 1st AI Cover. Add your own voice
+183. [Face Animator](https://discopixel.app/animator) - Create expressive video animations of any face from a single image with this fun AI tool. Simply upload a photo, choose a reaction and off you go!
+184. [Guidde](https://www.guidde.com/) - A generative AI platform for companies specializing in creation of documentation by video. Google Chrome extension available
+185. [AI Face Swapper](https://aifaceswapper.io/) - A free, no-registration online tool for swapping faces on photos. Modify your images without limits in just a few seconds and create funny memes
+186. [Descript](https://www.descript.com/) - A host of powerful AI tools for easy editing of your videos and podcasts. Write, record, transcribe, edit and share all in one place
+187. [Zonos AI](https://huggingface.co/spaces/Steveeeeeeen/Zonos) - An open-source text-to-speech model able to generate expressive voices. Clone voices in seconds, control emotions and generate 44KHz audio content in over 6 languages
+188. [FaceCheck ID](https://facecheck.id/) - An AI-powered search engine that lets you find anyone on the Internet. Find a person&#039;s name online
+189. [Pictory AI](https://pictory.ai/) - Automatically generate videos even if you have no editing skills. Edit and enhance your videos with multiple AI tools
+190. [Chat with RTX by Nvidia](https://www.nvidia.com/en-us/ai-on-rtx/chatrtx/) - Chat with a powerful AI assistant, available locally and privately. Safely analyze documents, get summaries and more
+191. [o3-Mini](https://openai.com/index/openai-o3-mini/) - OpenAI&#039;s AI model for STEM reasoning outperforms all its predecessors. Benefit from 24% lower latency, optimized cost and native integration with ChatGPT
+192. [Hedra AI](https://www.hedra.com/) - Generate videos with expressive, controllable human characters via an AI platform. Storytelling possibilities + unlimited video length!
+193. [Databricks](https://www.databricks.com/) - Easily develop AI applications with your data. Enable everyone to obtain accurate information while reducing your costs
+194. [Openart](https://openart.ai/) - Search over 15 million prompts for Stable Diffusion, DALL-E 2 or Midjourney
+195. [Durable](https://durable.co/) - Create your professional website in seconds thanks to AI. The platform integrates intelligent marketing tools, a CRM and automated SEO management to develop your business
+196. [GPTZero](https://gptzero.me/) - Fast and revolutionary detection of plagiarism in your texts with the help of AI
+197. [Stockimg AI](https://stockimg.ai/) - Allows you to generate logos and all kinds of visuals from a text
+198. [SnapEdit](https://snapedit.app/) - A free online photo editor that simplifies the manipulation of your images. Remove backgrounds, improve the quality of your illustrations and remove unwanted objects in a matter of moments
+199. [Morph Studio](https://www.morphstudio.com/) - Describe your idea in writing and the AI will generate a video for you in a matter of moments. Running in beta version on the Discord platform
+200. [AI Website Generator](https://www.hubspot.com/marketing/ai-website-generator-am) - Create a professional website in minutes from a short description of your project. This website generator is driven by HubSpot&#039;s powerful AI
+201. [Ask Layla](https://layla.ai/) - An AI travel agent to find the best destinations. It can book flights and hotels, find personalized activity ideas, plan itineraries and much more
+202. [Tesla Optimus](https://twitter.com/tesla_optimus) - A futuristic humanoid robot developed by Tesla that aims to perform basic tasks. It incorporates advanced automation and AI technology
+203. [YuE AI](https://yueai.ai/) - Turn your lyrics into complete songs with a free, open-source model. Generate 5-minute songs in several languages with perfectly synchronized vocals and instruments
+204. [Image Upscaler](https://imageupscaler.com/) - An AI platform for easily increasing the resolution of your photos without loss of quality. You&#039;ll also benefit from tools such as background removal, photo-to-anime conversion and more
+205. [Monday.com](https://monday.com/) - An AI-powered work management platform. Manage projects, tasks and business processes with intelligent automation, customizable dashboards and over 200 ready-to-use templates
+206. [Vocal Remover](https://vocalremover.org/) - An AI assistant that can quickly separate voice and music on any kind of song
+207. [Jasper](https://www.jasper.ai/) - One of the best SEO optimized text generators with a chatbot in beta version
+208. [AI Ease Photo Enhancer](https://www.aiease.ai/photo-enhancer/) - A free photo enhancement tool that restores and optimizes your images. Increase resolution, remove blur and correct color with three specialized AI models
+209. [Krikey AI](https://www.krikey.ai/) - Automatic generation of 3D avatars and access to a public gallery
+210. [LogoFast](https://logofa.st/) - An AI assistant that helps you create a logo easily. It works from a starting icon, with the option of making a few visual adjustments
+211. [ArtFlow AI](https://app.artflow.ai/character-builder) - Creation of animated avatars, videos or images
+212. [PionexGPT](https://www.pionex.com/) - A cryptocurrency exchange platform offering automatic trading bots
+213. [Unreal Person](https://www.unrealperson.com/) - Generate free faces of people who don&#039;t exist, yet look ultra-realistic
+214. [Echowin AI](https://echo.win/auth/signup) - Never miss another call from your customers with this all-in-one platform. AI answers, transcribes and analyzes your calls to optimize your customer service
+215. [Anychat](https://huggingface.co/spaces/akhaliq/anychat) - A platform that brings together the best AI models such as ChatGPT, Grok, Claude and Gemini in a single interface. Easily test and compare different providers
+216. [Lovable](https://lovable.dev/) - Create websites and applications faster than with any other AI tool, with no technical expertise required. This tool turns anyone into a SaaS developer
+217. [HoppyCopy](https://www.hoppycopy.co/) - Write high-impact e-mail campaigns in the blink of an eye, thanks to AI. Save precious time with more than 50 templates optimized to meet your needs
+218. [Playground AI](https://playground.com/) - A very popular image generator that generates relevant illustrations
+219. [Scenario](https://www.scenario.com/) - Creation of resources and assets for your video game designs
+220. [Mochi 1 by Genmo](https://www.genmo.ai/play) - A powerful AI model for open-source video generation (480p). Create smooth 5.4-second videos from text with amazing motion quality and remarkable fidelity to prompts
+221. [PicLumen](https://www.piclumen.com/) - An AI image generator that integrates numerous artistic models (Flux.1 available). This platform also includes editing tools such as background removal, image enhancement, colorization and more
+222. [Similar Songs Finder](https://www.similarsongsfinder.com/) - Easily find and create playlists of songs similar to your favorites. Ideal for discovering new tunes quickly
+223. [Cursor AI](https://www.cursor.com/en) - An AI assistant that helps you create code, software and applications faster
+224. [Replit AI](https://replit.com/) - An AI-powered development platform for rapid coding, collaboration and deployment. Create websites, internal tools and applications in any language, without complex configuration
+225. [Fliki AI](https://fliki.ai/) - Accelerate the way you create videos with AI. Trim, edit, add subtitles or generate videos from a prompt
+226. [VEED](https://www.veed.io/tools/video-editor) - Easily edit professional videos with the help of numerous artificial intelligence tools: subtitle generation, transcription, translation, realistic avatars and more
+227. [Magnific AI](https://magnific.ai/) - Improve the resolution of your images (upscale) and also enhance their quality (pixels). This AI is also capable of hallucinating and reimagining your illustrations
+228. [Pokecut](https://www.pokecut.com/tools/background-changer) - Easily change the image background color or replace it with a professional template, ensuring the background remains in HD quality after the change
+229. [FakeYou](https://fakeyou.com/) - Have your text read by a celebrity, for example a comedian, a video game character, etc.
+230. [Unscreen](https://www.unscreen.com/) - Remove the background of a video without any effort and for free
+231. [Face Swap by Akool](https://akool.com/apps/faceswap) - Swap your face like a pro with the help of a premium platform. Transform yourself into a movie character or create personalized avatars
+232. [Pyramid Flow](https://pyramid-flow.github.io/) - Create high-quality videos from text or images with this autoregressive model, with impressive results in terms of resolution and duration
+233. [Tattoos AI](https://www.tattoosai.com/) - Design the tattoo of your dreams with an intelligence that masters the art of tattooing to perfection
+234. [v0.dev](https://v0.dev/) - A powerful code generator that works like ChatGPT with a prompt system. Currently available in Alpha version
+235. [The Simulation](https://www.thesimulation.co/) - A simulation powered by an AI specialized in the metaverse
+236. [Zapier](https://zapier.com/) - An intelligent tool to automate your daily tasks and maximize your productivity. Quickly connect your applications
+237. [AI Video Upscale by Capcut](https://www.capcut.com/fr-fr/tools/ai-video-upscaler) - Increase the resolution of your videos free of charge with AI. Enhance the quality of your videos in ultra HD (4K)
+238. [Face Swapper](https://icons8.com/swapper) - Quickly replace faces in your photos using advanced AI, preserving image quality for both fun and professional edits
+239. [OmniGen](https://huggingface.co/spaces/Shitao/OmniGen) - An open-source AI tool for generating images from text. Create new illustrations by combining different styles or models to obtain optimized results
+240. [Consensus](https://consensus.app/) - Get deep insight into scientific research from an AI-powered search engine
+241. [Opus Clip](https://www.opus.pro/) - Help to transform long videos into short clips for social networks: TikTok, Shorts, etc.
+242. [Jimeng AI by ByteDance](https://jimeng.jianying.com/) - Create quality videos from text using an AI developed by ByteDance (TikTok). Available only in China, on the App Store and Google Play
+243. [Studio D-ID](https://studio.d-id.com/) - Create pro videos from an image, text or sound.
+244. [Emote Portrait Alive (EMO)](https://humanaigc.github.io/emote-portrait-alive/) - Give an image of a character to this AI and it will generate a video in which the character speaks or even sings (still under development)
+245. [Remove BG](https://www.remove.bg/) - Remove the background of an image for free
+246. [Poe](https://poe.com/login) - A platform that centralizes access to top AI models like GPT-4o, Claude and ChatGPT. You can even create your own personalized chatbots and chat simultaneously with several virtual assistants
+247. [Windsurf Editor](https://codeium.com/windsurf) - A next-generation code editor that merges copilot and AI agent. Enjoy a fluid development experience with contextual assistance and multi-file editing
+248. [10Web](https://10web.io/) - An automatic e-commerce and Wordpress site builder with AI tools to improve the quality of your sites
+249. [Flair AI](https://flair.ai/) - Image generator to design photos or images for marketing
+250. [StockGPT](https://askstockgpt.com/) - A financial search engine powered by an AI (expert for $TSLA)
+251. [Logo Diffusion](https://logodiffusion.com/) - Create AI-generated logos in just a few seconds. 3D logos can also be created from a prompt
+252. [InspireMusic](https://funaudiollm.github.io/inspiremusic/) - Generate high-quality musical compositions using an open-source AI model trained on over 100,000 songs. Create melodies, harmonies and arrangements in different styles and genres
+253. [ClickUp](https://clickup.com/lp) - A powerful neural network that connects tasks, documents and people within your company. Manage your projects, create content and access all your knowledge thanks to AI
+254. [Hailuo AI Audio](https://www.minimax.io/audio) - A free text-to-speech tool that can also clone voices in less than 10 seconds. Customize 300+ multilingual voices with natural emotions and professional effects
+255. [Oasis AI Game](https://oasis.decart.ai/welcome) - A fully AI-generated video game running at 20 FPS. Explore an auto-generated world, jump, manage your inventory and enjoy realistic physics, all without a traditional game engine
+256. [Scite.ai](https://scite.ai/) - An AI search platform for discovering and evaluating scientific articles. Search 1.2 billion citations and 187 million articles
+257. [Hibiki](https://huggingface.co/spaces/fffiloni/Hibiki-simple) - Create dubbing, narration and dialogue with natural, expressive rendering. This AI model is capable of generating ultra-realistic AI voices in several languages
+258. [IdeaBuddy](https://ideabuddy.com/) - Turn your business idea into a fully functional enterprise step by step with AI technology
+259. [X-Portrait 2](https://byteaigc.github.io/X-Portrait2/) - Turn your photos into animated videos with an AI tool that faithfully reproduces facial expressions, head movements and emotions from source video.
+260. [Gemini Pro 1.5](https://deepmind.google/technologies/gemini/) - Gemini Pro 1.5 is an LLM model designed by Google to efficiently and accurately analyze very long content (1 million token context length)
+261. [Beautiful AI](https://www.beautiful.ai/) - Specialist in professional design
+262. [AIEase](https://www.aiease.ai/) - Simplify and automate your photo editing with AI Ease. Experience a wide range of AI photo editing tools to enhance every aspect of your images for free
+263. [Semantic Scholar](https://www.semanticscholar.org/) - Explore 220 million scientific publications with a semantic AI search engine and a powerful API for developers
+264. [Merlin](https://www.getmerlin.in/zh-CN) - A Chrome extension that integrates all the power of AI, including ChatGPT, GPT-4, Claude2 and Llama 2, into your favorite websites. Write e-mails, summarize articles, code, etc.
+265. [SpyGPT](https://www.spyfu.com/spygpt) - An analysis tool that explores 250 million ChatGPT responses to reveal how your brand is perceived and mentioned. Compare yourself to your competitors and optimize your presence in AI responses
+266. [Websim AI](https://websim.ai/) - A new way to create with AI in real time. Discover a playground that lets you quickly and automatically create websites, games, applications and more. Works via prompt
+267. [LanguageTool](https://languagetool.org/) - A multilingual AI writing assistant to improve your texts. Correct grammar, spelling and style in over 30 languages with browser and desktop application extensions
+268. [MagicSlides](https://www.magicslides.app/) - Create presentations or PowerPoint in automatic mode. Customizable via templates
+269. [Vadoo AI](https://www.vadoo.tv/) - An AI video generator that is able to create engaging, professional-quality faceless videos. Transform text prompts into great looking short-form videos
+270. [Edify 3D](https://research.nvidia.com/labs/dir/edify-3d/) - An AI platform developed by NVIDIA to generate ultra-realistic 3D models from text descriptions. Create professional assets from text or images with 4K textures and PBR materials.
+271. [BlueWillow](https://www.bluewillow.ai/) - A free image and illustration generator that works on the Discord application
+272. [Owlift](https://www.owlift.com/) - This AI explains you everything and anything as if you were a 5 year old child
+273. [Human or AI](https://humanizeai.com/human-or-ai/) - A game in which you have to guess whether an image has been produced by a human or an AI. The results of this study are published every week
+274. [Free AI Chatbot Builder](https://www.hubspot.com/products/crm/chatbot-builder) - Automatically answer your customers&#039; questions 24/7 with HubSpot&#039;s AI chatbot. Create and customize your chatbot very easily - no IT knowledge required
+275. [Paraphrasing Tool](https://paraphrasingtool.ai/) - This AI assistant creates and translates texts, with integrated search and paraphrase functions
+276. [Whisk Google](https://blog.google/technology/google-labs/whisk/) - An artistic tool that combines and transforms your images using artificial intelligence. Easily remix your photos without having to write complicated prompts
+277. [Predis AI](https://predis.ai/) - An AI content generator specialized in social networks. It can create text, images, voices, ads, carousels and more
+278. [CharmedAI](https://charmed.ai/) - Quickly generate 3D models and textures with an AI assistant. A free tool, perfect for game development, but still in beta
+279. [Prezo AI](https://prezo.ai/) - Design professional presentations with the help of AI: automated designs, transitions, images, etc.
+280. [Cades](https://fenado.ai/) - AI-powered platform that transforms app ideas into reality. Describe your vision and get working screens, code, and a published app - with testing tools and cloud IDE built in
+281. [TransPixar Adobe](https://wileewang.github.io/TransPixar/) - A video generator that adds transparent effects such as smoke or reflections. Integrate visual elements naturally into your scenes to create smooth transitions and realistic special effects (VFX)
+282. [NaturalReaders](https://www.naturalreaders.com/) - Text-to-speech site with very audible voices
+283. [Photo Restoration AI Ease](https://www.aiease.ai/photo-restoration/) - A free tool that restores your old, damaged photos. Remove scratches, improve sharpness and automatically colorize your black &amp; white images
+284. [Opus by Anthropic](https://www.anthropic.com/news/claude-3-family) - An LLM model with super-powerful capabilities, capable of performing all kinds of tasks with a high performance score. Available with Claude 3
+285. [Tube Magic](https://tubemagic.com/ds) - Boost your YouTube channel with this AI tool for generating video ideas, scripts and titles. Gain visibility with ease
+286. [Google Genie 2](https://deepmind.google/discover/blog/genie-2-a-large-scale-foundation-world-model/) - An AI model that generates 3D virtual worlds from an image or text. Browse auto-generated environments with realistic physical effects, animated characters and multiple viewpoints
+287. [Voice Engine by OpenAI](https://openai.com/blog/navigating-the-challenges-and-opportunities-of-synthetic-voices) - Quickly clone a voice with OpenAI&#039;s Voice Engine. This AI model opens up new perspectives for voice dubbing and translation
+288. [insMind AI Image Generator](https://www.insmind.com/ai-image-generator/) - A text-to-image generator that lets you create beautiful pictures with AI. Choose from a wide range of styles, quickly edit your photos and customize the results using an intuitive interface.
+289. [AI Ease Object Remover](https://www.aiease.ai/remove-object-from-photo/) - Quickly remove unwanted elements from your photos with AI. Remove people, text, logos or defects with inpainting technology that automatically reconstructs the background
+290. [SlideSpeak AI](https://slidespeak.co/) - An AI assistant powered by ChatGPT to master your presentations and documents. Summarize PowerPoint or Word files, generate slides and ask questions about the content of your documents to boost your productivity
+291. [W.A.L.T](https://walt-video-diffusion.github.io/) - A high-resolution text-to-video AI that produces more realistic and fluid movements. AI designed by researchers at Stanford University
+292. [Arc Search](https://arc.net/) - A fast, modern mobile browser with AI at its core. Advanced personalization options and privacy protection
+293. [CogVideoX-2B](https://huggingface.co/spaces/THUDM/CogVideoX-2B-Space) - Generate HD videos from text. Describe the desired action and the AI creates a video of around 6 seconds. Based on CogVideo, a 100% open-source model
+294. [Faraday.dev](https://backyard.ai/) - Generate text from a number of LLM models without installation and locally. Alpaca, LLaMA 2, Vicuna, Vigogne, Wizard, etc.
+295. [Lumiere AI by Google](https://lumiere-video.github.io/) - A project created by Google to generate AI videos and easily edit them using a generative filling technique
+296. [DeepMotion](https://www.deepmotion.com/) - Transform in real time any of your videos into high quality 3D animations
+297. [CloneDub](https://www.clonedub.com/) - Convert your audios into any language while keeping the same voice. Next-generation voice cloning technology
+298. [My Adventures](https://myadventures.ai/) - A text-based role-playing platform where AI creates real-time adventures based on your choices. Explore fantastic worlds with stories that adapt to your decisions and play style
+299. [Go-with-the-Flow](https://eyeline-research.github.io/Go-with-the-Flow/) - Control the movements of your AI-generated videos with unprecedented precision. Transfer animations between scenes, add camera effects and modify foregrounds while maintaining perfect visual consistency
+300. [AI Logo Reveals](https://reveals.app/) - Easily animate your logo with an intuitive, intelligent tool. Get professional 3D animations with the help of predefined templates
+301. [Songtell](https://songtell.com/) - A repertoire of more than 50,000 pieces of music and songs in various genres
+302. [Songtell](https://songtell.com/zh) - A repertoire of more than 50,000 pieces of music and songs in various genres
+303. [VASA-1 by Microsoft](https://www.microsoft.com/en-us/research/project/vasa-1/) - An AI project that generates realistic talking faces from an image or audio clip. Perfect lip-synchronisation, emotions, facial nuances and natural head movements
+304. [Dzine](https://www.dzine.ai/) - A professional, easy-to-use design assistant that can do it all: edit photos and logos, delete objects, add filters, combine different elements, and more
+305. [Smodin](https://smodin.io/) - A powerful content writer, ideal for students
+306. [DeepSeek-V3](https://www.deepseek.com/) - A high-performance open-source LLM model for text and code generation. Available in several optimization formats, including BF16 and F8. API already available
+307. [HubSpot Clip Creator](https://www.hubspot.com/clip-creator) - Create professional marketing videos with AI that generates clips from your content. Results are customizable and ideal for social networks such as TikTok, Reels Instagram or YouTube Shorts
+308. [EndlessVN](https://endlessvn.io/) - An AI-based storytelling game where the story never ends
+309. [Translate.Video](https://www.translate.video/) - An AI that allows the translation of videos with subtitles, dubbing and transcriptions included
+310. [Otter AI](https://otter.ai/) - Transcribes oral conversations into text
+311. [Chromox](https://chromox.alkaidvision.com/) - A tool that simplifies video creation by letting you use text (via a prompt) to generate incredibly realistic, high-quality videos
+312. [Shop.app](https://shop.app/) - A practical application to simplify your online shopping. Enjoy one-click payment, real-time tracking and instant rewards with every order
+313. [Covers AI](https://covers.ai/) - Automatic generation of Cover IA from a voice sample or song. Music downloadable in .mp3 format
+314. [AI Passport Photo Maker](https://supawork.ai/passport-photo-maker?utm_source=aixploria) - An AI-enhanced professional passport photo generator. Create passport, visa, ID card and CV photos with a free passport photo maker
+315. [GPT-4o](https://openai.com/index/hello-gpt-4o/) - Discover GPT-4o, OpenAI&#039;s new flagship model. It analyzes audio, vision and text in real time, for increasingly natural interaction with AI
+316. [AI Video Cut](https://www.aivideocut.com/) - Turn your long videos into viral content for YouTube, TikTok or commercials. AI creates customized trailers, clips and ads. Export in 9:16, 4:3 or original size
+317. [Frase IO](https://www.frase.io/) - Optimize your SEO content with AI that analyzes SERPs, researches keywords, generates plans, writes articles and more. Compare yourself to your competitors with easy-to-use, highly effective tools
+318. [Create AI](https://www.create.xyz/) - Create AI applications free of charge with GPT-4. Numerous templates available: dashboard, image generator, reservation, visual search, image generation, etc.
+319. [Kaggle](https://www.kaggle.com/) - A community platform focused on artificial intelligence. This site provides ML learning courses, models, code, a forum, etc.
+320. [MagicAnimate](https://showlab.github.io/magicanimate/) - Animate a person or a fictional character from a simple image. This video project is available on GitHub and is already up and working
+321. [Tree of Knowledge AI](https://tree-of-knowledge.org/) - Explore human knowledge in the form of an interactive AI knowledge tree. Navigate between disciplines and discover all their connections. The project is free and open-source
+322. [Artguru](https://www.artguru.ai/) - A platform dedicated entirely to art, featuring multiple AI tools: image generator, Face Swap, Avatar, Headshot, etc.
+323. [Sigma AI Browser](https://sigmabrowser.com/) - An AI-enabled web browser for creating images, translating instantly, summarizing texts and chatting with an assistant. Fast, secure and synchronized across all your devices
+324. [Powerpresent AI](https://powerpresent.ai/) - An AI application that generates PowerPoint and presentation scripts automatically (PPT)
+325. [REimagine Home](https://www.reimaginehome.ai/) - Refresh your interior design with this professional decorator under IA
+326. [Pixtral12B](https://huggingface.co/mistral-community/pixtral-12b-240910) - A multimodal model with 12 billion parameters, capable of processing text and images. Generate content, analyze visuals and answer questions about images
+327. [NVIDIA Cosmos](https://www.nvidia.com/en-us/ai/cosmos/) - A platform that generates photo-realistic virtual worlds from text or video. Create test environments for your robots and autonomous vehicles using models pre-trained on 20 million hours of data
+328. [Jenny AI](https://jenni.ai/) - Write research papers faster. AI cites sources, completes your sentences, summarizes papers and paraphrases. Export to LaTeX or Word
+329. [RemotePeople](https://remotepeople.com/tools/ai-job-description-generator/) - An AI job description generator that helps you create accurate, detailed and compelling job offers. Customize content, comply with legal standards and attract the best candidates fast
+330. [Amazon CodeWhisperer](https://aws.amazon.com/q/developer/) - Benefit from real-time code suggestions directly in the IDE. Speed up coding and project development
+331. [DimensionX](https://chenshuo20.github.io/DimensionX/) - AI technology that transforms your images into realistic 3D and 4D scenes. Freely control the camera and explore your creations from every angle with exceptional photographic quality
+332. [AI Social Bio](https://aisocialbio.com/) - An AI that creates your social network bio for free
+333. [Notta AI](http://notta.pxf.io/raa6m3) - An AI capable of listening to conversations and transcribing them into text. Also works in your meetings, Zoom, Google meet, Microsoft Teams, etc.
+334. [Kimi.ai](https://kimi.ai/) - A powerful multimodal model for converting images into usable data. Analyze visual content, generate code, identify locations and create graphics with precision that rivals GPT-4
+335. [Clipdrop](https://clipdrop.co/) - A palette of tools to easily create artistically appealing visuals
+336. [GenYOU](https://generated.photos/genyou) - An AI portrait generator that creates realistic photos of you in different styles. Maintain your identity while trying out a variety of looks: luxe, understated, historical costumes, etc.
+337. [ImgLarger](https://imglarger.com/) - Enlarge and enhance your photos effortlessly
+338. [AskYourPDF](https://askyourpdf.com/) - An AI ChatBot to interact efficiently with your PDF files and facilitate their understanding
+339. [AskYourPDF](https://askyourpdf.com/zh) - An AI ChatBot to interact efficiently with your PDF files and facilitate their understanding
+340. [Grok 2.0](https://x.ai/grok) - An AI assistant created by xAI (Elon Musk). It answers your questions based on real-time data from X users
+341. [Unboring AI](https://reface.ai/unboring) - Edit, modify and animate your photos or videos with AI. Swap faces and create fun videos
+342. [Emu Video by Meta](https://emu-video.metademolab.com/) - A text-to-video generator that uses a new factoring technique to produce realistic AI videos
+343. [Vectorizer AI](https://vectorizer.ai/) - Quickly and automatically convert your PNG or JPEG images to SVG vectors
+344. [Playphrase.me](https://www.playphrase.me/) - You write a sentence and the AI finds all available movie lines
+345. [Namelix](https://namelix.com/) - Help you find a name for your business, brand or company
+346. [Komo Search](https://komo.ai/) - AI that makes it possible to do more precise research based on community topics
+347. [QwQ-32B](https://qwenlm.github.io/blog/qwq-32b/) - An open source LLM model that delivers impressive performance using reinforcement learning. Benefit from powerful intelligence with 32 billion parameters, comparable to much larger models
+348. [MiniMax-01](https://chat.minimax.io/) - A powerful open-source language model with a context window of 4 million tokens. 32 times more powerful and 10 times less expensive than its competitors
+349. [Visily AI](https://www.visily.ai/) - Build applications with professional design without coding
+350. [Andi](https://andisearch.com/) - The assistant that answers all your questions like a search engine
+351. [Finchat.io](https://finchat.io/) - Use ChatGPT&#039;s capabilities to analyze, invest or get answers about a company
+352. [MagicShot.ai](https://magicshot.ai/) - An AI image generator that transforms your ideas into stunning visuals. Perfect for designers and creators, it makes image creation easy and fun!
+353. [AI Services by Fiverr](https://www.fiverr.com/categories/ai-services) - Discover more than 10,000 human experts in AI who can help you with all your projects. Over 20 types of service, from digital art to application development
+354. [Recipes By AI](https://letsfoodie.com/ai-recipe-generator/) - Write down your list of available ingredients and your new AI chef gives you a recipe
+355. [Llama 3.2](https://ai.meta.com/blog/llama-3-2-connect-2024-vision-edge-mobile-devices/) - A new generation of AI language models from Meta, including lightweight and multimodal versions. Create AI applications on mobile, analyze images and text, all with open and customizable models
+356. [Sana](https://nvlabs.github.io/Sana/) - Quickly create high-resolution images up to 4K. Works on laptops too, thanks to optimized architecture and compressed models
+357. [Freepik Pikaso](https://www.freepik.com/ai/pikaso-ai-drawing) - An image generator that works from your drawings. Draw your sketch and watch the image being built in real time with AI
+358. [MagicQuill](https://magicquill.art/demo/) - An intelligent image-editing system that anticipates your intentions in real time. Modify, insert or delete elements with just a few brushstrokes, thanks to an intuitive interface and precise control
+359. [Are You Smarter Than ChatGPT](https://smarterthangpt.com/) - A fun game that challenges your knowledge of ChatGPT. Test yourself and find out who&#039;s the smartest!
+360. [Icons8 AI](https://icons8.com/) - Explore a full suite of powerful AI tools: human, face and illustration generators, background suppression, intelligent upscaling, Face Swap, icons and more
+361. [JobCopilot](https://jobcopilot.com/) - An AI assistant that automates your job search by applying up to 50 times a day to 50,000 job boards. It generates personalized cover letters, optimizes your applications and trains you for job interviews
+362. [Ready Player Me](https://readyplayer.me/) - Creation of avatars for the Metaverse and gaming platforms
+363. [Code Llama 70B](https://www.llama.com/llama-downloads/) - A more powerful version of the [ Code Llama ] model that can generate quality code using 70 billion parameters
+364. [Video To Blog](https://www.videotoblog.ai/) - From a YouTube URL, you can convert any video into an SEO blog post. Export as HTML, TXT, PDF, etc.
+365. [Vance.ai](https://vance.ai/) - A video-editing studio that enhances your content with AI. Convert SDR to HDR10/Dolby vision, Upscale video up to 8K, Denoise/Deinterlace videos in one click
+366. [FLUX.1 Tools](https://blackforestlabs.ai/flux-1-tools/) - A suite of AI tools for image editing that combines inpainting, outpainting and structural retouching. Modify and extend your images with precise control over the final result
+367. [Illuminate by Google](https://illuminate.google.com/explore) - An experimental tool that transforms your content into AI-generated audio discussions. Convert academic articles into easy-to-listen-to podcasts
+368. [PixAI.Art](https://pixai.art/) - Immerse yourself in the world of anime art with an image generator that works with styles and models
+369. [SIMA AI by Google](https://deepmind.google/discover/blog/sima-generalist-ai-agent-for-3d-virtual-environments/) - An incredible AI capable of playing video games like a human. A true gaming partner
+370. [Browser Use](https://browser-use.com/) - A Python library that makes websites accessible to AI agents. Extract interactive elements from pages to enable virtual assistants to interact naturally with content
+371. [MidJourney Prompt Helper](https://promptfolder.com/midjourney-prompt-helper/) - An indispensable tool for creating complex prompts and professional images on Midjourney
+372. [SVFR](https://huggingface.co/spaces/fffiloni/SVFR-demo) - Restore the quality of your videos with an AI model that enhances faces, colors and fills in imperfections. Enjoy stable technology that preserves temporal consistency
+373. [DistroKid](https://distrokid.com/vip/seven/6819923) - A music distributor offering AI functions such as automatic lyric transcription, an album cover generator (DistroPic), etc.
+374. [Speechify](https://speechify.com/ai-voice-generator/) - Create AI voice-overs for videos, commercials, e-learning, audiobooks, dubbing, website content, or any other use case you need. Includes voice cloning, 200+ voices, 60+ languages, pronunciation library, and emotion and speed controls
+375. [Free AI Email Writer](https://www.hubspot.com/products/marketing/ai-email-writer) - An AI tool that writes relevant prospecting e-mails on a large scale, free of charge, and automates the sending of your e-mails. Use predefined, professional templates
+376. [Odoo](https://www.odoo.com/) - Open-source, customizable, all-in-one CRM and ERP management software. Over 40,000 applications are available on the platform, including AI assistants
+377. [ChatGPT for PowerPoint](https://appsdowonders.com/chatgpt-for-powerpoint/) - Create professional slides in minutes with this AI Presentation Maker. Enter a topic, upload a file, or use a YouTube link to generate stunning presentations
+378. [FineVoice Speech to Text](https://www.fineshare.com/speech-to-text-online/) - Easily convert your audio files into text in over 40 languages using this AI tool. Compatible with TEXT, JSON, VTT and SRT files
+379. [Perplexity Assistant](https://www.perplexity.ai/android) - A mobile assistant that understands your needs and acts for you every day. Book restaurants, order groceries, manage your diary and analyze your environment using your phone&#039;s camera.
+380. [Cline](https://github.com/cline/cline) - Develop your applications faster with an assistant who codes alongside you. Execute commands, modify files and test your code in real time with an AI agent that adapts to your working environment
+381. [Luma AI](https://lumalabs.ai/) - Capture reality and transform it in an amazing 3D way
+382. [bardeen AI](https://www.bardeen.ai/ai) - A tool that generates customized automations based on your manual tasks. Simply describe what you want to automate and let the AI do the rest
+383. [Steve AI](https://www.steve.ai/) - Make videos for all your social networks and design targeted ads
+384. [HeyGen Interactive Avatar](https://labs.heygen.com/guest/interactive-avatar/) - Chat in real time with a hyper-realistic, expressive AI avatar. Easily create your own avatar and generate high-quality 3-minute videos
+385. [AI Campaign Assistant](https://www.hubspot.com/campaign-assistant/am) - Create marketing campaigns, professional landing pages or e-mails in a matter of moments with AI. Choose the tone and key points, and the assistant takes care of the rest
+386. [v3RPG](https://landing.v3rpg.com/) - A fabulous AI-based RPG that lets you create unique and interactive adventures. Explore fantastic worlds where every choice influences the story. Earn rewards by being a great prompt enginner
+387. [Waymark](https://waymark.com/) - A video generator designed for your e-commerce and your business
+388. [FILM](https://replicate.com/google-research/frame-interpolation) - Generate motion movies (frame by frame) from one of your photos and turn it into an animation
+389. [Codium LTD](https://www.qodo.ai/) - Let AI assist you with your code and save time. Benefit from efficient code generation and suggestions
+390. [Synthesizer V](https://dreamtonics.com/en/synthesizerv/) - Revolutionary music production tool using AI to create realistic voices
+391. [Janitor AI](https://janitorai.com/) - Chat with a wide range of characters, from celebrities to manga heroes. You can also create your own character
+392. [Speechki](https://speechki.org/) - A free plugin available on ChatGPT-4 that can read any text you submit to it
+393. [GenFM ElevenReader](https://elevenlabs.io/genfm) - An application that converts your documents into podcasts hosted by two AI presenters. Listen to your articles, books and PDFs as natural conversations in 32 languages
+394. [Video to Sounds Effects](https://videotosfx.elevenlabs.io/) - Bring your creations to life with an AI that generates customized sound effects for your videos via a prompt: sound effects, ambience, noise effects, music, etc.
+395. [Wonderslide AI](https://wonderslide.com/) - Quickly create high-quality presentations with the help of an AI. Upload your file (.pptx) and the AI will create a professional design for you
+396. [Escape AI](https://escape.ai/) - A new neo-futuristic cinema platform with original AI films and shorts: science fiction, horror, fantasy, comedy and more
+397. [Text Behind Image](https://textbehindimage.site/) - A free tool that artistically places text behind image elements. Create professional visual effects for your presentations and social posts without registration or technical skills
+398. [NijiJourney](https://nijijourney.com/en/) - Generation of good quality anime and manga type images
+399. [AnimateDiff](https://www.animatediff.org/) - An AI text-to-video tool that transforms your static images or text into animated videos. Ideal for quickly creating animated clips (SD)
+400. [PhotoMaker V2](https://huggingface.co/spaces/TencentARC/PhotoMaker-V2) - Create personalized photos while keeping your image consistent. Send a photo of a face with a description, and the AI generates a photorealistic or stylized portrait
+401. [SwapFans AI](https://www.swapfans.ai/) - Quickly exchange faces with a large number of videos from social networks at once. Great for creating your own AI model
+402. [Taplio](https://taplio.com/) - Write faster with an AI assistant and increase the quality of your articles on LinkedIn
+403. [Rewind AI](https://www.rewind.ai/) - Search for anything you may have seen or heard from a prompt (MAC)
+404. [Thispersondoesnotexist](https://thispersondoesnotexist.com/) - Realistic face generator with StyleGAN2 technology
+405. [Luma AI](https://www.serviceaide.com/products/luma-ai) - An AI virtual assistant to optimize your customer service. Automate answers to frequently asked questions and solve problems quickly
+406. [Delphi AI](https://www.delphi.ai/) - A platform for creating a digital clone of yourself (using PDFs, videos, podcasts, etc.). Perfect for creators and influencers
+407. [ImgenArena.ai](https://www.imgenarena.ai/) - A fun platform for evaluating the quality of AI-generated images. Vote for the best match between prompts and images, and contribute to the ranking of the best-performing AI models
+408. [MMAudio](https://hkchengrex.com/MMAudio/) - An open-source sound generator that synchronizes audio with your videos. Create consistent soundtracks from your video sequences and text descriptions
+409. [Originality AI](https://originality.ai/) - An AI and plagiarism detector that&#039;s pretty reliable. It can scan your documents, files or directly from a URL
+410. [HuggingChat](https://huggingface.co/chat/) - A free and open source conversational ChatBot, produced by the company Hugging Face. Similar to ChatGPT
+411. [NEO by 1x Technologies](https://www.1x.tech/) - A bipedal intelligent android assistant with humanized hands under development. The project is supported by OpenAI
+412. [Agent.ai](https://agent.ai/) - A professional network dedicated to AI agents. Find, connect and hire AI agents to perform your tasks, or create your own thanks to an integrated development platform
+413. [MagicVideo-V2](https://magicvideov2.github.io/) - A video generator that uses your prompt to create a realistic video clip. This project is developed by ByteDance
+414. [LALAL.AI](https://www.lalal.ai/fr/) - This AI tool precisely separates the vocal and instrumental tracks of any song. Quickly separate vocals, drums, bass, etc.
+415. [Upscale.media](https://www.upscale.media/) - Enhance and increase the resolution of your photos dramatically (up to 4x). Supported formats: PNG, WEBP, JPG, JPEG and HEIC
+416. [Leffa](https://github.com/franciszzj/Leffa) - An open-source virtual try-on model that accurately transfers clothes from one photo to another. Preserve fabric details and change poses naturally, thanks to an attention system that reduces visual distortion
+417. [beehiiv AI](https://www.beehiiv.com/) - Improve and accelerate your newsletter content creation with writing, editing, translation and monetization tools
+418. [Genie by Cosine](https://cosine.sh/genie) - An AI software engineer is able to write and modify code independently. It achieves a SOTA score of 30% on SWE-Bench. Useful for solving bugs, adding features and refactoring code
+419. [ZeroGPT](https://www.zerogpt.com/) - Detect easily if a text has been written by a human or an AI. ZeroGPT also offers other AI tools: paraphraser, spellchecker, messaging assistant, translator, etc.
+420. [Public Prompts](https://publicprompts.art/) - A huge collection of free and open source prompts for your favorite image generator
+421. [Aragon](https://www.aragon.ai/) - An AI Headshot Generator that create studio-quality headshots within minutes. All you need is a few selfies or photos
+422. [Imagine Anything](https://www.imagineanything.ai/) - A fast, high-quality AI image generation tool. Describe your idea via a prompt, choose your options and the AI does the rest. Ideal for art, design, marketing, logos, etc.
+423. [Replicate AI](https://replicate.com/) - Run Deep Learning models easily without needing to know how to code
+424. [NotebookLM](https://notebooklm.google/) - An AI research assistant to organize and analyze your documents. Import your sources, ask questions and obtain intelligent summaries to better understand and exploit your information
+425. [Video Seal by Meta](https://aidemos.meta.com/videoseal) - A model that integrates invisible watermarks into your videos to protect their authenticity. Verify the origin of content and resist manipulation thanks to hidden messages that survive modifications such as blurring or reversing
+426. [Genie by Deepmind](https://sites.google.com/view/genie-2024/home) - An AI model capable of autonomously creating the entire universe of a video game from a prompt (text-to-game)
+427. [Socratic by Google](https://socratic.org/) - An AI to help you in your studies: math, science, literature, etc..
+428. [SciSpace AI Writer](https://typeset.io/ai-writer) - This high-performance research assistant is equipped with a powerful AI feature to help with writing. Create scientific content with built-in citations, precise auto-completion and support for over 75 languages
+429. [AI Expression Editor](https://huggingface.co/spaces/fffiloni/expression-editor) - An AI tool for modifying facial expressions in your photos. Adjust the emotions of your portraits in real time, modifying eyebrows, eyes and mouth to create the perfect expression
+430. [VideoPoet by Google](https://sites.research.google/videopoet/) - A language model (LLM) specially trained to generate videos from simple text
+431. [Microsoft Designer](https://designer.microsoft.com/) - AI-generated marketing graphics for professional, commercial-quality visual messages.
+432. [Orion by OpenAI](https://www.reddit.com/r/singularity/comments/1f2iism/openai_shows_strawberry_ai_to_the_feds_and_uses/) - A new language model in development, more powerful than GPT-4. Uses “Strawberry” AI to generate high-quality training data and reduce hallucinations
+433. [Switti](https://yandex-research.github.io/switti/) - Generate HD images seven times faster than current diffusion models. Take advantage of an architecture that optimizes memory and visual quality through more powerful transformers
+434. [SDXL Turbo Online](https://stablediffusionweb.com/SDXL-Turbo) - Generate images from text or images in near real time (ADD). Fine-tuning is also easily performed
+435. [GitHub Models](https://github.blog/news-insights/product-news/introducing-github-models/) - A set of LLM models made freely available to developers by Microsoft: Llama 3.1, GPT-4o, GPT-4o mini, Phi 3, Mistral Large 2, etc.
+436. [Woebot Health](https://woebothealth.com/) - A personal coach who supports you mentally
+437. [Workleap](https://workleap.com/lp/officevibe/employee-engagement) - A complete HR platform that makes your employees&#039; day-to-day work easier. Manage the performance, engagement and development of your teams via intuitive AI tools adapted to hybrid working
+438. [AI Website Builder 2.0](https://10web.io/ai-website-builder/) - Create a professional website in minutes with AI. Generate content, images and optimize SEO with 10Web
+439. [Fineshare Singify](https://singify.fineshare.com/) - Easily create cover songs (AI cover) with a free online tool. Dozens of voice models available on the site.
+440. [Scholarcy](https://www.scholarcy.com/) - An AI that summarizes very large texts or articles and extracts the data of your choice
+441. [Tarotoo AI Psychic](https://tarotoo.com/psychic) - Your personal guide to the mystical world of astrology, numerology, spirituality, tarot and dreams
+442. [Audio Editor by Veed](https://www.veed.io/tools/audio-editor) - Edit your audio like a pro with an online AI tool: cut, arrange or remove background noise automatically with AI. You can also add royalty-free music and export the result in MP3, WAV, etc.
+443. [Molmo by Ai2](https://molmo.allenai.org/) - An open-source multimodal language model capable of understanding and generating text and images. Use it for computer vision, image generation and visual reasoning tasks
+444. [Vatic AI](https://www.createaivideos.com/) - Generate amazing videos with AI from a simple prompt (Text-to-Video)
+445. [ViewCrafter](https://drexubery.github.io/ViewCrafter/) - Generate realistic 3D views from limited 2D images to create immersive experiences and high-quality 3D content
+446. [Edimakor](https://edimakor.hitpaw.com/) - A comprehensive video editing software designed to meet the needs of both beginners and professionals. It offers a wide range of AI features that make video editing simple, efficient, and enjoyable
+447. [AI Studio by Meta](https://ai.meta.com/ai-studio/) - Create an AI character or clone of yourself based on your interests. Your audience can then chat with this persona via a chatbot on Instagram, Messenger or WhatsApp
+448. [Open Deep Research](https://huggingface.co/spaces/m-ric/open_Deep-Research) - An open source tool that replicates the advanced search capabilities of OpenAI&#039;s Deep Research. Take advantage of a free conversational assistant capable of in-depth web searches
+449. [CGDream](https://cgdream.ai/) - Generate Al visuals from images or 3d models with CGDream using descriptive text prompts and custom filters to achieve the exact style you want
+450. [Safurai](https://safurai.com/) - Let an AI assist you to write your code 10 times faster
+451. [NoteGPT](https://notegpt.io/) - Optimize your learning with this multifunctional AI assistant. Summarize YouTube videos, PDFs, articles, generate mind maps and organize your notes more intelligently
+452. [Solo by Mozilla](https://soloist.ai/) - An automated site builder that allows you to create a no-code, responsive, SEO-optimised website
+453. [DoNotPay](https://donotpay.com/) - An AI that will serve as your lawyer and knows the law by heart
+454. [3DFY.ai](https://3dfy.ai/) - Create 3D models from text. Produce large-scale 3D content
+455. [Image to Prompt](https://imageprompt.org/image-to-prompt) - Transform Any Image into Detailed Image Prompts for Midjourney, Flux, Stable Diffusion and More. This powerful tool analyzes your images to generate ultra-detailed descriptions
+456. [Mathsolver.top](https://www.mathsolver.top/) - A free AI math problem solver that provides step-by-step solutions and personalized tutoring. 25% higher accuracy than ChatGPT
+457. [Videotok](https://www.videotok.app/) - Create viral videos for TikTok and Instagram in the blink of an eye. AI generates the script, voice, images and effects. Save time!
+458. [Scale AI](https://scale.com/) - Accelerate the development of your AI applications easily and securely. Benefit from high-quality labeled data and powerful model management and evaluation tools
+459. [Easy-Peasy AI](https://easy-peasy.ai/) - Write your content 10x faster. 80 templates available for writing, image generation, etc.
+460. [Wisecut](https://www.wisecut.ai/) - Edit your videos automatically without any knowledge
+461. [Manus AI Agent](https://manus.im/) - An AI agent that executes advanced tasks without human intervention. From travel planning to financial analysis, this multimodal autonomous agent can navigate on the web and achieve all your tasks
+462. [Story Illustrator AI](https://makemycomics.com/) - An AI tool for easy creation of comics and stories. Generate panels, characters, dialogues and more
+463. [LogoCreatorAI](https://logocreatorai.com/) - AI design tool to create custom logos, offering 12 styles and 10 simultaneous logos
+464. [DreamStudio](https://dreamstudio.ai/generate) - An easy-to-use platform for rapid image generation. The site uses generative templates from Stability.ai
+465. [BestFaceSwap AI](https://www.bestfaceswap.net/?utm_source=aixp) - Swap faces in photos, GIFs and videos in just three clicks. Get realistic, professional-quality results with an AI technology that preserves natural expressions
+466. [Captions](https://www.captions.ai/) - An AI studio to create, caption and customize videos easily and quickly
+467. [Suno AI Bark](https://github.com/suno-ai/bark) - A free and open-source text-to-speech to easily generate realistic and natural voices
+468. [Truth or Dare AI](https://www.truthordareai.com/) - An AI generator of spicy questions for your Truth or Dare parties. You can customize the questions and choose the style: friendly, charming, etc. The game is available online and on IOS
+469. [Keychain](https://www.keychain.com/) - an AI-powered platform that helps brands and retailers find and manage manufacturing partners. Access over 1M products and 30K qualified manufacturers
+470. [RenderNet](https://rendernet.ai/) - Generate high-quality AI images with absolute control. Create realistic, consistent characters with FaceLock and ControlNet
+471. [AmigoChat](https://amigochat.io/) - Chat with a conversational AI that&#039;s free, safe and without registration. This tool can generate images, SEO blog posts, summaries, do your homework and much more
+472. [ChatDOC](https://chatdoc.com/) - An AI assistant based on ChatGPT that extracts and summarizes information from your PDF files
+473. [STORYD](https://www.storyd.ai/) - Increase your productivity by letting AI generate your PowerPoint and oral presentation texts
+474. [Meshy AI](https://www.meshy.ai/) - An AI tool that allows you to produce a wide variety of assets, elements and objects in 3D. Works from text or images
+475. [Zeroscope AI](https://huggingface.co/cerspense/zeroscope_v2_XL) - A high-quality text-to-video generator that can produce small, realistic videos. Free, innovative and open-source AI
+476. [Text Cortex](https://textcortex.com/) - A set of AI tools dedicated to writing, fully customizable. This AI can adapt to your writing style for even greater relevance
+477. [Dezgo](https://dezgo.com/) - Image generator based on Stable Diffusion 1.5
+478. [Keeper.ai](https://keeper.ai/) - A dating platform that combines AI and human expertise to create lasting couples. Benefit from an in-depth matching system that analyzes your preferences and guarantees serious relationships
+479. [AI Story](https://www.aistorygenerator.org/) - Generate short, fabulous stories from a text prompt. A perfect AI to find inspiration
+480. [ElevenLabs Music](https://x.com/elevenlabsio/status/1788628171044053386) - From a simple text description, generate complete songs without any editing. Get high-quality music in just seconds
+481. [OpenMusic](https://huggingface.co/spaces/jadechoghari/OpenMusic) - A free AI tool for generating melodies from text descriptions (prompt). Turn your ideas into original compositions, even if you have no musical knowledge
+482. [MindStudio](https://www.mindstudio.ai/) - Easily create AI applications trained on your data without coding. Automate your work processes with powerful workflows
+483. [GameNgen](https://gamengen.github.io/) - A game engine powered entirely by AI, capable of simulating DOOM in real time. It offers impressive visual quality and opens up new perspectives for game development
+484. [CAPTURELAB](https://capturelab.gg/) - An AI that edits your games on Twitch and offers you the best moments automatically
+485. [StoryDiffusion](https://storydiffusion.github.io/) - An AI tool that generates coherent images and videos over long sequences thanks to an auto-attention mechanism. Create compelling stories while maintaining character and plot consistency
+486. [Stable Audio 2](https://www.stableaudio.com/) - A music generator that transforms your text into a song (various musical genres are available). An AI created by Stability AI
+487. [Play.ai](https://play.ai/) - An interactive voice interface with the ability to clone voices and create personalized conversational agents. Ideal for creating natural dialogues with AI
+488. [Soul Machines](https://www.soulmachines.com/soul-machines-studio) - Soul Machines Studio software tools allow you to easily customize, train, and deploy your own autonomous, interactive AI Assistant
+489. [Superhuman](https://superhuman.com/) - Order your mailbox with an AI that has a sense of organization
+490. [AutoDraw](https://www.autodraw.com/) - Become a professional designer in an instant
+491. [What Beats Rock](https://www.whatbeatsrock.com/) - Play against an AI in this game inspired by Rock-Paper-Scissors. Anticipate your opponent&#039;s move to score points. Simple rules, fun gameplay
+492. [VoiceOverMaker](https://voiceovermaker.io/) - Convert your texts into words spoken by an AI
+493. [Munch](https://www.getmunch.com/) - Turn your long videos into a short and attractive format
+494. [Mailchimp](https://mailchimp.com/) - A complete e-mail and SMS marketing platform powered by AI. Create, automate and optimize your campaigns to boost sales and build customer loyalty
+495. [MyReport](https://myreport.alaba.ai/en/) - An AI that can fetch data from the Internet and make an easy-to-read summary
+496. [Lenso.ai](https://lenso.ai/?utm_source=referral&#038;utm_medium=referral&#038;utm_campaign=aixploria) - A super-powered reverse image search engine with AI face recognition. Find places or people simply by sending an image
+497. [Skybox Lab](https://skybox.blockadelabs.com/) - Generate panoramic skybox prototypes and save them in a resolution of 1536x3278px
+498. [Do Browser](https://www.dobrowser.io/) - A Chrome extension that automates your web tasks using voice or text commands. Compare prices, fill in forms and manage your cloud services without leaving your browser
+499. [Nous Chat](https://auth.nousresearch.com/u/login) - A free chat interface powered by Hermes 3 70B. Organize your conversations by thread and adjust the AI to your objectives: analysis, writing, research, etc.
+500. [GPT-4o mini](https://openai.com/index/gpt-4o-mini-advancing-cost-efficient-intelligence/) - OpenAI&#039;s low-cost but powerful LLM model: multimodal reasoning, computer coding, long-form writing, etc. Ideal for chatbots, data analysis and task automation
+501. [Imagine by Meta AI](https://www.meta.ai/icebreakers/imagine/) - An easy-to-use image generator that works with a prompt. Produces good quality images (with watermark) free of charge
+502. [Operator by OpenAI](https://operator.chatgpt.com/) - Automate your daily web tasks with an agent that navigates the web like a human (via ChatGPT). Book travel, order groceries and fill out forms effortlessly with a 100% autonomous assistant
+503. [Thumbnail AI](https://thumbnail-ai.ybouane.com/) - AI optimization of your thumbnails for your YouTube videos
+504. [Tripplanner AI](https://tripplanner.ai/) - Organize your travel to perfection with a travel expert AI
+505. [TikTok Watermark Remover](https://www.media.io/tiktok-watermark-remover.html) - Easily remove Watermarks from TikTok videos with a free online tool. Upload, edit and share your favorite content on other platforms without losing quality
+506. [Censius](https://censius.ai/) - Analyzes and monitors your data under AI, detects and corrects ML issues like Skew
+507. [AI Search Grader](https://www.hubspot.com/ai-search-grader) - A free tool to analyze your brand&#039;s visibility in AI search engine results. Find out more about your online presence and optimize your marketing strategy for the AI era
+508. [HeadshotPro](https://www.headshotpro.com/tools/free-headshot-generator) - Get over 120 AI-generated professional headshots in minutes. Send your photos, choose the style and receive perfect images for you or your team
+509. [Llama 3](https://www.llama.com/) - Llama 3 is a high-performance open-source LLM model designed by Meta AI, with 400 billion parameters on the counter
+510. [Decktopus](https://www.decktopus.com/) - Generate PowerPoint compatible presentations from a text prompt
+511. [Movavi](https://www.movavi.com/) - Easy-to-use video-editing software with powerful AI features. Create professional videos with motion tracking, background suppression and numerous effects
+512. [TTS Reader](https://ttsreader.com/) - A truly free online text reader that can even read entire web pages or be installed as a Chrome extension
+513. [VideoPlus.ai](https://videoplus.ai/) - Turn your images into videos with AI technology. Create realistic animations with various effects (Hug, Kiss, emotions) and easily customize your creations.
+514. [Mercury by Inception Labs](https://www.inceptionlabs.ai/) - A diffusion-based language model that generates text up to 10 times faster than traditional LLMs. Benefit from increased efficiency and reduced cost for your AI applications requiring fast responses
+515. [Boomy](https://boomy.com/) - An AI that creates music following your instructions. Benefit from an ergonomic interface and generate music faster
+516. [HyperWrite AI](https://www.hyperwriteai.com/) - Generate textual content with a writing AI assistant from a Chrome extension
+517. [Nvidia Canvas](https://www.nvidia.com/fr-fr/studio/) - Draw a sketch and the AI turns it into a realistic image
+518. [Teal Resume Builder](https://www.tealhq.com/tools/resume-builder) - Use AI to create a highly professional and attractive CV. Pre-made templates for immediate use.
+519. [GetFloorPlan](https://getfloorplan.com/) - Easily convert your floor plans from 2D to 3D and organize virtual tours (360°)
+520. [Asana AI](https://asana.com/product/ai) - An AI-powered work management platform. Boost your teams&#039; productivity with a 100% AI colleague who can summarize documents, prioritize tasks, generate reports, etc.
+521. [SuperMeme](https://supermeme.ai/) - Write your idea and the AI turns it into a meme
+522. [ChatGPT Pro](https://openai.com/index/introducing-chatgpt-pro/) - Enjoy an enhanced version of o1 for solving complex programming and mathematical problems. This premium subscription gives you access to the most powerful OpenAI models, such as o1 and GPT-4o
+523. [Ask an AI](https://www.askan.ai/) - Ask your questions to this search engine and the AI will find the answer
+524. [Relevance AI](https://relevanceai.com/) - Create a team of AI agents that automate your tasks without needing to know how to code. Deploy specialized assistants who collaborate with each other to manage your business processes securely
+525. [Magic Studio Canva](https://www.canva.com/magic/) - A suite of AI tools for generating images, videos, presentations or design from a prompt. This assistant guides you every step of the way for guaranteed professional results
+526. [AI Room Planner](https://airoomplanner.com/) - Free AI to redesign any room in your house
+527. [OmniParser V2](https://huggingface.co/spaces/microsoft/OmniParser-v2) - An AI model that analyzes user interfaces and transforms screenshots into structured elements. Enhance task automation with precise icon detection and contextual feature understanding
+528. [Creatus AI](https://creatus.ai/) - Text-to-video generator for creating ads on social networks
+529. [Copyleaks](https://copyleaks.com/) - A plagiarism detection platform to check that your content is 100% unique. Available API integration
+530. [Pixela AI](https://pixela.ai/) - Generate textures from a prompt. You can also search a very large database using keywords
+531. [CAD with AI](https://www.cadwithai.com/) - A powerful AI-powered computer-aided design (CAD) tool. Easily create and modify 3D models from text descriptions
+532. [Storm](https://storm.genie.stanford.edu/) - A research assistant that writes Wikipedia-style articles from verified web sources. Ask questions, explore different perspectives and collaborate with AI agents to create structured, documented content
+533. [Avaturn](https://avaturn.me/) - A tool that allows developers to design customizable and realistic 3D avatars for the metaverse, games, etc.
+534. [Pixian.ai](https://pixian.ai/) - An AI tool that can precisely remove the background from an image. It can also work with logos, illustrations or photos
+535. [Act-One by Runway](https://runwayml.com/research/introducing-act-one) - An interesting project for creating highly expressive characters. Generate realistic animations from videos or voices while preserving emotions and facial expressions
+536. [Learn About by Google](https://learning.google.com/experiments/learn-about/signup) - An experimental educational tool from Google. Ask questions, upload documents and explore a variety of topics with an AI assistant that adapts to your level of understanding
+537. [OpenRead](https://www.openread.academy/) - An AI-based tool that extracts, summarizes and analyzes any academic document or scientific paper
+538. [Pollo AI](https://pollo.ai/) - An HD video generator that brings your still images and text to life. Create realistic or imaginary sequences in minutes, with precise control over style and content
+539. [Thiscitydoesnotexist](https://thiscitydoesnotexist.com/) - 
+540. [BlipCut AI Video Translator](https://videotranslator.blipcut.com/) - A smart video translator featuring voice cloning, AI voice-overs and high-quality subtitle translation. It can automatically translate videos into 95 languages
+541. [Duolingo](https://www.duolingo.com/) - Use AI to learn a language while having fun. Availability: English, Spanish, French, Chinese, Arabic, German, Italian, Portuguese, Japanese, etc.
+542. [GitHub Spark](https://githubnext.com/projects/github-spark) - Create micro-applications without needing to know how to code. Describe your idea in natural language, customize the design and deploy your project instantly on all your devices via a PWA interface
+543. [AI Roguelite](https://store.steampowered.com/app/1889620/AI_Roguelite/) - AI generation of avatars and many other things for the Roguelite game
+544. [Mindmap.ai](https://www.mymap.ai/mindmap) - Describe your idea and this AI will generate a visual map with key points. Helps you organise your ideas visually and improve your planning
+545. [Grammarly](https://www.grammarly.com/) - Write original, high-quality content. Get advice from an AI-driven writing assistant
+546. [AI Dubbing by ElevenLabs](https://elevenlabs.io/dubbing-studio) - An amazing AI tool specially designed for voice dubbing and video translation. Works with ultra-realistic voices in over 60 languages
+547. [Qwen2.5-Coder](https://qwenlm.github.io/blog/qwen2.5-coder-family/) - A family of open-source AI models dedicated to code, available in 6 sizes (0.5B to 32B). Capable of generating, repairing and reasoning over 40 programming languages, with GPT-4-like performance
+548. [Uizard IO](https://uizard.io/) - Create stunning designs from an idea, a screenshot, or a simple sketch. No code required
+549. [Tensor.art](https://tensor.art/) - A complete AI image generator for creating comics and illustrations. Transform your ideas into original visual works with a variety of artistic styles and customizable models
+550. [iTranslate](https://itranslate.com/) - One of the most powerful AI translators on the market today. Over 100 languages supported
+551. [DeepSeek-V2.5](https://huggingface.co/deepseek-ai/DeepSeek-V2.5) - A powerful LLM model with 236 billion parameters. It performs brilliantly in mathematics, coding and reasoning, with very competitive API pricing ($0.14/million tokens)
+552. [VoiceMaker](https://voicemaker.in/) - Converts your text into a human and fairly natural voice
+553. [Validator AI](https://validatorai.com/) - An AI that checks if your business idea is a good one
+554. [Phi-4](https://techcommunity.microsoft.com/blog/aiplatformblog/introducing-phi-4-microsoft%E2%80%99s-newest-small-language-model-specializing-in-comple/4357090) - A 14-billion-parameter language model that excels at complex reasoning, especially mathematics. Trained mainly on high-quality synthetic data, it outperforms larger models on certain specialized tasks
+555. [Image Enhancer Refiners](https://huggingface.co/spaces/finegrain/finegrain-image-enhancer) - Improve the quality of your images instantly with AI. Increase resolution, reduce noise and fine-tune details for professional-looking images in just a few clicks
+556. [Motionit AI](https://www.motionit.ai/) - Use an AI assistant when designing your pitch decks, oral presentations or PowerPoint
+557. [BedtimeStory AI](https://www.bedtimestory.ai/) - Very advanced creation of all kinds of stories with extreme customization
+558. [TextGo AI](https://www.textgo.ai/) - A tool that makes AI-generated texts undetectable by detection systems. Humanize your content so that it passes authenticity tests with a high success rate
+559. [StableStudio](https://github.com/Stability-AI/StableStudio) - An open-source, community-based interface for easy AI image generation
+560. [GPT2-chatbot](https://lmarena.ai/) - Test the amazing capabilities of a mysterious new AI model. Could it be OpenAI&#039;s GPT-4.5 or GPT-5? Its origin remains unknown
+561. [Celebrity Voice Changer AI](https://celebvoice.my.canva.site/) - Change your voice to a celebrity of your choice or use text to speech
+562. [AI Scientist by Sakana](https://sakana.ai/ai-scientist/) - Discover the first AI system to automate scientific research. It generates ideas, conducts experiments and writes papers. An iterative and open process
+563. [Imagen Video (Beta)](https://imagen.research.google/video/) - Generation of videos from texts
+564. [Design Sketch by Stylar](https://www.dzine.ai/tools/ai-design-sketch) - Quickly transform your sketches or drawings into superb design concepts with Stylar&#039;s AI. Control composition or apply predefined styles
+565. [Mindgrasp](https://www.mindgrasp.ai/) - Design of questions and answers from a PDF document, Zoom meeting, podcast, YouTube, etc.
+566. [Kickresume](https://www.kickresume.com/en/) - Professional tools to create a resume very quickly with AI and customizable templates
+567. [Brave Leo AI](https://brave.com/leo/) - An AI assistant integrated into your browser that can summarize web pages, generate content and answer your questions. All privately and securely
+568. [PromptBase](https://promptbase.com/) - A marketplace that offers the best prompts on Midjourney, DALL-E, GPT-3 or Stable Diffusion
+569. [Thisgraffitidoesnotexist](https://www.thisgraffitidoesnotexist.com/) - 
+570. [Luma Photon](https://lumalabs.ai/photon) - An AI image generator that combines quality and speed. Create consistent illustrations from text or reference images at 10 times less cost than existing solutions
+571. [Airtable AI](https://www.airtable.com/platform/ai) - Integrate AI into your routine workflows and summarize, categorize, automate or generate content faster. Secure your data with confidential AI models
+572. [LivePortrait AI](https://liveportrait.github.io/) - Animate portraits with a single image. This AI lets you quickly obtain realistic results via precise settings and a wide variety of styles
+573. [Vector Magic](https://vectormagic.com/) - An AI that automatically vectorizes your images and transforms them into high-quality vector graphics. Convert your PNG, JPG, GIF images into SVG, PDF or EPS vectors
+574. [Profil Picture AI](https://www.profilepicture.ai/) - Create the perfect profile picture for your social networks
+575. [TinyWow](https://tinywow.com/) - AI tools that will solve all your problems (PDF, images, video, writings and more)
+576. [Republic Labs AI](https://republiclabs.ai/) - The people&#039;s GenAI Platform where you can generate images and videos simultaneously with multiple models using a single prompt
+577. [Claude 3.5 Sonnet](https://claude.ai/) - An advanced LLM model designed by Anthropic that outperforms its competitors in reasoning, coding and image analysis. Increased performance, doubled speed
+578. [Tessl](https://www.tessl.io/) - A fully automated solution where AI codes and maintains your software from your specifications. Create robust applications in natural language (prompts) and without technical expertise
+579. [AutoResponder](https://www.autoresponder.ai/) - An autoresponder bot for your messaging services. Set up personalized replies on WhatsApp, Facebook Messenger, Instagram and other platforms for efficient management
+580. [Media IO](https://www.media.io/) - Easy, fast and creative video and image editor
+581. [Riddle Me This](https://riddlemethis.xyz/intro) - A fun guessing game powered by AI. Test your logic and creativity by solving puzzles generated by artificial intelligence, with varying levels of difficulty
+582. [Gradio](https://www.gradio.app/) - Create and share machine learning (ML)-based applications with an intuitive, easy-to-understand tool
+583. [Everypixel](https://www.everypixel.com/) - A search engine that goes to over 50 websites to find you free images
+584. [Genesis](https://genesis-embodied-ai.github.io/) - A physics engine that simulates 3D worlds at 43 million frames per second. Test virtual robots and generate training data for AI with unrivalled precision
+585. [RPGGO AI](https://www.rpggo.ai/) - An AI RPG Platform to play and create adventure, love, mystery or simulation genre with multi-NPCs game chapters through AI
+586. [Showrunner](https://www.showrunner.xyz/) - Create your own TV shows using AI. Describe the episode you want with a prompt and watch your personalized program in minutes
+587. [Tabnine AI](https://www.tabnine.com/) - Code writing help with an AI assistant
+588. [Trellis 3D](https://trellis3d.github.io/) - Create high-quality 3D assets in various formats, such as radiant fields, 3D Gaussians and meshes with 2 billion parameters. This model can generate detailed 3D objects from text or images
+589. [Prompthero](https://prompthero.com/) - Look for examples of popular and attractive prompts
+590. [Nemotron-70B](https://build.nvidia.com/nvidia/llama-3_1-nemotron-70b-instruct) - A high-performance AI language model customized by NVIDIA. Benefit from more useful and accurate answers for your text, code and chat generation tasks. Optimized integration for NVIDIA hardware
+591. [Viral Post Generator](https://viralpostgenerator.taplio.com/) - Make popular and viral posts on the LinkedIn social network
+592. [Lummi AI](https://www.lummi.ai/) - A search engine containing thousands of images generated by artificial intelligence. Possibility of integration with Figma
+593. [Video AI by Topaz Labs](https://www.topazlabs.com/topaz-video-ai) - Boost the resolution of your videos with high-performance AI software. Compatible with Windows and macOS
+594. [Expressive Photo Avatar](https://labs.heygen.com/guest/expressive-photo-avatar) - Create expressive photo avatars with an AI that animates your images with realistic movements. Add voice or music for even more incredible results
+595. [Grok-2 Beta](https://x.ai/blog/grok-2) - The X platform AI assistant designed by xAI. It integrates real-time information including text and images. Grok 2 is also capable of generating high-quality images via Flux.1 from Black Forest Labs
+596. [Voyager Minecraft AI](https://github.com/MineDojo/Voyager) - An autonomous agent transformed into an expert player of the video game Minecraft. GPT-4 project
+597. [SrcBook](https://srcbook.com/) - Easily create web or mobile applications with the help of directives (prompts). Simply describe your idea and this open-source AI takes care of everything. Can also generate websites locally
+598. [PS2 Filter](https://ps2ai.com/) - Transform your photos with the trendy PS2 filter in just one click. Create stunning AI shots in seconds and keep up with the latest trends
+599. [Azure AI Studio](https://azure.microsoft.com/fr-fr/products/ai-foundry/) - Develop and deploy AI applications responsibly and efficiently. Benefit from pre-built models that can be customized with your data
+600. [Minigpt-4](https://minigpt-4.github.io/) - An AI under GPT-4 that can accurately describe an image, create a website, generate a story, etc.
+601. [TTSMaker](https://ttsmaker.com/) - Free and unlimited AI text-to-speech tool. Over 200 voices available in 30 languages
+602. [Amazon Nova](https://www.aboutamazon.com/news/aws/amazon-nova-artificial-intelligence-bedrock-aws) - Explore a range of six multimodal AI models created by Amazon. Generate text, images and video with high performance thanks to integration with AWS infrastructure
+603. [Reflect AI](https://reflect.app/) - Use AI to improve your note-taking and writing skills
+604. [Thisfoodblogdoesnotexist](https://thisfoodblogdoesnotexist.com/) - 
+605. [CreatorKit Santa](https://creatorkit.com/santa) - A magical tool that generates personalized Santa Claus videos. Create unique video messages in any language, free of charge, to delight children or promote your company this holiday season
+606. [LivePlan](https://www.liveplan.com/ppc/software) - Make your business dream come true with intuitive AI tools. Create a solid business plan and financial forecast without complex spreadsheets
+607. [Hautech AI](https://www.hautech.ai/) - Create virtual models and quickly modify their clothes (+ poses). This platform can generate professional fashion photos from simple descriptions
+608. [SDXL Auto FaceSwap](https://huggingface.co/spaces/fffiloni/SDXL-Auto-FaceSwap) - [Paused] A FaceSwap generator that lets you swap your face quickly and for free on a photo. Works with SDXL DPO and DeepFakeAI
+609. [Continual AI](https://www.continual.ai/) - AI operator who takes care of your data
+610. [Art Remix by Google](https://artsandculture.google.com/experiment/art-remix/2gFc5DkygEURfw) - Transform any image by remixing it with AI. Describe the desired changes via a prompt and let the magic happen. Create infinitely!
+611. [TurboLearn](https://www.turbolearn.ai/) - Create interactive online courses with note-taking AI that analyzes your documents. Generate quizzes, summaries and personalized exercises to optimize your students&#039; learning
+612. [Jeeves.Ai](https://jeeves.ai/) - An AI platform that works like a search engine and allows you to create all kinds of content. Mobile compatible
+613. [BeFunky](https://www.befunky.com/) - Edit photos, create collages and design visuals like a pro. Benefit from powerful AI-powered editing tools, customizable templates and an easy-to-understand interface
+614. [CodeMate AI](https://www.codemate.ai/) - An AI assistant that corrects your mistakes in real time while writing your code
+615. [ThinkDiffusion](https://www.thinkdiffusion.com/) - Start creating AI art directly from your web browser. Stable distribution + Cloud
+616. [Tability](https://www.tability.io/) - An intelligent platform that automates the monitoring of your objectives and OKRs. AI analyzes your data and generates detailed reports to optimize your team&#039;s performance
+617. [Rize IO](https://rize.io/) - Allows you to better manage your time and concentration
+618. [Aug X Labs](https://augie.studio/) - Create compelling videos quickly with this AI tool. Import your recordings in 2 clicks (beta)
+619. [StoryBird](https://www.storybird.ai/) - Generate stories for children (with pictures too). Design a children&#039;s book and publish it directly on Amazon
+620. [Leaderboard LLM](https://huggingface.co/spaces/lmarena-ai/chatbot-arena-leaderboard) - A ranking of the best LLM models based on recognised technical criteria (Elo, MT-Bench or MMLU). Discover the best-performing LLMs
+621. [Kolors Virtual](https://huggingface.co/spaces/Kwai-Kolors/Kolors-Virtual-Try-On) - Try on clothes virtually on your own photos with this unusual AI. Quickly visualize different outfits and styles to help you make the right choice
+622. [Immersity AI](https://www.immersity.ai/) - An AI that quickly transforms your 2D images into 3D. Compatible with various formats, including Lightfield animation
+623. [Sketch2Sound Adobe](https://hugofloresgarcia.art/sketch2sound/) - An audio generator that creates high-quality sounds from text descriptions. Control tone, volume and brightness using time signals and sound imitations (project under development)
+624. [AI PDF Summarizer](https://pdfguru.com/ai-pdf-summarizer) - Simplify PDFs with AI! Summarize, extract key points, ask questions, and translate in 80+ languages. Perfect for work, study, or research.
+625. [This Model Does Not Exist](https://www.thismodeldoesnotexist.co/) - Generation of very realistic Instagram models or influencers
+626. [Optimo](https://askoptimo.com/) - Free and complete marketing tools with AI for: SEO, Instagram, copywriting, video, email, etc.
+627. [Remini](https://remini.ai/) - An AI-based photo and video enhancement tool. Transform low-quality visuals into stunning HD images, restore old photos and enhance your content
+628. [Rave DJ](https://rave.dj/) - Mix songs and instantly become a professional DJ
+629. [Cutout Pro](https://www.cutout.pro/) - AI-based visual design platform offering various tools for individual and professional use
+630. [Visual Electric](https://visualelectric.com/) - An image generator for creative minds that works with instructions. It also has options such as remixing, variations, etc.
+631. [Temporal Gaussian Hierarchy](https://zju3dv.github.io/longvolcap/) - A 3D rendering system that transforms classic videos into volumetric scenes lasting several minutes (4D Gaussians). View content in real time from every angle, in HD quality
+632. [Reclaim AI](https://reclaim.ai/) - An AI assistant that plays the secretary and plans your tasks according to your agenda
+633. [FacePoke](https://huggingface.co/spaces/jbilcke-hf/FacePoke) - A fun AI tool for animating faces in photos. Bring your portraits to life by adding realistic facial expressions, eye blinks and mouth movements in just a few clicks
+634. [Hotspot AI](https://hotpot.ai/) - Automated generator of professional illustrations and photos.
+635. [Logo Generator AppyPie](https://www.appypiedesign.ai/ai-logo-generator) - Create professional logos in three easy steps using artificial intelligence. Describe your vision, choose a style and upload your creation in different formats
+636. [AI Career Coach](https://www.aicareercoach.org/) - Benefit from personalized career coaching thanks to AI. Explore career paths, prepare for interviews and get advice tailored to your profile (student or retraining)
+637. [URL to UGC by HeyGen](https://app.heygen.com/guest/url2ads) - Create hyper-realistic UGC-style video avatars. Works from a URL. Perfect for social networks (Tiktok, Reels or Youtube Shorts)
+638. [Fluid AI](https://getfluid.app/) - Your private AI assistant for Mac. It works offline, protecting your sensitive data. Enjoy ChatGPT quality with voice control. Easy to install
+639. [LangoTalk](https://www.langotalk.org/) - Learn English, French, Spanish, German, Dutch or Italian 6 times faster
+640. [Booth AI](https://booth.ai/) - Get your clothes wearing by AI models or showcase your products. Production of high-quality photographic images
+641. [Crayo AI](https://crayo.ai/) - Create viral video clips in just seconds. A complete tool for creating AI voice-overs, catchy subtitles and much more
+642. [Vertex AI by Google](https://cloud.google.com/vertex-ai) - An AI platform with over 130 generative tools to use in your projects (including Google&#039;s Gemini). You can train the models and use their API
+643. [Storyteller by Augie](https://augie.studio/storyteller) - Turn your ideas into animated videos or personalized storytelling. Perfect for creating children&#039;s stories, educational content or instructional videos
+644. [Machine Translation](https://www.machinetranslation.com/) - Use an AI that can provide multiple, accurate and reliable translations in over 75 languages. Use Deepl, ChatGPT, Google Translate, etc.
+645. [HourOne AI](https://hourone.ai/) - Automatically convert text to video with virtual animators.
+646. [Resemble](https://www.resemble.ai/) - An AI that can clone your voice and reproduce it by reading your text
+647. [PolyBuzz](https://www.polybuzz.ai/) - A free AI chat platform for chatting with thousands of AI characters and sculpins. You can easily choose the genre and generate images
+648. [Fellow](https://fellow.app/) - An AI assistant for meetings that automatically captures notes and action items. Enjoy centralized management of recordings and summaries. Includes confidentiality controls to ensure secure access
+649. [Nanonets](https://nanonets.com/) - An AI that can capture data from images, emails, texts or documents instantly
+650. [Text-to-Video by HubSpot](https://www.hubspot.com/clip-creator/text-to-video) - Convert your texts into high-quality videos with AI. Simply describe your project and get a presentation video, ready for download
+651. [Google Translate](https://translate.google.com/) - Instantly translate texts, images and websites into over 100 languages. Benefit from advanced features such as audio pronunciation and automatic language detection
+652. [Find Your Next Book](https://www.findyournextbook.ai/) - A virtual librarian who will find your next book according to your taste
+653. [Wix Logo Maker](https://www.wix.com/logo/maker) - Easily create a professional logo with AI. Customize colors, fonts and icons for a unique visual identity. Download your logo in high resolution
+654. [Sketch](https://github.com/approximatelabs/sketch) - A coding wizard that requires no special knowledge
+655. [ModelScope Text-To-Video](https://huggingface.co/spaces/ali-vilab/modelscope-text-to-video-synthesis) - Turn your text into a video. Try a preview of this new open source video generator
+656. [Humanizer AI](https://humanizerai.ai/) - An AI tool that refines AI-generated text into human-like writing, with features like shortening, expansion, and a &quot;Human Score&quot; to ensure it bypasses AI detectors
+657. [Harmonai](https://www.harmonai.org/) - An open source AI that creates infinite music
+658. [Thiswaifudoesnotexist](https://www.thiswaifudoesnotexist.net/) - 
+659. [AI Face Swap By Vidqu](https://www.vidqu.ai/face-swap.html) - A high-quality AI Face Swap generator capable of turning you into anyone. Quick and easy to use
+660. [Cleanup Pictures](https://cleanup.pictures/) - Delete objects, people or even text from your images
+661. [PerfectCorp Business](https://www.perfectcorp.com/business) - A suite of AI tools for the beauty and fashion industry. Create virtual try-on experiences, analyze trends and personalize product recommendations for your customers
+662. [Lalaland AI](https://lalaland.ai/) - Mannequins and models to present your e-commerce products
+663. [TTSLabs](https://ttslabs.ai/) - An AI dedicated to streamers on Twitch that can modify all kinds of sounds, voices or text-to-speech
+664. [Jetson Orin Nano Super](https://www.nvidia.com/en-us/autonomous-machines/embedded-systems/jetson-orin/nano-super-developer-kit/) - A supercomputer optimized for generative AI that delivers 67 trillion operations per second for just $249. Run LLM models and robotic applications thanks to its 1024-core CUDA Ampere GPU and 6-core CPU
+665. [Kokoro-82M TTS](https://huggingface.co/spaces/Remsky/Kokoro-TTS-Zero) - An ultra-fast, open-source text-to-speech model that transforms your texts into natural speech (82M parameters only). Create British or American English voices in 10 different styles
+666. [Apple GPT](https://www.apple.com/) - A generative AI assistant with capabilities similar to ChatGPT created by the famous Apple firm. Currently in the planning stage
+667. [ECommerce Prompt Generator](https://www.ecommerceprompts.com/) - A ChatGPT prompt with advanced settings for e-commerce sites and marketing
+668. [MagicForm](https://www.magicform.ai/) - An AI that becomes your professional salesperson and helps you increase your conversions by 20%
+669. [Fomo AI](https://fomo.ai/) - An AI marketing assistant that generates optimized content for your brand. Create blog articles, visuals and social posts in minutes without losing your identity or editorial tone
+670. [Void Editor](https://voideditor.com/) - A free, open-source AI code editor that gives you an alternative to Cursor. Take advantage of auto-completion, fast editing and integrated chat, while retaining full control over your data
+671. [Napkin AI](https://www.napkin.ai/) - Turn your texts into professional visuals in just a few clicks. Create diagrams, infographics and presentations without design skills using AI that understands your ideas and illustrates them automatically
+672. [Deep Dream Generator](https://deepdreamgenerator.com/) - Give him some ideas and he creates a nice image for you
+673. [BlackBox AI](https://www.blackbox.ai/) - Write your code 10 times faster with this assistant
+674. [HeyGen Podcast](https://labs.heygen.com/guest/video-podcast) - Chargez un PDF ou l&#039;adresse d&#039;un site web et obtenez rapidement un podcast vidéo de qualité professionnelle. Personnalisez ensuite les voix, les tenues et l&#039;arrière-plan pour encore plus de réalisme
+675. [Altera PlayLabs](https://playlabs.altera.al/discover) - A platform for creating and sharing interactive artificial intelligence games. Explore a variety of AI-generated games, customize them or create your own without any programming knowledge.
+676. [Fugatto Nvidia](https://blogs.nvidia.com/blog/fugatto-gen-ai-sound-model/) - Transform your texts and audio files into never-before-heard sounds with this 2.5 billion-parameter AI model. Modify voices, create music and generate never-before-heard soundscapes with natural language commands
+677. [Deforum Stable Diffusion](https://github.com/deforum-art/deforum-stable-diffusion) - Generation of breathtaking animation videos from one or more images in SD
+678. [Alfred](https://www.alfredapp.com/) - A search engine coupled with the ChatGPT assistant for IOS users
+679. [QVQ by Qwen](https://qwenlm.github.io/blog/qvq-72b-preview/) - A 72-billion-parameter multimodal model that excels in visual reasoning. Solve complex math and physics problems with a deep understanding of images
+680. [Reply IO](https://reply.io/sales-email-assistant/) - An AI assistant specialized in online sales and marketing (e-mail) running under GPT-3
+681. [Plus AI](https://workspace.google.com/marketplace/app/plus_ai_for_google_slides_and_docs/214277172452) - A tool to help you create your Google Slides presentations. Ideal for work, school or any other project requiring a slide presentation
+682. [Cogram](https://www.cogram.com/) - An AI that can take notes during your meetings and give you satisfactory summaries
+683. [Generated Photos](https://generated.photos/) - An AI that can improve your photos and generate new ones with templates
+684. [Trips by TripAdvisor](https://www.tripadvisor.com/Trips) - Plan your trip with the official AI assistant from the famous TripAdvisor website. Receive free itineraries and useful tips
+685. [Careerflow](https://www.careerflow.ai/) - Simplify your job search with an AI job search and management platform. Benefit from a personalized CRM and keep an eye on all your opportunities
+686. [AI Meme by Rusher](https://rusher.ai/free-tools/ai-meme-generator) - Create hilarious memes in seconds from any URL. The service is free and available in many languages
+687. [DeepFake Detector AI](https://deepfakedetector.ai/) - Instantly detect if a video or voice has been tampered with a DeepFake style technique
+688. [Labs by Perplexity](https://labs.perplexity.ai/) - Chat for free with many recent LLM models: Mistral Medium, Code Llama 70B, Mixtral 8x7B, Llava 7b, etc.
+689. [Inpainting Nvidia](https://catalog.ngc.nvidia.com/playground) - Edit your images with an AI-driven retouching brush
+690. [Breeze Copilot](https://www.hubspot.com/products/artificial-intelligence) - An AI assistant to optimize your marketing campaigns (HubSpot). Generate personalized content, analyze performance and get intelligent recommendations to improve conversions and customer engagement
+691. [Leet Resumes](https://www.theladders.com/resume-services) - Upload your CV and you&#039;ll receive an improved copy, completely rewritten by the AI. Compatible with doc, pdf and docx files
+692. [Content Goblin](https://contentgoblin.ai/) - Specialized AI content generation tools for Pinterest and social networks. This AI assistant is capable of boosting your performance and traffic on social media
+693. [Peech](https://www.peech-ai.com/) - Produce video content in bulk. Edit and transcribe your projects in one place
+694. [ModiFace](https://modiface.com/) - Try out beauty products virtually thanks to the augmented reality system developed by L&#039;Oréal teams. Test make-up, hairstyles and skincare products in real time
+695. [AutoGen](https://microsoft.github.io/autogen/) - An open-source framework from Microsoft for creating multi-agent systems based on LLMs. Easily develop complex AI applications, optimize inference performance and reduce costs thanks to enhanced APIs
+696. [MusicFX DJ](https://labs.google/fx/tools/music-fx-dj) - Explore new musical possibilities, mix styles and create unique compositions with Google AI Test Kitchen&#039;s artificial intelligence tools
+697. [SysArchitect](https://www.sysarchitect.ai/) - A powerful website generator that uses the full power of AI. Generate detailed plans, visualize every page and deploy your project directly on Vercel, with native authentication and payment integration
+698. [Magentic-One](https://www.microsoft.com/en-us/research/articles/magentic-one-a-generalist-multi-agent-system-for-solving-complex-tasks/) - A multi-agent system that automatically breaks down your complex tasks into sub-tasks. Each AI agent collaborates to navigate, code or analyze data according to your objectives
+699. [Teachable Machine](https://teachablemachine.withgoogle.com/) - Explore and design new AI without any knowledge or lines of code to write
+700. [Mistral-medium](https://mistral.ai/news/la-plateforme) - One of the most powerful open-source LLM models available today. Currently, the model is only available via an API
+701. [Runner H](https://www.hcompany.ai/blog/introducing-h) - An AI agent that automates the completion of complex web tasks via natural language commands. Create robust workflows through automation (without code)
+702. [Copy.ai](https://www.copy.ai/) - Editorial content generator for SEO, social networks and emails
+703. [World Labs](https://www.worldlabs.ai/blog) - A technology that transforms your images into 3D scenes that can be explored in your browser. Add camera effects, change the lighting and navigate worlds generated from famous photos or paintings
+704. [Mage](https://www.mage.space/) - Generation of uncensored images with the StableDiffusion algorithm
+705. [Open Perflexity](https://huggingface.co/spaces/VIDraft/eum) - An open source search engine that combines AI and web search. Ask your questions via a prompt and get detailed answers including citations / sources.
+706. [StealthGPT](https://www.stealthgpt.ai/) - A GPT3 prompt that makes its content undetectable by AI detectors. Ideal for students
+707. [Saga](https://sagarpg.io/) - A game that lets you create and play text-based adventures with AI-enhanced or simulated characters
+708. [GeniusReview](https://geniusreview.xyz/) - An AI-driven tool that makes it quick and easy to evaluate corporate recruitment. File design and automatic analysis
+709. [Headpix.ai](https://headpix.ai/) - Create professional profile photos with AI. Turn your selfies into studio-quality portraits for your professional image on social networks and websites
+710. [WingmanX](https://wingmanx.ai/main/a) - An AI assistant that enhances your dating life by generating the best rizz pick up lines, personalized advice, and tailored responses to boost your success
+711. [F5-TTS](https://github.com/SWivid/F5-TTS) - An open-source project for high-quality text-to-speech. Explore a fast, high-performance voice generator. Possibility of cloning a voice with great precision
+712. [WUI.AI](https://www.wui.ai/) - An editor that turns your long videos into short viral clips. Automatically adapt your content to TikTok, Instagram and YouTube Shorts formats to maximize your audience
+713. [StyleCLIP](https://github.com/orpatashnik/StyleCLIP) - Manipulate your images with ease using a text-based AI prompt. An AI that simultaneously uses StyleGAN and CLIP
+714. [UniBee](https://unibee.dev/) - Streamline subscription management with open-source billing software. Reduce costs, simplify recurring payments, and gain control of your global business finances
+715. [Different Dimension Me](https://differentdimensionme.net/) - This AI turns you into a manga character
+716. [Decoherence](https://www.decohere.ai/) - Create videos and animation clips in perfect harmony with your music. Also works by prompt
+717. [Excel Formula Bot](https://app.formulabot.com/ai-excel-formula-generator) - Turn your text into Excel and Google Sheets data, automate your repetitive tasks
+718. [ChatGPT For Search Engines](https://chatonai.org/cgi-sys/defaultwebpage.cgi) - One-click integration of ChatGPT with your favorite search engines
+719. [ChatGPT For Search Engines](https://chatonai.org/) - One-click integration of ChatGPT with your favorite search engines
+720. [Studio](https://studio.design/) - Create modern websites with the help of AI in a few clicks
+721. [Remover ZMO](https://remover.zmo.ai/) - Remove elements from a photo for free in no time
+722. [AI Fashion Models insMind](https://www.insmind.com/ai-model/) - A high-quality solution for easy generation of AI models: women, men, various skin tones, etc. Train, test and integrate your models without technical knowledge
+723. [GodMode by Smol.ai](https://github.com/smol-ai/GodMode) - A GitHub project to chat simultaneously with ChatGPT, Claude 2, Bing, Perplexity, Bard, Llama2, HuggingChat etc.
+724. [Airial Travel](https://www.airial.travel/) - An AI travel agent that plans trips to the last detail: flights, hotels, activities even transfers. Turn ideas and travel inspiration into actionable plans instantly
+725. [Willow by Google](https://blog.google/technology/research/google-willow-quantum-chip/) - A quantum chip developed by Google that reduces calculation errors exponentially. Perform calculations in 5 minutes that would take current supercomputers 10 septillion years
+726. [Sora Videos](https://soravideos.media/) - A collection of over 100 stunning videos generated by Sora AI and updated daily. Discover also the list of prompts behind the videos
+727. [Artificial Analysis](https://artificialanalysis.ai/) - An independent platform for in-depth analysis of AI API models and providers. Compare performance, quality and price among numerous models
+728. [ElevenLabs Voice Isolator](https://elevenlabs.io/voice-isolator) - Remove unwanted background noise from your audio files. Quickly achieve crystal-clear dialogue in your podcasts, interviews or videos
+729. [Buildbox 4](https://signup.buildbox.com/) - Create unique games and assets in just a few clicks thanks to generative AI. Buildbox 4 revolutionizes game development, without code
+730. [OpenRouter](https://openrouter.ai/) - A service that gives you access to the best language models on the market. Integrate ChatGPT, Claude and other assistants into your applications via a single, unified API
+731. [Mobile ALOHA](https://mobile-aloha.github.io/) - An AI-assisted robot that can help you with your daily chores: cooking, washing up, tidying up, cleaning, etc.
+732. [PromptDrive.ai](https://promptdrive.ai/) - An all-in-one prompt management tool to organize, share and boost your productivity with AIs like ChatGPT or Midjourney
+733. [Botika](https://botika.io/) - Generation of fashion photos from templates and custom clothing
+734. [Freepik AI Text Generator](https://www.freepik.com/ai/text-generator) - An AI text generator that writes articles, emails and web content to suit your needs. Customize tone and length to quickly create messages adapted to your audience
+735. [Nvidia Maxine](https://developer.nvidia.com/maxine) - A suite of AI tools to enhance your videoconferences with professional effects: noise reduction, gaze correction, studio voice and real-time facial animations. Compatible with standard webcams
+736. [Superbolt GeoSpy](https://superbolt.geospy.ai/) - Identify any location from a single photo, thanks to AI trained on 46 million street images. Find a building even after renovation or lighting changes, with metre-level accuracy
+737. [Morphic AI](https://www.morphic.sh/) - An open source search engine that gives you detailed answers while citing its sources. An easy-to-use interface
+738. [Miro](https://miro.com/) - An online collaborative visual workspace for brainstorming, planning and executing your projects. It provides tools for diagramming, whiteboarding, task management and more
+739. [Ai2sql](https://ai2sql.io/) - An AI wizard to allow anyone to design SQL queries (simple or complex)
+740. [Namy ai](https://namy.ai/) - An AI that helps you find the perfect domain name for your website
+741. [SketchPro AI](https://sketchpro.ai/) - Receive sketches from an image and even a vague description
+742. [Freepik Upscaler](https://www.freepik.com/ai/image-upscaler) - Enhance the quality and resolution of your images up to 4K with this AI-based upscaling tool. Process up to 20 photos simultaneously and easily customize results
+743. [PMRF](https://huggingface.co/spaces/ohayonguy/PMRF) - A powerful algorithm for photo-realistic image restoration. It combines posterior mean prediction and a rectified flow model
+744. [Applio](https://applio.org/) - A powerfull open-source ecosystem for AI-based voice cloning. Create realistic voices, customize templates and explore APIs via a simple, high-performance interface
+745. [Lightricks LTXV](https://www.lightricks.com/) - An open-source AI video generator capable of maintaining a consistent pattern in real time. Optimized for fast, high-quality rendering
+746. [Unrealme](https://unrealme.io/) - Generates images and turns you into a fashionable avatar
+747. [Free Subtitles AI](https://freesubtitles.ai/) - Free subtitle generator that works on all types of media
+748. [Fy! Studio](https://www.iamfy.co/studio) - Turn your idea into a relevant piece of art
+749. [Intuit Assist](https://www.intuit.com/intuitassist/) - An intelligent financial assistant using powerful AI. Manage your taxes, accounting and marketing with TurboTax, QuickBooks and Mailchimp. Get smart recommendations
+750. [Stable Diffusion 3 Medium](https://stability.ai/news/stable-diffusion-3-medium) - Stability AI&#039;s most advanced open-source AI model (2 billion parameters). Generate even more realistic images: photorealism, coherence, understanding of complex prompts, etc.
+751. [Morise AI](https://tubemagic.com/) - AI tools to improve SEO when creating YouTube videos
+752. [AI Tattoo Generator](https://aitattoo-generate.com/) - A very useful AI tattoo generation tool, you can generate a variety of different popular styles of tattoos, also support virtual try on
+753. [Chapple AI](https://chapple.ai/) - A set of AI tools for rapidly generating all kinds of creative content: text, images, audio, programming code and more
+754. [Be My Eyes](https://www.bemyeyes.com/) - Free application linking visually impaired people to volunteers for real-time visual assistance
+755. [ClarityAI](https://clarityai.co/) - Improve the resolution and quality of your images with an open-source AI upscaling tool. Adjust likeness, level of detail or hallucination
+756. [Atlassian Rovo](https://www.atlassian.com/software/rovo) - This AI assistant finds key info in your apps (data), generates insights and automates your tasks with its AI agents. Make better, faster decisions
+757. [Dream AI](https://dream.ai/) - You write text, the AI makes images for you (Wombo)
+758. [Jan.ai](https://jan.ai/) - Free, open-source software for easy discussion with a large number of LLM models. Intuitive, multi-platform interface
+759. [UniFab](https://unifab.ai/ai-video-enhancer.htm) - Improve the quality of your videos with AI. Upscale to 4K, convert to HDR and restore old movies. Also enjoy image interpolation, noise reduction, deinterlacing and more
+760. [Screenshot To Code](https://screenshottocode.com/) - An ambitious GitHub project that can analyse a screenshot and give you the code to achieve the same result
+761. [Llama Coder](https://llamacoder.together.ai/) - Turn your ideas into code with AI. Describe your project and get a functional program. Based on Llama 3.1 and powered by the Together AI platform
+762. [ParagraphAI](https://www.paragraphai.com/) - Automatic writing of textual content or e-mails under the assistance of an AI
+763. [DiveDeck.ai](https://divedeck.ai/) - An AI assistant for creating structured content pages on any subject. Works via a prompt. Ideal for learning or presentations
+764. [Opera One Browser](https://www.opera.com/one) - A web browser with activatable AI modules. Offers a dynamic and responsive browsing experience
+765. [Opera One Browser](https://www.opera.com/zh-cn/one) - A web browser with activatable AI modules. Offers a dynamic and responsive browsing experience
+766. [Cloudflare AI Value Tool](https://www.cloudflare.com/lp/ai-value-tool-waitlist/) - A tool in development to help website owners monetize access to their content through AI models. Control who can scan your site and set your own rates
+767. [Repurpose IO](https://repurpose.io/) - An AI that simplifies your marketing and publishing on social networks
+768. [Pixelhunter](https://pixelhunter.io/) - Let an AI crop your images like a professional designer
+769. [Caricaturer IO](https://caricaturer.io/) - Turn your photos into a convincing caricature, 64 types of caricatures are available
+770. [MimicMotion](https://tencent.github.io/MimicMotion/) - An open-source tool for creating highly realistic videos by recreating any movement. Possibility of making long videos while preserving details
+771. [Thisflagdoesnotexist](https://thisflagdoesnotexist.com/) - 
+772. [BigBear.ai](https://bigbear.ai/) - A business intelligence platform that optimizes complex operations with AI. Secure your supply chains, manage your digital identity and improve your industrial processes with tailor-made solutions
+773. [Humanizer-AI-Text](https://www.humanizer-ai-text.com/) - A platform that makes AI-generated texts undetectable by analysis systems. Modify style, structure and vocabulary while preserving the original message of your content
+774. [PDF2Audio](https://huggingface.co/spaces/lamm-mit/PDF2Audio) - Quickly convert PDF documents into audio files. Easily transform your books, articles or reports into spoken audio
+775. [LatentSync ByteDance](https://github.com/bytedance/LatentSync) - An AI model that perfectly synchronizes lips with audio in videos. Generate realistic lip movements for dubbing and virtual avatars via technology that preserves facial identity and expressions
+776. [Symplified](https://simplified.com/) - A multi-tasking AI that can generate text, video and images
+777. [BGBye](https://bgbye.fyrean.com/) - Remove backgrounds from your images for free with an AI tool that lets you choose between different models. Ideal for portraits, marketing products, etc.
+778. [ExperAI](https://www.experai.com/) - Find an AI expert in a specific field from a text description
+779. [GuideGeek](https://guidegeek.com/) - Plan your trips with this AI assistant for smartphones. Get personalized local recommendations directly in WhatsApp, Messenger or Instagram
+780. [Meshcapade](https://meshcapade.com/) - Create animated 3D avatars with an easy-to-use character editor. Generate movements from text or video, and 3D bodies from images
+781. [DGM AI](https://dgm.sh/home/) - Generate professional, automated diagrams using AI. Use pre-built libraries for UML, ERD, Flowchart, UI Wireframe, etc.
+782. [Imaiger](https://imaiger.com/) - Search through millions of images generated by different AI
+783. [Goblin Tools](https://goblin.tools/) - An AI platform for creating activity sequences. Quickly generate detailed to-do lists, analyze the emotional tone of texts and facilitate the autonomy of neuroatypical people
+784. [You.com](https://you.com/) - An AI search engine that combines the best language models such as Claude-3 and GPT-4. Ask complex questions and get detailed answers with citations, with unlimited use in the Pro version
+785. [CharacterGen](https://charactergen.github.io/) - Generate 3D characters from a single image. AI calibrates the pose, reconstructs the 3D model and applies high-quality textures. Ideal for animation
+786. [AI or Human](https://ai-or-human.github.io/) - A game in which you have to guess which images are of human origin and which have been created by artificial intelligence
+787. [Nvidia Launchpad AI](https://build.nvidia.com/explore/discover) - Gain free access to Nvidia&#039;s experimental laboratory and discover a wealth of innovative AI.
+788. [Amazon Q](https://aws.amazon.com/cn/q/) - An AI assistant specially created to help you with your work or professional tasks. Ideal for companies and all kinds of business
+789. [Mintlify](https://mintlify.com/) - Automated documentation creation for your projects
+790. [AI Voice Generator Freepik](https://www.freepik.com/ai/voice-generator) - Generate professional voice-overs in just a few seconds with AI. Choose from different tones, languages and accents to create a natural narration that matches your project perfectly
+791. [ProgrammingHelper](https://www.programming-helper.com/) - Code creation help for developers of all levels
+792. [Benchmark Email](https://www.benchmarkemail.com/) - Create professional and attractive emails
+793. [Brandmark](https://brandmark.io/tools/) - Create and improve your logos in a professional way
+794. [Lumen5](https://lumen5.com/) - Make video creation using AI in a drag-and-drop interface
+795. [Project Mariner](https://deepmind.google/technologies/project-mariner/) - Explore the web with AI agents thanks to Google DeepMind&#039;s Chrome extension (with Gemini 2.0). Navigate, organize and interpret online information with unrivalled precision
+796. [NVIDIA RTX Remix](https://www.nvidia.com/en-us/geforce/rtx-remix/) - Remaster your favorite retro games with ray tracing and AI-enhanced textures. Easily capture game assets and let the magic happen
+797. [TryOffAnyone](https://huggingface.co/spaces/1aurent/TryOffAnyone) - A useful AI tool that extracts a garment from any image. Upload your image and the AI will isolate your garment in WebP format
+798. [MyShell.ai](https://myshell.ai/) - A decentralized platform that lets you create, share and monetize your AI agents without coding. Transform your ideas into intelligent applications, generate images and clone voices with ease
+799. [Project DIGITS](https://www.nvidia.com/en-us/project-digits/) - A supercomputer that can run AI models with up to 200 billion parameters. Train and test your models locally with the GB10 chip, which delivers a petaflop of computing power
+800. [Careered AI](https://www.careered.ai/) - AI to help you write successful CVs, applications and cover letters. Automatic personalization, ideal for standing out
+801. [Mars Ai](https://marsx.dev/) - Build low-code websites and mobile applications with ease
+802. [Phenaki](https://phenaki.video/) - A new AI-based video generator that works from a text description (prompt)
+803. [ElevenLabs Projects](https://elevenlabs.io/studio) - A complete solution for transforming your texts into professional-quality audio. Create audiobooks and podcasts with thousands of natural AI voices in 32 languages
+804. [Pixels2Flutter](https://pixels2flutter.dev/) - Transform a UI screenshot into perfectly working code for Flutter software. Speeds up your application development process
+805. [PDF Candy Editor](https://pdfcandy.com/edit-pdf.html) - An AI-powered online PDF Editor: add and edit PDF text, annotate, manage pages, fill in forms, etc.
+806. [Gemma 2](https://accounts.google.com/v3/signin/identifier) - New-generation open-source AI models from Google DeepMind. More powerful and more accurate, these LLM models are available in two versions: 9B and 27B
+807. [FLUX LoRa Lab](https://huggingface.co/spaces/multimodalart/flux-lora-lab) - An easy-to-use interface for running LoRAs with the FLUX model. Possibility of mixing several LoRAs at the same time for even more accurate results
+808. [Wanderboat](https://wanderboat.ai/home) - Plan the perfect trip with an AI companion that excels at finding travel and outing ideas. It can quickly search and find restaurants, activities, personalized itineraries and much more
+809. [GeoSpy.ai](https://geospy.ai/) - A powerful AI tool that geotags any photo in seconds. Find out on a world map where a photo was taken
+810. [Meme PFP](https://www.memepfp.com/) - Generate PFPs with AI &amp; explore thousands of free PFPs for Discord, TikTok, Fortnite, and More
+811. [DiffRhythm](https://aslp-lab.github.io/DiffRhythm.github.io/) - An open-source music generation model based on latent diffusion that creates complete AI songs with vocals and instruments in just ten seconds. Exceptional ease of use and speed
+812. [LLaMA-Mesh](https://research.nvidia.com/labs/toronto-ai/LLaMA-Mesh/) - An AI model that generates 3D objects from text descriptions. It unifies natural language and 3D modeling to create complex and precise meshes
+813. [LargeSpatialModel (LSM)](https://largespatialmodel.github.io/) - An AI system for transforming 2D images into semantic 3D models. Generate detailed 3D reconstructions in real time from just a few images, without the need for complex camera settings
+814. [Stable Cascade](https://stablediffusionxl.com/stable-cascade/) - Stability.ai&#039;s new model for creating high-resolution images from a prompt. Use of Würstchen architecture for fast, cost-effective training or inference
+815. [Rationale](https://rationale.jina.ai/) - An AI application that chooses for you the best decision to make in an entrepreneurial context
+816. [Skibs.co](https://app.skibs.co/) - An AI interface for single-frame animation of 2D characters in 3D. Import your own videos or use predefined models to bring your creations to life
+817. [Momen](https://momen.app/ai?utm_source=aixploria&#038;utm_medium=platform&#038;utm_campaign=ai) - Build AI agents that can be scaled and monetized. Integrate LLMs, manage data and develop user interfaces with ease (no code, no limits)
+818. [LoveGPT](https://lovegpt.co.in/) - An AI that helps you in your conversations or love requests (marriage, engagement, love letter, etc..)
+819. [FanHero](https://fanhero.com/) - CREATOR AI is FanHero’s built-in AI assistant that helps creators generate text, images, and videos while managing and monetizing their own branded community
+820. [Rosebud](https://rosebud.ai/) - Create games quickly with AI. Describe your idea, let the assistant generate assets and code. Publish and share in one click.
+821. [Wonder Dynamics](https://wonderdynamics.com/) - Video creation for easy storytelling
+822. [Systran Translate](https://www.systransoft.com/translate/) - A quality translator to translate your texts into over 55 languages. Compatible with PDF, DOCS, PPTX, XLSX and more
+823. [Mem AI](https://get.mem.ai/) - Let this AI take control, it automatically organizes and classifies all your project data
+824. [UniAnimate](https://unianimate.github.io/) - Generate long, consistent videos from a single reference image. This is a unified diffusion model for animating images with human beings
+825. [WatermarkRemover IO](https://www.watermarkremover.io/) - Automatically remove WaterMark from any photo with a fast and precise AI tool
+826. [Rephrasy](https://www.rephrasy.ai/) - This tool makes AI-generated texts undetectable by analysis systems such as GPTZero and Turnitin. This site can clone your writing style to create unique content
+827. [PPLEGPT](https://pplegpt.vercel.app/) - A strength and fitness coach who also gives you exercises adapted to your potential
+828. [Mirageml](https://www.mirageml.com/) - Design of 3D objects and designs from a text description
+829. [Yarn.co](https://yarn.co/) - Find cult lines from movies, TV shows and music. Search by quotation and discover new excerpts thanks to a huge database
+830. [UltraPixel AI](https://jingjingrenabc.github.io/ultrapixel/) - A text-based image generation model capable of producing images up to 6K. It is ControlNet-compatible and allows you to customize the result
+831. [StupidGPT](https://stupidgpt.lol/) - An AI that&#039;s always up for a chat, but talks a lot of nonsense. A humorous project
+832. [Dubverse.ai](https://dubverse.ai/) - Get fast dubbing (and translation) on your videos with realistic voices thanks to AI
+833. [PrompBase](https://prompbase.com/) - An assistant for Midjourney in the form of a customizable prompt
+834. [Ponzu](https://www.ponzu.gg/) - Create 3D models and textures from a prompt. Choice of styles and designs
+835. [Beacons.ai](https://beacons.ai/) - A marketing platform specialising in the creation of organic links for social networks. You can also quickly create your own online shop
+836. [Papercut](https://www.papercup.com/) - Translates and plays your video with AI in any language
+837. [HIX.AI](https://hix.ai/) - A powerful AI writing assistant with over 120 tools. Create, search, rewrite and optimize content in over 50 languages for your editorial and marketing projects
+838. [AI Shopping Guides](https://www.amazon.com/guide) - Get personalized shopping guides, product recommendations and answers to your questions with Rufus, Amazon&#039;s AI shopping assistant
+839. [Sonauto AI](https://sonauto.ai/) - Create music for free with this music generator + AI voice. Get original songs to suit your mood
+840. [Joyland.ai](https://www.joyland.ai/) - Chat with AI characters from anime, cartoon, friend and more. You can also easily create your own character and make it popular in the trends section!
+841. [Predict AI](https://www.neuronsinc.com/neurons-ai) - An AI that uses data to predict your customers&#039; intentions with 95% accuracy
+842. [Soundful](https://soundful.com/) - A music generator that allows you to create &quot;Royalty Free&quot; music
+843. [Splutter AI](https://www.splutter.ai/) - A modular website chatbot solution providing hot-swappable models, tools, and databases as well as a HostedGPT. Upload your data and give your chatbot a knowledge base. Connect tools like recommenders, leads, tickets, and webhook calls!
+844. [Wonderplan](https://wonderplan.ai/) - Easily create an itinerary or activity plan to follow while traveling
+845. [Bria](https://bria.ai/) - Integrate AI via an API to automatically improve the resolution of images or videos
+846. [Photoroom](https://www.photoroom.com/) - Quickly retouch your photos with AI. Remove backgrounds, create new ones or replace objects. Edit hundreds of images simultaneously
+847. [Pismo.ai](https://pismo.ai/) - An AI writing assistant for your computer. It works anywhere, uses hotkeys for instant help, fixes errors, adjusts tone, and costs less than ChatGPT
+848. [CapMonster Cloud](https://capmonster.cloud/en/) - A cloud service to automatically resolve various types of captchas. Easily integrate this solution into your projects to bypass anti-bot protections and automate large-scale web tasks
+849. [All in One Accessibility®](https://www.skynettechnologies.com/all-in-one-accessibility) - AI-based tool is enhancing WCAG 2.0, 2.1, 2.2, and ADA website accessibility improvements. Quick 2-minute installation. 140+ language support. Compatible with all CMS, LMS, CRM, ecommerce, and website builder platforms
+850. [QuickVid.Ai](https://quickvid.ai/) - Experiment with automatic creation of short videos, like YouTube&#039;s Shorts
+851. [Yozo AI SEO Blogs](https://www.yozo.ai/) - Generate human-like, SEO-optimized blogs at scale to rank your store faster on Google and boost organic traffic
+852. [The StoryGraph](https://thestorygraph.com/) - An AI-powered reading recommendation and tracking platform. Analyze your reading habits, find your next book according to your mood, and share your impressions with a community of readers
+853. [CapCut Online Creative Suite](https://www.capcut.com/creative-suite) - A huge collection of AI tools for easy editing of your videos: subtitles, special effects, background removal, etc.
+854. [ChatALL](https://github.com/ai-shifu/ChatALL) - Interact with multiple AI chatbots (+25) in a single query and get better answers. Compatible with many LLMs
+855. [Thisnightskydoesnotexist](https://www.arthurfindelair.com/thisnightskydoesnotexist/) - 
+856. [Quadency](https://quadterminal.com/) - Develop effective strategies with an AI bot to follow your directions (crypto)
+857. [BG Removal Birefnet](https://huggingface.co/spaces/not-lain/background-removal) - Remove the background from your images quickly and easily with powerful AI. Free, fast and no registration required
+858. [Novae.Travel](https://chat.novae.travel/) - Feature rich AI holiday planner with flights, hotels and attractions/tours bookings, budgets, driving and public transport directions, and location-based services
+859. [Godmode](https://godmode.space/) - Use generative agents (like ChatGPT) to create unique results and stimulate your creativity
+860. [Retune](https://retune.so/) - Monetize your data from your projects with GPT-3 (API available)
+861. [DeepFake Detector](https://huggingface.co/spaces/Jesse311/Deepfake-Detector) - Quickly determine if an image is real or if it has been generated using artificial intelligence. Upload your photo and get the result in seconds
+862. [TabSquare AI](https://tabsquare.ai/) - A complete AI solution to optimize your restaurant management. Customize menus, automate orders and payments to improve the customer experience and increase your revenues
+863. [Whisper Large V3 Turbo](https://huggingface.co/spaces/hf-audio/whisper-large-v3-turbo) - Automatically transcribe and translate audio documents in over 50 languages with astonishing accuracy. Free access and real-time transcription via microphone
+864. [BrickCenter](https://www.brickcenter.net/) - Generate customized Lego sets and minifigs from text or photos. Unleash your imagination for free!
+865. [ApyHub AI](https://apyhub.com/) - A platform that centralizes API management. Discover, test and integrate over 130 APIs into your applications, while collaborating efficiently with your team in a single workspace
+866. [Vercel AI Playground](https://sdk.vercel.ai/playground) - Easily compare and use available templates for Anthropic, OpenAI, Huggingface, Replicate or Cohere
+867. [WordAI](https://wordai.com/) - Rewrite your text with professional quality. Let AI suggest changes and improve your writing style
+868. [Gr00t by Nvidia](https://nvidianews.nvidia.com/news/foundation-model-isaac-robotics-platform) - Nvidia launches Gr00t, an AI model for creating humanoid robots capable of learning by observing humans. A major advance in robotics
+869. [Stunning AI](https://stunning.so/) - A website builder driven by ChatGPT artificial intelligence
+870. [ArtHub](https://arthub.ai/) - Explore the huge amount of images generated by artists and prompt specialists
+871. [Go Charlie](https://gocharlie.ai/) - Make 4K images and ads for the web
+872. [Breeze Content Agent](https://www.hubspot.com/products/content/content-ai-agent) - An AI assistant that simplifies the creation of marketing content by leveraging your CRM data. Quickly generate engaging landing pages, podcasts, case studies and blog posts to attract visitors and convert leads
+873. [Enterprise DNA](https://enterprisedna.co/) - Boost your data and AI skills with customized training courses. Take up challenges, exchange with a community of professionals
+874. [ToonCrafter](https://huggingface.co/spaces/Doubiiu/tooncrafter) - Easily create smooth transitions between two anime or cartoon-like images, using AI trained on video (image-to-video)
+875. [UserWay](https://www.uwtracks.com/93QKPHZ/3QQG7/) - Make your website accessible to all with a suite of AI tools. Improve navigation, contrast and legibility for people with disabilities without modifying your code
+876. [Resume Trick](https://resumetrick.com/) - Create an AI-assisted professional resume or cover letter. Use a variety of templates to increase your chances of success
+877. [Musicfy](https://musicfy.lol/) - Discover and create covers of your favorite songs with an AI that has a sense of rhythm
+878. [Rembrand](https://www.rembrand.com/) - Intelligent advertising technology that naturally integrates brands into your videos. Place your products directly without advertising interruption and with an exposure time 8 times longer than traditional formats
+879. [Starryai](https://starryai.com/) - A mobile compatible drawing, photo and image creator
+880. [Blush AI](https://blush.ai/) - An AI-powered dating simulator that provides a safe space to learn how to seduce. Improves self-confidence and understanding of relationships
+881. [Reface](https://reface.ai/) - Animated avatars designed with your face. Works on mobile and tablet
+882. [AutoSlide](https://autoslide.ai/) - An AI-powered presentation tool to automatically create projects in PowerPoint, PDF, etc.
+883. [Codesquire AI](https://codesquire.ai/) - Assistant that helps and suggests code for engineers, analysts and data scientists
+884. [Fal AI](https://fal.ai/) - A cloud platform for easy deployment of AI models. Easily integrate computer vision and language processing into your web and mobile applications
+885. [Atom Limbs](https://atombodies.com/) - Revolutionary AI-driven robotic arm prostheses: mental control, tactile feedback, natural amplitude. The future for 100 million amputees worldwide
+886. [Reworkd AI](https://www.reworkd.ai/) - Automate data extraction from websites without code. AI generates extractors, performs scraping and automatically repairs errors
+887. [Spellbox AI](https://spellbox.app/) - Solves any coding problem
+888. [Casetext](https://casetext.com/) - Perform an in-depth analysis of your legal documents and get instant help
+889. [Talkie AI](https://www.talkie-ai.com/) - A chat platform for chatting with thousands of fictional AI characters and creating your own virtual companions. Chatbots have long memories. Features a large community on Discord
+890. [DragGAN](https://github.com/XingangPan/DragGAN) - A new AI expert in image manipulation and transformation (live). Beta version available
+891. [Podcastle](https://podcastle.ai/) - Automated and AI-assisted audio editing (podcast)
+892. [Google Vids](https://workspace.google.com/products/vids/) - An AI application for creating pro videos automatically. Write, produce and edit a video clip from your browser. Coming soon with Gemini
+893. [Scrip AI](https://scripai.com/) - Create your video scripts 10 times faster with AI: suitable for TikTok, Instagram Reels or YouTube Shorts
+894. [Xpression Camera](https://xpressioncamera.com/) - An application that transforms your face into another person&#039;s in real time from a photo (Twitch, Zoom YouTube)
+895. [Voicemod](https://www.voicemod.net/) - Transform your voice in real time without any lag
+896. [Quick Draw by Google](https://quickdraw.withgoogle.com/) - Draw and an AI will try to guess what it is. The more you play, the more it learns new concepts. A playful example of how machine learning works
+897. [Neuralink](https://neuralink.com/) - A brain-machine interface available as an AI chip with enormous potential: giving back autonomy to paralyzed or visually impaired people, controlling a computer by thought, etc.
+898. [Figma Slides](https://www.figma.com/slides/) - Create powerful presentations using an easy-to-use tool. Integrate interactive templates, use AI to refine your texts and collaborate in real time with your team
+899. [Numerous AI](https://numerous.ai/) - Make your spreadsheet smarter with the help of ChatGPT. Text extraction, categorization, formula creation and more
+900. [Hello History](https://www.hellohistory.ai/) - Talk to famous people who have shaped human history
+901. [Namify AI](https://namify.tech/) - A high-performance IA business name generator. Find the perfect identity for your brand, check domain name availability and get a free logo
+902. [AgXeed](https://www.agxeed.com/) - A manufacturer of AI autonomous farming robots that work up to 23 hours a day unsupervised. Plan your operations in advance and optimize your resources thanks to intelligent algorithms that improve harvest quality
+903. [Qatalog](https://qatalog.com/) - A dedicated management tool to facilitate management and collaboration in your projects
+904. [Flux.1-dev Upscaler](https://huggingface.co/spaces/jasperai/Flux.1-dev-Controlnet-Upscaler) - An AI tool to improve the quality of your images. Increase resolution, add detail and correct imperfections with the help of the FLUX.1 model [dev]
+905. [Evernote AI](https://evernote.com/features/ai-features) - A suite of AI tools that enhances note-taking with intelligent search and automatic editing. Summarize, translate and correct your texts at the click of a button, with guaranteed confidentiality
+906. [Tugan.ai](https://www.tugan.ai/) - From a simple URL, you can generate emails perfectly adapted to your marketing campaigns
+907. [Wand AI](https://wand.ai/) - Solve complex problems and improve your business capabilities
+908. [Parler-TTS](https://github.com/huggingface/parler-tts) - An open-source AI tool that generates natural voices from text using a model with 600 million parameters. Create your own voice
+909. [Omlete](https://eatomlete.com/) - A practical recipe generator based on a list of ingredients supplied by you
+910. [LearnLM by Google](https://blog.google/outreach-initiatives/education/google-learnlm-gemini-generative-ai/) - A series of generative AI models created by Google for the world of education. Ideal for facilitating and personalizing the educational experience
+911. [Tesla Robotaxi](https://www.tesla.com/we-robot) - A range of autonomous, futuristic Robotaxi vehicles (without steering wheel or pedals). Enjoy safe, affordable transportation thanks to Tesla&#039;s artificial intelligence
+912. [Gen-2 by Runway](https://runwayml.com/ai-magic-tools/gen-2) - A next generation AI that can produce a video from a text (prompt), an image or a video
+913. [OpenAI Realtime Agents](https://github.com/openai/openai-realtime-agents) - A development kit that creates real-time multi-agent voice assistants. Rapidly deploy conversational applications with authentication and automatic transfers between specialized agents (APIs)
+914. [Roshi AI](https://www.roshi.ai/) - Generate summaries, questions or vocabulary lists on any article or YouTube video
+915. [StableLM](https://github.com/stability-AI/stableLM/) - An AI that could become a free and open source alternative to ChatGPT
+916. [Gooey.AI](https://gooey.ai/) - A no-code platform to manage AI APIs like StableDiffusion, text templates under GPT-3 or voice generators
+917. [WildGaussians](https://wild-gaussians.github.io/) - An AI tool that creates real-time 3D renderings of uncontrolled environments. Ultra-efficient management of occlusions and appearance variations
+918. [ElevenLabs Voice Design](https://elevenlabs.io/voice-design) - Generate, clone and customize ultra-realistic synthetic voices for your projects, with precise control over intonation and emotion
+919. [Automata](https://byautomata.io/) - Turn your videos and blogs into Twitter posts or LinkedIn articles
+920. [Dream Interpreter](https://dreaminterpreter.ai/) - An AI that interprets your dreams and gives you their meanings
+921. [AI Illustration Generator](https://icons8.com/illustration-generator) - Easily create consistent graphics in PNG format. This tool is particularly suited to designers looking for quality illustrations on any subject
+922. [Photopea](https://www.photopea.com/) - Online photo editing software with a magical AI tool for Generative Fill on your images.
+923. [CoTracker3](https://cotracker3.github.io/) - An advanced algorithm for tracking points in videos. Benefit from precise tracking even in the event of occlusions, thanks to a simplified architecture and semi-supervised training on real videos
+924. [Algolia](https://www.algolia.com/) - Do targeted research to improve your business and your commercial projects
+925. [Assisterr](https://www.assisterr.ai/) - Gain insights from a decentralized network using AI. Collaborate and exploit the full potential of the web3 network
+926. [ReRender AI](https://rerenderai.com/) - Turn your architectural concepts into photorealistic renderings in seconds. Import your AutoCAD, Blender or SketchUp files and choose from 50 unique styles to enhance your real estate projects
+927. [Deep Research](https://openai.com/index/introducing-deep-research/) - A search system created by OpenAI that can quickly synthesize thousands of sources. Get detailed, verified answers on complex topics from an AI agent that crawls the web for you
+928. [Groq](https://groq.com/) - An audacious start-up that could accelerate the execution speed of AI models by up to 10 times thanks to the development of its LPU (Language Processing Unit)
+929. [Facial Assessment Tool](https://www.qoves.com/) - An AI that analyzes your face and gives you cosmetic advice to beautify you
+930. [Neural.love](https://neural.love/) - From a few words or a reference image, this AI offers you artistic illustrations
+931. [freebeat AI](https://freebeat.ai/?utm_source=AIXPLORIA&#038;utm_medium=referral&#038;utm_campaign=AIXPLORIA_20250305&#038;utm_content=submittool) - Turn your music into viral videos in just one click. Create dance videos, music videos, lyric videos with synchronized choreography or personalized avatars
+932. [SplashMusic](https://www.splashmusic.com/) - Free music creator open to all
+933. [AI Sound Copilot](https://www.waanda.org/) - Upload your video and the AI will create sound effects perfectly suited to your sequence. Royalty-free audio effects
+934. [TextGPT](https://textgpt.net/) - Easily access the best text and image generators in GPT on your email applications
+935. [Kaedim 3D](https://www.kaedim3d.com/) - Generate high-quality 3D models from 2D images very quickly. AI makes 3D object creation easy and intuitive
+936. [Cover Letter by Grammarly](https://www.grammarly.com/ai/ai-writing-tools/cover-letter-generator) - Let an AI write your cover letter. Upload your resume and it will generate it automatically (DOC, TXT and DOCX compatible)
+937. [Repl AI](https://replai.so/) - Expand your vocabulary and create high quality Tweets
+938. [YourDoctor AI](https://doctor.yourmed.app/) - Get health advice from an AI with some medical knowledge
+939. [Cartesia AI](https://cartesia.ai/) - Generate ultra-realistic voices and create high-performance speech applications in real time. Customize your voice models on a multimodal AI platform already used by over 10,000 people
+940. [Creatie AI](https://creatie.ai/) - Boost your creativity with an easy-to-use IA design tool (UI/UX). Image editing, 3D icon generation, styling: optimize every step of the process
+941. [Liner.ai](https://liner.ai/) - Train AI models without writing a line of code
+942. [Command R+](https://cohere.com/blog/command-r-plus-microsoft-azure) - A powerful language model (LLM) for businesses. Supports 10 languages and reduces hallucinations thanks to advanced search with citations
+943. [Erase.bg](https://www.erase.bg/) - Remove any background or element from an image without software
+944. [Make-A-Video (Meta)](https://makeavideo.studio/) - A promising AI-based video generator from Meta
+945. [Salesforce Einstein](https://www.salesforce.com/artificial-intelligence/) - A suite of AI tools embedded in the Salesforce platform. Optimize sales, customer service and marketing with automatically generated predictions and content
+946. [GitHub Copilot Workspace](https://githubnext.com/projects/copilot-workspace/) - Develop your code wherever you are with GitHub Copilot Workspace. This intuitive environment makes it easy to iterate, validate and collaborate on your projects.
+947. [Bright Eye](https://apps.apple.com/us/app/bright-eye/id1593932475) - An image generator specialized in mobile content
+948. [Cassette AI](https://cassetteai.com/) - Automatic creation of high quality beats and rhythms (ideal for electronic music)
+949. [Soundverse AI](https://www.soundverse.ai/) - Soundverse is an AI music assistant for music creation by text or voice. Think of it as Siri or Alexa, but for Music Creation !
+950. [AI Post Generator](https://www.radaar.io/free-tools/social-post-generator/) - Automatically generate captivating publications from a prompt. Optimized for social networks and available in 6 languages
+951. [Refraction.dev](https://refraction.dev/) - Generate code for languages like Typescript or Python
+952. [Wayin AI](https://www.wayin.ai/) - The Ultimate Video Copilot: Automated insights from videos in seconds, and interactive Q&amp;A about video content to learn more
+953. [B12.io](https://b12.io/) - Automatic website builders assisted by an AI
+954. [Cody](https://meetcody.ai/) - A real high performance office worker who will be at your command
+955. [SEAL Leaderboards](https://scale.com/leaderboard) - Check out the rankings of the best-performing AI models. Discover the scores and expert evaluations for each LLM model in various fields
+956. [Thischairdoesnotexist](https://thischairdoesnotexist.com/) - 
+957. [Texts from my ex](https://textsfrommyex.com/) - Analyze your conversations with your ex and get a deeper understanding of this (ex) relationship. Compatible with Imessage and WhatsApp
+958. [CrawlQ AI](https://crawlq.ai/) - Get your customers addicted to your brand by playing on their emotions
+959. [Spacely AI](https://www.spacely.ai/) - Renovate your interior space from a photo. Get decorating ideas, furniture lists, etc.
+960. [AiGalaxy](https://aigalaxy.app/) - Generate images, sounds and videos with a complete suite of creative tools. Create unique visuals, extract music from songs or enhance your photos with specialized AI models
+961. [X to Voice](https://xtovoice.elevenlabs.io/) - An AI tool that analyzes your X (Twitter) profile to create a personalized synthetic voice. Turn your tweets into audio with ElevenLabs&#039; voice cloning technology
+962. [Phraser](https://phraser.tech/project/new) - A collaborative tool to generate various artistic creations such as images, clothing and more
+963. [Audioshake](https://indie.audioshake.ai/) - Get your own Stems and do professional level remixing, sampling, etc.
+964. [Codestral](https://mistral.ai/news/codestral) - Codestral is a 22 billion-parameter AI model designed for code generation. It has been trained on over 80 programming languages and is accessible via Mistral&#039;s chat interface
+965. [CapCut Commerce Pro](https://commercepro.capcut.com/) - A suite of marketing tools that automates the creation of advertising content. Quickly generate e-commerce-optimized visuals and promotional videos
+966. [Generative Fill by Stylar](https://www.dzine.ai/tools/generative-fill) - Add or modify elements in your images with Stylar AI&#039;s generative fill technology. Describe your vision and let AI generate the visual. Simple, intuitive and non-destructive
+967. [Meta 3D Gen](https://ai.meta.com/research/publications/meta-3d-gen/) - An AI project for rapidly generating realistic 3D models via a single prompt. This tool, created by Meta, combines asset and texture generation for high-quality PBR rendering
+968. [Chatbot App](https://chatbotapp.ai/) - Easily create personalized AI chatbots for your website. Improve customer engagement and automate support with natural, intelligent conversations
+969. [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - An open-source, Internet-connected AI (GPT) that can perform tasks without human intervention
+970. [AI Tutor Pro](https://www.aitutorpro.ca/grow) - Get information on any subject with a free, private AI assistant. The tool works in a wide range of languages and lets you choose your level of study
+971. [Food Mood by Google](https://artsandculture.google.com/experiment/food-mood/HwHnGalZ3up0EA) - Create original recipes by mixing two cuisines with the help of AI. Get inspiration for your next meal. Fun and creative experience
+972. [SeaArt](https://www.seaart.ai/search/art) - A creative art studio that turns your prompts into masterpieces. Customize styles, form your own models and create AI characters in a virtual community space
+973. [CrewAI](https://www.crewai.com/) - A platform that enables autonomous AI agents to collaborate more effectively. Ideal for performing complex tasks with greater facility
+974. [Lobe](https://github.com/lobe) - Train AIs by doing Machine Learning, even without any knowledge
+975. [Regie](https://www.regie.ai/) - Team up with an AI and multiply your sales through messages and emailing
+976. [GPTHotline](https://www.gpthotline.com/) - An amazing ChatBot for WhatsApp that works with the help of ChatGPT
+977. [Dewatermark.AI](https://dewatermark.ai/) - Send your image and the AI automatically removes the Watermark. The tool also allows manual retouching with a brush
+978. [Altered](https://www.altered.ai/) - Easily take your voice to a professional level
+979. [CodeGeeX AI](https://huggingface.co/spaces/THUDM/CodeGeeX) - A multi-language code generator trained with 13 billion parameters
+980. [Cheat Layer AI](https://cheatlayer.com/) - Code automation for businesses and software engineers
+981. [Play by Hyperspace](https://play.hyper.space/) - Explore a topic of your choice in depth with the help of AI. Select your preferred AI sources and models to create a personalized information network
+982. [Thisfursonadoesnotexist.com](https://thisfursonadoesnotexist.com/) - 
+983. [Adobe Project Concept](https://blog.adobe.com/en/publish/2024/10/14/new-creative-beginnings-gen-ai-redefining-ideation-with-project-concept) - An experimental AI project to stimulate your creativity. Quickly explore multiple artistic directions, mix images and transform your ideas into powerful visual concepts.
+984. [TrendEdge](https://trendedge.ai/) - Get better at investing with big data insights and AI stock analysis. Evaluate each company with the help of AI signals that combine social sentiment and technical indicators
+985. [Ipso AI](https://ipso.ai/) - Write your emails for you based on your agenda (GPT3)
+986. [Gpt twit-bot](https://twitter-bot.com/) - An AI that analyzes your tweets and makes you a personalized profile on Twitter (bio, photo, nickname, etc.)
+987. [DuckDuckGo AI Chat](https://duckduckgo.com/) - Talk in total confidentiality with DuckDuckGo&#039;s AI. Your conversations are never recorded or used to train the AI (GPT-3.5 and Claude)
+988. [AI Dictionary by Sider](https://dictionary.sider.ai/) - A multilingual IA dictionary for quick and accurate definitions, examples of use and translations in over 100 languages
+989. [SoundHound AI](https://www.soundhound.com/) - Create high-quality, personalized voice experiences for your brand. Quickly integrate AI voices using solutions already approved by various industries
+990. [WaveForms AI](https://www.waveforms.ai/) - An audio system that detects emotions in the voice for natural conversations with AI. This project promises more empathetic and personalized interactions
+991. [AI Human Generator](https://generated.photos/human-generator) - Create fake persons online using AI, alter their appearance, and change their facial features and physical characteristics
+992. [Dora](https://www.dora.run/) - Design of no-code websites with a simple interface. Creation of 3D animations in 2 clicks
+993. [MultiOn](https://theagi.company/) - A personal assistant that could become your intelligent butler. It can order meals, book flights, make appointments, etc.
+994. [Mindtrip AI](https://images.mindtrip.ai/heroku/construction.html) - Discover tailor-made travel with an AI that proposes personalized itineraries including flights, hotels, restaurants and activities. Everything is centralized
+995. [AI CSS Animation](https://www.aicssanimations.com/) - Easily create dynamic CSS animations using a prompt or your voice. You have access to the complete code and can easily modify your animation
+996. [InkForAll](https://inkforall.com/) - Help in writing content focused on SEO
+997. [Overloop](https://overloop.com/) - An AI-automated sales prospecting platform. Generate qualified leads, create personalized email campaigns and optimize conversions effortlessly
+998. [Moonvalley AI](https://www.moonvalley.com/) - Turn your text into cinematic animated videos with this beta AI model. The website also features a collaborative gallery
+999. [Teleporthq](https://teleporthq.io/) - A unique participative and collaborative website builder
+1000. [RealFake](https://www.realfakephotos.com/) - Give 10 of your photos to this AI and it will produce high quality profile photos for dating sites
 
