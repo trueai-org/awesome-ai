@@ -2,12 +2,9 @@
 
 收录全球 3000+ AI 产品，每小时更新，依据开放信息进行排名（活跃用户、官方粉丝、全球热度、市场估值等）
 
-## 收录标准
+> 收录标准：产品拥有社交官方账号（YouTube、TikTok、X、Twitter、Facebook、Reddit、Instagram、WhatsApp、LinkedIn、VK、Snapchat、Vimeo、Pinterest、Behance、Flickr、Quora、Discord、Tumblr、Medium、快手、抖音、微博、小红书、Bilibili、GitHub、Telegram 
 
-1. 产品发布正常可用
-2. 产品拥有官方账号（YouTube、TikTok、X、Twitter、Facebook、Reddit、Instagram、WhatsApp、LinkedIn、VK、Snapchat、Vimeo、Pinterest、Behance、Flickr、Quora、Discord、Tumblr、Medium、快手、抖音、微博、小红书、Bilibili、GitHub、Telegram 
-
-## 全球 AI 排行榜
+## 排行榜
 
 1. [HubSpot CRM](https://www.hubspot.com/ai-powered-crm/am) - Optimize your sales and marketing with a particularly intuitive, AI-driven professional CRM. Track your performance in real time and automate tasks more efficiently
 2. [ChatGPT](https://chatgpt.com/) - The world&#039;s most famous conversational assistant. Ask your questions and get precise answers
