@@ -7,7 +7,7 @@
 1. 产品发布正常可用
 2. 产品拥有官方账号（YouTube、TikTok、X、Twitter、Facebook、Reddit、Instagram、WhatsApp、LinkedIn、VK、Snapchat、Vimeo、Pinterest、Behance、Flickr、Quora、Discord、Tumblr、Medium、快手、抖音、微博、小红书、Bilibili、GitHub、Telegram 
 
-## 排行榜 AI TOP 1000
+## 全球 AI 排行榜
 
 1. [HubSpot CRM](https://www.hubspot.com/ai-powered-crm/am) - Optimize your sales and marketing with a particularly intuitive, AI-driven professional CRM. Track your performance in real time and automate tasks more efficiently
 2. [ChatGPT](https://chatgpt.com/) - The world&#039;s most famous conversational assistant. Ask your questions and get precise answers
@@ -1009,4 +1009,2004 @@
 998. [Moonvalley AI](https://www.moonvalley.com/) - Turn your text into cinematic animated videos with this beta AI model. The website also features a collaborative gallery
 999. [Teleporthq](https://teleporthq.io/) - A unique participative and collaborative website builder
 1000. [RealFake](https://www.realfakephotos.com/) - Give 10 of your photos to this AI and it will produce high quality profile photos for dating sites
+1001. [ElevenLabs Reader](https://elevenreader.io/) - An AI text reader that transforms your articles, PDFs and ePubs into high-quality audio files. Choose from a wide range of voices and listen to your content wherever you are
+1002. [Play Afar](https://www.playafar.com/) - An addictive mobile game where you run, climb and fly through colorful worlds. Progress, unlock bonuses and take on your friends!
+1003. [MedLM by Google](https://cloud.google.com/vertex-ai/generative-ai/docs/medlm/overview) - MedLM provides specialised AI models for the healthcare sector. Highly capable of answering complex medical questions
+1004. [Staypia](https://www.staypia.com/) - Book your hotel with an AI-driven system. Find the best deals on over 3.16M hotels worldwide
+1005. [Jarvis (Microsoft)](https://github.com/microsoft/JARVIS) - An autonomous personal assistant driven by an AI. Developed by the Microsoft team
+1006. [Coinfeeds.io](https://www.coinfeeds.ai/) - Get valuable analytics and data with the help of an AI ChatBot designed specifically for crypto traders and investors
+1007. [Dough](https://github.com/banodoco/Dough) - Create stunning AI animations with pinpoint accuracy. Use images or videos to guide movement frame by frame. Free and open source
+1008. [GenCast](https://deepmind.google/discover/blog/gencast-predicts-weather-and-the-risks-of-extreme-conditions-with-sota-accuracy/) - A weather forecasting system that predicts atmospheric conditions with unrivalled accuracy. Anticipates extreme events up to 10 days in advance thanks to AI models trained on 40 years of data
+1009. [BlackInk](https://blackink.ai/) - Create your tattoo in just a few seconds with AI
+1010. [OmniAI](https://getomni.ai/) - An AI platform to automate data extraction from documents. Easily transform PDFs, presentations and websites into structured data, all via a simple, secure API
+1011. [Apple Intelligence](https://www.apple.com/apple-intelligence/) - A suite of AI tools integrated into your Apple devices. Improve your handwriting, create personalized images and benefit from a more powerful Siri assistant, all while preserving your privacy
+1012. [Simulon](https://simulon.com/) - An AI tool that transforms the way VFX is designed on mobile devices. Import 3D models into your videos for stunning cinematic rendering
+1013. [Mindmap Generator](https://everlearns.com/mindmap-generator) - Create and visualize your ideas easily with this free AI mind map generator. Boost your productivity and brainstorming in just a few clicks
+1014. [Reiden AI](https://reiden.ai/) - An AI co-pilot to optimize your keyboard productivity. Analyze your workflow in real time and get personalized shortcut recommendations. Compatible with many popular applications
+1015. [Mistral Large 2](https://mistral.ai/news/mistral-large-2407) - A high-performance AI model, capable of complex reasoning in several languages. Impressive results, close to GPT-4
+1016. [Qureos Resume Builder](https://www.qureos.com/resume-builder) - Design a CV that really catches the eye. Choose a template, personalise it and download it to impress recruiters
+1017. [AdamCAD](https://www.adamcad.com/) - Generate parametric 3D models from your ideas using an AI-powered CAD co-driver. Accelerate your engineering projects by developing sophisticated designs. Works via a prompt
+1018. [TimeToTok](https://timetotok.com/) - Maximize your growth on TikTok with an AI co-pilot. Get personalized insights on the best times to publish, viral trends, track your competitors etc.
+1019. [PromptLayer](https://www.promptlayer.com/) - Analyze and organize your GPT prompts in Openai
+1020. [Yodayo](https://yodayo.com/) - Generate unique anime illustrations and chat with AI characters. This creative platform for anime fans offers art creation tools and an interactive community
+1021. [OpenELM by Apple](https://machinelearning.apple.com/research/openelm) - Powerful open-source LLM models designed by Apple directly on your devices, without the cloud. Trained with evolutionary algorithms for maximum accuracy
+1022. [Vall-E](https://arxiv.org/abs/2301.02111) - Can reproduce a voice perfectly.
+1023. [DreaMoving](https://dreamoving.github.io/dreamoving/) - Take your photos to the next level with DreaMoving by animating them, even in high resolution. Use of diffusion model techniques
+1024. [GlamAR](https://www.glamar.io/) - Boost your sales with augmented reality virtual fittings. Make-up, glasses, jewelry... Your customers can view products in real time
+1025. [Caktus](https://caktus.ai/) - An assistant designed for students who can write, code and answer academic questions
+1026. [Soundraw](https://soundraw.io/) - Choose a style (Mood) of song and this AI music generator will create a 100% new sound for you
+1027. [Sakura AI](https://www.sakura.fm/) - A very popular site for scenario creation and role-playing with AI characters. Huge Discord community
+1028. [Ecrett Music](https://ecrettmusic.com/) - A music generator capable of creating all kinds of songs very quickly. Benefit from a clear, simple and precise interface
+1029. [Microsoft OmniParser](https://microsoft.github.io/OmniParser/) - A new method for automatically analyzing and interpreting interactive elements in screenshots. Easily optimize the experience of your AI agents
+1030. [ChatHub](https://chromewebstore.google.com/detail/chathub-gpt-4-gemini-clau/iaakpnchhognanibcahlpcplchdfmgma) - A Chrome extension that lets you use several ChatBots at once: ChatGPT, Claude, Bard, Bing, etc.
+1031. [Moonbeam Exchange](https://www.moonbeamexchange.com/) - An AI that analyzes over 100 data platforms at the same time
+1032. [AI Lab](https://www.essayailab.com/) - Suggest texts from an idea, help you to write without spelling mistakes.
+1033. [Vocalist.ai](https://vocalist.ai/) - Transform your voice into that of a professional singer with a single click. Get studio-quality, royalty-free vocals
+1034. [GAIA by Microsoft](https://arxiv.org/abs/2311.15230) - An AI capable of making an avatar speak while simulating very realistic facial expressions and emotions. A project still in development
+1035. [Textomap](https://www.textomap.com/) - Interactive map creation with the assistance of an AI geographer
+1036. [FlowiseAI](https://flowiseai.com/) - Design personalized chatbots, virtual assistants and AI workflows with a low-code platform
+1037. [Morpheus-1 by Prophetic AI](https://www.prophetic.com/) - A surprising AI model designed to induce and stabilize lucid dreams. Ideal for exploring and controlling dreams
+1038. [Varys AI](https://www.varys.ai/) - An AI assistant dedicated to space planning (3D rendering), creating plans and many other architecture-related tools
+1039. [Boximator by ByteDance](https://boximator.github.io/) - An impressive AI video generator for precise motion control. Ideal for controlling motion in videos
+1040. [Krisp](https://krisp.ai/) - An AI assistant for noise-free business calls. Eliminate background noise, automatically transcribe your meetings and generate intelligent summaries to optimize your telecommuting productivity
+1041. [Naker](https://www.naker.io/) - Design products that can be visualized in 3D
+1042. [MemoryGPT](https://memorygpt.io/) - An AI very similar to ChatGPT, but with a very long-term memory. A promising experimental project
+1043. [Personal Avatars Synthesia](https://www.synthesia.io/features/custom-avatar/personal) - Create your own hyper-realistic digital twin: hand movements, voice cloning, various angles + avatar support in 29 languages
+1044. [Motionleap](https://apps.apple.com/us/app/motionleap-3d-photo-animator/id1381206010) - A mobile app (iOS) to animate your photos with motion effects and overlays. Perfect for enhancing your creativity
+1045. [Devika AI](https://github.com/stitionai/devika) - Discover a high-performance, open-source AI software engineer. Give her instructions and let her code for you autonomously
+1046. [VoicePen](https://voicepen.ai/) - This artificial intelligence transcribes your audios into text (blog format for example)
+1047. [FusionAds.ai](https://www.fusionos.ai/) - Launch professional ads in seconds harnessing the power of AI to understand any business just by entering the website URL.
+1048. [TubeBuddy](https://www.tubebuddy.com/) - Optimize your Youtube channel and get more views and subscribers. Improve your keywords, referencing, thumbnails, etc.
+1049. [NeuralStudio](https://neural.cam/studio/) - An AI that takes care of designing you a high quality avatar
+1050. [Museland AI](https://www.museland.ai/) - Talk to AI characters and create a real story where only your imagination is the limit. Ideal for online role-playing games
+1051. [Harpa AI](https://harpa.ai/) - An intelligent assistant under ChatGPT that does generalist writing (emails, summaries, etc..)
+1052. [Pinokio](https://pinokio.computer/) - Install a large number of AIs on your local PC in just one click: Stable Diffusion, Llama 2, AudioLDM 2, LDM 3D, Audiocraft, ComfyUI, etc.
+1053. [AI Picasso](https://aipicasso.app/en/) - A mobile application that allows you to create and edit images like a true artist
+1054. [Turbo.art](https://turbo.art/) - Experience creative image generation in real time with SDXL Turbo. Import a photo, rework it with a prompt and intuitive drawing tools
+1055. [Chatmate AI](https://www.chatmate.ai/) - Chat directly with AIs (that look very human) in your messaging applications: WhatsApp, Messenger, etc.
+1056. [Vizcom](https://www.vizcom.ai/) - Watch your designs come to life in seconds
+1057. [InstantMesh 3D](https://github.com/TencentARC/InstantMesh) - A tool that generates high-quality 3D models from a single image in less than 10 seconds. Combines multi-view diffusion and sparse reconstruction
+1058. [Assistants by HuggingFace](https://huggingface.co/chat/assistants) - Chat with the most popular AI assistants created by the HuggingFace community. Models used: Llama-2, Openchat, Mixtral, etc.
+1059. [Rodin AI](https://hyper3d.ai/) - A 3D resource generator with multiple parameter settings. Create hyperrealistic 3D faces or object models from text or images
+1060. [README-AI](https://github.com/eli64s/README-AI) - An AI assistant that automatically generates your Readme files from your code terminal. Save time with this GitHub project
+1061. [Mega HR](https://megahr.com/) - An HR platform that optimizes recruitment and talent management with AI. Automate your processes, analyze CVs and assess candidates&#039; skills in real time
+1062. [LiveAI Bot](https://t.me/chatlive_ai_bot) - A chatbot that helps keep your community active on the networks
+1063. [Mentioned](https://mentioned.ai/) - An AI that analyzes your content and contacts the people or companies you have mentioned
+1064. [Postly](https://postly.ai/) - A variety of AI tools for creating social media campaigns
+1065. [Dust](https://dust.tt/) - Deploy large projects or applications very easily
+1066. [AlphaFold 3 (Google DeepMind)](https://golgi.sandbox.google.com/about) - An AI model that can predict the structure and interactions of all living molecules. Potential: transform biology and drug discovery by accurately modeling proteins, DNA, RNA and ligands
+1067. [Stable Horde](https://stablehorde.net/) - A participatory platform that allows you to create images
+1068. [Modern Reality](https://www.modernrealty.io/) - Discover next-generation real estate with an AI real estate agent who analyzes the market, designs disclosure summaries, makes purchase offers and more
+1069. [AI Voice Changer by ElevenLabs](https://elevenlabs.io/voice-changer) - Easily transform your voice and create customizable AI voices for your projects. Ideal for preserving emotion and voice quality
+1070. [BlueGPT](https://bluegpt.app/) - All AI models in one place: generate text, images and diagrams. Analyze your documents or discussions faster
+1071. [KV-Edit](https://xilluill.github.io/projectpages/KV-Edit/) - A revolutionary approach to image editing that perfectly preserves the background during modifications. Edit specific areas precisely while maintaining perfect visual consistency
+1072. [Hermes 3](https://nousresearch.com/hermes3/) - An open-source language model optimized for reasoning. Benefit from advanced natural language processing and complex problem-solving capabilities
+1073. [AutoRegex](https://www.autoregex.xyz/) - Generates Regex and can also translate them into English
+1074. [Ollama](https://ollama.com/) - Chat with local LLM language models like Llama2, Mixtral or Code Llama. Compatible with macOS, Linux and soon Windows
+1075. [Global Predictions Inc](https://www.globalpredictions.com/) - AI technology for personalized financial advice and recommendations. Helps companies and investors make informed decisions
+1076. [PROTEUS by Apparate](https://apparate.ai/) - An AI that generates ultra-realistic, expressive virtual humans in real time. These models can laugh, sing, speak and even cry! Simple, high-performance API available
+1077. [Clipchamp](https://clipchamp.com/en/) - Edit videos extremely easily, with no knowledge required. Add subtitles, voice-overs, automatic video resizing and more
+1078. [Depth Pro](https://github.com/apple/ml-depth-pro) - A new AI system designed by Apple, capable of generating detailed 3D depth maps from 2D images. Generate accurate depth maps from a single image that outperforms existing models in quality and speed
+1079. [Humanize AI](https://www.humanizeai.pro/) - A simple tool that converts your AI texts into natural, human content. Perfect for making your content undetectable by AI detection systems
+1080. [AI Game Master](https://www.aigamemaster.app/) - Experience fantastic adventures and AI storytelling generated by GPT. Fight with your words and explore infinite dungeons, alone or in multiplayer mode
+1081. [CodeFormer](https://replicate.com/sczhou/codeformer) - An AI that improves the resolution of your images and reconstructs them pixel by pixel (prediction algorithm)
+1082. [Pollinations](https://pollinations.ai/) - A creative, simple and ecological image generator
+1083. [Rooms](https://rooms.xyz/) - An AI tool that lets you customize and share interactive virtual spaces. Available on desktop and IOS
+1084. [Recraft V3 SVG](https://zeke.github.io/red-panda-svg/) - An AI image generator that excels at creating vector graphics (SVG). Create logos, icons and illustrations in a variety of styles, with precise rendering control and professional quality
+1085. [Contenda](https://fshtechnologies.org/) - Reuse proven marketing techniques with AI
+1086. [JARS.ai](https://www.jars.ai/) - A streaming platform that lets you watch interactive shows powered by AI. Ask questions, vote and take part in the discussion!
+1087. [Wati](https://www.wati.io/pricing/) - A platform that transforms WhatsApp into a multi-channel customer relations center. Automate your messages, manage multiple conversations simultaneously and track your team&#039;s performance from a dashboard
+1088. [Open Assistant](https://open-assistant.io/) - An open source AI conversational agent that can answer all kinds of questions
+1089. [Neon AI](https://neon.ai/) - Create voice applications compatible with Google Home, Cortana, Alexa or Siri in minutes
+1090. [Pages by Perplexity](https://www.perplexity.ai/hub/blog/perplexity-pages) - Create real articles with visually appealing, shareable content in minutes. Ideal for organizing and distributing your research more efficiently
+1091. [Assembly AI](https://www.assemblyai.com/) - Transcribe audio with models capable of very advanced detection (ASR, NLP, and STT)
+1092. [CSM](https://www.csm.ai/) - Provides open source interfaces, software and APIs for the creation of new AI
+1093. [Spatial](https://www.spatial.ai/) - Influence and predict your users&#039; behavior on social networks (in real time)
+1094. [NSWR.ai](https://blabla.ai/) - Manage all your comments more easily and effectively: instant responses, filtering of negative comments, improved engagement rates, etc.
+1095. [Recraft](https://www.recraft.ai/) - Easily create and modify vector images, icons and 3D illustrations using AI
+1096. [Lindy.ai](https://www.lindy.ai/) - An AI agent creator that automates your daily tasks. Manage emails, meetings and customer support with intelligent assistants that integrate with all your business tools
+1097. [FoodiePrep](https://www.foodieprep.ai/) - An AI cooking assistant that creates personalized recipes based on your ingredients and preferences. Plan your meals, manage your shopping and follow detailed instructions
+1098. [Palantir](https://www.palantir.com/) - A leading software platform for massive data analysis and artificial intelligence. Offers powerful solutions for data integration, predictive analytics and AI-assisted decision-making in various sectors
+1099. [Google MusicLM](https://google-research.github.io/seanet/musiclm/examples/) - A very promising and powerful music generator
+1100. [Claude Engineer](https://github.com/Doriandarko/claude-engineer) - A command-line interface (CLI) that integrates Claude-3.5-Sonnet&#039;s model and allows you to analyze code, perform web searches or manage projects autonomously
+1101. [Analogenie](https://analogenie.com/) - Use AI to explain complex concepts using easy-to-understand analogies
+1102. [Masterpiece Studio](https://masterpiecestudio.com/) - AI that simplifies and enables automatic design of 3D models
+1103. [Logomark AI](https://logomark.ai/) - Create customized logos with expert design AI. Develop a unique identity for your brand without any knowledge of graphic design
+1104. [Gamma AI](https://gamma.ai/) - An AI-generated cloud that enables improved collaboration and data detection
+1105. [Airbrush AI](https://www.airbrush.ai/) - Create original photos, artworks, NFT, etc..
+1106. [Goody-2](https://www.goody2.ai/) - An intelligent conversational assistant that puts ethics and security first. Announced as the most polite and secure chatbot on the market
+1107. [SDXL Flash](https://huggingface.co/spaces/KingNish/SDXL-Flash) - Generates high-quality images at very high speed. Numerous options are available: negative prompt, choice of number of images, seed, height, width, etc.
+1108. [HairStyle AI](https://www.hairstyleai.com/) - Try different haircuts from one of your photos
+1109. [Privatemode AI](https://www.privatemode.ai/?r=0) - A platform that protects your data when using generative AI thanks to end-to-end encryption. Benefit from a virtual assistant as powerful as ChatGPT, while retaining total control over your data privacy
+1110. [Getsound](https://www.getsound.ai/) - Music and personalized landscapes that change according to the weather conditions
+1111. [Bluedot](https://www.bluedothq.com/?utm_source=aixploria) - Bluedot is an AI note-taker that records your meetings without a bot joining the calls
+1112. [Wordfare AI](https://www.wordware.ai/) - Create AI agents 10x faster. Get an intuitive IDE for natural language programming: loops, hooks, multimodal, API deployment, etc.
+1113. [ChatOn](https://chaton.ai/) - Generate images, write texts, get answers and manage your documents with GPT-4 and Claude. Synchronization available on all your devices
+1114. [Follow-Your-Click](https://follow-your-click.github.io/) - Turn your images into animated videos at the click of a button. Simply specify the desired movements and let AI generate video clips
+1115. [Glitter AI](https://www.glitter.io/) - Turn any (even complex) process into an easy-to-understand step-by-step guide. You can also create written documentation using only your voice
+1116. [Robot LOOI](https://looirobot.com/) - Bring your smartphone to life with a playful desktop robot. Interact, play, film and capture special moments with its built-in AI
+1117. [DorkGPT](https://www.dorkgpt.com/) - Generation with AI of very precise queries (Dorks) to submit to the Google search engine.
+1118. [Deepl Write](https://www.deepl.com/en/write) - Improve your English writing with Deepl&#039;s new AI tool, which makes it easy to correct spelling mistakes, find synonyms and more
+1119. [Prolific](https://www.prolific.com/) - A platform to quickly find reliable participants for your AI studies and tasks. Access over 200,000 verified participants to obtain high-quality data for your research
+1120. [CodeGemma by Google](https://ai.google.dev/gemma/docs/codegemma) - Code faster with an AI assistant that generates code, understands your instructions and masters several languages. Integrate it easily into your environment (IDE)
+1121. [bugfree.ai](https://bugfree.ai/) - An advanced AI-powered platform designed to help software engineers master system design and behavioral interviews
+1122. [Owlity](https://owlity.ai/) - An AI platform that reinvents software quality control by automating QA testing. Fix bugs in your code quickly without losing quality
+1123. [TripoSR](https://stability.ai/news/triposr-3d-generation) - Easily create high-quality 3D models from a single image in less than a second. GPU-free and available under MIT license
+1124. [Skim It](https://www.skimit.ai/) - Get a summary of any type of article directly into your email inbox
+1125. [Llama Tutor](https://llamatutor.together.ai/) - Your personal IA teacher is always ready to help. Enter a subject, choose the level and immediately get a course tailored to your abilities. Open source project based on the Llama 3.1 model
+1126. [IllusionDiffusion](https://huggingface.co/spaces/AP123/IllusionDiffusion) - Explore the art of illusionism by creating fascinating images with the simultaneous use of Stable Diffusion and QR Control Net
+1127. [CHAI AI](https://web.chai-research.com/search) - One of the most popular mobile and web applications for chatting with AI characters. There are millions of characters to discover.
+1128. [Beb AI](https://beb.ai/) - From the generation of avatars, animals or famous people
+1129. [Appen](https://www.appen.com/) - A platform for improving AI models through human-machine collaboration. Optimize your AI projects with high-quality data, expertise and self-adaptive solutions
+1130. [StoryBooks](https://www.storybooks.app/) - An AI that helps you create personalized children&#039;s stories. Stimulate their imagination and make learning easier
+1131. [Text to Sound Effects](https://elevenlabs.io/sound-effects) - Generate a variety of sound effects from simple text descriptions. Perfect for films, video games and media. Commercial use included
+1132. [SmartScout](https://www.smartscout.com/ai-listing-architect) - Improve your SEO on Amazon with AI and data
+1133. [Taia Translations](https://taia.io/) - AI to help you translate your content quickly and easily. Track your translation projects in real time
+1134. [Conversational AI](https://elevenlabs.io/conversational-ai) - A text-to-speech solution for your conversational applications. Add natural voices to your AI agents, with minimal latency and multilingual support
+1135. [ChatGod](https://chatgod.ai/) - A site that makes it easy to communicate with various AI assistants like ChatGPT, all via WhatsApp and Telegram
+1136. [Cogniflow](https://www.cogniflow.ai/) - Quickly integrate AI into your projects: chat with your documents, extract information or analyze images in over 50 languages (no-code)
+1137. [Robovision.ai](https://robovision.ai/platform/platform) - AI that helps you design, without any lines of code, products that use AI
+1138. [Charstar](https://charstar.ai/) - Unlimited chat with a wide variety of AI characters. Create your own companions, customize their features and share them with a community of enthusiasts
+1139. [Moonbeam](https://www.gomoonbeam.com/) - An automatic AI writer specialized in long essays
+1140. [2PR](https://app.2pr.io/) - Your AI ghostwriter that creates authentic LinkedIn posts in minutes. Leverages viral post insights and personal interviews to grow your professional presence
+1141. [Higgsfield](https://higgsfield.ai/) - An AI platform that aims to democratize video creation on social networks using a high-performance model. Realistic characters and movements
+1142. [Curiosio](https://curiosio.com/) - Organize your road trips easily with AI that optimizes your itineraries and budgets according to your preferences. Personalized trip suggestions and integrated reservations
+1143. [Dreamsands IO](https://dreamsands.io/) - Create the website you have in mind: transform an image, a drawing or a map into a functional code
+1144. [Charisma](https://charisma.ai/) - Create interactive characters and stories with the help of AI. Compatible with multiple platforms
+1145. [MARS5 by Camb.ai](https://www.camb.ai/) - A TTS model that can reproduce realistic voices in over 140 languages. Enjoy natural rendering for your videos from just 2 to 3 seconds of reference audio
+1146. [Steamship](https://www.steamship.com/build/prompt-apis) - Build and deploy prompts quickly using APIs
+1147. [Endel](https://endel.io/) - Create custom music to help you focus, relax or sleep
+1148. [Amelia by Amazon](https://www.aboutamazon.com/news/innovation-at-amazon/amazon-project-amelia) - A personalized AI assistant for Amazon sellers. Get instant answers, performance analysis and recommendations to optimize your business on the e-commerce platform
+1149. [Spellar AI](https://spellar.ai/) - An AI assistant that helps you when you have to speak or make oral presentations. Provides personalised feedback and tailored training sessions
+1150. [G1 Llama Meta](https://github.com/bklieger-groq/g1) - An open-source language model inspired by OpenAI o1, based on Meta&#039;s Llama-3.1. Uses reasoning chains to solve complex problems, with an accuracy of around 70%.
+1151. [Exportify](https://exportify.app/) - A smart tool for exporting your Spotify playlists in CSV format. Easily save and manage your favorite playlists without losing your precious music selections
+1152. [Fanfuel](https://fanfuel.app/) - An AI Assistant for YouTube video creators: help with content creation, thumbnail generator, analysis of your statistics, face swapper, etc.
+1153. [Ginger AI](https://www.gingersoftware.com/) - Improve your writing with this high-quality AI assistant. Correct your texts, refine your style and stimulate your creativity with intelligent contextual suggestions
+1154. [SwitchBot K20+ Pro](https://www.switch-bot.com/pages/events) - A modular robot that combines vacuum cleaner, air purifier and security system. Customize its functions with interchangeable accessories and control it by voice to transform your home into a connected habitat
+1155. [Thishousedoesnotexist](https://thishousedoesnotexist.org/) - 
+1156. [AI Comic Factory](https://aicomicfactory.com/playground) - A Comic Book generator powered by SDXL. The tool not only automatically generates the drawings, but also the story
+1157. [Project Astra by Google](https://www.youtube.com/watch) - A project for AI agents that understand and respond to multimodal information in real time. They help you with a variety of everyday tasks, such as looking up bills or organizing a birthday party
+1158. [Sonify](https://www.sonify.io/) - Music and audio product design using AI and data
+1159. [LinkedIn Hiring Assistant](https://business.linkedin.com/talent-solutions/hiring-assistant) - An AI assistant to simplify your recruiting. Write job descriptions, shortlist candidates or generate personalized messages thanks to LinkedIn&#039;s data and AI
+1160. [LiveReacting](https://www.livereacting.com/ai-host-for-live-stream) - Create animated avatars and videos for your projects
+1161. [Castmagic](https://www.castmagic.io/) - Transform your podcast so that it is transcribed and optimized for social networks
+1162. [Unitree G1](https://www.unitree.com/g1/) - An advanced humanoid robot with built-in AI. Program it easily, test locomotion algorithms and explore robotics at home
+1163. [Katalist](https://www.katalist.ai/) - Bring your scripts to life with inspired AI. Quickly generate detailed storyboards and turn your ideas into reality
+1164. [Beducated](https://beducated.com/) - An AI conversational agent to improve your physical and sexual attractiveness. Get to know your body better
+1165. [Menteebot](https://www.menteebot.com/) - An AI robot that can understand and execute your voice instructions. It can move around by mapping its environment in 3D, in real time
+1166. [Promptist](https://huggingface.co/spaces/microsoft/Promptist) - Adapt your prompt automatically according to the model and version of Stable Diffusion
+1167. [Zendesk AI](https://www.zendesk.com/sg/service/ai/) - Offer your customers customer service assisted by an AI ChatBot that knows your business inside out
+1168. [Dippy.ai](https://dippy.ai/) - A platform specializing in role-playing games and discussions with virtual characters. Compatible with mobiles via a free app
+1169. [Image Animator (PIA)](https://pi-animator.github.io/) - Create realistic animations from AI-generated images. This tool faithfully preserves the style, details and instructions of your prompt
+1170. [Listnr](https://listnr.ai/) - A voice generator with over 700 voices and 90 different languages
+1171. [FeedHive](https://www.feedhive.com/) - Organize and create automatic content for all your social networks
+1172. [V2A by Google DeepMind](https://deepmind.google/discover/blog/generating-audio-for-video/) - An AI technology that allows you to easily generate audio for your videos. V2A can produce ultra-realistic soundtracks from pixels and instructions via a prompt
+1173. [Sequens.ai](https://www.sequens.ai/) - Create large-scale marketing content with AI. Generate SEO blog posts, targeted publications for social networks, scripts to increase your leads.. ➥ Supervised by B2B experts
+1174. [PlayArti](https://www.playarti.com/) - With only 3 parameters, you can generate amazing artistic creations
+1175. [Glasp](https://glasp.co/ai-writing) - Generate compelling text for content creation and newsletters
+1176. [Gemma by Google](https://ai.google.dev/gemma) - A range of open, lightweight, cutting-edge models inspired by Gemini. Two models are currently available (2B and 7B). Commercial use authorized
+1177. [Consistent Character by fofr](https://replicate.com/fofr/consistent-character) - Quickly create images of a character in different positions while maintaining consistency
+1178. [Morpho by Neutone](https://neutone.ai/morpho) - Transform any sound in real time with Neutone&#039;s new Morpho model. AI captures your audio and applies new tones or styles
+1179. [HTTPie  AI](https://httpie.io/) - An interface that gathers a lot of APIs and allows you to integrate them easily
+1180. [Peppertype.ai](https://www.peppercontent.io/peppertype-ai/) - A virtual assistant that helps you create quality editorial content
+1181. [Chatbase](https://www.chatbase.co/) - Creating a chatbot in GPT from a PDF document
+1182. [Hexagram](https://www.hexagram.io/) - A game that takes place both in the reality of your daily life and in the virtual
+1183. [Palette.fm](https://palette.fm/) - Easily and automatically colorize your black and white images
+1184. [Chatbot AI](https://www.chatbot.com/) - An assistant (chatbot) at the service of your customers
+1185. [Compose](https://www.compose.ai/) - A chrome extension that can write your emails automatically and also does studious writing
+1186. [Pebblely](https://app.pebblely.com/) - Creation of visuals for marketing, advertising or product presentations
+1187. [ReaderGPT](https://chromewebstore.google.com/detail/readergpt-chatgpt-based-w/ohgodjgnfedgikkgcjdkomkadbfedcjd) - An extension that generates a summary of your web pages using ChatGPT. Save time and simplify reading
+1188. [AGIBot](https://www.agibot.com/) - A multifunctional humanoid robot for factories and home users. Developed in 5 months, it combines artificial intelligence and physical skills to perform a variety of daily tasks
+1189. [Elicit](https://elicit.com/) - Classify, summarize, analyze or automate your searches with the power of AI
+1190. [SmartCrawl AI](https://www.firecrawl.dev/smart-crawl) - Turn any website into an API. Crawl the web intelligently: targeted data extraction, compliance with website policies, change detection, etc.
+1191. [Octoparse AI](https://www.octoparse.ai/?utm_source=aixploria&#038;utm_medium=referral&#038;utm_campaign=opai_tool_list_plan) - A no-code automation platform for rapidly creating AI workflows and RPA chatbots with drag-and-drop ease. Compare different AI models and share your automations with your team
+1192. [Roam Around](https://layla.ai/en/roamaround) - An AI-assisted travel itinerary creator. Simple and easy to use website
+1193. [Unbound AI](https://unboundcontent.ai/) - Creation of designs such as logos or product photos for small businesses
+1194. [Noty AI](https://noty.ai/) - A real meeting assistant who can hear everything and transcribe it in writing (in real time)
+1195. [Raspberry Pi AI Camera](https://www.raspberrypi.com/products/ai-camera/) - A compact, affordable smart camera for your AI projects. Capture high-resolution images, perform object recognition and video processing in real time
+1196. [Imgcreator](https://www.zmo.ai/imgcreator) - Enter text and produce images of all kinds
+1197. [Scalenut](https://www.scalenut.com/) - An AI platform that simplifies SEO content creation. Generate optimized articles in minutes with intelligent tools
+1198. [Neural Canvas](https://neuralcanvas.io/) - Create your own Comic Book with this Comic Book drawing generator
+1199. [PairOkay](https://www.pairokay.com/) - Easy-to-use SEO copywriting assistant
+1200. [Abacus](https://abacus.ai/) - A powerful platform for automating the development of large-scale AI systems. Rapidly create AI agents, chatbots and personalized workflows
+1201. [Booster Robotics](https://www.boosterobotics.com/) - A startup developing humanoid robots for research and education. Create robotic applications with a full platform combining hardware, software and development tools
+1202. [Cal](https://cal.com/zh-CN) - A high-performance event planning tool. AI takes care of all the planning, so you can concentrate on your meeting rather than on organising it
+1203. [Glean](https://www.glean.com/) - AI that searches across all your business applications. Then receive valuable information
+1204. [Ghostwrite](https://chromewebstore.google.com/detail/ghostwrite-chatgpt-email/fbjnnjochaopepfjpngghafgnafebkjh) - An artificial intelligence in the form of a Chrome extension, which writes your emails for you
+1205. [Fourier GR-2](https://www.fftai.com/products-gr2) - A high-tech humanoid robot for exploring AI in motion. Take advantage of dextrous hands with 12 degrees of freedom, powerful FSA 2.0 actuators and an intuitive development kit to create powerful robotic applications
+1206. [OSS Insight](https://ossinsight.io/explore/) - Explore the billions of data available worldwide
+1207. [Skild.ai](https://www.skild.ai/) - A platform for training AI models for the world of robotics. It enables robots to perform a multitude of complex tasks autonomously and safely
+1208. [AppAppIcons  AI](https://appicons.ai/) - Generate mobile applications without writing a single line of code. Android and IOS compatible.
+1209. [Tempus AI](https://www.tempus.com/) - A platform that dramatically improves healthcare by analyzing biomedical data using AI. Optimize personalized treatments and discover new therapeutic targets
+1210. [CleanVoice](https://cleanvoice.ai/) - Cleans your voice of extraneous sounds and stuttering from your podcasts
+1211. [Instabase](https://instabase.com/) - An AI tool that automates the processing of your unstructured documents. Analyze PDFs, images and spreadsheets to extract relevant information and make better decisions
+1212. [LM Studio](https://lmstudio.ai/) - Run language models (LLMs) easily on your device, without an Internet connection. Preserve your confidentiality and secure your data
+1213. [LensGo](https://lensgo.ai/) - Easily create and animate images or videos. This site also lets you train a model with your personal photos
+1214. [Quickchat AI](https://www.quickchat.ai/) - A site that allows you to easily create AI assistants with GPT-3. Integration with the help of APIs
+1215. [Koolio.ai](https://www.koolio.ai/) - A tool that enhances your podcasts and allows the addition of transitions or sound effects
+1216. [PIXART-α](https://pixart-alpha.github.io/) - A text-to-image model based on Transformer to generate high-quality images. Innovative design reduces costs and CO2 emissions
+1217. [MobileDiffusion by Google](https://research.google/blog/mobilediffusion-rapid-text-to-image-generation-on-device/) - An ultra-fast, mobile-friendly, text-based image generator. It can produce an image in less than a second, directly on your smartphone
+1218. [Shaped](https://www.shaped.ai/) - Design rankings based on what your users prefer (web page, feed, recommendation or marketing communication)
+1219. [WatchNow](https://watchnowai.com/) - An AI that suggests lists of movies (Netflix for example) according to your preferences
+1220. [Glifs App](https://glif.app/glifs) - Bring your ideas to life by creating fun AI applications without ever needing to know how to code
+1221. [Genspark](https://www.genspark.ai/) - A search tool that uses AI agents to generate personalized Sparkpages. These deliver reliable, unbiased information
+1222. [Perplexity Shopping](https://www.perplexity.ai/shopping/) - A shopping assistant that mixes conversational AI and visual search. Take a photo of a product to find it online, compare prices and buy it directly in the app (with integrated order tracking)
+1223. [Gingerbread by Adobe](https://www.adobe.com/) - A feature designed by Adobe that uses 3D modeling to adjust the angle and perspective of an image in AI
+1224. [Sologo](https://www.sologo.ai/) - An AI logo generator that makes it easy to design professional, personalized logos. Perfect for creating an original brand identity
+1225. [Blobr](https://www.blobr.io/) - An AI consultant to analyze your Google Ads campaigns 24/7. Identify high-performing keywords, eliminate unnecessary spending and optimize your advertising budget with real-time recommendations
+1226. [Aitubo](https://creator.aitubo.ai/) - A high-quality image generator optimized for creating characters or worlds for games
+1227. [Champ AI](https://fudan-generative-vision.github.io/champ/) - Animate your photos by imitating the movements of a reference video. Achieve consistent, controllable visual rendering with parametric 3D guidance
+1228. [Emergence AI](https://www.emergence.ai/) - A set of autonomous web agents specially designed to adapt to any type of request (Agent E). Automate also your business processes through AI agent orchestration
+1229. [D-ID Video Translate](https://www.d-id.com/video-translate) - Translate and dub your videos into many languages with AI. Synchronize lips and preserve facial expressions for a hyper-natural viewing experience
+1230. [Audio Native ElevenLabs](https://elevenlabs.io/app/audio-native) - Turn your articles into immersive audio experiences with this text-to-speech tool. Easily integrate a customizable player into your site
+1231. [Getimg AI](https://getimg.ai/) - Generate beautiful images and edit them directly without software
+1232. [Produkto](https://produkto.io/) - Launch your business in seconds with AI. Create a professional brand name, logo and website with easy-to-use tools
+1233. [CrowdView](https://crowdview.ai/) - A search engine that finds its information in community forums like Reddit
+1234. [Userdoc](https://userdoc.fyi/) - Organize, analyze and manage your teams more easily with this management expert AI
+1235. [IPlan AI](https://iplan.ai/) - An AI that plans your trip down to the last detail. Also get customized travel itineraries
+1236. [Traivl](https://www.traivl.com/) - Enter your destination and the AI will organize your trip: bars, restaurants, fun activities, etc.
+1237. [AI Studios](https://www.aistudios.com/) - A complete video creation platform that transforms your texts into professional videos with realistic AI avatars. Create, edit and translate your content in over 80 languages with virtual presenters.
+1238. [Tactiq](https://tactiq.io/) - Improve your meetings with this AI assistant. Get real-time transcripts, intelligent summaries and actionable items from your conversations
+1239. [ArchiVinci](https://www.archivinci.com/) - Transform your sketches and 3D models into photorealistic architectural renderings. Customize interiors, exteriors and floor plans with predefined styles that adapt to your projects
+1240. [VideoDubber](https://videodubber.ai/) - An intelligent video translator offering translation, dubbing and text-to-speech conversion in over 30 languages
+1241. [Stable Video 3D](https://stability.ai/news/introducing-stable-video-3d) - Generate 3D videos from a single image. Two possible variants: SV3D_u for orbital views and SV3D_p for specific trajectories
+1242. [Butterflies AI](https://www.butterflies.ai/) - An original social network where you interact with AI characters. Create avatars, publish content and chat just like on Instagram, but with artificial intelligences
+1243. [Morphic](https://www.morphic.com/) - An intelligent studio dedicated to the creation of videos and interactive experiences. Recommended for game and film production
+1244. [Any Summary](https://www.anysummary.app/) - Get a quick summary from any file type: PDF, docx, jpg, pptx, mp3, mp4, csv, etc.
+1245. [WithEden](https://chromewebstore.google.com/detail/witheden-ai-emoji-comment/kkfobcljflnlpbemjicenfkfnplaggkk) - A Chrome extension that generates emoji comments on any web page. Express your opinion and let AI create reactions to suit your style
+1246. [Newo.ai](https://newo.ai/) - A low-code platform where developers create advanced, human-level intelligent agents with omnichannel communication. Create digital AI employees for sales, reception, concierge, 24/7 support, etc.
+1247. [WhatTheDiff](https://whatthediff.ai/) - Your assistant who checks your code and corrects it if necessary
+1248. [AI Smart Upscaler](https://icons8.com/upscaler) - Use AI Image Upscaler to enhance photos and images online. Use the scaling API or improve image quality and resolution up to 8 times in bulk
+1249. [Resume.co](https://resume.co/) - A quick IA solution for creating your CV or cover letter professionally. It also has customisable templates and free examples
+1250. [Fig AI](https://fig.io/user-manual/ai) - Coding aid that integrates perfectly with terminals like IDEs and shells
+1251. [Privee AI](https://www.priveeai.com/) - Chat via private message with absolutely fantastic AI characters. Possibility to do group sessions and create incredible stories
+1252. [Paradigm AI](https://www.paradigmai.com/) - Use swarms of intelligent agents to collect, structure and act on your data with human-like precision
+1253. [Wegic AI](https://wegic.ai/) - Your first AI website team. Just chat, and your site will be built, running, and effortlessly updated
+1254. [Softr Studio](https://studio.softr.io/) - Generate custom applications, images and content without ever coding
+1255. [heyLibby](https://www.heylibby.ai/) - Your 24/7 AI receptionist to respond to calls, texts, emails, and web chats. Create one in 60 seconds.
+1256. [Dropbox Sign](https://sign.dropbox.com/) - A secure, easy-to-use electronic signature solution. Integrate signatures into your workflows, automate processes and speed up the conclusion of your contracts
+1257. [Maester App](https://maester.app/) - Model-based search engine trained with GPT-3. Perfect for university students or companies
+1258. [Stenography AI](https://stenography.dev/) - Get documentation automatically
+1259. [AI Jukebox](https://huggingface.co/spaces/enzostvs/ai-jukebox) - Easily generate AI music from text instructions, free of charge. Choose the length, style or overall mood of your song
+1260. [Mosaic AI by Databricks](https://www.databricks.com/product/artificial-intelligence) - The leading platform to integrate your company&#039;s data into IA technologies. Easily create, deploy and monitor predictive models and LLMs
+1261. [Upscale Workflow](https://github.com/runtime44/comfyui_upscale_workflow) - An open-source project that dramatically increases the quality and detail of any image. Powered by Runtime44
+1262. [DeepL Voice](https://www.deepl.com/en/products/voice) - Communicate naturally in several languages during virtual meetings with professional precision. Instant voice translation
+1263. [JustLearn](https://justlearn.com/) - Create AI friends who will always be there to chat with you
+1264. [KaneAI](https://www.lambdatest.com/kane-ai) - A native testing agent that helps teams plan, author, automate and evolve tests using natural language. The world&#039;s first end-to-end software testing assistant
+1265. [PawMatch AI](https://huggingface.co/spaces/DawnC/PawMatchAI) - A photo-based dog breed identification tool that analyzes a dog&#039;s physical characteristics. Discover the characteristics, temperament and needs of each breed to better understand your four-legged companion.
+1266. [SocialBu](https://socialbu.com/) - Strengthen your presence with this multifunctional AI dedicated entirely to social networks
+1267. [Talkpal AI](https://talkpal.ai/) - Learn a language easily with the assistance of a teacher. AI under GPT and available in 16 languages
+1268. [Fish Audio](https://fish.audio/) - An advanced AI text-to-speech platform. Create realistic voices, customize them and easily integrate them into your projects thanks to a powerful API
+1269. [Journeai](https://journeai.com/) - Tourist and personalized recommendations that are displayed directly on Google Map
+1270. [TinEye](https://tineye.com/) - A search engine specializing in image recognition (reverse). Applications: content moderation, fraud detection, online image tracking, etc.
+1271. [Reddit Scout AI](https://www.redditscout.com/) - Save time searching for products on Reddit. This tool analyzes comments to recommend the best buys in various categories
+1272. [North by Cohere](https://cohere.com/north) - Create personalized AI assistants for your company&#039;s workflows. Integrate intelligent search and secure content generation
+1273. [Sam2 by Meta](https://sam2.metademolab.com/) - An open-source model created by Meta AI that lets you segment any object in an image or video. Simply point and click on an element to create a precise mask
+1274. [Capitol AI](https://www.capitol.ai/) - Combine the best AI models to boost your creativity. Ideal for creating original storytelling content
+1275. [Dopple.ai](https://beta.dopple.ai/) - Join a space where you can meet and chat with hundreds of AI characters from pop culture (actors, singers, etc.). Create your own AI companions and interact with an active community
+1276. [Audio2Photoreal by Meta](https://github.com/facebookresearch/audio2photoreal) - A photorealistic avatar generator that integrates the entire body and whose movements are naturally guided by the voice of its author
+1277. [LiveKit](https://livekit.io/) - A platform for building real-time AI apps. Transport audio or video between your LLM models and your users with a latency of less than 100 ms
+1278. [Cartwheel](https://getcartwheel.com/) - Animate 3D characters simply by writing text (text-to-animation). Ideal for videos, films, commercials, games and VR projects. 3D at your fingertips
+1279. [Fillout AI](https://www.fillout.com/) - Easily create forms, surveys and quizzes with AI. Includes templates and integration with Google Sheet, Google Map, website, etc.
+1280. [Numeric](https://www.numeric.io/) - An AI assistant to simplify your business accounting. Automate reconciliations, generate variance analyses and write technical memos to save time
+1281. [NeuralText](https://neuraltext.com/) - Automate your writing and text creation with an AI expert in SEO
+1282. [Build AI](https://www.buildai.space/) - Build an application very quickly with the help of AI
+1283. [Depthify.ai](https://www.depthify.ai/) - Easily transform your images and videos into 3D formats. Create 3D models compatible with Apple Vision Pro and Meta Quest VR headsets
+1284. [Convergence AI](https://convergence.ai/) - A virtual assistant that automates your daily tasks with ease. Delegate e-mail management, job searches, article summaries and even online shopping to a conversational AI agent
+1285. [Drum Machine](https://experiments.withgoogle.com/ai/drum-machine/view/) - A site that gives the possibility to create drums
+1286. [TuneBlades](https://www.tuneblades.com/) - Transform, edit and remix your music at any length while preserving the melody. Supports wav, mp3 and m4a formats
+1287. [Rizzle](https://rizzle.com/) - Create professional teasers, clips and thumbnails for your videos and podcasts using AI. Premium media, maps and infographics included. Even from text!
+1288. [Graham AI](https://www.grahamai.co/) - Tweet as if you were a true genius of new technologies
+1289. [Bliro](https://www.bliro.io/en) - Bliro transcribes and summarizes both online and in-person meetings without the need for visible meeting bots to save you hours of manual note taking effort
+1290. [Midday](https://midday.ai/) - Simplify the management of your business with this all-in-one tool. Track your finances, manage projects, store files and send invoices with ease
+1291. [Buildt](https://cosine.sh/) - A search engine to find code
+1292. [GptPanda](https://www.gptpanda.io/) - Integrate ChatGPT into your Slack space for free. Benefit from a multilingual AI assistant able to answer your questions and manage tasks
+1293. [Background Blur Pokecut](https://www.pokecut.com/tools/blur-background) - Blur the background of your photos with a single click to enhance your portraits. Precisely control the intensity of the blur and protect your sensitive information with powerful AI technology
+1294. [InstantID](https://instantid.github.io/) - From a single image, this new tool can generate a variety of illustrations while faithfully preserving the identity of the original image
+1295. [Voicebox by Meta](https://voicebox.metademolab.com/) - An AI model for automatic voice generation (text-to-speech) based on a non-autoregressive flow model. Created by Meta
+1296. [Gcore AI Image](https://gcore.com/page-not-found) - An AI platform that gives you the power to generate stunning, realistic images. A simple text description is all it takes (prompt)
+1297. [Wordhero](https://wordhero.co/) - Content generation for social networks, emails and more
+1298. [AudioStripe](https://www.audiostrip.co.uk/) - An AI that removes the vocals from a song and turns it into an instrumental
+1299. [Jobright AI](https://jobright.ai/) - Get real results in your job search by using an AI co-pilot. It finds you tailor-made opportunities, improves your CV and puts you in touch with the right job contacts.
+1300. [Motion AI](https://www.usemotion.com/) - Boost your productivity quickly with this AI calendar assistant. Intelligently plan your day, schedule meetings and create the perfect to-do list.
+1301. [Unique3D](https://wukailu.github.io/Unique3D/) - Generate high-quality 3D meshes from a single image with ISOMER AI technology. Realistic geometric details and textures. Fast, consistent and scalable
+1302. [CodeRabbit](https://www.coderabbit.ai/) - Improve the quality of your code and spot errors more easily with this AI assistant adapted to GitHub and GitLab. Get detailed analysis in any coding language
+1303. [Theselyricsdonotexist](https://theselyricsdonotexist.com/) - 
+1304. [Willow X](https://eeve.com/en_BE) - An AI robot that mows, weeds, collects waste and harvests fruit. Equipped with gripper arms, it adapts to all garden tasks
+1305. [Dreamlike Art](https://dreamlike.art/) - Magical creation of artistic artificial images in just a few seconds
+1306. [ConversAI](https://conversai.co/) - A life assistant who answers all possible questions
+1307. [ChatGOT](https://www.chatgot.io/) - A virtual assistant that uses several AI models at the same time. Generate PowerPoint presentations from PDFs, create images, get writing assistance and customize your own conversational agent
+1308. [Sagify](https://kenza-ai.github.io/sagify/) - Run commands for and train your AI (Deep learning or Machine Learning) on AWS
+1309. [Astria](https://www.astria.ai/) - Create unique videos with this high quality cinematic generation tool
+1310. [LYNX by DEEP Robotics](https://www.deeprobotics.cn/en) - An off-road robot dog capable of traversing difficult terrain (4-hour autonomy). Ideal for rescue missions, mapping and industrial inspection
+1311. [InkGen](https://bodyfatestimator.ai/) - Generate stunning tattoo concepts using AI. Choose from different artistic styles and describe your idea for even more personalized designs
+1312. [Humata AI](https://www.humata.ai/) - A multi-tasking AI specializing in PDF files
+1313. [Snopes Factbot](https://www.snopes.com/factbot/) - An AI chatbot specialized in fact-checking. Ask questions about current events, rumors or conspiracy theories and get reliable answers
+1314. [MightyGPT](https://www.mightygpt.com/) - An AI assistant that automates repetitive tasks on WhatsApp and iMessage (GPT3)
+1315. [Vectorizer IO](https://www.vectorizer.io/) - An AI that turns your images into vector graphics. Resize and rotate your images without quality loss
+1316. [Miqu-1-70b](https://twitter.com/arthurmensch/status/1752737462663684344) - An open-source LLM model trained on Llama 2 data, outperforming most current models and approaching GPT-4
+1317. [Botowski](https://www.botowski.com/) - A writing assistant who knows all the SEO techniques (copywriter)
+1318. [Memoru Flashcards](https://memoru.io/) - An AI-assisted flashcard system to enhance your learning in any subject. With personalised objectives, quizzes, etc.
+1319. [ClassPoint AI](https://www.classpoint.io/ai-quiz-generator) - Generate interactive questions from your PowerPoint slides. Make your presentations more stimulating
+1320. [Zapier Agents](https://zapier.com/agents) - Create your own AI agents and automate all your tasks. Connect them to your favorite applications, customize their behavior and let these intelligent agents manage your leads, e-mails or calendar
+1321. [Mango SEO](https://mangoseo.io/) - Boost your SEO with an expert SEO copywriting platform. Generate unlimited SEO content and analyze your keywords in real time
+1322. [Upscale-A-Video](https://github.com/sczhou/Upscale-A-Video) - A project that increases the quality and resolution of your videos via a prompt. Technique used: Temporal-Consistent Diffusion Model
+1323. [Motiff](https://www.motiff.com/) - A professional UI design tool powered by AI. Create, collaborate and prototype 10 times faster. Benefit from a powerful rendering engine and integrated developer mode
+1324. [Respeecher AI](https://www.respeecher.com/) - Convert your voice into another with an AI tool that generates natural voices for dubbing, commercials, e-learning and more. Also features a marketplace with Hollywood-quality AI voices
+1325. [MakeMyWeb](https://makemyweb.ai/) - Website generator designed for simplicity and speed (Tru-AI wizard). Creation of responsive sites and choice of design
+1326. [Yelp AI assistant](https://apps.apple.com/us/app/yelp-food-delivery-reviews/id284910350) - An AI tool that optimizes the search for service providers thanks to its conversational AI assistant. Also improves your business management
+1327. [Apob AI](https://apob.ai/) - Create your digital clone in one click with AI. Upload a photo and let your digital double come to life in personalized images and videos
+1328. [Swarm by OpenAI](https://github.com/openai/swarm) - An open-source educational framework from OpenAI for exploring AI agent orchestration. Create lightweight, customizable multi-agent systems for complex tasks
+1329. [Thisworddoesnotexist](https://www.thisworddoesnotexist.com/) - 
+1330. [OppenheimerGPT](https://oppenheimer.app/) - A practical MacOS application for using ChatGPT and Bard simultaneously without switching tabs. A practical, safe and free AI
+1331. [Bee Agent Framework](https://i-am-bee.github.io/bee-agent-framework/) - An open-source framework for creating AI agents. Develop workflows based on Llama 3.1 or other LLMs, with integrated JavaScript/Python tools, a secure code interpreter and optimized memory functions
+1332. [AIML API](https://aimlapi.com/) - Access over 200 AI models via a unified API. Easily integrate AI functionalities into your applications with a single API key for 200+ models.
+1333. [Morphlin](https://www.morphlin.com/) - An expert trading AI tool that intelligently assists you with automatic strategies and signals. Crypto and stock market compatible
+1334. [Fineshare Online Voice Changer](https://www.fineshare.com/online-voice-changer/) - Change your voice online for free with this AI tool. Imitate celebrities or fictional characters in seconds
+1335. [Reka Core](https://www.reka.ai/news/reka-core-our-frontier-class-multimodal-language-model) - A multimodal model that rivals GPT-4 and Claude 3 in terms of performance. It includes images, video and sound. It can reason, code and speak 32 languages
+1336. [DeepReview](https://deepreview.eu/) - Optimize your professional documents with this AI tool. Create attractive resumes, cover letters, performance reviews and more
+1337. [Bookabout](https://bookabout.io/) - Search the books by describing your idea or by keywords
+1338. [Earth Species Project](https://www.earthspecies.org/) - A project that attempts to translate animal language with the help of artificial intelligence. Created by ESP
+1339. [Ad Auris](https://www.adauris.ai/) - Create playlists of your favorite articles and listen to them on Apple Podcasts, Google Podcasts or Spotify
+1340. [Hallo](https://github.com/fudan-generative-vision/hallo) - Animate any photo portrait from an audio file. This AI model is open-source and was designed by Fudan Generative Vision
+1341. [DataCamp](https://www.datacamp.com/) - Online learning portal to develop your data science and AI skills. Take interactive courses in R, Python and SQL, and earn industry-recognized certifications
+1342. [Symbl AI](https://symbl.ai/) - A tool that transcribes voices into text in real time
+1343. [Clearword](https://clearword.com/) - An efficient meeting assistant that uses real-time AI to facilitate note-taking, task creation, e-mail writing, etc. Ideal for optimizing teamwork and collaboration
+1344. [SpiritMe](https://spiritme.tech/) - Create personalized videos with expressive digital avatars. Add text, choose an avatar and export. Also available on iPhone
+1345. [Heuristica](https://www.heuristi.ca/) - Visually explore concepts on any subject with AI-generated mind maps. Search and learn more effectively
+1346. [Ollie AI](https://ollie.ai/) - Plan your meals and family errands with this price-comparison assistant. Receive personalized recommendations and have your groceries delivered effortlessly thanks to AI that optimizes your budget
+1347. [Cron AI](https://cron-ai.vercel.app/) - Generation of cron jobs by textual description
+1348. [Sugar Free](https://apps.apple.com/us/app/sugar-free-food-scanner-ai/id1607127197) - An intelligent scanner capable of detecting sugar levels in any food. It also provides personalized recommendations and helps overcome sugar addiction
+1349. [Ebsynth](https://ebsynth.com/) - A free program that allows to make video generation by style
+1350. [Kajiwoto AI](https://kajiwoto.ai/rooms) - A site that lets you create AI companions (Kajis) and integrate them into chat rooms (Kaji Rooms). This service has a very good support community
+1351. [Texti](https://texti.app/) - An AI assistant that will be with you all the time during your long Internet sessions
+1352. [Webcam Motion Capture](https://webcammotioncapture.info/index.php) - Create your own animated 3D avatar with a simple webcam. AI captures your movements, facial expressions and hand gestures to bring your virtual character to life
+1353. [LGM 3D](https://me.kiui.moe/lgm/) - A project to create high-resolution 3D models from text or images. Using a technique combining multi-view Gaussian properties
+1354. [Roboflow](https://roboflow.com/) - An AI that can detect objects and that can be integrated into all kinds of projects
+1355. [WorkHub](https://workhub.ai/) - Improve your team skills and effectiveness on an AI-powered platform
+1356. [Stripe Agentic Workflow](https://stripe.dev/blog/adding-payments-to-your-agentic-workflows) - A powerful API for integrating secure payments into your AI agent workflows. Automate financial transactions while retaining full control over the payment process
+1357. [Qwen2](https://qwenlm.github.io/blog/qwen2/) - A new language model with up to 72 billion parameters. Trained on 27 languages, this LLM excels in coding and mathematics. Available as open source
+1358. [PromptBox](https://www.promptbox.ai/) - Don&#039;t lose your prompts anymore! Save, organize and edit your prompts easily
+1359. [OutplayHQ](https://outplay.ai/) - AI that helps you make more sales and convert your visitors into repeat customers
+1360. [Make Me A Cover Letter](https://cover-letter-gpt-steel.vercel.app/) - An effective AI tool for designing personal, high-impact cover letters. Works with just a few initial questions
+1361. [Animate Anyone](https://humanaigc.github.io/animate-anyone/) - A project that can animate a person from a simple photo (the whole body). AI with very interesting potential
+1362. [Reshot AI](https://www.reshot.ai/) - An AI photo editor for creating professional portraits. Optimize your profile photos, modify your expression and lighting, and quickly generate several improved versions of your shots
+1363. [Fix Blur](https://fixblur.com/zh) - Give new life to your blurred photos. This free AI tool enhances your precious memories, especially faces, for perfect sharpness
+1364. [PNGMaker](https://pngmaker.ai/) - A website to quickly create transparent PNG images from a prompt. Ideal for designers, marketers, graphic artists, etc.
+1365. [Chatter by Hume AI](https://chatter.hume.ai/) - Immerse yourself in an immersive, spellbinding podcast experience powered by an AI. Developed by Hume AI, the company specializing in emotional voice technology
+1366. [Otio AI](https://otio.ai/) - An AI-assisted research and writing platform that helps researchers organize and summarize academic content efficiently.
+1367. [AI Gradient Generator](https://www.mycolorhub.com/) - Easily generate beautiful gradients with a free, high-performance AI generator. Adjust colors, angles and sizes to suit your design using a prompt
+1368. [Nscale](https://www.nscale.com/) - Deploy and manage your models with Kubernetes and Slurm in eco-friendly data centers in Norway. This cloud platform gives you access to thousands of GPUs for your AI projects
+1369. [SchoolHack](https://www.schoolhack.ai/) - A versatile mobile app for students: writing assistant, essays, summaries, Q&amp;A, etc.
+1370. [Dream Pic AI](https://dreampic.ai/) - Draw an avatar or a profile by referring to one of your photos
+1371. [Elsa Speak](https://elsaspeak.com/en/) - A personal English teacher powered by an AI
+1372. [Podium](https://hello.podium.page/) - Quickly create handwritten transcripts, notes or chapters from your audios
+1373. [Protein Genesis AI v2](https://huggingface.co/spaces/openfree/ProteinGenesis) - A free space for protein design via text instructions. Create customized enzymes or proteins for medical and biotechnological research
+1374. [JobHire AI](https://jobhire.ai/) - Find a job fast with an AI-based resume writing service. Increase your chances of landing a job with the right tools
+1375. [SpeakPerfect](https://landing.speakperfect.co/) - A high-quality audio creation assistant to enhance your voice. Works from your microphone or recording
+1376. [GPT-4V Online](https://gpt4v.net/) - A multimodal model capable of seeing your images and interpreting them. Ideal for visual recognition, OCR, object detection, etc.
+1377. [4D Gaussian Splatting](https://guanjunwu.github.io/4dgs/) - Create realistic 3D renderings in real time from a sequence. This model captures even complex movements and can run on a single GPU
+1378. [MagicPublish AI](https://www.magicpublish.ai/) - Automatically generate optimized titles, tags and descriptions for your YouTube videos. AI adapts to your style for personalized results
+1379. [ReplyPilot](https://replypilot.app/) - An AI tool for authentic social media engagement, delivering fast, personalized replies that keep your brand voice consistent and genuine
+1380. [Maps GPT](https://www.mapsgpt.com/) - Explore and discover interesting places depending on your location
+1381. [FineVoice 2.0](https://www.fineshare.com/ai-voice-generator/) - Transformez votre voix en temps réel et de manière professionnelle en utilisant l&#039;IA. Un outil idéal pour les streamers, les podcasters et les créateurs de contenu qui cherchent à améliorer leur audio
+1382. [SciSummary](https://scisummary.com/) - An AI that easily summarizes scientific articles and papers even if they are extremely long
+1383. [Stable Audio Open](https://stability.ai/news/introducing-stable-audio-open) - Generate audio samples and sound effects up to 47 seconds long from a prompt. This is the open-source version of Stability.ai&#039;s famous audio model
+1384. [DomoAI](https://domoai.app/) - An AI that transforms you into a fictional, realistic character in various styles: anime, manga, cartoon, comics, etc.
+1385. [Fordi AI](https://fordi.io/chat) - An AI platform for making anonymous assessments between professionals. AI enables faster, more productive analysis
+1386. [AI Hits](https://aihits.co/) - A ranking of the best songs created by AI. Possibility to listen directly to the music on the site, via SoundCloud or to download it
+1387. [Shakker AI](https://www.shakker.ai/) - Submit a reference image to this AI and it will remix it while retaining its style. Editing options: Inpaint, collage, etc.
+1388. [Riku.ai](https://www.riku.ai/) - Creation of AI models with no code or skills required (API)
+1389. [Puzzle](https://www.lowcode.ai/) - Quickly create a glossary or lexicon related to your business sector
+1390. [Thoughtly](https://thought.ly/) - A tool to create AI voice agents in 17 minutes. Manage your inbound and outbound calls, analyze conversations in real time and optimize your customer interactions with detailed reports and A/B testing
+1391. [Prompt Vibes](https://promptvibes.com/) - A collection of various ChatGPT prompts: learning, humor, productivity, writing, marketing, games, etc.
+1392. [Hero AI](https://www.herostuff.com/) - Scan your items with AI to instantly obtain their price and exact item reference. Works on smartphones and tablets
+1393. [BuyScout](https://www.buyscout.app/) - An AI assistant to optimize your online shopping. Compare prices, find the best deals and get personalized recommendations to save time and money on your purchases
+1394. [L-MAGIC by Intel](https://zhipengcai.github.io/MMPano/) - Generate 360° panoramas from an image, text or sketch using AI. Amazing results in just a few clicks. Ideal for 3D creation
+1395. [Designs AI](https://designs.ai/) - Logo, video and mockup generator specialized in design
+1396. [Writers Brew](https://writersbrew.app/) - A multi-functional writing assistant for macOS. AI ideal for writing emails
+1397. [Muse by Microsoft](https://www.microsoft.com/en-us/research/blog/introducing-muse-our-first-generative-ai-model-designed-for-gameplay-ideation/) - An AI model that turns your ideas into game concepts. Generate original gameplay mechanics, levels and stories with an artificial intelligence specialized in game creation. [project]
+1398. [IP Adapter FaceID](https://ipadapterfaceid.com/) - Upload your face and get images of yourself in different artistic contexts. Easy to use from a prompt
+1399. [Whisper.fans](https://www.whisper.fans/?utm_source=aixploria&#038;utm_medium=main&#038;utm_campaign=none) - Build an AI chatbot version of you that chats with your fans and sells your content 24/7 - made for OF creators
+1400. [RealChar.ai](https://realchar.ai/) - A site where you can chat with international stars, fictional characters, animals and even Santa Claus! The platform also features a mode for chatting directly by voice
+1401. [Noise Eraser](https://eraser.dwave.cc/) - Reduce the noise that disturbs your recordings and get a professional sound
+1402. [MusicFX by Google](https://labs.google/fx/tools/music-fx) - Easily create music using a prompt and instructions. Ergonomic interface, accessible even to beginners
+1403. [Text-to-CAD UI](https://text-to-cad.zoo.dev/) - Automatic generation of 3D assets (CAD) from text. A fast, easy-to-use tool for UI designers
+1404. [Pickaxe](https://beta.pickaxeproject.com/) - Generate AI tools and applications without coding
+1405. [Maket](https://www.maket.ai/) - Quickly generate thousands of architectural drawings. Ideal for architects and builders.
+1406. [AI Article Writer 6.0](https://writesonic.com/ai-article-writer-generator) - Generate accurate, SEO-optimized articles in minutes. Includes web search, semantic analysis, internal links and citations
+1407. [Secret Llama](https://secretllama.com/) - Chat in total confidentiality with this chatbot that processes conversations locally on your device, without transmitting anything online. Ideal for sensitive exchanges
+1408. [Filmora AI](https://filmora.wondershare.com/) - Easily edit your videos using a suite of AI tools: video editing via a prompt, music generation, thumbnails, scripts, AI copilot, etc.
+1409. [Whisper Timestamped](https://huggingface.co/spaces/Xenova/whisper-word-level-timestamps) - Transcribe and subtitle your audios with precise time-stamps for each word. AI works locally, is multilingual, robust and fast. Ideal for videos and podcasts
+1410. [Realbotix](https://www.realbotix.com/robots) - A range of humanoid robots that interact naturally with you. Easily customize appearance, voice and personality to create your very own robotic companion
+1411. [Hydra AI by Rightsify](https://rightsify.com/hydra/) - Create unique, royalty-free music in an instant with this powerful music generator. API available on request.
+1412. [Helicone](https://www.helicone.ai/) - Easily monitor your costs when using your GPT applications by adding only one line of code (tokens, statistics, etc.)
+1413. [Readyverse](https://www.readyverse.com/) - A complete platform for exploring metaverse games and environments. Discover interconnected universes, create content with AI and enjoy AAA gaming experiences with popular licenses like Ready Player One
+1414. [SoundStorm by Google](https://google-research.github.io/seanet/soundstorm/examples/) - A revolutionary audio generator that produces very natural, human-like voices. AI developed by the Google research team
+1415. [AlphaCode 2 by DeepMind](https://alphacode.deepmind.com/) - V2 of DeepMind&#039;s code generator. It is capable of creating complex code and integrating complex mathematical calculations
+1416. [Noctie AI](https://noctie.ai/) - Improve your chess skills with an AI coach that adapts to your level. Get real-time advice and personalized training
+1417. [Arcwise AI](https://arcwise.app/) - A co-pilot that handles your Google Sheets files like a pro. Easily manage and clean up your Spreadsheets
+1418. [Laxis](https://www.laxis.com/) - Capture all your conversations during meetings and boost your productivity
+1419. [Eilla AI](https://eilla.ai/) - Assistant in the creation of images and graphics of all kinds
+1420. [Little Artist](https://little-artist.co/) - Turn your children&#039;s doodles or drawings into real works of art! You can also print them on canvas or a poster
+1421. [Anthropic Quickstarts](https://github.com/anthropics/anthropic-quickstarts/) - A collection of practical guides for quickly integrating Anthropic AI into your projects. Explore code examples and tutorials on how to use Claude&#039;s models effectively
+1422. [GitPodcast](https://www.gitpodcast.com/) - Turn any GitHub repository into an audio podcast in seconds. Simply replace “hub” with “podcast” in the URL to listen to the documentation of your favorite projects
+1423. [AI Portrait Generator](https://www.ai-portraits.org/) - Transform your selfies into artistic portraits with Midjourney V5 technology. Choose from a wide range of styles and models
+1424. [Unsloth AI](https://unsloth.ai/) - Easily create and train your own ChatGPT in less than 24h. Up to 30 times faster and 30% more accurate. No need to know how to code
+1425. [Whisper Memos](https://whispermemos.com/) - An AI that records your voice and then sends you an e-mail with the transcription of your words
+1426. [Plugins by Upscale.media](https://www.upscale.media/plugins) - Simplify your workflow with Upscale.media plugins. Improve image quality directly in Figma, ChatGPT and Photoshop
+1427. [Real or Fake Text](https://roft.io/) - Quickly determine if a text was written by a human or by an artificial intelligence (AI)
+1428. [MemeCam AI](https://memecam.ai/) - AI generation of automatic Memes from a photo of your choice
+1429. [Browse AI](https://www.browse.ai/) - Train (without code) this AI to extract your data and help you exploit it
+1430. [IMS Toucan](https://github.com/DigitalPhonetics/IMS-Toucan) - Free, open-source text-to-speech for over 7,000 languages. You can also train your own models using PyTorch modules
+1431. [Liquid AI](https://www.liquid.ai/) - A set of powerful generative AI models called LFM. Get superior performance to traditional large language models, while using less memory and computing resources
+1432. [OLMo 2](https://allenai.org/olmo) - A family of fully open language models with source code, training data and transparent evaluations. Ideal for researchers and developers wishing to explore and improve AI
+1433. [WhatFontIs](https://www.whatfontis.com/) - Find any font from an image with the help of AI. Also benefit from a database of 990,000 fonts and an advanced editor for separating cursive letters
+1434. [Pixelicious](https://www.scenario.com/features/pixelate) - Convert your images to pixel art style for free
+1435. [Vizard](https://vizard.ai/) - Edit your marketing videos in 2 clicks
+1436. [Thunderbit](https://thunderbit.com/) - Automate your repetitive tasks with AI available as a Chrome extension. Describe your needs and AI builds a customized automated solution
+1437. [AI Ad by ADSBY](https://adsby.co/free-ai-ad-text-generator) - Create relevant advertising campaigns with AI. Works with Google, LinkedIn, Instagram, Facebook and X (Twitter)
+1438. [CommandDash](https://commanddash.io/) - An AI assistant for developers that integrates directly into your IDE. Ask questions, generate code and automate programming tasks with solutions tailored to your project
+1439. [MusicGen](https://github.com/facebookresearch/audiocraft) - An AI music generator created by the Meta company that can generate melodies in a wide range of musical genres
+1440. [OpenDevin](https://github.com/All-Hands-AI/OpenHands) - An ultra-sophisticated autonomous agent for code and software design. This open-source AI exploits the growing capabilities of the latest LLMs models
+1441. [UiPath](https://www.uipath.com/) - A set of tools to automate your repetitive tasks in various business sectors. Save time by entrusting manual processes to intelligent software robots (RPA)
+1442. [Elementor AI](https://elementor.com/products/ai/) - Build WordPress sites with AI integrated into Elementor. Get text, code and image suggestions automatically adapted to the context of your project
+1443. [Guanaco AI](https://huggingface.co/JosephusCheung/Guanaco) - A high-performance, multilingual conversational chatbot trained on a 7B parameter model
+1444. [Knowlee AI](https://www.knowlee.ai/) - Optimise your analyses and data creation with an AI agent that accepts multiple sources: PDF, DOC, YouTube, X, Discord, Instagram, Gmail, etc.
+1445. [Brainy Docs](https://brainydocuments.com/) - An AI tool that transforms your PDFs into compelling explainer videos. Convert text and images into customizable, downloadable and shareable video presentations
+1446. [Eatch Technologies](https://eatch.me/) - A robotized AI kitchen for mass meal production. Prepare fresh, personalized and nutritious meals on a large scale. Ideal for hospitals, schools or airlines
+1447. [METAGENE-1](https://metagene.ai/) - A 7-billion-parameter model analyzes DNA in wastewater to detect pandemics. Monitor the emergence of new pathogens with AI trained on 1.5 trillion genetic base pairs
+1448. [Clips AI](https://www.clipsai.com/) - Convert your long videos into short videos ideal for social networks (like TikTok or Shorts)
+1449. [Teach-O-Matic](https://www.teachomatic.net/) - Easily create video tutorials with the help of an open-source AI expert in fun video creation
+1450. [Barbie Selfie Generator](https://www.warnerbros.com/movies/barbie) - Easily transform your photos with a filter that turns you into a real Barbie. Improves the look of your skin and makes you more beautiful
+1451. [Medeloop](https://www.medeloop.ai/) - A suite of AI tools dedicated to medical research that automates grant writing, clinical study management, data analysis and scientific manuscript publication
+1452. [Thiscampsitedoesnotexist](https://thiscampsitedoesnotexist.com/bydqju7k5jailnxq3ut3btxkyy/) - 
+1453. [Clay](https://www.clay.com/) - An intelligent CRM solution that automatically optimizes your business contacts. Synchronize your data, track your relationships and identify new opportunities thanks to AI
+1454. [Project IDX by Google](https://idx.dev/) - A web development environment based on Google&#039;s cloud. Code from anywhere, deploy cross-platform apps and benefit from AI assistance
+1455. [Acely.ai](https://acely.ai/) - Prepare for the SAT with an AI tool containing thousands of practice questions. Receive personalized advice to improve your scores
+1456. [OpenWidget](https://openwidget.com/) - Many AI tools to turn your visitors into satisfied customers: contact form, product cards, intelligent FAQ, widgets, plugins, etc.
+1457. [PicFinder](https://picfinder.ai/) - Generate infinite images for free with an AI that only needs a vague description (via a prompt)
+1458. [Deep Nostalgia](https://www.myheritage.fr/deep-nostalgia) - Bring your old photos to life by animating them
+1459. [Markopolo](https://www.markopolo.ai/) - Recovery of your lost audiences on social networks such as Instagram, Google, TikTok, YouTube, LinkedIn or Facebook
+1460. [Image2SFX](https://huggingface.co/spaces/fffiloni/Image2SFX-comparison) - An AI tool that generates sound effects from a single image. Easily enrich visual projects with adaptive audio
+1461. [Thisfootdoesnotexist](https://thisfootdoesnotexist.com/) - 
+1462. [Landr](https://www.landr.com/) - Create, share, and enhance your music effortlessly
+1463. [Enzyme](https://www.enzyme.com/) - AI-assisted software that oversees all stages of your product development
+1464. [Relume AI](https://www.relume.io/) - Create websites faster with AI, turning brief descriptions into detailed sitemaps, then mock-ups with real components and content
+1465. [Pinterest Performance+](https://business.pinterest.com/en-gb/pinterest-performance-plus/) - Boost your advertising campaigns on Pinterest with AI. Automatically optimize your ads, target the most relevant audiences and measure your performance to maximize your ROI
+1466. [Flexclip](https://www.flexclip.com/cn/) - An advanced platform for AI-assisted video creation and editing. Quick and easy to use
+1467. [ResumeRanker](https://resumeranker.io/) - An AI platform that optimizes the writing of your CVs and cover letters. Multiply your chances of finding a job thanks to AI
+1468. [SVG.io](https://svg.io/) - A free SVG generator that works with instructions (prompt text). Describe your idea and the AI creates a high-quality SVG for you
+1469. [Upscayl](https://upscayl.github.io/) - An open source image enlarger on MAC using AI and available for free on GitHub
+1470. [Prompt Optimizer](https://app.hamming.ai/prompt-optimizer) - A tool that optimizes your prompts to make them more effective with Language Models (LLM). Simply describe your objective and get clear, structured prompts
+1471. [Kwirk](https://kwirk.io/) - A suite of practical office tools and a personal coach under AI
+1472. [Frame by Brilliant Labs](https://brilliant.xyz/) - Open-source AR glasses with AI superpowers: real-time visual analysis, translation, live web search and more. Build and modify at will
+1473. [Wondercraft AI](https://www.wondercraft.ai/) - Bring your ideas to life with AI. Create podcasts, audiobooks and advertisements with high-quality AI voices. Translate and share your content internationally
+1474. [Project G-Assist](https://www.nvidia.com/en-us/geforce/news/g-assist-ai-assistant/) - A context-sensitive AI assistant designed specifically for PC games and applications. Optimize your performance and receive personalized advice in real time
+1475. [CareerHub AI](https://careerhub-ai.com/) - With the help of GPT, receive personalized career advice to help you excel professionally
+1476. [Julius.ai](https://julius.ai/) - An expert who simplifies data analysis and visualisation (CSV and Excel). Let Julius analyse, clean up or create dynamic animations
+1477. [Contentfries](https://www.contentfries.com/) - Automate the creation of your subtitles for your videos. Over 120 languages are supported
+1478. [ReplaceAnything](https://aigcdesigngroup.github.io/replace-anything/) - Replace the content of your images while preserving the identity of the objects. Ideal, for example, for changing elements or backgrounds.
+1479. [AiEditor](https://aieditor.dev/) - An AI-assisted text editor compatible with all frameworks and Markdown. It also enables team collaboration in real time
+1480. [Pitchgrade](https://pitchgrade.com/) - Get real-time advice on your pitch decks
+1481. [Read AI](https://www.read.ai/) - An AI assistant to optimize your meetings and communication. Get automatic summaries, transcripts and analysis of your interactions
+1482. [Quill AI](https://quillai.com/) - Analyze public financial documents from any company listed on stock exchanges. AI extracts key data, answers your questions and generates detailed reports
+1483. [Buzz Captions](https://buzzcaptions.com/) - Transcription and translation of audio (even offline) in over 90 languages, powered by OpenAI&#039;s Whisper
+1484. [XoMotion™](https://humaninmotion.com/) - A robotic exoskeleton that helps patients walk again after trauma. Customize movements and rehabilitation to suit your needs, while reducing the workload on therapists
+1485. [Multiblog AI](https://multiblogai.com/) - A multilingual content generator for websites. Create SEO-optimized articles in 50 languages, manage several blogs simultaneously and publish directly to WordPress or other CMS
+1486. [SubMagic](https://www.submagic.co/) - A powerful, attractive and easy-to-use subtitle generator. An AI frequently used on the TikTok video platform
+1487. [Elai IO](https://elai.io/) - Write a brief text description (prompt) and receive an AI-generated video
+1488. [Taskade](https://www.taskade.com/) - An AI tool to easily design in teams, with a revolutionary participative technique
+1489. [Wellsaidlabs](https://www.wellsaid.io/) - Convert your text to voice in real time
+1490. [JourneyPlan](https://journeyplan.co/) - According to your interests, this AI designs a personalized travel plan adapted to your desires
+1491. [DataRobot](https://www.datarobot.com/) - A platform that simplifies the deployment of large-scale AI applications. Develop and manage your predictive models while minimizing the risks to your business
+1492. [Friend AI](https://www.friend.com/) - An AI companion for overcoming loneliness that can interact emotionally with you via a discreet pendant. An original concept focused on well-being
+1493. [WTF Does This Company Do](https://wtfdoesthiscompanydo.vercel.app/) - Enter the name of the company for which you want information and the AI will tell you everything about it
+1494. [Moemate](https://www.moemate.io/) - Create characters from an image and bring them to life in a highly realistic way. Choose a voice, a personality and chat with them
+1495. [PlantIdentify](https://apps.apple.com/us/app/plantsnap-plant-identifier/id6504149002) - A free mobile app that identifies over 17,000 plant species from a photo. Get instant, accurate information on any plant
+1496. [BeamJobs](https://www.beamjobs.com/ai-resume-builder) - Boost your career with an AI-optimized CV. Choose a template suitable for recruitment software, generate punchy key points, get personalized analysis, and more
+1497. [Sync labs](https://sync.so/) - A powerful API for perfectly synchronizing audio with video (lip-sync). Use: dubbing for films, podcasts, games, animations, etc.
+1498. [NullFace AI](https://nullface.ai/) - A video generator to quickly create viral video clips on social networks without ever showing your face
+1499. [Arvin AI](https://arvin.chat/) - Let this versatile extension for ChatGPT assist you in your writing, resume, etc.
+1500. [AI Time Machine](https://www.myheritage.com/ai-time-machine) - Cross the time by generating images from your photo
+1501. [I/O Crossword](https://crossword.withgoogle.com/) - Test your knowledge of Google I/O with this collaborative crossword. AI generates clues and helps you if you get stuck. Fun and instructive
+1502. [Sivi AI](https://sivi.ai/) - Instantly transform your text into visual content: banners, social posts, advertisements, etc.
+1503. [Aria by Opera](https://www.opera.com/fr/features/aria) - Chat with Aria, Opera&#039;s free AI assistant available on mobile and PC. Get instant answers, up-to-date information and easily generate content
+1504. [MetaGPT](https://github.com/geekan/MetaGPT) - An AI that creates and simulates a team of experts to successfully accomplish even complex tasks. Also has an API
+1505. [V-JEPA by Meta](https://github.com/facebookresearch/jepa) - A non-generative LLM model that learns by watching videos. It produces excellent recognition and detection results
+1506. [AIPRM ChatGPT](https://chromewebstore.google.com/detail/aiprm-for-chatgpt/ojnbohmppadfgpejeebfnmnknjdlckgj) - Customize your window in ChatGPT by adding the best prompt templates. Sorted by category
+1507. [SendFame](https://sendfame.com/) - Easily create personalized video messages from celebrities with SendFame text-to-video technology
+1508. [AlphaResearch](https://alpharesearch.io/) - Browse millions of documents, reports or articles while being assisted by AI
+1509. [Perfusion by Nvidia](https://research.nvidia.com/labs/par/Perfusion/) - An image generator developed by Nvidia that uses the Key-Locking technique to create customized concepts without overfitting
+1510. [TextFX by Google](https://textfx.withgoogle.com/) - A set of 10 writing tools specialising in creative content. The site works using Google&#039;s PaLM 2 model
+1511. [Coqui](https://coqui.ai/) - A classic voice reader that will read your text with ease
+1512. [AlphaGeometry by Google](https://deepmind.google/discover/blog/alphageometry-an-olympiad-level-ai-system-for-geometry/) - An AI geometry expert model created by Google that outperforms existing methods. It can solve complex mathematical problems
+1513. [Qwen2-Math](https://qwenlm.github.io/blog/qwen2-math/) - An AI model specialized in mathematics, with advanced reasoning capabilities and the ability to solve complex problems. Soon to be bilingual (English-Chinese)
+1514. [Promethean AI](https://www.prometheanai.com/) - The 1st artificial intelligence that assists artists to design virtual worlds in 3D
+1515. [Seek](https://www.seek.ai/) - Ask this AI about your data and it answers you instantly
+1516. [Craiyon](https://www.craiyon.com/) - An AI that draws your images from your text
+1517. [Amazon Titan](https://aws.amazon.com/ai/generative-ai/nova/) - A versatile tool capable of generating images, modelling and generating text using different templates. Multi-modal capabilities
+1518. [Shuffle](https://shuffll.com/) - Edit your video productions easily and quickly with AI
+1519. [Stylized](https://stylized.ai/) - Automatic creation of professional visuals in a few seconds.
+1520. [PDFelement by Wondershare](https://pdf.wondershare.fr/ai-pdf-editor.html) - Easily edit and modify your PDFs with this AI-powered editor. Convert, merge, translate, sign and much more
+1521. [Daisy by O2](https://news.virginmediao2.co.uk/fraud/) - An AI named Daisy, who takes on the appearance of a grandmother, traps phone scammers by keeping them on the line with endless conversations to protect customers from scams
+1522. [GitMind AI](https://gitmind.com/) - AI-generated mind maps that you can share as a team. Greatly stimulates your brainstorming sessions
+1523. [IngestAI](https://ingestai.io/) - A commercial Chatbot that can be integrated on WhatsApp, Telegram, Discord or Slack
+1524. [GenType by Google](https://labs.google/gentype) - An AI experiment that lets anyone create a personalized alphabet from anything. Powered by Google Imagen 2
+1525. [ChatGPT Writer](https://chatgptwriter.ai/) - Harness the full power of ChatGPT with this now essential Chrome extension
+1526. [Second Nature AI](https://secondnature.ai/) - Quickly increase your revenue and sales by training an AI. Real-time statistics
+1527. [Framedrop](https://www.framedrop.ai/) - An AI that selects the best moments of your gaming sessions and turns them into clips. Insert the URL of your stream and the AI does the work
+1528. [Saner.ai](https://saner.ai/) - Capture and develop new ideas effortlessly using your notes or texts. Save time and boost productivity with this AI assistant
+1529. [Slay School](https://www.slayschool.com/) - Convert your lesson notes into flashcards or quizzes to help you study effectively. Can be exported to Anki and Quizlet
+1530. [Figure AI](https://www.figure.ai/) - An AI-powered robotics company that designs humanoids. Their figure 01 robot is an expert in logistics, manufacturing and retailing
+1531. [Child Book](https://www.childbook.ai/) - Create stories for children with a simple tool. Customize characters, illustrations, voices, etc.
+1532. [MGIE by Apple](https://github.com/apple/ml-mgie) - A MLLMs model (multimodal model) capable of modifying any image with reference to a prompt
+1533. [ChatFAI](https://chatfai.com/) - Try a unique experience and talk to your favorite characters from TV shows, movies, books, history, singers and more.
+1534. [PortfolioPilot](https://portfoliopilot.com/) - Optimize your investment portfolio with an AI advisor: 360° analysis, personalized recommendations, trends, etc. Technology inspired by hedge funds
+1535. [Cognosys 2.0](https://www.cognosys.ai/) - An AI-driven multi-task agent that makes better decisions based on data analysis
+1536. [AI Homework](https://www.coursehero.com/ai-homework-help/) - Do your homework with the help of an AI: get instant answers and explanations, with 24-hour access to a private tutor
+1537. [Chat with MLX](https://github.com/qnguyen3/chat-with-mlx) - Discuss your documents securely via an all-in-one interface compatible with many open-source LLM templates. Powered by Apple MLX framework
+1538. [Stable Artisan](https://stability.ai/stable-artisan) - A multimodal generative AI Discord bot that works with the Stability AI API. It allows you to generate and modify images with Stable Diffusion 3
+1539. [Extrapolate](https://extrapolate.app/) - An AI that simulates the evolution of your face until an advanced age. What will you look like when you are old?
+1540. [Coda AI](https://coda.io/) - An AI tool that facilitates teamwork with an all-in-one workspace. A complete solution for merging documents and applications
+1541. [Open Interpreter](https://www.openinterpreter.com/) - Talk to your computer via the terminal and carry out computing tasks more quickly
+1542. [ChartPixel](https://chartpixel.com/) - Visualize your data with an AI tool that automatically transforms your data into visually appealing graphs
+1543. [Tidio](https://www.tidio.com/) - A dynamic customer service tool that combines AI chatbots and a live chat system. Ideal for improving customer engagement
+1544. [Revisely](https://www.revisely.com/) - Revise effectively with flashcards, AI quizzes, themed videos and a host of practical tools. Ideal for students, teachers and learning professionals
+1545. [Sensei Tech](https://www.sensei.tech/) - Intelligent technology for autonomous retail outlets. Install sales stands in 1-2 weeks, with 99.2% accuracy and a rapid return on investment thanks to AI systems
+1546. [MidJourney Styles &#038; Keywords](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference) - A prompts generator for Midjourney containing styles, keywords, resolution comparison, image weight, etc.
+1547. [Capacities.io](https://capacities.io/) - An AI platform that optimizes your productivity with customizable content, task management and organization. Available on Windows and Mac
+1548. [Thumbly](https://thumbly.io/) - Easily create attractive YouTube thumbnails to increase the visibility and click-through rate of your videos
+1549. [PaintsUndo](https://lllyasviel.github.io/pages/paints_undo/) - An AI project that reproduces the human drawing process step by step from an initial image. 2 models currently available: single_frame and multi_frame
+1550. [Amazfit Active 2](https://www.amazfit.com/wx-qrcode.html) - A connected watch that combines advanced technology with an affordable price. Track your health, enjoy 160 training modes and navigate offline via a bright AMOLED display that runs for 10 days without recharging
+1551. [Dall-E 2](https://openai.com/dall-e-2/) - Professional quality image generator created by the company OpenAI
+1552. [tldraw](https://makereal.tldraw.com/) - Vaguely sketch out your idea for the layout of your website, and the AI takes care of designing a visually attractive interface (UI)
+1553. [OpenVINO by Audacity](https://audacityteam.org/blog/openvino-ai-effects/) - Edit your podcasts and create music with these AI plugins for Audacity. Remove noise, transcribe, generate and separate tracks
+1554. [Make-A-Character](https://human3daigc.github.io/MACH/) - A prompt-driven 3D animated character generator. An artificial intelligence created by the Alibaba group
+1555. [OptimizerAI](https://www.optimizerai.xyz/) - Create customized sound effects in an instant with AI. Discord integration for simplified audio generation, ideal for your multimedia projects
+1556. [Leo AI](https://www.getleo.ai/) - Bring your product idea to life with an engineering design AI co-driver. Simplify the conception and optimisation of your 3D CAD models
+1557. [Scribe AI](https://scribehow.com/scribe-ai) - Turn your processes into step-by-step visual guides (tutorials) with AI. Add context, branding and tips. Share the result via link, PDF or embedding
+1558. [Chatbotkit](https://chatbotkit.com/) - Simple but highly customizable creation of professional Chatbots
+1559. [Arcads](https://www.arcads.ai/) - Quickly create hundreds of high-quality UGC videos for your advertising campaigns using AI actors. Works via prompt
+1560. [Prompt Data Base SD](https://stablediffusionweb.com/prompts) - Get inspired by the many prompts already created by the Stable Diffusion community
+1561. [NeuroSpell](https://neurospell.com/) - Spell and grammar checker available in over 30 languages
+1562. [Bigfoot](https://www.thebigfoot.com/ai) - Discover amazing things to do in your city. This AI chatbot recommends personalized events, restaurants and experiences based on your interests
+1563. [Talknotes](https://talknotes.io/) - An AI that takes handwritten notes of everything you say (speech and voice recordings). Transcription available in 50 languages
+1564. [theGist](https://www.thegist.ai/) - A handy AI that instantly makes thread summaries on Slack
+1565. [AI Emojis Generator](https://www.emojis.com/) - Create your own custom emoji from a prompt. Describe how you want your emoji to look, and the AI will design it for you
+1566. [Undermind AI](https://www.undermind.ai/) - An AI assistant that excels at detailed scientific research. Get accurate results and in-depth literature evaluation
+1567. [Automatic 1111](https://colab.research.google.com/github/TheLastBen/fast-stable-diffusion/blob/main/fast_stable_diffusion_AUTOMATIC1111.ipynb) - Test training an AI with models on Google Collab. Generate images, text, etc.
+1568. [Tezi AI](https://tezi.ai/) - Recruit on a large scale with Max, the AI that searches, pre-selects and schedules interviews. Trained by HR experts, it integrates easily into your ATS
+1569. [Synchron](https://synchron.com/) - A brain-computer interface to control devices by thought. Thanks to a minimally invasive procedure, restore autonomy to people with reduced mobility and explore new possibilities for man-machine interaction
+1570. [Folk AI](https://www.folk.app/) - A customizable, AI-enhanced CRM for easy relationship management. Perfect for optimizing contact, pipeline and email management
+1571. [Colossyan](https://www.colossyan.com/) - In less than 5 minutes, you create an avatar video with a virtual actor
+1572. [Unify](https://unify.ai/) - An all-in-one AI platform to optimize your B2B prospecting. Access over 120 million contacts, automate your personalized email campaigns and synchronize your data with your existing CRM tools
+1573. [Metis by Amazon](https://www.businessinsider.com/amazon-chatgpt-rival-codenamed-metis-2024-6) - A project driven by Amazon, which is rumored to be preparing an AI assistant called Metis to compete with ChatGPT. It would offer text and visual responses, as well as advanced automation functions
+1574. [Tidalflow](https://www.tidalflow.com/) - A personalized AI sports coach who adapts to your performance and preferences. Benefit from advice based on real scientific studies
+1575. [Omniverse Audio2Face](https://build.nvidia.com/nvidia/audio2face-3d) - Create 3D animations synchronized to voice-overs with a neural network. Compatible with Blender/Unreal Engine
+1576. [SignLLM](https://signllm.github.io/) - A predictive LLM model for sign language. It translates text into realistic signs and promotes accessibility and inclusion for deaf people
+1577. [Soofy](https://soofy.io/) - Improve your skills in the language of your choice with personalized exercises designed by an AI
+1578. [Delibr](https://www.delibr.com/) - Powerful tools for project leaders and managers (writing assistance, feedback, etc.)
+1579. [mRelief](https://mrelief.com/) - Simplify access to public assistance with AI. Quickly check your eligibility for U.S. public assistance programs and get personalized advice to improve your financial situation
+1580. [ChatGPT for Excel](https://appsource.microsoft.com/en-us/product/office/WA200005271) - Boost your productivity and use the full power of AI with an expert assistant in handling your Microsoft Excel ™ files
+1581. [Recall AI](https://www.getrecall.ai/) - Summarize and save any online content: articles, PDFs, podcasts, Wikipedia, etc. Artificial intelligence automatically categorizes and links your notes for easy searching
+1582. [StyleSketch](https://kwanyun.github.io/stylesketch_project/) - This AI model is capable of producing various high-quality sketches or drawings from a single image.
+1583. [Kamoto.AI](https://www.kamoto.ai/) - Create, train and monetize your own AI characters and personalities. The site also features a marketplace for sharing your creations
+1584. [Tomat AI](https://www.tomat.ai/) - A powerful AI-driven tool to automate the analysis of your Excel and CSV files. Clean up, merge and explore your data without code, then create dynamic reports in just a few clicks
+1585. [Chatmosphere](https://chatmosphere.ai/) - Chat room generation from your description. Customize your AIs and chat with them via a ChatRoom
+1586. [Vieutopia](https://apps.apple.com/gb/app/vieutopia-ai-art-generator/id1660264569) - Use your imagination to design ultra creative content under artificial intelligence
+1587. [Techmart AI](https://chat.jointechmart.com/) - Describe your project idea and this AI expert in computer code will take care of the design. No need to know how to code. Ideal for entrepreneurs
+1588. [Photify AI](https://photify.ai/) - Transform your selfies into thousands of stunning photos. Change your hairstyle, your clothes and explore different styles or eras in an instant
+1589. [A1.art](https://a1.art/) - A web portal for freely discovering and building AI art apps. Share your creations easily and benefit from a community that appreciates art and artificial intelligence
+1590. [Airchat](https://www.air.chat/) - An audio social network that uses a system similar to walkie-talkies (push-to-talk). Able to transcribe what you say into text. Available on IOS and Android
+1591. [Bypassgpt](https://www.bypassgpt.ai/) - An AI content rewriting tool to make your text undetectable by AI detection systems. Crucial for SEO and avoiding plagiarism
+1592. [Lightmatter](https://lightmatter.co/) - A startup developing photonic processors. Explore the potential of optical computing to accelerate AI and reduce data center energy consumption
+1593. [SUPIR by XPixel Group](https://supir.xpixel.group/) - An incredible AI tool that dramatically improves the quality and detail of your images. Demo available soon
+1594. [Raizer AI](https://raizer.app/) - An AI-based tool to help startups quickly find relevant investors and raise funds
+1595. [Roop AI](https://github.com/s0md3v/roop) - DeepFake generation is easy to use and accessible to all. With just one click, you&#039;ll be able to create amazing Face Swaps
+1596. [Fontjoy](https://fontjoy.com/) - Generate balanced, aesthetically pleasing font combinations at the click of a button thanks to AI. Ideal for designers and visual content creators
+1597. [Tarotap](https://tarotap.com/en) - A free online tarot reading experience powered by AI. Receive personalized interpretations and discover your destiny through digital cards
+1598. [Simplescraper](https://simplescraper.io/scrapetoai) - An AI tool for easily extracting data from a website. Very useful when creating GPTS to obtain data in JSON or CSV format
+1599. [Neuralangelo by NVIDIA](https://blogs.nvidia.com/blog/neuralangelo-ai-research-3d-reconstruction/) - Transforms 2D video into detailed 3D structures. Ideal for game development and virtual object creation
+1600. [Brickit App](https://brickit.app/) - An AI-powered mobile application that scans your Lego bricks and suggests a whole series of creations for you to make
+1601. [Auto Seduction AI](https://autoseductionai.com/) - An AI-powered dating assistant that can respond with love seduction for you. Compatible with Tinder, Happn, Match, Badoo and OkCupid
+1602. [Shownotes](https://www.shownotes.io/) - Automatically convert YouTube videos to podcasts with ChatGPT
+1603. [Gatekeep](https://gatekeep.ai/) - Learn faster with personalized videos generated by AI. Make learning your courses fun and interactive
+1604. [Textero AI](https://textero.io/) - An academic level writing assistant. Ideal for your school essays or article writing
+1605. [Letz.AI](https://letz.ai/) - Generate realistic images with AI and easily create your own models from your photos
+1606. [Yoursearch.ai](https://yoursearch.ai/) - An AI-powered search engine that delivers relevant, personalized results. Ad-free and multilingual
+1607. [Coloromo AI Art Generator](https://www.coloromo.com/) - Automatic generation of images and digital art that can be printed on a giant poster or board
+1608. [Darrow AI](https://www.darrow.ai/) - Smart help for lawyers looking for their next case
+1609. [Eye for AI](https://eyeforai.xyz/) - Save your prompts for easy reuse later. Increase rapidity and productivity
+1610. [Instabooks](https://instabooks.ai/) - Create your own book with a tool that automatically generates customised books. Really quick and easy to use via a prompt
+1611. [SongR](https://www.songr.ai/) - Generate unique songs and music in seconds. No musical knowledge required
+1612. [Tiledesk](https://tiledesk.com/) - Chatbot design that can be integrated into applications or messengers like Whatsapp
+1613. [SolidPoint](https://solidpoint.ai/) - Copy and paste a YouTube link and get a summary in seconds
+1614. [MagicSchool](https://www.magicschool.ai/) - A platform entirely dedicated to teaching through AI. Create lesson plans, generate assessments and adapt learning to suit your students
+1615. [EngineAI Robot](https://www.engineai.com.cn/) - A series of humanoid robots that walk and interact naturally. Choose from three models depending on your objectives: industrial, educational or developmental, with prices starting from $5400
+1616. [Sketch2App](https://sketch2app.io/login) - Turn your sketches into code (design UI) with GPT-4&#039;s vision mode. It&#039;s easy to use, open-source and free
+1617. [Invoke](https://www.invoke.com/) - An image generator with numerous customization options. Rapid creation of high-quality visuals for commercial use
+1618. [StoryWizard](https://www.storywizard.ai/) - Generation of stories for children with images and animations
+1619. [Typpo App](https://typpo.app/) - Easy creation of engaging videos in just a few clicks. Mobile application available on IOS
+1620. [PicWish](https://picwish.com/) - An AI-powered photo editing platform: clipping, image enhancement and conversion, etc.
+1621. [BgRem.ai](https://bgrem.ai/zh/) - Create stunning images using AI tools: image generator, interior redesign, background removal, photo retouching, etc.
+1622. [Face-to-Sticker by fofr](https://replicate.com/fofr/face-to-sticker) - Turn any image or photo into a high-quality sticker. Multiple options: prompt, choice of resolution, number of steps, seed, etc.
+1623. [Moises.ai](https://studio.moises.ai/login/) - An application that lets you remove vocals or instrumental parts from a song using AI. You can also change the music&#039;s pitch, speed, etc.
+1624. [YouCam Makeup by Perfect Corp](https://www.perfectcorp.com/fr/consumer) - A set of AI beauty tools for perfecting make-up, testing new haircuts or nails. Available on mobile application
+1625. [BlogNLP](https://www.blognlp.com/) - An easy-to-use text or article generator designed specifically for blogs and websites
+1626. [Kadoa](https://www.kadoa.com/) - An AI that analyzes your website and extracts data easily
+1627. [Tusk AI](https://www.usetusk.ai/) - An AI assistant that automates minor frontend tasks by generating code for pull requests on GitHub. Simplifies testing and feedback management
+1628. [Topview.ai](https://www.topview.ai/) - Easily create viral videos for social networks. Just describe your idea and let the AI do the rest. Compatible with Reels, TikTok, YouTube and Shorts
+1629. [Contlo.ai](https://contlo.ai/) - An assistant that will help you in your marketing activities on social networks
+1630. [LoveGenius](https://www.lovegenius.io/) - A personal assistant capable of enhancing your profile and discussions on dating apps like Tinder, Badoo or Bumble
+1631. [Apple Books](https://www.apple.com/fr/apple-books/) - An AI that reads your Apple books with a very pleasant voice
+1632. [VectorArt.ai](https://vectorart.ai/) - An AI drawing and vector image generator with customisable parameters. It also features a large gallery of royalty-free visuals (PNG and SVG)
+1633. [Healing Journey AI](https://healingjourney.ai/) - An AI therapist available 24/7 to support you. Benefit from non-judgmental psychological support, with over a billion insights and professional supervision, in a secure and confidential setting
+1634. [Floneum](https://floneum.com/) - An AI platform that lets you create workflows with a visual graphical editor. Run models locally: plugins + confidentiality
+1635. [Upcat AI](https://upcat.app/) - An AI that writes your cover letter and optimises your job search. Available as a Chrome extension
+1636. [SermonGPT](https://www.sermongpt.com/) - Write your own sermons from a text or some details (via a prompt)
+1637. [SuperAGI](https://superagi.com/) - An open-source project to rapidly develop and deploy autonomous agents. Accessible via GitHub
+1638. [Digen AI](https://digen.ai/) - An impressive video avatar generator that works in a multitude of languages. Available by invitation only
+1639. [Summarize Tech](https://www.summarize.tech/) - An AI that analyzes any YouTube video and makes a simple, easy-to-read summary
+1640. [BigJPG](https://bigjpg.com/) - Enlarge your images without loss of quality with an AI tool that reduces noise and irregularities. Get sharp results while preserving detail and color
+1641. [Papermark AI](https://www.papermark.com/) - Share and interact directly with your documents using open source AI. Chat with the AI or summarise presentations
+1642. [Stable Diffusion 3](https://stability.ai/news/stable-diffusion-3) - The most powerful image generator from Stability.ai. The model can be tested as a membership or via the API
+1643. [ImageBind](https://imagebind.metademolab.com/) - A multimodal AI model that can link data together: images, videos, audio, text, etc.
+1644. [Pop2Piano](https://sweetcocoa.github.io/pop2piano_samples/) - Make piano covers inspired by any music
+1645. [Copyright Check AI](https://copyrightcheck.ai/) - Protect your social networks from copyright infringement lawsuits. AI scans your posts, identifies illegally-used music and guides you through the process
+1646. [Any Image to 3D](https://3d.csm.ai/) - Easily transform 2D images into detailed 3D models. Ideal for video games, robotics, augmented reality, etc.
+1647. [Magic Hour](https://magichour.ai/) - A virtual studio dedicated to AI video. Generate impressive videos from a prompt, or transform your own videos
+1648. [Thisstreetviewdoesnotexist](https://thisstreetviewdoesnotexist.com/) - 
+1649. [Neets AI](https://neets.ai/) - Generate high-quality synthetic voices with natural emotion and tone (TTS). Also benefit from a voice cloning tool
+1650. [Stable WarpFusion](https://www.patreon.com/posts/stable-v0-15-84106537) - An AI-powered video generator for creating complex, realistic visuals. Use of a masked alpha diffusion
+1651. [LogoPicture AI](https://logopictureai.com/) - Create an artistic optical illusion with your logo. This AI tool offers several styles and allows you to download the result in high resolution
+1652. [WowTo](https://wowto.ai/) - Quickly create how-to videos in just a few minutes
+1653. [Big Speak AI](https://oveit.com/ai/) - Your text becomes a voice for free
+1654. [Scribbler](https://scribbler.so/) - Get information or a summary of any YouTube video or podcast. Receive your summary by e-mail
+1655. [LongShot](https://www.longshot.ai/) - Create unique content for your blog in minutes
+1656. [Token Counter](https://tokencounter.co/) - A useful tool for estimating the cost and length of your texts in tokens. Calculate the exact token usage for different AI models, optimize your queries and manage your API budgets efficiently
+1657. [Thekeys](https://www.thekeys.ai/) - Can&#039;t express your idea orally? This assistant takes care of everything
+1658. [WordTune](https://www.wordtune.com/) - Refine and perfect your writing to make it SEO friendly
+1659. [Glow AI](https://www.glowai.xyz/) - An AI assistant that will take care of your skin and generate adapted programs
+1660. [AI Paraphrasing Tool](https://www.paraphrasing.io/) - Simplify your writing with this paraphrasing tool that reformulates your content at different levels: sentences, phrases and paragraphs
+1661. [Prospero.ai](https://www.prospero.ai/) - An AI investment app that analyzes millions of data points to identify the best stocks. Get real-time information on market movements and make more objective decisions
+1662. [Melodisco](https://melodis.co/fr) - Explore the best AI-generated melodies, or create your own songs using the music generator available on the site
+1663. [Grimo AI](https://go.grimo.ai/) - A notebook-style AI tool to facilitate knowledge gathering and sharing. Numerous sources of information are available: YouTube, Twitter, Podcast, etc.
+1664. [Grok-1](https://github.com/xai-org/grok-1) - A very large LLM model with around 314 billion parameters. It is available as open-source on the GitHub platform
+1665. [In3D](https://in3d.io/) - A tool for creating avatars on smartphone and mobile
+1666. [StickerBaker](https://stickerbaker.com/) - An open-source, top-quality AI sticker generator. This tool is fast and easy to use, working via a prompt.
+1667. [CoolMindMaps](https://www.coolmindmaps.com/) - Easily search and generate mind maps on any subject with the help of AI
+1668. [ReaperAI](https://www.emergetools.com/reaperai) - An AI tool that automatically eliminates unused code from your applications. Boost productivity by drastically reducing bugs
+1669. [DreamTalk](https://dreamtalk-project.github.io/) - An innovative project that aims to enable AI to make faces talk while maintaining realistic facial expressions
+1670. [Plazmapunk](https://www.plazmapunk.com/) - Create original and relevant music videos using a powerful music-loving AI
+1671. [Thisresumedoesnotexist](https://thisresumedoesnotexist.com/) - Quickly generate unusual resumes that don&#039;t really exist
+1672. [Amelia.ai](https://amelia.ai/) - Automate your customer service, optimize your internal processes and deliver a personalized user experience with an intelligent, scalable virtual assistant
+1673. [Dify.ai](https://dify.ai/) - Create AI applications via a visual, open-source workflow. Support for numerous LLM templates, IDE with prompts, RAG pipeline, integrated agents, etc.
+1674. [Dolby On](https://www.dolby.com/apps/dolby-on) - Turn your smartphone into a real live recording and broadcasting studio, while preserving Dolby-quality sound
+1675. [Mechanic For A Chat](https://mechanic.fora.chat/) - An automotive repairman and advisor under IA who can help you 24 hours a day
+1676. [Matrices AI](https://matrices.app/) - A team of intelligent agents to analyze and extract all the data you need. Works via prompt
+1677. [Pathway](https://pathway.com/) - Efficiently converts real-time data streams for operational analysis and AI insight. Easy integration with ML libraries and LLMs
+1678. [Lexii.ai](https://lexii.ai/) - An AI under GPT-3 that answers your questions while quoting its sources
+1679. [Mobirise](https://mobirise.com/builder/ai-website-builder.html) - An automatic website builder that works from a prompt. Describe your idea and the AI creates a customised site for you
+1680. [Dumb Meme Generator](https://dumb-meme.herokuapp.com/) - A funny meme generator that creates both the image and the text of the meme. Interface is simple to use and works with a prompt
+1681. [MotionGPT](https://motion-gpt.github.io/) - Simply define the movements (motion) you want with a prompt and AI can instantly reproduce them for you. This is the 1st text-to-motion AI
+1682. [Vidiofy](https://www.vidiofy.ai/) - Convert your articles into attractive videos in a mobile format such as reels. An AI tool ideal for social networks
+1683. [Turnitin](https://fr.turnitin.com/) - Preserve academic integrity with AI that detects assisted writing in student work. Easily integrate the tool into your workflow, whether at university, high school or for research
+1684. [Shufti Pro](https://shuftipro.com/) - An AI-based identity verifier that uses AML &amp; KYC standards
+1685. [Tweet Hunter](https://tweethunter.io/) - Monetize your audience on Twitter very easily and quickly
+1686. [Dream Up (Deviant Art)](https://www.deviantart.com/dreamup) - Get inspired by the most popular artists on Deviant Art and generate images in a fair way
+1687. [EverArt AI](https://www.everart.ai/) - Create your own graphic style and generate many similar styled images in just a few moments
+1688. [Magika by Google](https://google.github.io/magika/) - An intelligent system for detecting different file types with the utmost precision. Ideal for fast, reliable file identification
+1689. [Google Cloud Speech to Text](https://cloud.google.com/speech-to-text) - Convert voice to text (in over 125 languages) using a high-end AI model. Benefit from an API that&#039;s easy to integrate into your project
+1690. [Multi-GPT](https://github.com/sidhq/Multi-GPT) - An autonomous AI that acts as a project manager and creates a team of experts to achieve your goal
+1691. [Stable Doodle](https://clipdrop.co/en-US/stable-doodle) - AI that turns your sketches into digital works of art. Recommended for designers, draftsmen and architects
+1692. [Literally Anything](https://www.literallyanything.io/) - Build without limits (from a prompt) Chatbots, mobile or web applications, etc.
+1693. [Albus](https://www.chataid.com/) - An AI-driven assistant for Slack users.
+1694. [Together AI](https://www.together.ai/) - A platform that provides fast, cost-effective tools for creating generative AI models: inference, fine-tuning, custom models and GPU clusters
+1695. [Cuebric](https://cuebric.com/) - Create photo-realistic virtual environments quickly and intuitively. This AI is capable of automatically generating, segmenting and integrating images in Unreal Engine
+1696. [MakeMyTale](https://makemytale.com/) - Generate children&#039;s stories quickly and easily via a self-guided prompt
+1697. [Promptheus](https://chromewebstore.google.com/detail/error) - Chrome extension to talk to ChatGPT using your voice. Fast and fluid conversation
+1698. [Promptheus](https://chromewebstore.google.com/detail/empty-title/eipjdkbchadnamipponehljdnflolfki) - Chrome extension to talk to ChatGPT using your voice. Fast and fluid conversation
+1699. [Yip](https://yippity.io/) - Create questions or quizzes from your content
+1700. [Detect GPT](https://chromewebstore.google.com/detail/detectgpt-detect-chat-gpt/oadkgbgppkhoaaoepjbcnjejmkknaobg) - Text detector generated by an AI, under ChatGPT for example
+1701. [LitRPG Adventures](https://www.litrpgadventures.com/) - Content and dialogue generator for RPG games
+1702. [Materiom](https://www.materiom.org/) - An open database of bio-based materials. Access biomaterial recipes, collaborate with researchers worldwide and accelerate your research with generative AI tools
+1703. [Bookeeping.ai](https://bookeeping.ai/en) - An AI accounting assistant to simplify your financial management. Automatically import transactions, generate reports, fill out tax forms and get real-time financial advice
+1704. [INVE by Adobe](https://www.reddit.com/r/singularity/comments/152sne1/inve_interactive_neural_video_editing_from_adobe/) - Edit your videos as you would Photoshop. Add or transform elements with the help of INVE
+1705. [Mindfulq](https://www.mindfulq.com/) - An AI-enhanced search engine with an integrated chatbot. It efficiently reorganizes results, targets relevant answers and provides sources
+1706. [TokenFlow](https://github.com/omerbt/TokenFlow) - A new way to transform and edit your videos using pre-trained text-image diffusion models. Project on GitHub
+1707. [LogoliveryAI](https://logolivery.ai/) - Create professional logos for your company or website. Generate up to 10 logo designs for free
+1708. [Summarize.ing](https://summarize.ing/) - Get a quick summary of a YouTube video. The AI clearly structures the video content and is able to create a MindMap
+1709. [Scrabblecam](https://scrabblecam.com/) - Send a photo of your Scrabble board and the AI will suggest the best moves to win the game. The service is multilingual and offers an API
+1710. [Soundry AI](https://soundry.ai/) - Create unique samples with an AI-powered sound generator. Get infinite variations to suit your musical style
+1711. [FastSDXL by Fal.ai](https://fastsdxl.ai/) - A Playground for generating images very quickly and a complete structure for easy construction with ready-to-use APIs
+1712. [Subtxt](https://subtxt.app/) - A story generator that multiplies your imagination
+1713. [Piktochart AI](https://piktochart.com/generative-ai/) - An easy-to-use IA visual design generator. From a prompt, you&#039;ll have a detailed, editable infographic in a matter of seconds
+1714. [Corrector App](https://corrector.app/) - Quickly check your text with this AI-powered spell checker
+1715. [Deforum Studio](https://deforum.studio/) - Easily transform your images into short animated video sequences. Ideal for artists and designers who want to produce high-quality visual content
+1716. [Virtual Staging AI](https://www.virtualstagingai.app/) - Give a picture of an empty room to the AI and in 30 seconds it gives you amazing interior design ideas
+1717. [Chatbot UI](https://www.chatbotui.com/) - Open-source software that lets you install different AI language models (LLMs) and interact with them
+1718. [Circleback](https://circleback.ai/) - Automatic transcription of your Meet, Zoom or Teams meetings
+1719. [Jokelub](https://jokelub.com/) - Turns your writing into a joke via a prompt
+1720. [MixAudio by Neutune](https://mix.audio/) - Create and customize background music with multimodal AI. Perfect if you&#039;re looking to quickly generate royalty-free tracks
+1721. [EditApp](https://editapp.ai/) - Easily edit your photos with super-powered AI directly from your smartphone. Compatible with Apple products
+1722. [Hairgen AI](https://www.hairgen.ai/) - Lost your hair? This AI simulates a hair transplant
+1723. [SyntheticAIdata](https://syntheticaidata.com/) - Help in creating AI models using 3D models for your data
+1724. [Vespa](https://vespa.ai/) - An AI-powered search engine and vector database, designed to analyze your data on a massive scale. Free to download or use via cloud
+1725. [Jace.ai](https://jace.ai/) - An autonomous AI agent that can easily automate the most complex tasks. Just ask it and it does the job!
+1726. [Vacation &#038; Travel Chat](https://www.usevacay.com/chatbot) - Receive recommendations on the best restaurants and activities when traveling or on vacation
+1727. [Danelfin](https://danelfin.com/) - An AI-powered stock analysis platform. Find trending stocks, access rankings and discover new trading ideas
+1728. [Lalamu Studio](https://lalamu.studio/lander) - Quickly and easily create lip-sync videos with real-time previews
+1729. [DreamGaussian](https://dreamgaussian.github.io/) - An innovative method for creating 3D content. A new approach that exploits the technique of generative Gaussian splatting
+1730. [Ipic AI](https://www.ipic.ai/) - Generate unique images with easy-to-use AI. Easily illustrate your blogs, websites, social networks and more
+1731. [Free Essay Generator](https://ahelp.com/ai-essay-writer/) - An AI writer to write fast and reliable academic essays. Includes MLA/APA citations. Easy to use
+1732. [Klap](https://klap.app/) - An AI that shortens your YouTube videos into short videos ready to be published on TikTok, Shorts, Reels, etc.
+1733. [Quso.ai](https://quso.ai/) - Create powerful content for all your social networks with a single click. Schedule your posts, analyze their performance and edit your videos via a suite of tools powered by 25 AI models
+1734. [Human or Not](https://www.humanornot.ai/) - A game where you have to determine if your interlocutor is a human or an AI bot
+1735. [Once Upon A Bot](https://onceuponabot.com/) - An AI that generates original stories and tales for children
+1736. [Jobscan](https://www.jobscan.co/) - A smart tool that efficiently scans and optimizes your CV (ATS criteria). Increase your chances of success in your job search
+1737. [Vibrato](https://www.getvibrato.com/) - An AI that can make and answer phone calls for you. It can negotiate with the caller, make appointments, etc.
+1738. [AudioSparx by Stability.ai](https://github.com/Stability-AI/stable-audio-tools) - A powerful new open-source text-music AI model created by Stability.ai. An AI capable of generating up to 95 seconds of CD-quality music
+1739. [SynthID by DeepMind](https://deepmind.google/technologies/synthid/) - An AI that automatically inserts an invisible Watermark on your images, allowing you to easily identify them later
+1740. [Artroom AI](https://artroom.ai/) - An AI platform focused on artistic creation. Easily create high-quality images (4K resolution)
+1741. [Img2prompt](https://replicate.com/methexis-inc/img2prompt) - Upload an image and get the text prompt to use to get this result
+1742. [Sloyd](https://www.sloyd.ai/) - Simplifies the creation of 3D models and has a large library of models
+1743. [Upstract](https://upstract.com/) - A customizable AI that manages and displays all the world&#039;s news on a single page: Reddit, Google News, Reuters, Medium, CNN, etc.
+1744. [Gong.io](https://www.gong.io/) - Transform your growth with this AI-powered business intelligence platform. Engage your customers, predict accurately and improve team productivity
+1745. [Khroma](https://www.khroma.co/) - Discover infinite color palettes created by an AI trained on your tastes. Search, save and export your favorite combos. A must for designers
+1746. [AudioSeal by Meta AI](https://github.com/facebookresearch/audioseal) - A tool that adds a localized watermark to AI-generated audio files. It also features an effective audio DeepFake detector, even on a large scale and in real time
+1747. [SitesGPT](https://app.sitesgpt.in/) - Create your personal website in less than 2 minutes with GPT. No coding, automatic generation of content, blogs, resumes, etc.
+1748. [Colors by Deblank](https://deblank.com/colors) - Discover and visualize color palettes with the help of an AI assistant. Enter your keywords and let the tool create the perfect colors for your designs
+1749. [Aithor](https://aithor.com/zh-ch) - A multilingual AI writing assistant that generates essays and articles. It features a search tool and suggested outlines to facilitate academic writing
+1750. [Kayyo](https://apps.apple.com/us/app/zeus-by-kayyo/id1635789596) - A sparring partner and a virtual trainer who corrects you in your MMA fighting moves
+1751. [Photor AI](https://photor.io/photoscore) - Quickly analyze your photos and find the one that will perfectly match your project
+1752. [Coachvox AI](https://coachvox.ai/) - Create your own AI clone to interact and help you generate leads. Ideal for turning your visitors into potential customers
+1753. [Coze AI](https://www.coze.com/) - An expert platform for the development and creation of AI chatbots (no-code). Ideal for deploying bots in a variety of applications
+1754. [Climate Policy Radar](https://www.climatepolicyradar.org/) - An AI database of global climate laws and policies. Access over 5,000 documents, analyze trends and inform your decisions with advanced search tools and open data
+1755. [LearnSmarter.ai](https://learnsmarter.ai/) - An AI that aims to revolutionize your learning. It offers chatbots to instantly answer your questions about any book
+1756. [Dreamhouse AI](https://dreamhouseai.com/) - Rearrange or redecorate your rooms with this AI specialized in interior design and decoration
+1757. [MakeShorts AI](https://www.makeshorts.ai/) - A tool that shortens your videos and turns them into viral clips with AI captions and subtitles. Compatible with TikTok, YouTube Shorts, Reels, etc.
+1758. [One AI](https://oneai.com/) - Generation of linguistic APIs based on audio or video resources (analysis)
+1759. [Artificial Art](https://artificial-art.eu/) - An AI-based generator of artistic images and illustrations with numerous adjustable parameters
+1760. [AI Lawyer](https://ailawyer.pro/) - Get advice on your legal texts and documents using an AI assistant
+1761. [Formless by Typeform](https://formless.ai/) - An AI-powered interactive form that can ask and answer questions. Possible integration with Salesforce, Zapier, Circle, etc.
+1762. [Photomyne](https://photomyne.com/) - Scan and embellish your old memories quickly with AI. Photos, slides, negatives: everything can be transformed into digital albums to share
+1763. [Character GPT](https://alethea.ai/) - Generate interactive characters with AI and then integrate them into other applications
+1764. [PromptExtend](https://nojs.domaincntrol.com/) - A site that from your basic prompts improve them and make them more complex
+1765. [SonixTw by Fineshare](https://www.fineshare.com/ai-voice-cloning/) - An ambitious AI platform that can clone your voice and create your digital double. You can use your cloned voice to sing, read text and more
+1766. [Summarizethis](https://summarizethis.io/) - A tool for summarizing texts, videos, websites and even Twitter feeds (X). Perfect for quickly and easily condensing a variety of content.
+1767. [Tailwind Studio](https://www.mightymeldfortailwind.com/) - An AI assistant to help you develop your React applications. Greatly simplifies user interface (UI) creation in Tailwind
+1768. [Paint By Text](https://paintbytext.chat/) - Take control of an AI and tell it (with instructions) what you want to change in your image
+1769. [Emergent Drums](https://audialab.com/) - Generate various sounds like samples, drums for your musical designs
+1770. [FilmmakerPRO](https://zero1cine.com/filmmakerprogpt/) - A free application powered by GPT that helps filmmakers from conception to completion. Stimulates creativity and saves time
+1771. [Byway](https://www.byway.travel/) - Travel around Europe without having to fly. Get advice on accommodation options and personalized itineraries by train, bus or ferry
+1772. [WriteText.ai](https://writetext.ai/woocommerce) - A writing assistant specially developed for WooCommerce. It can create product descriptions and SEO content very quickly
+1773. [HTTPie AI Chat](https://httpie.io/ai) - Manipulate your API integrations more intelligently by chatting with an AI assistant that generates HTTP requests, improves test productivity and more.
+1774. [Type Studio](https://streamlabs.com/podcast-editor/features/video-to-text) - Easily edit your videos and transcribe them in handwritten version (PDF file, subtitles, etc.)
+1775. [JourneyArt AI](https://www.journeyart.ai/) - Turn your ideas into images with this AI image generator for Midjourney. Choose between different versions such as V5, V4 or NiJi
+1776. [We Write Cards](https://lazy.cards/) - An assistant in writing personalized messages for birthdays, weddings, condolences, etc.
+1777. [PresentationGPT](https://www.presentationgpt.com/) - An AI-based assistant that helps you create high-quality presentations quickly and easily. PDF, PowerPoint and Google Slides compatible
+1778. [Melon AI](https://www.meln.ai/) - A learning system that helps you organize and retain your ideas more effectively. Promotes personal development
+1779. [AweMyFace](https://apps.apple.com/app/apple-store/id1621101995) - A reliable acne detector that will help you get baby skin
+1780. [Checklist.gg](https://checklist.gg/) - An AI that checks in real time that the tasks on your lists have been completed
+1781. [Rask AI](https://www.rask.ai/) - An AI that locates your video then adds subtitles, a voice-over and performs automatic translation
+1782. [DreamFlare](https://www.dreamflare.ai/) - Discover interactive AI-generated stories and films that let you decide how the story unfolds
+1783. [Maia](https://www.ourmaia.com/) - Make your relationship life easier with this AI assistant: date ideas, gifts, conflict resolution... Ask him all your questions!
+1784. [nanoGPT](https://github.com/dabochen/spreadsheet-is-all-you-need) - Discover the inner workings of GPT in an interactive spreadsheet. See the architecture, matrix calculations and data flow. Fun and instructive
+1785. [ContractCrab](https://contractcrab.com/?utm_source=website#038;utm_medium=backlink&#038;utm_campaign=aixploria) - An AI-powered contract summary tool that simplifies the understanding of your complex legal documents. Get the key points of your contracts quickly, easily and securely
+1786. [Speechmatics Flow](https://www.speechmatics.com/flow) - Integrate natural voice interactions into your products with a powerful API. Benefit from real-time, multilingual voice recognition that can be adapted to different sound environments
+1787. [Flux-Dev-Lora-Trainer](https://replicate.com/ostris/flux-dev-lora-trainer/train) - Quickly train your own LoRA models for image generation with Flux Dev. Possibility to adapt existing models and save time
+1788. [Voicebooking](https://www.voicebooking.com/en/free-voice-over-generator) - A voice generator and multilingual voice player for fine-tuning: get a more natural, human voice
+1789. [Seamless Studio](https://www.seamless-studio.com/) - Automatic generation of original, high-quality mockups. Benefit from an expert AI design assistant
+1790. [EasySBC](https://www.easysbc.io/) - An AI assistant to optimize your teams in EA Sports FC 25. Explore the meta ratings of all players, get AI solutions for SBCs and discover the best choices for Evolutions
+1791. [Dola AI](https://heydola.com/) - An excellent AI planning assistant that converts voice, text and images into an organized calendar for optimal organization
+1792. [Locofy](https://www.locofy.ai/) - Turn a design idea into readable and functional code: Figma, Adobe XD, React Native, HTML/CSS, etc.
+1793. [Narakeet](https://www.narakeet.com/) - A powerful text-to-speech tool to create PowerPoint, voice-overs, etc.
+1794. [Unbabel](https://unbabel.com/) - A high-performance translator that can translate any text or document into a large number of languages
+1795. [Phi-3-mini by Microsoft](https://azure.microsoft.com/en-us/blog/introducing-phi-3-redefining-whats-possible-with-slms/) - A powerful SLM despite its 3.8 billion parameters. Driven by an LLM, it rivals giants such as GPT-3.5 or Anthropic&#039;s Claude 3 Haiku
+1796. [GigaBrain](https://thegigabrain.com/) - Find relevant answers (on Reddit, for example) by exploring billions of comments. An efficient review search engine
+1797. [InlineGPT](https://inlinegpt.com/) - A useful AI assistant that integrates with all your applications. Generate content instantly by selecting text or using simple keyboard shortcuts
+1798. [AskThee](https://askthee.vercel.app/) - An AI that imitates the greatest philosophers, scientists or artists and answers your questions
+1799. [Otto AI](https://ottogrid.ai/) - Optimize your workflows with AI that automates data search, analysis and extraction. Create visual workflows without coding
+1800. [SharkTank AI](https://www.sharktank-ai.com/) - Validate your start-up idea with an AI business expert. Present your project, the financing you&#039;re looking for and the equity offer to get you started
+1801. [RoxyBit](https://roxybit.com/) - Generate digital art using AI. Write your prompt, choose a size and create NFT-transformable images
+1802. [Relyance AI](https://www.relyance.ai/) - Get complete visibility of your company&#039;s data processing and ensure compliance with global privacy and security regulations
+1803. [Quibim](https://quibim.com/) - Analyze millions of medical images with unrivalled accuracy thanks to AI-enabled imaging biomarkers. Improved diagnosis and patient follow-up in over 170 healthcare institutions
+1804. [Symanto text](https://www.symanto.com/get-in-touch/) - Use of APIs to leverage real-time text data for business purposes
+1805. [DBRX by Databricks](https://www.databricks.com/blog/introducing-dbrx-new-state-art-open-llm) - An open-source language model with impressive performance. This LLM model outperforms GPT-3.5 and rivals Gemini 1.0 Pro for programming excellence
+1806. [AudioPen](https://audiopen.ai/) - An AI that transcribes your words and summarizes them into a text. It can also eliminate unnecessary repetitions
+1807. [JibeWith](https://www.jibewith.com/) - This AI targets a country&#039;s audience and designs you a successful marketing strategy on social networks
+1808. [Outfits AI](https://www.outfitsai.com/) - An AI that changes your outfit so you can find new clothing ideas
+1809. [Say My Name!](https://say-my-name.app/) - Learn to pronounce any name correctly. Search for a name and listen to the AI-guided pronunciation. Create your own pronunciation sheet and share it for free
+1810. [Hiber 3D](https://hiber3d.com/) - Design 3D models and worlds from a prompt. Works with a creative conversational ChatBot that obeys your every wish
+1811. [Vmake Video Enhencer](https://vmake.ai/video-enhancer) - Improve the quality of your videos with AI assistance. Easily restore blurry, old or poor-quality videos
+1812. [Waveformer](https://waveformer.replicate.dev/) - A music generator that works from a text prompt thanks to MusicGen and Replicate
+1813. [Voiceflow AI](https://www.voiceflow.com/) - Quickly create intelligent agents by integrating your own data. Options: real-time collaboration and use of APIs possible
+1814. [Arch Synth](https://www.archsynth.com/) - An AI-based architecture tool that turns your sketches into stunning visuals in seconds
+1815. [StudyCrumb](https://studycrumb.com/paraphrasing-tool) - Rephrase your sentences quickly and easily with this expert paraphrasing tool
+1816. [MyCody](https://www.mycody.io/) - An application to centralize and manage your career path. Achieve all your career goals with the help of AI
+1817. [Proposal Genie](https://www.proposalgenie.ai/) - A writing assistant for Freelancers who want to write a relevant description of their services
+1818. [Fast AI](https://www.fast.ai/) - Learn the basics of artificial intelligence until you become an AI expert
+1819. [Quriosity](https://www.quriosity.world/) - Generate personalized courses to facilitate your learning. Available for all subjects, languages, etc.
+1820. [Wear-Any-Way](https://mengtingchen.github.io/wear-any-way-page/) - Discover a new customizable virtual fitting tool. Precise handling of clothing styles made easy (project in progress)
+1821. [Dorik](https://dorik.com/) - An expert IA tool for automated website creation that transforms your ideas into functional projects. Ideal for generating websites very quickly
+1822. [Remix.ai](https://remix.ai/) - Easily remix your AI-generated images directly from your smartphone. Available on Google Play and the App Store
+1823. [Nuclia](https://nuclia.com/) - An AI engine that indexes your internal and external data.
+1824. [Retrovision App](https://app.retrovisionlabs.com/) - A tool that transforms an image into an extruded 3D mesh using AI-generated depth. Fine-tune projection parameters and export to GLB
+1825. [AIPhotoeditor](https://photoeditor.ai/) - Enhance your photos with a powerful, easy-to-use photo editing tool. Retouch your images in seconds
+1826. [InstaSalesAI](https://instasalesai.com/) - A set of AI tools used to market on the Instagram app
+1827. [zero1cine](https://zero1cine.com/) - Explore a platform that lists a collection of the best films produced with AI. Discover the best AI movies in one place
+1828. [Winston AI](https://gowinston.ai/) - Automatic detection of AI-generated text content. Possibility of checking PDF, Word, etc. documents.
+1829. [Camel AI](https://www.camel-ai.org/) - An agent-based AI that makes autonomous and intelligent decisions. Discussion possible via a ChatBot
+1830. [Opus](https://opus.ai/) - Describe an idea in text and this AI turns it into a movie or video game
+1831. [GoSearch AI](https://www.gosearch.ai/) - Improve your company&#039;s knowledge management with an AI-powered multimodal search engine. Navigate quickly through your applications
+1832. [Naratix](https://naratix.ai/) - Automate the writing of your product descriptions in multiple languages and optimize them for SEO. Create personalized content tailored to your brand and your customers
+1833. [Syllaby](https://www.syllaby.io/) - Create a marketing strategy for social networks, find the most popular questions and create videos on TikTok or YouTube
+1834. [AI Assist by Tawk](https://www.tawk.to/introducing-ai-assist/) - Improve your customer service by automating answers to frequently asked questions and assisting your human agents for greater efficiency
+1835. [Hebbia AI](https://www.hebbia.com/) - A secure AI platform for businesses that adapts to your data and workflows. Rapidly improve your profitability (+1000 use cases)
+1836. [Finding Words](https://www.empathy.com/) - An assistant that will help you in writing poignant obituaries and tributes
+1837. [Scene One](https://sceneone.app/) - A smart tool that helps you write a book step by step. A smart tool that helps you write a book step by step. Discover a new way to write a book effortlessly
+1838. [Pygma](https://www.pygma.me/) - Boost your Instagram presence with this multitasking AI tool. It generates personalized content, schedules your posts and improves your overall strategy
+1839. [AI Chat SoundHound](https://www.soundhound.com/soundhound-chat-ai) - An AI voice assistant for everyday use, optimized for the automotive sector. It can answer a whole range of questions: weather, itineraries, nearby restaurants, etc.
+1840. [ChefGPT](https://www.chefgpt.xyz/) - Give it the ingredients you have and this AI makes you a delicious recipe
+1841. [X-ray Interpreter](https://xrayinterpreter.com/) - An AI tool for interpreting various types of radiographs. Get a quick initial assessment and better understanding before medical consultation
+1842. [Nichess](https://nichesss.com/) - An AI writing tool that generates fast editorial content. Perfect for bloggers and marketers. Also features 150 creative tools
+1843. [Muse Pro](https://www.musepro.app/) - An AI-driven drawing assistant that works in real time. Enhance your artistic creations with a host of intelligent digital tools. Also works on Ipad
+1844. [Instant](https://ai.vip.graphics/) - Create stunning presentations with AI integrated into Google Slides. Choose from hundreds of professional templates
+1845. [InsightFace](https://insightface.ai/) - Expert AI for 2D and 3D face analysis. Ability to create personalized, immersive characters in video games
+1846. [BabyAgi](https://github.com/oliveirabruno01/babyagi-asi) - An autonomous AI that can perform multiple tasks and auto-prompts, all by itself
+1847. [Magicreply IO](https://magicreply.io/) - An AI assistant that generates humanized responses to comments on LinkedIn and X (Twitter). Ideal for rapidly expanding your network
+1848. [MyLens.AI](https://mylens.ai/) - AI that creates a timeline of key events in any field, ideal for combining multiple themes into a unified story
+1849. [Explore AI](https://exploreai.vercel.app/) - A next generation semantic search engine to find relevant YouTube videos
+1850. [Retouch4Me](https://retouch4.me/) - An AI plugin to boost your image editing skills. Compatible with Photoshop and other software
+1851. [Sticker Prompt Generator](https://www.howtoleverageai.com/midjourney-sticker-prompt-generator) - A generator of ideas and prompts for creating stickers. Then copy it onto MidJourney
+1852. [Vector to 3D](https://www.meimu.design/vector-to-3d/) - A 3D effects generator that works from a vector image (SVG). Features numerous parameters: resolution, bevel, shadows, angles, etc.
+1853. [GoEnhance AI](https://www.goenhance.ai/) - Transform your videos into manga, cartoon, pixel art or anime-style animations. You can also easily increase the resolution of your video
+1854. [AI Emoji Generator](https://aiemojigenerator.org/) - Vaguely describe your idea and the AI will quickly design a large, high-quality emoji for you
+1855. [PDF GPT](https://www.pdfgpt.io/) - An easy-to-use AI to analyze, summarize and get answers about your PDF files
+1856. [Lex AI](https://lex.page/) - A powerful AI word processor that improves your writing skills. Live collaboration capability to work on mobile
+1857. [VideoGen](https://videogen.io/) - An automated video creation platform that uses AI to quickly generate quality videos. Fast and easy to use
+1858. [Prisms AI](https://prisms.ai/) - Harness the power of models like DALL-E, GPT3 or Stable Diffusion very easily
+1859. [Pinecone](https://www.pinecone.io/) - A serverless vector database for creating high-performance AI applications. Quickly index and search billions of vectors to enhance your generative AI models
+1860. [AnyText AI](https://huggingface.co/spaces/modelscope/AnyText) - An AI capable of writing text on any media. You can easily add text to your images
+1861. [Stable LM 2](https://stability.ai/news/introducing-stable-lm-2) - A rather compact LLM model with 1.6 billion parameters. Ideal for developers looking for a balance between speed and performance
+1862. [Whisper WebGPU](https://github.com/xenova/whisper-web/tree/experimental-webgpu) - Transcribe your voice in real time in your browser thanks to AI. Works offline in 100 languages. Based on OpenAI&#039;s Whisper model.
+1863. [Content Credentials](https://contentcredentials.org/) - An anti-deepfake solution that verifies the origin and editing history of online content. Works with all media types
+1864. [BiRead](https://www.biread.com/) - Read and translate any website with AI via a Google Chrome extension. A great tool for learning a language or understanding foreign content
+1865. [Resume Scanner](https://pdf.ai/tools/resume-ai-scanner) - An AI that scans and evaluates your candidates&#039; CVs. It also generates questions to assess the candidate&#039;s skills
+1866. [ChatGPT Sidebar](https://sider.ai/) - A Chrome extension for ChatGPT to quickly help you with tasks like translation, text summaries, etc.
+1867. [Piano Genie](https://piano-genie.glitch.me/) - Turn your keyboard into a real intelligent piano
+1868. [Rufus by Amazon](https://www.aboutamazon.com/news/retail/amazon-rufus) - An expert shopping assistant on the Amazon platform to answer all your questions. Still in experimentation but available in Beta for US customers
+1869. [Channel AI](https://fluenthq.com/) - Get quick answers to the questions you have about your SQL database
+1870. [Open Agent Studio](https://www.openagent.studio/) - Create robust automation agents without coding. Features a system of semantic targets that make your agents resilient to change (Agentic)
+1871. [Sune AI](https://www.sunebeyond.com/) - A collaborative platform for more efficient team organization. Ergonomic interface with AI
+1872. [Kodezi AI](https://kodezi.com/) - Wizard that corrects you in real time when you code
+1873. [VideoLDM by Nvidia](https://research.nvidia.com/labs/toronto-ai/VideoLDM/) - An incredible AI created by Nvidia capable of generating realistic, fluid videos. Not yet available, but a very promising project
+1874. [Chathelp.ai](https://chathelp.ai/) - An assistant that boosts the efficiency of your business, work or studies. Over 100 tools available
+1875. [NolanAi](https://www.nolanai.app/) - An AI-based scripting software that can imagine stories, scripts, settings, dialogues, etc.
+1876. [Backgrounds Blur](https://magicstudio.com/backgroundblur/) - Upload an image and the AI will blur your background. No photo editing skills required
+1877. [Seona AI](https://app.conversion.ai//seona) - Enter the URL of your website and receive intelligent suggestions for optimising your SEO ranking
+1878. [AI Yearbook Generator](https://aiyearbook.art/) - Have fun creating your portrait in a timeless 90s style. Add hairstyles, vintage clothes and expressions
+1879. [Moveworks](https://www.moveworks.com/) - AI that automates employee assistance and improves productivity. Ideal for companies (CIOs) looking to optimize their efficiency and costs.
+1880. [2short AI](https://2short.ai/) - Use AI to turn your long videos into short ones. Expand your audience quickly
+1881. [Freshly.ai](https://freshly.ai/discuro-form/) - Comprehensive AI-powered enterprise reporting provider (GPT-3)
+1882. [Cala](https://www.ca.la/) - An AI that makes it possible to design fashionable and trendy products with adapted tools
+1883. [CoverLetterGPT](https://coverlettergpt.xyz/) - Use AI to create unique and effective cover letters or CVs, so you get applications that stand out and save time
+1884. [Musico](https://www.musi-co.com/) - An AI-based software search engine that creates original, royalty-free music. This AI music generator obeys your instructions
+1885. [Voxqube](https://www.voxqube.com/) - A fast, high-performance dubbing service for professional-quality videos. Available in over 125 languages
+1886. [InfluencerFarm](https://influencerfarm.io/) - Easily create a personalized AI influencer and gain access to celebrity on social networks. This influencer generator produces credible photos
+1887. [aReception](https://www.areception.com/) - An AI receptionist available 24/7, speaking 33 languages. This AI avatar greets, informs , calls your staff and easily adapts to your processes. The reception of the future
+1888. [DocGPT](https://chromewebstore.google.com/detail/boss-hub-ai/dpgnglnlpddlohpfkolmfaiokogflmeo) - A Chrome extension for analysing, summarising or chatting with your PDF, TXT or DOC files. Works with ChatGPT help
+1889. [Ai|coustics](https://ai-coustics.com/) - Get studio-quality sound with this AI that transforms and enhances your voice
+1890. [Jusi](https://jusi.me/) - Quickly find the most competent partners to achieve your project objectives
+1891. [Gotalk.ai](https://gotalk.ai/) - High-performance text-to-speech that generates studio-quality voices. Available in over 50 languages, with the option of cloning your own voice
+1892. [Jumprun](https://jumprun.ai/) - Change the way you follow the news with interactive AI canvases. Compatible with websites, YouTube, Twitter (x), etc.
+1893. [Voicenotes AI](https://voicenotes.com/) - Capture your thoughts with this AI voice note-taking app: instant transcription, intelligent summaries, translation and more
+1894. [CodeAssist](https://plugins.jetbrains.com/plugin/20085-codeassist) - A free and simple code generator and wizard. Compatible with Visual Studio Code and Jetbrains IDEs
+1895. [Vidby](https://vidby.com/) - An AI-powered tool for fast, accurate translation and video dubbing. Available for over 75 languages
+1896. [EvTexture](https://dachunkai.github.io/evtexture.github.io/) - An interesting project to drastically improve video resolution by using events to enhance textures. Super-optimized image quality
+1897. [AI Playlists by Spotify](https://newsroom.spotify.com/2024-04-07/spotify-premium-users-can-now-turn-any-idea-into-a-personalized-playlist-with-ai-playlist-in-beta/) - Spotify launches AI Playlist in beta. Create personalized playlists from creative ideas. Combine genres, moods, artists and decades
+1898. [Pendant by Limitless AI](https://www.limitless.ai/) - Pendant captures your conversations and ideas throughout the day. This little AI gem finds key moments and answers your questions. Discreet, elegant, secure
+1899. [Imagetocartoon](https://imagetocartoon.com/) - Convert with AI your photos into cartoon style avatars in just a few seconds
+1900. [MAGNeT by Meta](https://pages.cs.huji.ac.il/adiyoss-lab/MAGNeT/) - A text-to-music model capable of generating high-quality audio samples using a new Non-AutoRegressive transformation method
+1901. [SheetGod](https://www.boloforms.com/sheetgod/) - Automation of basic tasks via Google Appscript and creation of complex Excel formulas
+1902. [MAGE AI](https://usemage.ai/) - Easily develop web applications by combining GPT and Wasp. Simplify the process of creating your apps in React, Node.js or Prisma
+1903. [Nostalgia Photo](https://www.nostalgia.photo/) - Drastically increase the quality of your photo watches with artificial intelligence
+1904. [Ezilee](https://ezilee.fr/) - Discover a unique (multi-model) way to solve your challenges with AI. Combine different models and enhance your creativity
+1905. [Autotab AI](https://www.autotab.com/) - Automate repetitive tasks in your browser with the 1st AI-driven digital robot. Show it the steps and it does the rest
+1906. [AgentGPT](https://agentgpt.reworkd.ai/) - Easily set up and deploy autonomous AI agents. The site has a simple and intuitive interface
+1907. [AgentGPT](https://agentgpt.reworkd.ai/zh) - Easily set up and deploy autonomous AI agents. The site has a simple and intuitive interface
+1908. [AI Coloring Pages](https://aicoloringpages.net/) - Generate free images to colour in real time using AI technology. A wide variety of formats and styles available
+1909. [Respona](https://respona.com/) - Automate your link building and outreach campaigns with this all-in-one AI tool. Get quality SEO backlinks, find partnership opportunities and personalize your messages with ease
+1910. [AI ColoringPage Online](https://www.aicoloringpages.online/) - An AI tool that generates coloring pages in a wide choice of styles. Ideal for hobby or professional projects
+1911. [Typefully](https://typefully.com/) - Expand your social networking presence with an AI assistant: write, plan and publish impactful posts/threads. Compatible with Twitter, LinkedIn &amp; Mastodon
+1912. [Qwen 1.5](https://github.com/QwenLM/Qwen2.5) - A high-performance LLM model that rivals the best open-source models currently available
+1913. [iListen AI](https://www.ilisten.ai/) - Turn articles or web pages into podcasts with AI. Get personalized summaries to read or listen to anywhere. Chrome extension available
+1914. [New Lantern](https://newlantern.ai/) - A cloud solution for radiologists integrating automated AI tools to accurately analyze medical images. Ideal for speeding up patient diagnosis. Save up to 60 minutes per service
+1915. [A.V. Mapping](https://avmapping.co/) - Submit an image, a video or a text to the AI, and you get a custom music for your project
+1916. [Whimsical](https://whimsical.com/) - A collaborative AI tool that helps you organise your ideas and automatically create Mindmap-style visuals
+1917. [Neural Consult](https://www.neuralconsult.com/) - A host of AI tools to improve your skills in the medical sector: exam questions, Anki cards, clinical simulations, etc.
+1918. [SuperImage](https://github.com/Lucchetto/SuperImage) - Increase the resolution of your images by up to 8 times using the MNN Deep Learning network and Real-ESRGAN. Also available on mobile
+1919. [Heyday](https://heyday.xyz/lander) - An intelligent assistant that automatically reminds you of content that you must remember
+1920. [SpinBot](https://spinbot.com/) - Submit a text or an article to him, he makes a new one
+1921. [Sanctum AI](https://sanctum.ai/) - An AI tool specially designed for MacOS to run open-source LLMs locally. It features an advanced encryption system
+1922. [Aitinerary](https://www.aitinerary.ai/) - From your destination and the date of your stay, this AI makes you a personalized road trip
+1923. [Runpod](https://www.runpod.io/) - Rent GPU cloud servers and reduce your resource requirements by 80%
+1924. [Holovolo](https://holovolo.tv/) - Discover a new dimension in virtual reality (VR). Create, share and explore highly immersive VR180 videos and photos thanks to AI
+1925. [FakerLabs](https://www.fakerlabs.com/) - A Deepfake expert site that makes it easy to detect whether a video is fake or real
+1926. [Leya](https://legora.com/) - A specialized legal assistant that performs with AI. Rationalize your research, draft documents faster and access your law firm&#039;s knowledge with ease
+1927. [Qwen-VL-Plus](https://github.com/QwenLM/Qwen-VL) - A multimodal LLM model capable of analyzing images and interpreting them with great precision
+1928. [Synthflow AI](https://synthflow.ai/) - AI voice assistant with a human voice that automates your calls 24/7. Ideal for automated sales or appointment scheduling
+1929. [Cascade](https://www.casc.ai/) - Instantly access all your documents and get accurate answers fast. Integrate your knowledge bases directly into Slack, Discord, Microsoft Teams, etc.
+1930. [Create a Zap by Zapier](https://help.zapier.com/hc/en-us/articles/15703650952077-Use-the-power-of-AI-to-generate-Zaps-Beta) - Easily generate interactions between your applications using Zap&#039;s AI builder. Operate via a prompt and quickly automate your tasks
+1931. [Monobot CX](https://monobot.ai/?referralId=aexploria) - Automate and simplify scheduling, reservations, appointment booking, and product consultations for any industry, 24/7
+1932. [FashionAdvisorAI](https://www.fashionadvisorai.com/) - Ask your questions about current fashion and get updated answers in real time (fashion)
+1933. [Iris AI](https://iris.ai/) - Conduct AI-assisted research in a wide variety of disciplines
+1934. [Tammy AI](https://tammy.ai/) - Automatic AI generation of a summary of a YouTube video. Enter a YT address and the AI takes care of everything
+1935. [Bestflights](https://www.bestflights.ai/) - Find the best prices for your flight. Book your flight at the lowest possible cost using AI algorithms
+1936. [AIundetect](https://www.aiundetect.com/) - An expert text rewriting tool that will help your content beat all AI detectors. Text is rewritten in a coherent, human style
+1937. [Thisautomobiledoesnotexist](https://www.thisautomobiledoesnotexist.com/) - 
+1938. [GPT Space](https://gpt.space/) - Boost your productivity by integrating ChatGPT into Google Workspace. Compatible with Google Docs, Sheets, Slides, Drive, Gmail and Duet AI
+1939. [DupDub](https://www.dupdub.com/) - A multifunctional platform offering a host of AI tools: idea generator, text to speech, AI Avatar, intelligent video editing, etc.
+1940. [Samwell](https://www.samwell.ai/zh) - An AI that generates articles, essays or papers while checking if the content is authentic (plagiarism)
+1941. [Rose AI](https://rose.ai/) - A cloud data driven by a multi-tasking AI that analyzes and gives advice
+1942. [Stack AI](https://www.stack-ai.com/) - Create AI applications easily via a full no-code platform. Develop chatbots, process documents, automate or analyze your data. Also includes secure APIs
+1943. [Oscar](https://oscarstories.com/) - Generate personalized children&#039;s stories with AI. Ideal for parents and teachers
+1944. [Reading Coach by Microsoft](https://coach.microsoft.com/) - A smart, educational tool that stimulates reading fluency with personalized stories. Ideal for home or school use
+1945. [QuitPorn](https://quitporn.ai/) - An AI assistant to help you overcome porn addiction. Get personalized advice, impulse management strategies and 24/7 support to get your sex life back on track
+1946. [HeyTale](https://heytale.com/) - Stimulate your creativity with a prompt-based story generator. Share and vote for the best stories
+1947. [WriteMe](https://writeme.ai/) - An AI-based writing assistant for creating high-quality textual content. Available in around 20 languages
+1948. [Ajelix](https://ajelix.com/) - An AI assistant for Excel and Google Sheets with a host of tools: formulas, translation, reports, analyses, VBA scripts, etc.
+1949. [Amie](https://amie.so/) - An AI that optimizes and manages your organization. It can control your calendar, e-mails and to-do lists
+1950. [AI Avatars by Vidyard](https://www.vidyard.com/products/ai-avatars) - Create personalized sales videos on a grand scale. This tool creates a clone of you in the form of a realistic AI avatar and generates video messages
+1951. [Image App](https://imageapp.xyz/) - Generate images with AI using several models at once: Stable Diffusion, DALL-E, Rothko AI, Openjourney or Hiroshinagai
+1952. [ScrapX AI](https://www.scrapx.io/) - A website that allows you to be notified by e-mail or on Slack as soon as a change is made to a website. A practical monitoring tool
+1953. [PDFChat](https://pdfchat.in/) - An intelligent AI Assistant that helps you chat with your documents, handles and summarizes large PDF&#039;s (&gt; 1000 pages).
+1954. [Coin Identifier Coin Snap](https://apps.apple.com/us/app/coin-scanner-value-identifier/id1664318416) - A mobile application that accurately identifies any type of part in an instant
+1955. [Magicast.ai](https://www.magicast.ai/) - Turn any subject into a podcast-style audio experience. Perfect for education and lifelong learning
+1956. [Fini AI](https://www.usefini.com/) - Turn your knowledge database into a conversational AI assistant in minutes. Resolve 70% of customer questions 24/7
+1957. [WebChatGPT](https://chromewebstore.google.com/detail/webchatgpt-chatgpt-%E5%85%B7%E5%A4%87%E4%BA%92%E8%81%94%E7%BD%91%E8%AE%BF/lpfemeioodjbpieminkklglpmhlngfcn) - An AI on a Chrome extension that adds relevant suggestions during your sessions on ChatGPT
+1958. [Name Drop AI](https://name-drop.ai/) - Boost your lead generation with AI. Identify and interact with your target audience on social networks in an authentic way
+1959. [FMA-Net](https://kaist-viclab.github.io/fmanet-site/) - A project capable of transforming a blurred video into a perfectly clear result. This artificial intelligence, still under development, looks promising
+1960. [BlitzBear](https://blitzbear.com/) - Optimise your referencing with SEO software that analyses your competitors and suggests relevant improvements
+1961. [MoMask](https://ericguo5513.github.io/momask/) - A new way of creating 3D human movements from text. Use of hierarchical quantization and bidirectional transformers
+1962. [Twip AI](https://www.twip.ai/) - A complete creative tool for YouTube: customised AI scripts, realistic voice-overs, SEO optimisation, idea generator, etc.
+1963. [Gendo AI](https://www.gendo.ai/) - Create striking CGI architectural renderings directly in your Web browser. Edit materials, lighting and landscape. Apply a variety of styles
+1964. [ChainClarity](https://chainclarity.io/) - Easily decipher crypto whitepapers with AI that analyzes and explains them clearly and concisely. Make better decisions
+1965. [Claude For Sheets](https://workspace.google.com/marketplace/app/claude_for_sheets/909417792257) - Use Claude directly in Google Sheets™ with a wizard that offers functions such as text rewriting, translation, classification, API, etc.
+1966. [Rezi](https://www.rezi.ai/) - A resume and cover letter creator that uses AI to make your resume reliable and more attractive
+1967. [Aomni AI](https://www.aomni.com/) - An autonomous agent specialized in data extraction that increases Auto-GPT&#039;s capabilities tenfold
+1968. [Travel Plan AI](https://www.travelplan-ai.com/) - Creation of a travel plan (day by day) with the assistance of an AI
+1969. [Swifty](https://www.swifty.so/) - An autonomous AI assistant specialised in business travel that takes care of everything: planning, booking (flights and hotels), payment and invoicing
+1970. [CoverQuick](https://www.coverquick.co/) - Simplify your job search with this intuitive platform. Use AI to easily create relevant CVs and cover letters
+1971. [Wordband](https://www.word.band/discover) - Easy-to-use music generator. Mix, remix and modify your voice too, with over 10,000 freely accessible songs
+1972. [Dashtoon Studio](https://dashtoon.com/create) - Simplify the creation of comic books with the help of AI. Explore various artistic styles, choose from a library of characters or create your own
+1973. [WriteHuman](https://writehuman.ai/) - Transform AI-generated text into undetectable human handwriting. Avoid detection of your AI content
+1974. [Dictation IO](https://dictation.io/) - Transcribe and translate in real time what you say orally into text in the language of your choice
+1975. [Final Round](https://www.finalroundai.com/) - An AI that listens to your job interviews via videoconference and helps you maximise your chances of being hired for a job
+1976. [AI Backdrop](https://www.zmo.ai/imgcreator/photo-studio) - Create convincing and realistic backgrounds with this marketing-oriented background generator
+1977. [SofaBrain AI](https://sofabrain.com/) - Find inspiration for the rooms in your home with this super-smart interior designer. Transform your living space in less than 10 seconds
+1978. [Hippocratic AI](https://www.hippocraticai.com/) - A medical platform offering over 300 specialized agents in 25 healthcare fields. Develop your own virtual assistants and monetize them via a marketplace dedicated to healthcare professionals
+1979. [Image Candy](https://imgcandy.com/) - An easy-to-use online image editor offering a full range of tools for rapid image enhancement
+1980. [HireLakeAI](https://www.hirelake.ai/) - Optimize your recruitment with this AI platform featuring comprehensive candidate evaluation and selection tools. Easy integration with HR software
+1981. [MixPeek](https://mixpeek.com/) - Add an AI layer to your data to improve your engagement rate
+1982. [GaussianObject](https://gaussianobject.github.io/) - A project that makes it easy to create high-quality 3D objects from four images using the Gaussian Splatting technique
+1983. [PageGenie](https://pagegenie.ai/) - Instantly convert your business idea into a landing page
+1984. [Upword](https://www.upword.ai/) - Text summary creation made easy with a Chrome extension and powerful AI
+1985. [Prompt Mixer](https://www.promptmixer.dev/) - A collaborative platform optimized for team development of prompts of all kinds: sales support, marketing, business, legal, etc.
+1986. [Ayraa](https://www.ayraa.io/) - A search engine that instantly captures and organises your professional activities. Compatible with Slack, Gmail, Quora, Google Docs, Notion, etc.
+1987. [SamurAI](https://www.thesamur.ai/) - A free ChatBot to quickly grow your Discord community
+1988. [Blender by PromeAI](https://www.promeai.pro/blender) - An adaptive AI tool that transforms your sketches into realistic 3D renderings. Ideal for architects and designers who need to quickly visualize their concepts
+1989. [Kartiv](https://www.kartiv.com/) - An AI-powered design assistant to create stunning visuals via a prompt. Ideal for marketing and e-commerce.
+1990. [Pixels AI](https://www.pixels.ai/) - Detect trends and increase your revenues
+1991. [Penseum](https://penseum.com/) - Improve your studies with this AI tool that structures and analyzes academic content. Create practical flashcards and personalized questions
+1992. [Penny AI](https://penny.im/) - Your AI shopping assistant for online savings. Compare prices and analyze pros and cons easily with this Chrome extension
+1993. [RecCloud](https://reccloud.com/) - All-in-one platform of AI tools for creating and editing videos: automatic subtitles, text-to-speech, translation, editing and more
+1994. [Blaze AI](https://www.withblaze.app/) - Centralize your marketing data and automate your cross-platform campaigns with AI that analyzes millions of market signals simultaneously
+1995. [Tripo AI](https://www.tripo3d.ai/) - An AI generator designed to create 3D models from text. Create high-quality 3D models in just a few seconds
+1996. [La Growth Machine](https://lagrowthmachine.com/) - An AI platform to automate your LinkedIn and email sales campaigns. Analyze your leads and conversations more effectively
+1997. [StyleDrop](https://styledrop.github.io/) - An AI designed by Google Research that transforms your text into images while maintaining the style of your reference image
+1998. [CallFluent AI](https://callfluent.com/) - Automate your inbound and outbound calls with AI voice agents that communicate naturally, handle objections and operate 24/7
+1999. [PhotoGuard AI](https://gradientscience.org/photoguard/) - Easily detect whether a photo has been generated or edited by artificial intelligence. Quickly spot fake images using an AI detection model
+2000. [The GPT Who Lived](https://huggingface.co/spaces/johnnygreco/the-gpt-who-lived) - Talk to Harry Potter and get all the answers you ever wanted to know (GPT)
+2001. [Outfit Anyone](https://github.com/HumanAIGC/OutfitAnyone) - Instantly test different types of clothing using AI. An ideal tool for relooking and e-commerce products
+2002. [Stability Matrix](https://lykos.ai/) - Install the popular Stable Diffusion image generator in just one click. The tool also lets you use models, LoRA, VAE, CLIP and more.
+2003. [Kandinsky 2](https://github.com/ai-forever/Kandinsky-2) - A promising open-source project for high-quality image generation (Text2Image)
+2004. [Felo Translator](https://felo.me/zh-CN/translator) - Enjoy real-time translation with this AI powered by GPT-4. Available in over 15 languages on Android and IOS
+2005. [BeeBee Ai](https://www.beebee.ai/) - A dedicated platform for the detailed analysis of the financial data of more than 3,000 listed companies: Dow Jones 30, S&amp;P500 and NASDAQ 100
+2006. [CM3leon](https://ai.meta.com/blog/generative-ai-text-images-cm3leon/) - An image-generating AI capable of converting text into images and vice versa. Fast and cost-effective thanks to its Attention model
+2007. [Steno](https://www.steno.ai/) - Automatic AI transcription of your favorite podcasts without using any software
+2008. [Stream Chat AI](https://aitwitch.chat/) - An AI chatbot for streamers on the Twitch platform. The bot can chat intelligently with your viewers without ever getting tired
+2009. [Text2SQL](https://www.text2sql.ai/) - Generate SQL queries by asking questions in natural language, just like on ChatGPT. Easily convert your ideas into SQL queries
+2010. [Yoodli AI](https://yoodli.ai/) - Practice speaking clearly in your job interviews
+2011. [Rabbit R1](https://www.rabbit.tech/) - A new type of technological product that could rival our current smartphones. It is equipped with AI, a camera and installable applications
+2012. [smudge.ai](https://smudge.ai/) - Boost your navigation with an extension that adds AI options to your menu. Summarize articles, correct mistakes, translate text and more
+2013. [VoiceTrans Fineshare](https://www.fineshare.com/voicetrans/) - Transform your voice in real time with thousands of sound effects thanks to AI. Share unique voice messages and surprise your friends
+2014. [UiMagic](https://www.uimagic.io/) - An AI assistant to automatically generate, edit and design fabulous (web)Design
+2015. [Fable](https://makeitfable.com/) - A practical platform for testing digital accessibility. Collaborate with disabled people and improve the usability of your products
+2016. [Arduino ai](https://www.duinocodegenerator.com/) - Arduino code generator from a simple description
+2017. [YTClass](https://ytclass.co/) - Learn new skills with YouTube video courses. You&#039;re assisted by an AI with whom you can talk in real time. Ideal for students
+2018. [Scispace](https://www.typeset.io/) - An AI to help you understand and easily read scientific literature (research papers, etc.)
+2019. [Gemelo](https://gemelo.ai/) - Create interactive AI twins and build customer loyalty with AI powered by NVIDIA Maxine. Voice cloning, avatar, vision, interaction, etc.
+2020. [Readbay.ai](https://www.readbay.ai/oyster/home/index) - An AI coach to help you make the most of your reading sessions. Take advantage of a reading calendar and personalised suggestions from your mobile phone
+2021. [Questflow](https://www.questflow.ai/) - A collaborative workspace for team automation: emails, calendars, social networks, data, etc.
+2022. [Banner GPT](https://bannergpt.dabble.so/) - AI for easy creation of professionally designed blog banners. Possibility of producing banners that retain your site&#039;s graphic identity
+2023. [Aiter](https://aiter.io/) - An AI that generates advertising content and marketing strategies using only a website address
+2024. [Dolly 2.0](https://huggingface.co/databricks/dolly-v2-12b) - A LLM conversational AI like ChatGPT, 100% free and open-source. API available
+2025. [Pressmaster.ai](https://www.pressmaster.ai/) - Write attractive articles, publish them in magazines and monitor their influence with ease
+2026. [RocketAI](https://rocketai.io/) - Marketing oriented image generator. Fast generation of attractive visual ads
+2027. [Axiom](https://axiom.ai/) - Automate your repetitive tasks with this AI browser extension
+2028. [Paintit.ai](https://paintit.ai/interior-ai) - Visualize and design your home&#039;s interior with an AI-driven design expert assistant
+2029. [AI Apparel](https://www.aiapparel.store/) - Create unique T-shirts designed entirely with the help of AI. Turn your design ideas into quality textile products
+2030. [AInvest](https://www.ainvest.com/) - A tool for identifying and analyzing listed stocks according to various criteria. Features filtering options and several classification methods
+2031. [Telescope AI](https://trytelescope.io/) - Find relevant B2B leads, conduct market research or generate targeted lists easily with the help of a huge database and AI
+2032. [OpenAssistantGPT](https://www.openassistantgpt.io/en) - Easily create your OpenAI chatbot with an easy-to-use open-source platform. Ideal for quick and low-cost site integration
+2033. [GPTinf](https://www.gptinf.com/) - A handy tool that rewrites and paraphrases your text to make it undetectable to AIs
+2034. [RivalFlow AI](https://www.rivalflow.com/) - Improve your existing content and fill your SEO gaps with AI-optimised content suggestions
+2035. [Drawww](https://www.drawww.app/) - A drawing application with real-time AI assistance for IPad tablet users. The image is built in real time according to your drawing
+2036. [ThisMemeDoesNotExist](https://imgflip.com/ai-meme) - 
+2037. [Jector.ai](https://studio.jector.ai/foodstyler) - Create stunning backgrounds for your product photos with Jector. Easily enhance and modify your visuals with text instructions
+2038. [PyjamaHR](https://pyjamahr.com/) - A complete AI recruitment and ATS software package to streamline your hiring process, from advertisement to candidate follow-up
+2039. [SuperGPT](https://www.superjoin.ai/) - Quickly and automatically import data into Google Sheets. No-code integrations with the ability to create tables and graphs. Ideal for RevOps teams
+2040. [Better Synonyms AI](https://www.bettersynonyms.com/) - A handy AI tool that can find synonyms in less than a second
+2041. [LLaVA](https://llava.hliu.cc/) - A multimodal AI with vision, capable of recognizing an image (like ChatGPT 4). Demo available on GitHub
+2042. [AIEpics](https://aiepics.com/) - A royalty-free poem generator capable of creating poetic texts in a variety of styles. Runs under ChatGPT
+2043. [EssayService AI](https://www.essayservice.ai/) - A tool for writing essays with an intelligent understanding of subjects: thesis formulation, grammar improvement, plagiarism detection, etc.
+2044. [MemoryLane](https://memorylane.co/) - A therapeutic AI tool that helps you preserve your memories by turning them into a personalized book. Share your life story with Genie, a trusted AI
+2045. [ChatDesigner](https://chatdesigner.ai/) - A specialized AI agent for editing and generating AI images. Features a wide range of tools for professional design
+2046. [WorkOS](https://workos.com/) - A platform that centralizes and optimizes your company&#039;s operations. It connects all departments, from management to operational teams
+2047. [Deepgram](https://deepgram.com/) - Integrate AI-generated voices into your applications: fast, accurate and scalable transcription via an easy-to-use API
+2048. [Network AI](https://www.wonsulting.com/networkai) - An AI that develops your network and puts you in touch with professionals in your sector
+2049. [WestWorld Simulation](https://arxiv.org/pdf/2304.03442) - A simulation created by researchers in which autonomous AIs live together. Activities, social interaction, etc.
+2050. [Build Chatbot](https://buildchatbot.ai/) - Easily create personalized chatbots without coding. Integrate with Slack, personalize your brand and increase customer engagement
+2051. [Creative Upscale by Openart](https://openart.ai/apps/creative-upscale) - An AI tool that lets you transform your images in 4K and up to 9 megapixels. Use a creative prompt to add realistic detail
+2052. [Monica](https://monica.im/) - A Chrome extension for ChatGPT that can translate, summarize, write your emails, generate text, etc.
+2053. [Bland.ai](https://www.bland.ai/) - Deploy AI-enabled telephone agents capable of making millions of calls a day using human voices. Ideal for customer support, sales, etc.
+2054. [VanceAI](https://vanceai.com/fr/) - Enhance and retouch your photos in the best possible way
+2055. [Lucidpic](https://lucidpic.com/) - Quickly create unique, royalty free and customizable photos of people
+2056. [MailMaestro](https://www.maestrolabs.com/) - An AI assistant for writing your e-mails, summarising your threads and attachments. Also improves management of your inbox
+2057. [Potis AI](https://www.potis.ai/) - Your recruitment co-pilot conducting automated behavioural interviews. Assess the real skills of your candidates
+2058. [Triibe](https://www.triibe.club/) - AI platform for businesses specialized in employee engagement. Includes AI chatbot, interactive news feed, polls, analytics, etc.
+2059. [Windsor](https://www.windsor.io/) - Create AI-personalized videos in order to reach a larger audience. Especially for email and sms marketing campaigns
+2060. [Architect Render](https://www.architectrender.com/) - Quickly generate realistic 3D renderings from drawings or photos. Suitable for designers, architects and real estate agents
+2061. [DreamGen](https://dreamgen.com/) - An AI tool for creating uncensored stories and characters. It offers a range of predefined models and imaginative scenarios
+2062. [Lovo.ai](https://lovo.ai/) - Generate realistic voices with an AI platform that offers over 500 voices in 100 different languages. Ideal for marketing and education
+2063. [Thinkster Math](https://hellothinkster.com/) - Boost your child&#039;s math learning 3x faster with the world&#039;s first AI-based program. Features educational games
+2064. [AI Magicx](https://aimagicx.com/) - Generate SEO articles and copywriting content with the help of AI. Over 75 templates available for ChatGPT 4 Turbo and Claude v2
+2065. [AstroGPT](https://astrogpt.pages.dev/) - An AI that gives you personalized astrological advice for your love, work, etc.
+2066. [MVDream](https://mv-dream.github.io/) - Generate 3D models from text (prompt). Benefit from 2D diffusion and 3D data consistency
+2067. [Meaning AI](https://www.usemeaning.com/) - An AI coach that blocks time-consuming apps and prevents you from unnecessary distractions. Unlock them by chatting with the AI for brief, intentional use
+2068. [Fliz AI](https://fliz.ai/) - An AI that automatically converts a URL into an engaging video. Perfect for e-commerce sites, real estate and bloggers
+2069. [PhotoAI](https://www.photoai.me/) - Generate 30 photos of yourself in sometimes very artistic styles
+2070. [Disney AI Poster](https://www.disneyaiposter.com/) - Turn your pet into a cartoon character with Disney Pixar style
+2071. [Postus](https://postus.ai/) - Optimize your social network management with an automated solution. Generate content thanks to AI, with a customizable publication frequency
+2072. [FollowFox](https://followfox.ai/) - An open-source text-to-image generator using the Stable Diffusion model. Create images from a prompt on Discord
+2073. [AIGPT](https://aigptfree.com/) - Unleash your creativity with an AI Chatbot available on Telegram. Generate text or images with ease
+2074. [Junia AI](https://www.junia.ai/) - A content generator optimised by AI for search engines (SEO), expert in writing even very long articles
+2075. [PipeLime](https://pipelime.ai/) - Optimize your sales by generating qualified leads with AI-driven automation. Rapidly improve your conversion rate
+2076. [Pre.dev](https://pre.dev/) - Describe your idea and AI instantly designs your software. Ideal for web projects, cryptocurrencies, etc.
+2077. [Rasgo](https://www.rasgoml.com/) - Communicate easily with data, visualize it intelligently and extract insights with AI expert in data analysis (GPT-4)
+2078. [Match That Role](https://matchthatroleai.com/) - Find the perfect job with an AI tool that analyzes resumes and job offers to automatically match them up
+2079. [SWE-agent](https://swe-agent.com/) - Automatically fix bugs in your GitHub repositories with GPT-4. Designed to facilitate interaction between AI and source code
+2080. [Miniapps.ai](https://miniapps.ai/) - Creation of applications powered by AI accessible to all, even without if you are a novice
+2081. [Shap-e](https://github.com/openai/shap-e) - A tool that creates 3D objects from text or images. Ideal for designers, artists and architects
+2082. [Nightshade AI](https://arxiv.org/abs/2310.13828) - A new tool that allows artists to poison the training data of AI models. An algorithm to protect the copyright of your works
+2083. [AI Photo by HitPaw](https://www.hitpaw.com/fotorpea-photo-enhancer.html) - A flexible photo editing tool that integrates image enhancement, object removal and illustration generation via AI
+2084. [Quick QR Art](https://quickqr.art/) - QR Code generator that automatically transforms your QR Codes into colorful, artistic images
+2085. [Supermaven](https://supermaven.com/) - An ultra-fast co-pilot that delivers high-quality code suggestions with low latency. AI adapts to your style and vast code bases
+2086. [Fixkey AI](https://www.fixkey.ai/zh) - An AI writing assistant that works in real time at the speed of your writing. Corrections or suggestions are instantaneous. Available on macOS
+2087. [AI is a Joke](https://www.aiisajoke.com/) - Give the AI a theme and get some really hilarious jokes, or not
+2088. [Colorcinch](https://www.cartoonize.net/) - Turn your photos into stylized cartoon-like caricatures with AI. Quickly create unique, high-quality avatars
+2089. [Chatd AI](https://www.chatd.ai/) - Chatd lets you communicate with your documents and files locally. This IA software is compatible with Windows and MAC
+2090. [Outerbase](https://www.outerbase.com/) - Navigate your databases with AI. Easily view, modify and query your data. Security and confidentiality guaranteed
+2091. [Maverick](https://marketplace.visualstudio.com/items) - Complements your code and helps you without the need for an API. It can work locally
+2092. [Human Circles AI](https://www.humancircles.ai/) - Optimize your networking and find new collaborators. Integrate this AI with LinkedIn and benefit from more precise connections
+2093. [Wasitai](https://wasitai.com/) - Easily check whether an image has been generated by an AI machine. Upload your image and know immediately if it&#039;s fake
+2094. [BizIdeas](https://www.bizideas.ai/) - An AI that quickly generates customized business ideas specifically for your company. Perfect for boosting your brainstorming
+2095. [Lightning  AI](https://lightning.ai/) - Creation of full stack models in a very fast and professional way
+2096. [TheoAssist](https://theoassist.com/home) - An AI companion who knows the bible by heart and can also answer your questions
+2097. [ZOYO AI](https://www.zoyo.ai/) - AI tools for the real estate world: interior/exterior design, virtual tours, upscaling and more. Ideal for estate agents and architects
+2098. [Lingosync](https://lingosync.ai/) - Translate your videos easily into more than 40 languages. Also suitable for E-learning or social networks
+2099. [Sitekick](https://www.sitekick.ai/) - Design landing pages or portfolios in a few moments
+2100. [PiktID](https://piktid.com/eraseid-ai-face-anonymizer/) - A tool that hides your real identity by changing your face in your photos. You can easily customise the face that replaces you
+2101. [Medical Chat](https://medical.chat-data.com/) - An intelligent chatbot to help healthcare professionals get accurate answers to complex medical questions
+2102. [Created by Humans](https://www.createdbyhumans.ai/) - A powerful platform for monetizing your AI creations. Control the use of your works and receive fair remuneration
+2103. [HealthKey](https://gethealthkey.com/) - An AI capable of summarizing medical records very quickly. Obtain patient histories in less than 90 seconds
+2104. [Looria](https://www.looria.com/) - This shopping assistant will check everything before you finalize your purchase (price, store, reviews, etc.)
+2105. [Lychee AI](https://www.fame.so/clips) - Turn your podcast into short videos for platforms like YouTube Short, TikTok or Reels
+2106. [Obviously AI](https://www.zams.com/) - Create AI predictive models without coding. Deploy your project directly in production and easily predict potential churn, sales or fraud
+2107. [Sieve](https://www.sievedata.com/) - Create complex AI applications by easily combining multiple models. Visualize, debug and deploy on a large scale with a flexible infrastructure
+2108. [Poly AI](https://withpoly.com/) - Generate realistic 3D textures in just a few seconds from a text (prompt)
+2109. [CourseFactory AI](https://coursefactory.ai/) - Produce your online courses quickly with this expert AI in the field of education. Fast, efficient and customized process
+2110. [Podsum](https://podsum.app/) - Easily summarize your favorite audio podcasts with this free IA tool. You can download the results in .mp3 format
+2111. [AiTerm](https://www.aiterm.net/) - A terminal assistant that you can talk to and ask to execute commands. An ideal AI tool for developers
+2112. [MagiScan](https://magiscan.app/) - Scan an object with your smartphone and this AI will transform it into a high-quality 3D model. Mobile application available on iOS and Android
+2113. [Procys](https://procys.com/) - Get your invoice data automatically with AI
+2114. [Metkagram](https://metkagram.app/) - Learn a language more effectively using annotated cards and AI-generated memory
+2115. [ChatGPT for YouTube](https://chatgpt4youtube.com/) - Free Chrome extension that can summarize a YouTube video and save you time
+2116. [GPT For Google Forms](https://workspace.google.com/marketplace/app/%E7%94%A8%E4%BA%8E_google_forms_%E7%9A%84_gpt_%E6%B5%8B%E9%AA%8C%E7%94%9F%E6%88%90%E5%99%A8_chatgpt/37349114302) - A tool that simplifies the creation of Google forms with ChatGPT. Useful for generating surveys, quizzes, etc. directly in Google Workspace
+2117. [Tracejourney](https://discord.com/invite/CHYcHCzHed) - Add a bot to the Midjourney Discord and quickly vectorize any image you generate
+2118. [CodeCompanion](https://codecompanion.ai/) - An all-in-one coding assistant that makes it easy to read, write and update your code, run terminal commands and more.
+2119. [Wardrobe AI](https://wardrobe-ai.com/) - Modernize your wardrobe with AI-personalized recommendations. Works with simple photos
+2120. [Mutiny](https://www.mutinyhq.com/) - A no-code AI that assists marketing professionals and increases conversion rates
+2121. [Exploding Topics](https://explodingtopics.com/) - Discover emerging trends before they explode. Get data on hot topics, startups and high-growth companies
+2122. [Legaliser](https://www.legaliser.com/) - An AI legal assistant that analyzes your contracts, suggests improvements and offers customizable templates. Optimize your contract management with ease
+2123. [Interviews Chat](https://www.interviews.chat/) - Prepare for job interviews with AI that analyzes your answers and gives you suggestions in real time (Multilingual and secure)
+2124. [InkDrop](https://ink.trimythic.co/) - Choose the style and location of your tattoo and get suggestions for tattoos designed by AI
+2125. [VWO](https://vwo.com/testing//) - Turn your visitors into customers and increase the efficiency of your sales conversions
+2126. [CopyMonkey](https://copymonkey.ai/) - Generate and optimize your listings for the Amazon website
+2127. [AI Code Converter](https://aicodeconvert.com/) - An AI tool that converts code from one programming language to another. It supports a wide variety of languages: JavaScript, Python, etc.
+2128. [Imagecolorizer](https://imagecolorizer.com/) - Recolor your images without color and rediscover your memories
+2129. [Ghola](https://www.ghola.ai/) - Creation of customizable chatbots to explore your thoughts and emotions in complete peace of mind
+2130. [Text to Pokemon](https://replicate.com/lambdal/text-to-pokemon) - Generate unique Pokemon from any text. Customization and sharing on social networks
+2131. [WallpaperAI.io](https://wallpaperai.co/) - Create stunning 5K wallpapers with AI. Describe your idea and get a high-resolution image for PC, laptop or smartphone.
+2132. [SuperDuperDB](https://github.com/superduper-io/superduper) - Integrate AI directly into your databases with an open framework for model formation, vector search and continuous inference
+2133. [Docus AI](https://docus.ai/) - An AI assistant that looks after your health with personalized advice. Access also to the advice of renowned medical experts
+2134. [Strut](https://strut.so/) - A collaborative workspace dedicated to writers: better organisation, real-time collaboration and the creation of high-quality content by AI
+2135. [hoopsAI](https://www.hoopsai.com/login) - Optimize your trading sessions with ideas generated in real time by AI. Monitor and analyze market trends (stock market)
+2136. [Ilus AI](https://ilus.ai/) - Create stunning custom illustrations exportable in SVG or PNG format. Choose from predefined templates or train your own by importing your own designs
+2137. [Texture Lab](https://www.scenario.com/features/textures) - Generate 3D modeled textures for your gaming and gaming projects
+2138. [Opinly.ai](https://opinly.ai/) - Perform a link-based competitive analysis with ease. Copy and paste a website link and get a detailed report free of charge
+2139. [AssignmentGPT AI](https://assignmentgpt.ai/) - An ergonomic platform with a powerful AI academic-level writing assistant. Ideal for writing assignments, blogs or professional content
+2140. [Img Upscaler](https://imgupscaler.com/) - Enhance, enlarge and increase the resolution of your images. Also available on mobile
+2141. [Songburst](https://www.songburst.ai/) - A music generator designed to be very easy to use. Generate songs and export them to Spotify and Apple Music
+2142. [Point-E](https://openai.com/) - 3D modeling for everyone
+2143. [TeamCreate](https://www.teamcreate.ai/) - Create a customizable team of AI assistants for a variety of enterprise roles. Automate your tasks via Slack and 200+ apps without coding
+2144. [Coach Marlee](https://getmarlee.com/) - A selection of AI coaches who assist you to reach your goals quickly
+2145. [Pixite AI](https://pixite.ai/) - Simply enter your idea and get a unique clothing design. Option to print and order your clothing
+2146. [WhisperTranscribe](https://www.whispertranscribe.com/) - Turn your audio into text. Get an accurate transcription and automatically generate content from it
+2147. [Atmo Global Forecast](https://earth.atmo.ai/) - Get more accurate forecasts with the help of expert weather AI. Forecast models for rain, temperature and wind
+2148. [Finta](https://www.trustfinta.com/) - AI that helps your company raise money and find investors
+2149. [Wikipedia Article AI](https://wikipediaarticle.com/) - Create a Wikipedia page in just a few seconds with AI. Generate factual content that respects the rules imposed by Wikipedia
+2150. [Bladerunner](https://www.bladerunner.ai/) - A powerful browser extension to identify AI-generated text. Fast detection of fake reviews and articles
+2151. [BlogFox](https://blogfox.ai/) - Turn your YouTube videos into SEO-optimized blog posts with an AI tool that makes effective use of Anthropic&#039;s Claude Opus
+2152. [Plurana](https://landing.plurana.com/) - AI-generated, high-quality vector designs, with over 1000 graphic combinations available. 25 free downloads
+2153. [PanoHead](https://github.com/SizheAn/PanoHead) - Automatic transformation of any 2D image of heads into a 3D model viewable over 360°
+2154. [Versy AI](https://www.versy.ai/) - Generative AI to create personalized virtual experiences from text
+2155. [Daydream AI](https://daydream.co/) - An AI-driven analysis and reporting tool specially designed for businesses and teams. Ideal for collaborative data management
+2156. [Magic Studio](https://magicstudio.com/) - Full-featured image editing AI that can rival photo editing software
+2157. [Gleek](https://www.gleek.io/) - From any type of data, this AI automatically analyzes and generates professional diagrams
+2158. [SrefHunter](https://srefhunter.top/) - A platform featuring the latest trends in Sref code for Midjourney from several websites
+2159. [Draw My UI](https://draw-a-ui-umber.vercel.app/) - Create user interface designs intuitively with AI (API required). From a sketch, this tool generates an effective UI design
+2160. [Orion by Meta](https://about.fb.com/news/2024/09/introducing-orion-our-first-true-augmented-reality-glasses/) - Meta&#039;s first consumer augmented reality glasses. Superimpose digital information on the real world, control it by voice and gesture, and enjoy a 4-hour battery life for an immersive experience
+2161. [StockmusicGPT](https://stockmusicgpt.com/) - An AI tool for creating personalized music. Enjoy royalty-free music, unlimited downloads and permanent storage
+2162. [DiffusionLight](https://diffusionlight.github.io/) - An innovative new technique for estimating and improving the lighting on your images. Use of advanced diffusion models (SDXL)
+2163. [Documind](https://www.documind.chat/) - Transform the way you interact with your PDF documents. Chat intuitively with an AI and get instant, accurate answers
+2164. [Mirai Translate](https://miraitranslate.com/) - Get secure, professional machine translation services with advanced AI technology
+2165. [FindAMeal](https://findameal.ai/) - Find a restaurant with AI that shows you the best places to eat on a map. It works all over the world
+2166. [Logopony](https://www.logopony.com/) - A logo creator that lets you create a variety of original designs. AI-assisted graphic editing
+2167. [WrpUp](https://wrpup.com/) - Turn long videos into short summaries with AI. Saves a lot of time
+2168. [Typeframes](https://www.revid.ai/) - Automated creation of attractive videos with music synchronisation for your products. Intuitive interface and easily editable results
+2169. [Caspa AI](https://www.caspa.ai/) - A fast, cost-effective way to generate custom AI images. Ideal for creating digital models and mannequins
+2170. [Ocoya](https://www.ocoya.net/) - In just a few minutes, you produce marketing content for your social networks
+2171. [More Graphics Patterns](https://more.graphics/patterns) - A texture, pattern and background generator for use with a prompt. The site features a favorites and categories system
+2172. [Alexa Translations](https://alexatranslations.com/) - AI translation software for businesses and professionals. Reliable, fast and secure
+2173. [MusicStar.AI](https://www.musicstar.ai/) - Create professional-quality musical tracks, complete with lyrics, vocal recording, mixing, album cover and more.
+2174. [Object Remover](https://objectremover.com/) - AI that easily removes unwanted elements from your photos. Immediate results, guaranteed Watermark-free
+2175. [Fineshare Zoom Background](https://www.fineshare.com/zoom-background/) - A high-quality, easy-to-use background generator that works from a text prompt
+2176. [Syncly](https://syncly.app/) - Centralize and analyze all your customer feedback. AI detects negative signals and prioritizes actions
+2177. [Zevo.ai](https://www.zevo.ai/) - An automated code visualization system to better understand and develop your code. Ideal for refactoring, deployment, integration, etc.
+2178. [SMRY](https://www.smry.ai/) - An intelligent assistant that can summarize an article based simply on a web address (url). Ideal for long or complex texts
+2179. [ReplyMind](https://www.replymind.com/) - Generate responses automatically thanks to AI and rapidly improve your engagement rate on social networks
+2180. [OverflowAI](https://stackoverflow.co/labs/) - An assistant in software code that helps you based on more than 58 million answers available on the Stack Overflow platform
+2181. [DDN](https://www.ddn.com/) - An AI infrastructure leveraging over 500,000 GPUs. Optimize your workloads with 10x better performance and higher ROI
+2182. [Article.Audio](https://article.audio/) - Convert any article to audio (with voice playback)
+2183. [Typegrow](https://typegrow.com/) - A collection of AI tools to boost your LinkedIn account: expert publishing AI assistant, hashtag generator, smart calendar, etc.
+2184. [2D&#038;3D Video Converter](https://idatapp.com/software/3d-converter) - Easily convert your 2D videos into immersive 3D experiences with a professional, user-friendly tool
+2185. [FigGPT](https://www.figma.com/community/plugin/1207913933994957698/figgpt) - Boost your productivity in Figma with this AI-powered plugin. A multilingual tool specializing in text writing and editing
+2186. [Masterpiece X](https://www.masterpiecex.com/) - An AI-powered generator that transforms your text descriptions into 3D visual elements. Ideal for rapid prototyping
+2187. [AI Chatbot by Zapier](https://zapier.com/ai/chatbot) - Easily integrate an AI chatbot on your site for 24/7 customer support. Qualify your leads, answer questions and boost conversions fast
+2188. [ChatGPT File Uploader](https://chromewebstore.google.com/detail/chatgpt-sidebar-gpt-4o-o1/becfinhbfclcgokjlobojlnldbfillpf) - A Chrome extension that lets you upload and process various file types directly in the ChatGPT interface: PDF, Excel, etc.
+2189. [Rephraser.co](https://www.rephraser.co/paraphrasing-tool) - Reformulate your texts without losing their original meaning. Ideal for researchers, students and marketing professionals
+2190. [ResearchGPT](https://github.com/mukulpatnaik/researchgpt) - An AI that is able to search through a PDF document and extract the answers you are looking for
+2191. [Wist AI](https://wistlabs.com/) - Integrate your 3D memories into reality (VR) thanks to an AI that inlays your favorite videos into your everyday life
+2192. [AIimag.es](https://aiimag.es/) - Easily transform your texts into images with Stable Diffusion, a Windows-based software package. Take advantage of an intuitive interface
+2193. [Doly by AniML](https://www.animl.ai/) - Create high-quality 3D videos of your products with your iPhone. Capture from different angles and export to social networks or advertisements
+2194. [Dolores](https://dolores.app/) - An AI girlfriend capable of memorizing your chat history, constantly improving, reflecting and evolving. Possibility of customization
+2195. [Connected Papers](https://www.connectedpapers.com/) - Connect various search area items together. Make sure you haven&#039;t missed anything
+2196. [Stackbear](https://stackbear.com/) - A site that lets you use, build or share AI tools without any knowledge of code. Available for multiple business sectors
+2197. [SheetAI.app](https://www.sheetai.app/) - Generation of Google Sheets from a simple text
+2198. [Roast My Desk](https://roastmydesk.com/) - Upload a photo of your desktop and receive a humorous review about it
+2199. [GreenThumb](https://www.messengerx.io/greenthumb) - An AI assistant with a green thumb and gardening expertise. Get advice when you&#039;re in the garden: planting, seeding, etc.
+2200. [Dubbing AI](https://dubbingai.io/) - Transform your voice in real time for gaming or streaming with this AI tool. 1000+ voice tones and 40 languages supported
+2201. [VisualSitemaps](https://visualsitemaps.com/) - Create interactive visual sitemaps and analyze your site&#039;s structure, generate content ideas and improve information architecture simply and easily
+2202. [GPTBots.ai](https://www.gptbots.ai/) - An AI tool that allows developers to seamlessly integrate an LLM into their data and create an intelligent ChatBot
+2203. [Story Path](https://storypath.app/) - Never get stuck in front of a blank page again with this story generator
+2204. [WriteGPT](https://writegpt.ai/) - A Chrome extension that makes writing, translating and more easy
+2205. [MyVocal AI](https://www.myvocal.ai/) - An AI that can read with your voice, but also sing! Possibility to download in MP3 format
+2206. [Einstein Copilot](https://www.salesforce.com/ap/agentforce/) - An AI-powered ChatBot to boost your sales, improve your customer service, marketing strategies and more
+2207. [Galileo AI](https://www.usegalileo.ai/explore) - A no-code AI design tool that generates user interfaces (UI) Works via a text prompt
+2208. [B7Labs](https://www.getconverse.com/) - A simple tool that summarizes any web page (from a URL) in a few moments
+2209. [Monster Mash](https://monstermash.zone/) - A 3D modeling and animation tool based on sketches
+2210. [Gifts Genie](https://gen.gifts/) - Generator of personalized gift ideas for any occasion: weddings, birthdays, holidays, etc.
+2211. [Heali AI](https://www.heali.com/) - An AI mobile application that offers personalized and therapeutic nutritional plans. The assistant adapts to your tastes and needs
+2212. [SubtitleO](https://rendercut.io/) - An AI assistant designed to add subtitles to your videos. It can easily transcribe the sound of your video into text
+2213. [Clickable](https://www.clickable.so/) - Design of attractively designed ads for use in your marketing campaigns
+2214. [Devi AI Website Builder](https://website.ddevi.com/) - Create sites and landing pages in 10 seconds with an AI web page builder. No coding skills required
+2215. [Fluentify](https://www.webpilot.ai/) - A copilot extension that accompanies you in all your tasks on the web: writing, summarizing, searching, etc.
+2216. [Fluentify](https://www.webpilot.ai/home) - A copilot extension that accompanies you in all your tasks on the web: writing, summarizing, searching, etc.
+2217. [Fixblurry.photos](https://fixblurry.photos/) - Restore and improve the quality of your old face photos. Also suitable for designing advertising campaigns
+2218. [Wisio](https://wisio.app/) - An AI platform designed for scientific writing accessible in several languages
+2219. [Natural Language Playlist](https://www.naturallanguageplaylist.com/) - Give this AI the kind of music you want and it makes you a custom playlist
+2220. [Top VS Best](https://topvsbest.com/aiimagecreator/) - An easy-to-use AI-based image generator to illustrate your design, social networking, website, marketing and other projects
+2221. [Ask-rbg](https://ask-rbg.ai/) - Interact with an experimental virtual version of Justice Ruth Bader Ginsburg and get answers to your questions
+2222. [Vidds AI](https://vidds.co/) - Quickly generate videos from keywords or text. Also add transitions, audio, etc.
+2223. [ChatGPT Prompt Plus](https://promptplus.org/) - A variety of templates and prompts to help you optimize your interactions with ChatGPT
+2224. [Chatnode](https://www.chatnode.ai/) - Train ChatGPT with your own data and easily build a conversational ChatBot. Works with text, URLs or PDF files
+2225. [Graphlit](https://www.graphlit.com/) - Easily integrate LLMs into your projects and process unstructured data too. Ideal for creating dynamic AI applications
+2226. [MAIHEM](https://maihem.ai/) - Automate your quality tests with intelligent agents. Simulate realistic interactions, evaluate performance, exploit data more effectively etc.
+2227. [Exactly.ai](https://exactly.ai/) - Accelerate your artistic creations effortlessly. Generate images using multiple AI models and get a truly unique style
+2228. [GoPDF](https://gopdf.io/) - An online PDF editor with a host of features: quick editing, add electronic signatures, chat with your documents, etc.
+2229. [Tavus](https://www.tavus.io/) - Personalize your videos using AI and increase your audience&#039;s attention
+2230. [Emma AI](https://getemma.ai/) - Quickly create an AI assistant that connects to all your corporate data. Save time and optimize search efficiency
+2231. [Clipfly](https://www.clipfly.ai/) - A comprehensive, intelligent video editor that simplifies video creation. A practical solution for easy production of professional video content
+2232. [ColorBliss.art](https://colorbliss.art/) - An AI that turns your ideas into personalised colouring pictures in a matter of seconds. You can then print them out easily
+2233. [Air.ai](https://air.ai/) - An AI agent capable of making long telephone calls with commercial value (marketing, after-sales and B2B). The agent can be easily customised
+2234. [Circleboom](https://circleboom.com/social-media-scheduler) - A management tool that makes it easy to grow your social network accounts: post generation, automated scheduling, hashtag generator, etc.
+2235. [DebateAI](https://debateai.org/debate) - Reinforce your debating skills with ease. Train with an AI on various topics and improve your argumentation skills
+2236. [HomeStage](https://homestage.app/) - Furnish your rooms virtually with AI. Instantly create superb designs and modify the result without any limitations
+2237. [Daft Art](https://daftart.com/) - Easily create your album cover with an AI cover generator
+2238. [MemeDaddy](https://memedaddy.ai/) - A meme generator that works from a prompt. Briefly describe your meme idea and the AI takes care of everything
+2239. [InstaNovel AI](https://instanovel.ai/) - A story generator under GPT3 ideal to start writing an ebook or a book
+2240. [TileMaker](https://tilemaker.app/) - Create unique, high-quality wallpapers in seconds. Numerous customization and design options are available
+2241. [VanceAI Background Generator](https://vanceai.com/terminate-service/) - Remove backgrounds from your images with greater precision than other products of the same type. Customise and process several images at once
+2242. [Twig](https://www.twig.so/) - An AI assistant that helps your customers quickly find precise, relevant answers in technical or complex documentation
+2243. [AirBrush Studio](https://proheadshot.airbrush.com/) - Create high-quality professional portraits from your selfies. Edit your photos with a multitude of tools
+2244. [Bearly AI](https://bearly.ai/) - Generation of text summaries from various files (PDF, DOC, etc.) or from a web page
+2245. [Boords](https://boords.com/) - An innovative AI storyboard generator that simplifies the creation of illustrated scripts and storyboards. No need to know how to draw
+2246. [Samplette](https://samplette.io/) - Filter and find specific BPM or musical styles. The AI searches directly for music on YouTube
+2247. [SummerEyes](https://summereyes.ai/) - Optimize your productivity with an AI that can summarize text in seconds
+2248. [Cowriter](https://cowriter.org/) - An AI capable of writing articles or essays very quickly via an intuitive interface
+2249. [Reka Flash](https://space.reka.ai/) - A high-performance, multilingual multimodal language model with 21B parameters. Available in public beta on Reka Playground
+2250. [Ask Codi](https://www.askcodi.com/) - Allows you to avoid repetitive tasks when coding
+2251. [Chat2Design](https://chat2.design/) - An AI assistant that creates quality designs in an instant. With a wide range of customisable options and seamless integration with Figma
+2252. [RoomGenius](https://www.room-genius.com/) - Transform your home with an AI-powered interior designer. Take a photo, choose a theme and discover stunning designs
+2253. [Stocknews AI](https://stocknewsai.com/) - An AI that offers you optimized stock market news from 150 sources
+2254. [Chat EQ](https://chateq.com/) - Learn how to handle difficult and confrontational discussions while contributing (anonymously) to scientific research
+2255. [Gling AI](https://www.gling.ai/) - Automatically remove silences and bad takes using expert video editing AI
+2256. [Anytalk.ai](https://anytalk.ai/) - Translate your conversations and video conferences into various languages in real time, with minimal delay. Your interlocutor&#039;s original voice is preserved
+2257. [Voxxio](https://voxxio.io/) - Turn your spoken ideas into visual stories with this AI-assisted storyboard creator. It analyzes the narrative and offers customization options.
+2258. [Trading Literacy](https://tradingliteracy.com/) - An AI-powered chatbot that can analyze transactions in depth, process large files and more. It can read CSV or PDF files
+2259. [AI Shopify Product Reviews](https://www.reviewxpo.com/shopify-reviews-app) - Make the most of customer reviews in your Shopify store: automatically solicited, displayed and interacted with by AI. Boost your credibility with ReviewXpo
+2260. [BetterPic](https://www.betterpic.io/) - Get professional-quality portraits thanks to AI. Upload 15 images, choose your style and receive hundreds of portraits quickly
+2261. [Copymatic](https://copymatic.ai/) - Boost your traffic with this quality SEO content generator
+2262. [CopyFish](https://ocr.space/copyfish) - Quickly extracts and translates text from images, PDFs and videos for easy searching, storing and sending
+2263. [CreativAI](https://creativai.io/) - A multi-tasking writing assistant that can write and improve your emails, ads, articles, etc.
+2264. [Erase It](https://erase-it.cloudinary.com/) - Easily remove any unwanted element from a photo using AI. Without any software
+2265. [Bizway](https://www.bizway.io/) - Increase your chances of turning your business idea into reality with an AI that builds you a winning plan. Plan design in minutes
+2266. [Alice AI](https://www.heyalice.app/) - Boost your productivity by chatting with an AI that can not only answer your questions, but also automate your tasks. Available models: GPT-4, Claude 3, Perplexity, etc.
+2267. [Moviewiser](https://moviewiser.com/) - Receive personalized movie or TV series recommendations. Benefit from a clear, user-friendly and modern interface (Netflix style)
+2268. [Argil](https://www.argil.ai/) - Increase your productivity by automating your data with AI. No-Code certified application
+2269. [IX Coach](https://www.ixcoach.com/) - Realize your full potential and reach your goals more easily with an interdisciplinary AI coach
+2270. [EverLearns](https://everlearns.com/) - An AI tool to generate courses automatically in just a few minutes. Ideal for teachers, content creators, parents, etc.
+2271. [AI Cowriter](https://ai-cowriter.com/) - A powerful writing assistant to improve your writing style. Also features real-time autocomplete suggestions
+2272. [FinanceRants](https://financerants.com/) - Interact with a smart financial advisor who can understand your personality, provide personalized advice and help you make better decisions
+2273. [Aqua Voice](https://withaqua.com/) - Edit your documents by voice with highly efficient AI. Dictate, edit and transform your text in natural language for smooth, precise writing
+2274. [Crosby Health](https://www.crosbyhealth.com/) - A complete solution for hospitals to generate, submit and track claims. This AI has been trained on millions of clinical cases
+2275. [AutoPod](https://www.autopod.fm/) - An AI plug-in package for Adobe Premiere Pro that enables automatic editing of podcasts and video content
+2276. [BraveGPT](https://github.com/kudoai/bravegpt) - Add ChatGPT directly to your Brave browser and get more relevant searches
+2277. [Jamahook](https://jamahook.com/sound-assistant/) - An AI music assistant that evaluates your compositions and suggests additional samples to integrate into your songs. Make the most of a complete sound library and enhance your creations
+2278. [Project Fast Fill by Adobe](https://blog.adobe.com/fr/publish/2023/10/12/adobe-max-2023-sneaks) - A project-based tool designed by Adobe for video retouching: editing background elements, replacing textures, etc.
+2279. [Nuanced](https://www.nuanced.dev/) - Detect AI-generated images efficiently and preserve the authenticity of your business platform. Integration available via a powerful API
+2280. [StoryChief](https://www.storychief.io/) - Centralize and automate the creation, publication and promotion of your content. Particularly suited to marketing teams looking to optimize their workflow
+2281. [Flipner AI](https://www.flipner.com/) - An assistant that captures and transforms your ideas into structured texts. Quickly create relevant texts while preserving your writing style.
+2282. [Artbreeder](https://www.artbreeder.com/) - Design of artistic illustrations in various styles
+2283. [Autodraft](https://autodraft.in/) - An AI image generator specializing in the creation of comic strips, cartoons, comics and anime
+2284. [Photo To Cartoon](https://socialbook.io/photo-to-cartoon) - Upload your photo to this platform and artificial intelligence transforms you into a convincing cartoon style
+2285. [camp AI](https://www.getcamp.xyz/) - An AI that transforms your screenshots into dynamic sources: analysis of texts, people, places, etc.
+2286. [AIChatbot](https://www.aichatbot.so/) - Create a personalized conversational AI chatbot for customer service. Uses your own data, multilingual and easy integration
+2287. [RambleFix](https://ramblefix.com/) - Convert your disorganized thoughts into clear, coherent text in just a few seconds with AI
+2288. [Drumloop AI](https://www.drumloopai.com/) - Drums generation with AI technology based on neural audio synthesis
+2289. [Kili](https://www.kili.so/) - Create a custom assistant that can take care of your customers (e-commerce, etc..)
+2290. [Zyng](https://www.zyngai.com/) - Generate attractive promotional or advertising images for your products in a matter of moments. Ideal for e-commerce sites
+2291. [BG Remover by StockPhotos](https://bgremover.stockphotos.com/) - A background removal tool to optimise your graphic projects. Ideal for design, web development and marketing
+2292. [Trade Foresight](https://tradeforesight.com/) - A multilingual AI platform offering advanced statistics (data) on the world of finance
+2293. [Eraser AI](https://www.eraser.io/ai) - An AI copilot for creating and editing diagrams or docs. AI generates editable code that lets you iterate easily. Real-time collaboration with your team
+2294. [Colourlab](https://colourlab.ai/) - Revitalize your videos with an AI that improves the colorimetry. The final result is of professional quality (Hollywood)
+2295. [Postwise](https://postwise.ai/) - Several tools under AI to increase your visibility on Twitter
+2296. [Angry Email Translator](https://angryemailtranslator.com/) - Turn vulgar e-mails into polite, professional messages. Promotes positive communication with your customers
+2297. [Private LLM](https://privatellm.app/en) - Easily build your own AI ChatBot. Get an assistant who can answer your questions even without an Internet connection
+2298. [Feedbuck AI](https://feedbuck.io/) - Enter your website url and get a user feedback widget tailored to your business. Validate your MVP, find the product-market fit quickly.
+2299. [QRX Codes](https://qrx.codes/) - Design incredibly original QR codes in just a few seconds. Write your web address and AI takes care of the artistic creation
+2300. [Thisemotiondoesnotexist](https://jschn.github.io/FaceApp/) - 
+2301. [ChatAvatar](https://hyper3d.ai/chatavatar) - Use AI to create personalized, animated 3D avatars. Ideal for chat and messaging applications
+2302. [Lando](https://landoai.com/) - Create a landing page for your mobile app in 30s with AI. Enter your App Store or Google Play link and get a professional design
+2303. [Thumbmachine](https://thumbmachine.com/) - Design trendy, eye-catching thumbnails for your YouTube videos. Let AI generate eye-catching images for you
+2304. [Interacly AI](https://interacly.com/) - Create, explore and leverage bots in a variety of domains. Customize and use an intuitive control system for optimal user engagement
+2305. [Pixelfy](https://www.pixelfy.ai/) - Generate artistic images in Pixel Art style and integrate them into your creative projects
+2306. [Call Annie](https://callannie.ai/) - Chat via video call with an AI that can help you in your life: learning, problem solving, etc.
+2307. [Feather.so](https://feather.so/) - Turn your pages or writings from Notion into an SEO-friendly blog. No coding skills required
+2308. [YouTube to Chatbot](https://share.streamlit.io/-/auth/app) - Turn your YouTube videos into interactive text dialogues. Ideal for customer support, education, entertainment, etc.
+2309. [EduWriter](https://eduwriter.ai/) - Generate a variety of academic papers or school essays with an AI expert in writing. Features a range of tools such as plagiarism detection
+2310. [Flickify](https://www.flickify.com/) - Convert your texts, web pages and articles into professional videos. Ideal for improving customer engagement
+2311. [Spellbook](https://www.spellbook.legal/) - Develop and write contracts 3 times faster with GPT-3 artificial intelligence
+2312. [PromptDen](https://promptden.com/) - A community platform for prompts engineers who want to discover the best current prompts
+2313. [AgentLLM](https://github.com/Josh-XT/AGiXT) - A free and open-source autonomous agent that works with LLAMA
+2314. [Sphinx Mind](https://www.sphinxmind.com/) - An AI assistant specialising in marketing that provides instant reporting, analysis and statistics. Integrations with Slack and Teams
+2315. [Peech AI](https://www.getpeech.com/) - An AI tool that transforms any text into realistic audio in over 50 languages. Excellent for converting documents or listening to online articles
+2316. [BrandBastion Lite](https://www.brandbastion.com/p/platform) - Manage and moderate all the comments of your community on your social networks
+2317. [Oxolo](https://www.oxolo.com/) - Creation of advertising videos from the URL of the product you sell in your e-commerce site
+2318. [Cool Gift Ideas](https://www.coolgiftideas.io/) - An AI that will help you find the perfect gift to give. Personalized and relevant suggestions
+2319. [TableFlow](https://tableflow.com/) - An AI that analyses, classifies and sorts your CSV data into user-friendly tables. Import your CSV file and enjoy the results
+2320. [Paperade](https://www.paperade.ai/) - Idea generator for business creation, drawing on over 100 million academic documents
+2321. [EmojiHi](https://emojihi.com/) - Show your emotions with a custom emoji generator that produces Apple-style emojis
+2322. [MyMemo](https://mymemo.ai/) - An AI tool to improve the memorization of your important information. Centralize and access your knowledge at the click of a button, thanks to an intuitive interface
+2323. [DreamGPT](https://github.com/DivergentAI/dreamGPT) - An innovative project that uses artificial intelligence to generate new creative ideas from hallucinations
+2324. [Drawing Prompt](https://drawing-prompt.com/en) - A prompts generator with three basic functions: development of your idea, a system of random prompts and creation of images
+2325. [Thismountaindoesnotexist](https://thismountaindoesnotexist.com/) - 
+2326. [PrepAI](https://www.prepai.io/us/) - From any document create questionnaires and many other exercises
+2327. [Sports Prediction AI](https://sportsprediction.ai/) - Get accurate predictions for top sporting events thanks to advanced AI algorithms. Ideal for soccer, golf, NFL and more
+2328. [Mysports.AI](https://mysports.ai/en) - Use AI to make accurate sports predictions and personalised betting strategies. Compatible with UEFA Champions League, NBA, MLB, EPL, La Liga, etc.
+2329. [PromptFolder](https://promptfolder.com/) - Manage and enhance your prompts on ChatGPT with a powerful manager. Create, save and discover innovative prompts
+2330. [ReplicaStudios](https://www.replicastudios.com/) - Create natural voices with AI for movies, games or the metaverse
+2331. [IKI AI](https://iki.ai/) - A smart library for professionals and enterprises. Store, search, collaborate and learn more productively as a team
+2332. [Liro](https://liro.ai/) - An image generator that emphasizes the confidentiality of the images you generate. An AI that uses Stable Diffusion models
+2333. [OnModel.ai](https://www.onmodel.ai/) - Boost your Shopify sales with AI-generated models. Change background and ethnicity of your model
+2334. [Vimcal](https://www.vimcal.com/) - A smart, fast and efficient calendar to optimize your time management. Compatible with mobile and time zones.
+2335. [FreeImage AI](https://freeimage.ai/) - Image generation in Stable Diffusion with support for 256x256 and 512x512 formats
+2336. [SellMeThisPen](https://www.sellmethispen.ai/) - Boost your sales with an all-in-one AI training platform. Practice, get feedback and benefit from real-time AI support
+2337. [GETitOUT](https://getitout.io/) - Good quality marketing text generator and email writer
+2338. [Typho](https://apps.apple.com/us/app/typho-ai-photo-playground/id6470999411) - An AI application available on the Apple Store for creating unique artistic portraits, without the need for complex settings.
+2339. [OpenAGI](https://github.com/agiresearch/OpenAGI) - An autonomous multimodal AI that is able to manipulate images. Experimental project
+2340. [Tracksy](https://www.tracksy.ai/) - An AI-driven system for easily creating unique, royalty-free music. The site features various styles and genres
+2341. [Traverse AI™](https://www.traverselegal.com/) - An AI application that will serve as legal assistance in multiple areas
+2342. [Impakt](https://www.impakt.com/) - Enjoy personalised training adapted to your level with an AI Coach specialising in fitness: correct your posture, exercises, statistics, etc.
+2343. [Ideamap AI](https://ideamap.ai/) - Bring order to your ideas with AI that energizes your brainstorming sessions. Real-time collaboration tool
+2344. [Hama](https://www.hama.app/) - Remove an object or a person from any image in just a few seconds
+2345. [Kits AI](https://app.kits.ai/studio) - Creation, training and sharing of AI vocal models. Access a large list of voices and tools to add to your music projects
+2346. [Flowpoint](https://flowpoint.ai/) - AI that optimizes your website&#039;s conversion rate and improves ROI through data-driven decisions
+2347. [ChatMaxima](https://chatmaxima.com/) - A marketing platform that provides conversational chatbots without complex code. Improve customer satisfaction across multiple media
+2348. [Draftly](https://www.draftly.so/) - An AI tool that helps you develop your presence on LinkedIn. Create personalized posts, schedule your content and engage your audience with AI-generated comments
+2349. [Agent4](https://revmo.ai/) - A virtual agent that replaces your voicemail and answers your incoming and outgoing calls. Enjoy intelligent telephone service 24/7
+2350. [BrainSoup](https://www.nurgo-software.com/products/brainsoup) - A platform that simplifies the creation of AI agent teams to perform specific tasks. Ability to work with your own data
+2351. [Essay Builder AI](https://essay-builder.ai/) - A text generator specifically designed to help students with their academic writing and exercises
+2352. [AskLegal.bot](https://asklegal.bot/) - Get instant, personalized legal answers to clarify your legal issues in complete confidentiality
+2353. [NextThreeBooks](https://www.nextthreebooks.com/) - An AI that finds you free books that match your reading preferences
+2354. [GetBetterPics](https://www.getbetterpics.com/) - Quick creation of quality photos for social networks with different styles
+2355. [Pixelz AI](http://ww1.pixelz.ai/) - Create custom avatars from text
+2356. [Exoname](https://exoname.com/) - Describe your project in a prompt and the AI will try to find you the most suitable domain name to meet your goals
+2357. [iAsk.AI](https://iask.ai/) - A search engine that works as a ChatBot (question/answer) or keyword queries
+2358. [5-Out](https://www.5out.io/) - Extraction, interpretation and prediction of data related to various fields including finance
+2359. [Canyon AI](https://www.usecanyon.com/) - Optimize your job applications with an AI platform that generates customized CVs and pre-fills forms. Prepare for interviews with personalized advice
+2360. [Yepic Studio](https://www.yepic.ai/studio) - Convert your text into a professional video (with avatar). Support for over 450 voices, 65 languages and 110 dialects.
+2361. [Scribewave AI](https://scribewave.com/) - This AI automatically transcribes, captions and generates subtitles for your audio and video files, in over 90 languages
+2362. [Brancher AI](https://www.brancher.ai/) - A website to facilitate the creation and connect the different existing AI models
+2363. [Freeflo](https://freeflo.ai/) - Search for quality prompts specially designed for the Midjourney platform. Access to a gigantic community database
+2364. [PictoDream](https://pictodream.com/) - Use different styles and create a custom avatar
+2365. [TubeOnAI](https://tubeonai.com/) - An AI capable of making audio and text summaries by listening to a YouTube video or podcast. Ideal for learning quickly and staying informed
+2366. [Dinnerfy](https://dinnerfy.com/) - An AI-powered app to automatically plan your meals and do your shopping. It adapts to your dietary preferences
+2367. [Commenter AI](https://commenter.ai/) - Boost your brand on LinkedIn with humanised AI feedback and a team of experts. Benefit from rapid and effective growth
+2368. [Typper](https://typper.io/) - Receive real-time suggestions for improving your designs, generate content easily and brainstorm more creatively
+2369. [IndexGPT](https://www.cnbc.com/2023/05/25/jpmorgan-develops-ai-investment-advisor.html) - A promising ChatGPT-like application developed by the renowned financial holding company JPMorgan Chase
+2370. [Kindred Tales](https://kindredtales.net/) - Turn simple stories into real (well-designed) books with the help of an AI-powered writing assistant
+2371. [Oliv AI](https://www.oliv.ai/) - Oliv reduces forecast stress with unmatched pipeline visibility, daily deal guidance, and tailored coaching. Syncs with your CRM and updates BANT/MEDDIC scorecards
+2372. [Punchlines.ai](https://punchlines.ai/) - An AI tool to help you create jokes, ideal for comedians and anyone looking to add humor to their daily lives
+2373. [MealPractice](https://mealpractice.com/) - A meal generator that lets you select cooking style, protein type, country, etc. Customized recipes to suit your tastes and goals
+2374. [Textdrip](https://textdrip.com/) - Automate and optimize the sending of personalized SMS messages. Improve customer engagement with your marketing communications
+2375. [SRead](https://sread.ai/) - An assistant that reads articles or texts as you surf the web. You can also chat with the AI via the Chrome extension
+2376. [Metawork](https://metawork.so/) - Optimise remote management of your teams with a virtual office: real-time visibility, fluid communication, productivity information, etc.
+2377. [Writingmate AI](https://writingmate.ai/) - Simplify the management of your Google Workspace with an AI assistant for Sheets, Slides and Docs files. Available as a Chrome extension
+2378. [Cordial](https://www.cordial.fr/enligne.php) - An AI that corrects your text and highlights your spelling mistakes (in French only)
+2379. [AniPortraitGAN](https://yuewuhkust.github.io/AniPortraitGAN/) - An AI that attempts to animate your portraits using the power of GAN. Effortlessly transform your 2D photos into 3D animation
+2380. [Torso Clone Robotics](https://www.clonerobotics.com/) - A humanoid robot dedicated to AI research. Explore the possibilities of artificial intelligence with this robotic torso featuring muscles and precise manipulation capabilities
+2381. [TwoShot](https://twoshot.app/) - Easily create musical samples using an AI library of over 200,000 samples. Then integrate them legally into your musical productions
+2382. [Thisponydoesnotexist](https://thisponydoesnotexist.net/) - 
+2383. [BgSub](https://bgsub.com/) - Automatically remove the background of an image and replace it with what you want
+2384. [MyLessonPal](https://mylessonpal.com/) - A tool for teachers to create courses adapted to different school levels. Choose subject, type and level of study
+2385. [AgentCrew](https://www.agentcrew.co/) - Boost your productivity with carefully designed, high-performance AI workflows. Easily automate a wide range of business tasks
+2386. [Universal Data Generator](https://github.com/BenderV/generate) - Use AI to generate tailor-made data sets for researchers and analysts
+2387. [CaptionIt](https://www.captionit.ai/) - Instantly create attractive and cute captions for your images. Get more attention on social networks
+2388. [Xinva](https://xinva.ai/) - Generation of artistic images and designs that leverage your imagination and creativity
+2389. [Glimpse](https://glimpse.surf/) - An AI assistant that integrates with your browser to help you surf the web: summaries, explanations, corrections, etc.
+2390. [Scribens](https://www.scribens.fr/) - A spell checker that checks your mistakes in any text
+2391. [Remodel AI](https://remodelai.app/) - An AI application to easily reinvent your interior. Visualize your renovated interior and get detailed cost estimates
+2392. [GorillaTerminal AI](https://gorillaterminal.com/) - A site for traders and investors with an intuitive interface, AI research and analysis tools, etc.
+2393. [LeadDelta 3.0](https://leaddelta.com/) - Centralise your contacts on LinkedIn and leverage your team&#039;s collective network with AI. Help build new relationships
+2394. [RoomGPT](https://www.roomgpt.io/) - An AI that, based on one of your photos, transforms your room and redecorates it completely
+2395. [Work Hunty](https://workhunty.com/) - Automatically save applications and easily create cover letters with AI
+2396. [Success.ai](https://www.success.ai/) - A B2B prospecting platform with tools for generating leads and email campaigns. Access to over 700 million B2B contacts and an AI-driven writing assistant
+2397. [Jungle](https://jungleai.com/) - A Chrome extension that creates small memory cards to help you memorize (question/answer)
+2398. [Loudly](https://www.loudly.com/) - Automatically generate music with AI. Check also a large music library
+2399. [RestorePhotos](https://www.restorephotos.io/) - Restore your old photos and greatly improve their quality
+2400. [Zaplify](https://www.andsend.com/) - Find the right leads and engage them automatically by email or on LinkedIn. Get AI-driven business analytics
+2401. [Resumatic](https://www.resumatic.ai/) - An AI-assisted CV builder. Optimize and analyze your CV to increase its impact with recruiters
+2402. [LoopGPT](https://github.com/farizrahman4u/loopgpt) - Autonomous and multi-task AI that can be redirected along the way. Ability to pause
+2403. [PopAI](https://www.popai.pro/) - A comprehensive workspace that lets you analyze and discuss documents, create images, write code and more. Available in over 200 languages
+2404. [Trag](https://usetrag.com/) - A powerful AI-based code analysis tool. Let AI examine your pull requests, identify bugs and suggest fixes without directly modifying your code
+2405. [AI Templates](https://www.adaptify.ai/) - Receive the best prompts in the Business-Marketing sector instantly. Also great for SEO
+2406. [Boolv](https://boolv.tech/) - Boost your brand with Boolv. Create videos fast, save money and reach your customers more effectively
+2407. [Maroofy](https://maroofy.com/) - An AI that searches for songs or music similar to those you submit to it
+2408. [Tailor](https://www.usetailor.com/) - Give all your interests to an AI and get a personalized selection of podcasts, YouTube channels or newspaper
+2409. [FastCut](https://fastcutai.co/) - Automatically generate attractive subtitles for your short videos. AI also adds emojis and is inspired by the style of the most popular creators
+2410. [My Story Elf](https://www.mystoryelf.com/en) - Generate children&#039;s stories from a prompt. Customize, share and add illustrations automatically
+2411. [CoinScreener](https://www.coinscreener.ai/) - Optimize your crypto trading sessions with AI. Receive trading signals and detailed analysis
+2412. [NexGenTeam](https://nexgenteam.netlify.app/) - Digital employees specialising in sales, content creation and design. Ideal for maximising your company&#039;s productivity
+2413. [Hanami Live Translator](https://github.com/MotazSabri/Hanami-release) - Automatically translates audio into text using speech recognition and machine translation
+2414. [Abyssale](https://www.abyssale.com/) - The production of visual marketing content in automatic mode
+2415. [Mr. Cook](https://www.mrcook.app/en/tools/recipe-generator) - An AI recipe generator designed to help you cook faster. Features a variety of dietary options and works via a prompt
+2416. [Smart AI assistant by Zoom](https://www.zoom.com/en/ai-assistant/) - A multilingual assistant dedicated to the Zoom video conferencing platform. It can summarise meetings, record intelligently, write your e-mails, etc.
+2417. [TalkForm AI](https://www.talkform.ai/) - Transform the way you create forms with conversational AI. Create, fill in and analyze your forms effortlessly. Also available on GitHub
+2418. [Watsonx.data](https://www.ibm.com/products/watsonx-data) - An open, hybrid data warehousing solution driven by AI. Facilitate the scalability of your analyses and reduce your data warehousing costs
+2419. [Flot.ai](https://flot.ai/) - A GPT-4 co-pilot that integrates seamlessly into your applications or websites. Options: copywriting, paraphrasing, grammar correction, etc.
+2420. [Video Summarization](https://smart-ai-transformations.cloudinary.com/) - Create compelling video summaries by turning long videos into short clips. Works for all types of topics
+2421. [Venturekit](https://www.venturekit.ai/) - An AI that can build you a business plan to lead you to success. SWOT analysis, marketing strategy, competitive analysis, etc.
+2422. [ChatGPT For Search Engine](https://chromewebstore.google.com/detail/vibn-ai-chatgpt-ai%E9%A9%B1%E5%8A%A8%E7%9A%84%E6%B5%8F%E8%A7%88/feeonheemodpkdckaljcjogdncpiiban) - Integrate the ChatGPT extension into your search results on Google, DuckDuckGo or Bing
+2423. [Pathfinder](https://www.summit.im/tools/pathfinder) - Get personalized plans to achieve your life goals. Improve productivity, health, career and more
+2424. [Rows](https://rows.com/doctor-strange-06396475/my-spreadsheets/untitled-1-2uSxBL4dLM84q8Z9NUpSbX/9818bcbc-82be-48dd-a2cf-6d000b3e10c9/edit) - Easily handle your spreadsheets. Quickly analyze your data with interactive graphs and tables
+2425. [StarCoder](https://github.com/bigcode-project/starcoder) - A code- and text-driven model (LLM) that includes over 80 programming languages and uses text from GitHub and notebooks
+2426. [Olyup](https://www.olyup.tech/) - Optimize your athletic potential with an AI chatbot that monitors and improves your fitness goals. Real-time analysis and advice
+2427. [Profile Bakery](https://www.profilebakery.com/en/) - Turn your selfie into a unique and professional portrait with AI. Perfect for your LinkedIn profile or website
+2428. [ChatArena](https://github.com/Farama-Foundation/chatarena) - A tool that facilitates the study of social interactions between autonomous agents through linguistic games
+2429. [YouTube Summarized](https://youtubesummarized.com/) - An easy-to-use Chrome extension to effortlessly summarize a YouTube video (with the OpenAI API)
+2430. [AI Meme](https://ai-meme.com/) - Quickly and easily generate fun Memes using OpenAI&#039;s AI.
+2431. [Image Mixer](https://huggingface.co/spaces/lambdalabs/image-mixer-demo) - Combine multiple images together and create totally new illustrations
+2432. [Code Autopilot](https://www.codeautopilot.com/) - An AI assistant that really speeds up the way you code. Features GitHub integration and multi-language compatibility
+2433. [BloombergGPT](https://www.bloomberg.com/company/press/bloomberggpt-50-billion-parameter-llm-tuned-finance/) - A promising LLM model trained with more than 50 billion parameters dedicated mainly to the financial world
+2434. [SEOBox.ai](https://www.seobox.ai/) - Receive personalized guidelines for your backlinks. The AI is inspired by your keywords or by what it deems relevant for your SEO
+2435. [I-JEPA](https://ai.meta.com/blog/yann-lecun-ai-model-i-jepa/) - An LLM model that learns by imitating the real world. This AI is faster and more efficient than other similar AIs.
+2436. [Lotus](https://lotustherapist.com/) - A ChatBot that acts as a virtual therapist and gives you a safe space to express your emotions
+2437. [Hume AI](https://www.hume.ai/) - Empathize with your applications thanks to emotionally intelligent AI. Interpret expressions and generate tailored responses in a single API call
+2438. [ChatMind](https://mapify.so/cn) - Mind map generation that improves your productivity and creativity. Ideal for students, professionals, etc.
+2439. [A Million Dollar Idea](https://www.amilliondollaridea.com/) - Generate creative and inspiring business ideas. Discover new and innovative opportunities
+2440. [NameSnack](https://www.namesnack.com/) - A free and relevant business name generator. Find the perfect name for your future business
+2441. [Custom Story Creator](https://customstorycreator.com/) - Turn your texts into comics or anime thanks to AI. No technical or design skills required
+2442. [FreeWilly 2](https://huggingface.co/stabilityai/StableBeluga2) - An open source linguistic model based on Llama2 70B. Text generation by supervised learning similar to ChatGPT
+2443. [GoalGPT](https://beta.nando.ai/goalgpt.php) - An autonomous AI connected with the OpenAI API capable of performing multiple tasks on its own
+2444. [BrainyPDF](https://brainypdf.com/) - Interrogate your PDF documents and get instant answers to your questions. Multilingual, secure and studious AI
+2445. [ChatGPT Super](https://chromewebstore.google.com/detail/workmind-search-prompt-as/nijlhkhkkhnhidoondiobjdgommomifm) - A web-connected Chrome extension for ChatGPT that improves your productivity: summaries, searches, etc.
+2446. [ChatGPT Super](https://chromewebstore.google.com/detail/workmind-google-search-pr/nijlhkhkkhnhidoondiobjdgommomifm) - A web-connected Chrome extension for ChatGPT that improves your productivity: summaries, searches, etc.
+2447. [Redense AI](https://app.redenseai.com/) - Simplifies and accelerates the creation of newsletters: generates relevant titles, automates writing, etc.
+2448. [SpeechGen](https://speechgen.io/) - A powerful voice reader that converts text into a very human voice. Available in 270 languages
+2449. [SwitchLight Studio](https://beeble.ai/) - Change the lighting of your videos in post-production with AI. Shoot against a green background and modify the lighting afterwards to achieve a professional result
+2450. [Eightfold](https://eightfold.ai/) - An ultra-modern AI platform to facilitate recruitment management. Retain the best, train them and recruit more efficiently
+2451. [Twitter Bookmarks](https://twitterbookmarks.com/) - Save and organize your Twitter bookmarks (X): import, organize and manage your best tweets with GPT-4
+2452. [Crowdin AI](https://crowdin.com/blog/2023/03/14/ai-and-localization-meet-new-crowdin-app) - A professional, high-quality translation service with an AI ChatBot in Beta version
+2453. [Magenta Studio](https://magenta.tensorflow.org/studio) - A music plugin that generates music for Ableton Live, using an AI
+2454. [RunDiffusion](https://rundiffusion.com/) - An image generator with preloaded templates in a cloud. Several customizable and configurable options
+2455. [Fin+](https://www.finplus.ai/) - Propel your investments with an AI assistant expert in finance. Get high-quality, accurate market statistics in seconds
+2456. [AI Gallery](https://aigallery.app/) - Generate images with various templates, post-processing and guidance options. Save your presets, history, etc.
+2457. [ExtendImageAI](https://www.extendimage.ai/) - Enhance the variety and depth of your images with an AI expert in digital art
+2458. [Merchynt](https://www.merchynt.com/) - AI-based services to manage your Google Business profile. Quickly increase your visibility on Google (SEO). Ideal for companies
+2459. [IntelliNode](https://show.intellinode.ai/) - Automatically generate engaging, high-quality content for a variety of uses, such as marketing or blog posts
+2460. [Designify](https://www.designify.com/) - A powerful photo editor to make professional designs effortlessly. Ideal for e-commerce
+2461. [CourseAI](https://courseai.com/) - A platform that simplifies the creation and sale of online courses. Choose a subject and AI will create an online course or learning programme for you
+2462. [QRCraft](https://www.qrcraft.xyz/) - Transform ordinary QR codes into captivating works of art. Also offers an integration API for your applications
+2463. [CodelessAI](https://codelessai.vercel.app/) - An AI tool that revolutionizes the creation of UI components by automatically generating the necessary code. User-friendly interface
+2464. [Luminaries](https://www.luminaries.ai/) - Digital coaches to guide you in various areas of life, from wellness to finance. Learn new skills easily
+2465. [SMM Agent](https://posthero.ai/) - Benefit from an AI agent capable of automating your LinkedIn marketing. Create content, generate ideas and compelling hooks
+2466. [MyEssayWriterAI](https://www.myessaywriter.ai/) - Write your essays, dissertations or articles with the help of expert writing AI. Ideal for students
+2467. [Multilings](https://multilings.com/) - A multi-tasking AI tool specializing in copywriting, plagiarism detection and language translation. Easy-to-use interface
+2468. [PodStash](https://podstash.ai/) - Transform any podcast website (short format). A Chrome extension that can create a summary and read it with a realistic voice
+2469. [Leelo AI](https://leelo-ai.com/) - An AI-powered service that converts text into speech (text-to-speech) with rich, natural, deep voices
+2470. [GhostCut](https://jollytoday.com/) - AI-driven video editing software that facilitates translation, subtitle removal and dubbing
+2471. [GPTAgent](https://www.gptagent.com/) - Create no-code applications that run under the GPT algorithm
+2472. [Vulse](https://vulse.co/) - A full set of AI tools to optimise and boost your LinkedIn account: strategic analysis, content creation, increasing engagement rates, etc.
+2473. [Luminal](https://getluminal.com/) - Generate, analyze, clean and edit your spreadsheets with a spreadsheet AI
+2474. [Charlie](https://charlie.news/about) - Discover the news that matters most to you with a journalistic AI tool. Works as a conversational ChatBot
+2475. [AnyCall.ai](https://anycall.ai/) - Manage incoming and outgoing calls with AI that answers for you. Available 24 hours a day in over 30 languages and option to create a telephone number
+2476. [Rise](https://www.risecalendar.com/) - Optimize your schedule with this tool, find the best slots for team meetings, plan easily with colleagues and keep an eye on everyone&#039;s agenda
+2477. [Article Summarizer](https://trieve.ai/) - Tool that automatically summarizes even very long articles. Compatible with Medium, TechCrunch, etc.
+2478. [Ubie](https://ubiehealth.com/) - An AI healthcare assistant that quickly analyzes your symptoms and tries to identify potential causes
+2479. [Respell](https://www.respell.ai/) - An intuitive AI agent that adapts to the way you work and automates many tasks. Integrates with tools such as Gmail, Notion and Airtable
+2480. [BlogSEO AI](https://www.blogseo.ai/) - Create SEO-friendly blog posts with the help of AI. Improve your blog, find new targeted keywords and stay on top of SERPs
+2481. [MealByMeal](https://www.mealbymeal.com/) - Simplify your food tracking with an intelligent assistant. Let AI track each of your meals and help you count calories
+2482. [Picapiu](https://www.vistud.io/picapiu) - Creation of portraits from customized or selected images on web pages
+2483. [AI Mailer](https://ai-mailer.com/) - Automatic e-mail editor that works under GPT from a topic or subject
+2484. [Open Voice OS](https://www.openvoiceos.org/) - Creation of custom voices for your audio projects or music
+2485. [WhatTheBeat](https://whatthebeat.com/) - Discover the meaning of your favorite songs with an AI that analyzes and interprets your preferred tunes
+2486. [Blaze SQL](https://www.blazesql.com/) - An AI tool that can generate SQL queries from your text requests. Available in English
+2487. [Fliplet](https://fliplet.com/) - An intuitive no-code/low-code application development platform. Featuring a wide range of solutions pre-integrated with AI
+2488. [Typly](https://typly.app/) - Have an AI assist you by answering all your messages. It also makes suggestions for answers
+2489. [Copilot2trip](https://copilot2trip.com/) - Get information, itineraries or recommendations from an AI assistant expert in travel and vacations
+2490. [Thishomerdoesnotexist](https://www.thisfuckeduphomerdoesnotexist.com/) - 
+2491. [ContentPie](https://www.outrank.so/) - Generate SEO-optimized content easily with AI. Get article ideas, images and publish everything directly on your site
+2492. [Color.io](https://www.color.io/) - Enhance the color of your photos with AI-driven color calibration. Import tints from other images or adjust them manually
+2493. [Gista](https://gista.co/) - An AI assistant that helps convert your website visitors into potential customers. Recommended for e-commerce sites
+2494. [Pageone](https://pageone.livesemantics.com/) - Enjoy a personalized, comprehensive news page on what&#039;s happening around the world. Available on App Store and Google Play
+2495. [AI Bot](https://www.aibot.how/) - Build customized AI ChatBots (text, images and voice) with ease. Use a template database to save time
+2496. [Postfluencer](https://www.postfluencer.app/) - Generate publications for LinkedIn with an AI specialized in professional social networks
+2497. [Just Prompts](https://just-prompt.vercel.app/) - Customizable prompts connected to the OpenAI API to assist you in your ChatGPT conversations
+2498. [Fuups AI](https://fuups.ai/) - An innovative and qualitative image generator with an integrated marketplace
+2499. [Seo Review Tools](https://www.seoreviewtools.com/) - A multitude of tools (66+) under AI to maximize and deeply optimize your SEO in real time
+2500. [ApplyDesign](https://www.applydesign.io/) - Apply Design is the easiest and quickest way to virtually remodel your home, at a reasonable price
+2501. [AI Checklist Generator](https://checklistgenerator.ai/) - An AI tool that simplifies the management of your tasks and creates intelligent, personalised checklists. Improves planning and organisation
+2502. [Impossible Images](https://impossibleimages.ai/) - Automatic generation of images that can be used in any type of project: social networks, art, web design, etc.
+2503. [BooksAI](https://booksai.app/) - Easily create book summaries from book photos with Vision AI and GPT-4
+2504. [Synthesys X](https://synthesys.io/x/) - Generate images from objects or patterns using a detection extension on Google Chrome
+2505. [Vidon AI](https://vidon.ai/) - Easily generate engaging videos from a blog, website or script
+2506. [PatentDrawAI](https://patentdrawai.com/) - Accelerate the creation of your inventions with this AI tool for drafting and illustrating patent techniques
+2507. [Minerva Copilot](https://chromewebstore.google.com/detail/empty-title/djkiinnhekmoohbombjhkpmacifjpgdo) - Optimize your job search with this Chrome extension automatically driven by ChatGPT. Generate cover letters too
+2508. [GPTConsole](https://www.gptconsole.ai/) - AI for automation and easy design of web/mobile applications. Featuring an intelligent CLI interface and autonomous AI agents
+2509. [Image AI App](https://imageai.app/) - Generate images like Pokémon, D&amp;D, dragons, anime or cartoon characters, etc.
+2510. [Zaplingo](https://zaplingo.com/) - An AI-assisted English teacher who helps you improve your skills. Available on WhatsApp or Telegram
+2511. [Venngage](https://venngage.com/tools/valentines-day-card-maker) - Send a personalized Valentine&#039;s Day card to your sweetheart
+2512. [XspaceGPT](https://www.twitterspacegpt.com/) - Convert Twitter Spaces into more accessible formats: MP3 or text files. Ideal for following discussions without being live
+2513. [Dreamlook](https://dreamlook.ai/) - Easily train AIs from a series of custom models and get custom images
+2514. [Modif](https://www.afternic.com/forsale/modif.app) - Create dynamic digital content using real-time motion capture
+2515. [Artistator](https://artistator.com/) - An AI assistant that generates unique artist names based on your favorite music genres. Find your stage names easily
+2516. [VidToQuiz](https://web.quizwizard.ai/) - An AI tool that can convert your videos and texts into interactive quizzes. Ideal for education or business
+2517. [GPUX AI](https://gpux.ai/) - Run all your autoscale inferences under Docker (GPU)
+2518. [RedCom AI](https://redcom.ai/) - Quickly boost your web traffic by generating personalized Reddit comments. Improve your marketing strategy with this AI. Ideal for affiliate marketing
+2519. [MeetGeek](https://meetgeek.ai/) - Transcribe, record and summarize your business meetings in real time
+2520. [ioni](https://ioni.ai/) - A chatbot powered by ChatGPT-4 to serve your customers. It can quickly answer all kinds of questions
+2521. [PicSo](https://www.picso.ai/) - Conversion of your texts into high quality artistic works (illustrations, photos, etc.)
+2522. [Plus AI for Google Slides](https://plusai.com/google-slides-ai) - A wizard that simplifies report creation and allows you to add live data to your presentations
+2523. [Neural Times](https://www.neuraltimes.org/) - An AI-driven news site. It selects topics, writes them and then publishes articles 100% autonomously
+2524. [Cradle](https://www.cradle.bio/) - An AI-based aid for biologists who want to design proteins quickly and in an optimized way
+2525. [BioGPT](https://github.com/microsoft/BioGPT) - An AI under GPT that has been trained with biology concepts in order to help the BioMedical sector
+2526. [Everypixel Workroom](https://workroom.everypixel.com/) - A complete suite of AI tools to create, edit and translate your videos quickly and easily
+2527. [Yaara AI](https://www.yaara.ai/) - Textual content generator that also has the ability to improve your grammar and vocabulary
+2528. [Smartling](https://www.smartling.com/) - A professional AI-assisted translation service. Integration via API, translation team organization, real-time translation analysis, etc.
+2529. [Transvribe](https://www.transvribe.com/) - Ask questions about any YouTube video and increase your productivity
+2530. [Storyboard Hero](https://storyboardhero.ai/) - Generate concepts, scripts and storyboards with AI. Reduce video production time and costs
+2531. [Google Trends Supercharged 2](https://meetglimpse.com/) - Analyze, consult, and discover new trends on Google Trends with the help of AI
+2532. [Branition](https://branition.com/business-name-generator) - A generator of unique, catchy business name ideas. Short, original and easy-to-remember names
+2533. [Aiart FM](https://aiart.fm/) - AI generation of artworks from a prompt. Based on models under Stable Diffusion
+2534. [AI Assist by Equals](https://equals.com/) - A GPT-4 Turbo-powered assistant for your spreadsheets. Ideal for writing, editing, correcting SQL, formulas, etc.
+2535. [Typeface AI](https://www.typeface.ai/) - An AI that automatically generates visual content for social networks ( Instagram ad, Facebook, etc.)
+2536. [GPT-Minus1](https://www.gptminus1.com/) - A tool to try to bypass content detection under artificial intelligence (the AI of ChatGPT)
+2537. [Marauder](https://marauder.world/) - Protect your location history with an AI dedicated to privacy. Store all your location data locally on your device
+2538. [Nowy](https://nowy.io/) - Discover, plan and experience your dream trips more intensely with an AI-enhanced mobile app. Android and IOS compatible
+2539. [ResearchRabbit](https://www.researchrabbit.ai/) - Create a real collection of articles in the research domain of your choice (science, etc.)
+2540. [Movmi AI](https://movmi.co/) - Creation of 3D humanoid animations using AI-assisted motion capture
+2541. [PostNitro](https://postnitro.ai/) - A smart carousel generator for social networks. Ideal for rapidly engaging your audience
+2542. [Thing Translator](https://experiments.withgoogle.com/) - Detects objects via your phone&#039;s camera and translates them into text in the language of your choice
+2543. [The Drive AI](https://thedrive.ai/) - Optimize your file management: storage, reading and editing made easy. Ideal for students, professionals and researchers
+2544. [Promptitude](https://www.promptitude.io/) - Easily integrate GPT into your applications and manage your prompts from a simple API
+2545. [CaptionGen](https://captiongen.szhao.dev/) - Generate perfect texts for your social networks with ChatGPT and Vercel Edge Functions
+2546. [Thisirisdoesnotexist](https://www.thisirisdoesnotexist.com/) - 
+2547. [imAIgic](https://ww1.imaigic.com/) - A free database of AI-generated images and their associated prompts. Over 1000 quality prompts available
+2548. [TechDrive Support Inc](https://www.techdrivesupportinc.com/) - A customer service that uses AI and can provide you with technical assistance and easily solve your problems. US-based company
+2549. [Digitalmuses](https://www.digitalmuses.ai/) - A model generator to quickly create captivating and creative characters. New models added every month
+2550. [SteosVoice](https://cybervoice.io/en/) - A site for generating unique content, dubbing videos, creating podcasts and monetizing your voice
+2551. [Rewriter AI](https://rewriter.ai/) - Reduce your writing time with AI: rephrasing, paraphrasing, grammar and text summary
+2552. [myReach](https://myreach.io/) - Strengthen your organization and easily access your information with a personal AI assistant. Centralize your notes, files, websites and more
+2553. [LearningStudioAI](https://learningstudioai.com/) - An AI tool that simplifies the creation of online courses and enhances the educational experience. Easy integration with existing systems
+2554. [QR Diffusion](https://qrdiffusion.com/) - A website for generating QR codes that lets you easily manage personalization options. Possibility of animating your QR Code
+2555. [DeepTab](https://deeptab.net/) - A set of AI tools to boost your productivity. Get help from a chatbot as you browse the web. Available as a Chrome extension
+2556. [Remagine AI](https://remagineai.com/) - Boost your content creation with the help of over 150 AI templates and tools. Take advantage of personalized suggestions and grammatical corrections
+2557. [Gmail GPT](https://workspace.google.com/marketplace/app/gpt_for_gmail_ai_email_assistant_gemini/899305976589) - Optimize your emails with an AI tool that helps you write them. Can be used directly on Gmail
+2558. [Speechelo](https://speechelo.com/) - AI-driven software turns any text into a realistic human voice
+2559. [CTRify](https://www.ctrify.com/) - An AI-based SEO platform to improve your websites ranking. Also helps to increase your organic traffic
+2560. [GameFace.ai](https://gameface.ai/) - AI that analyzes your sports videos in real time. Get fast results and personalized reports for every match
+2561. [ChatIQ.ai](https://www.chatiq.ai/) - Create ChatBots using PDF files, text or websites for AI training. Ideal for students or companies
+2562. [Fineshare FineCam](https://www.fineshare.com/finecam/) - Edit your video conferences in real time: background, brightness, filters, watermark, etc.
+2563. [Brain FM](https://my.brain.fm/) - Music created to help you stay focused and concentrated while you work
+2564. [UnlimitedBG](https://unlimitedbg.com/) - Remove photo backgrounds quickly and free of charge. Download high-resolution results
+2565. [FixMeBot](https://fixmebot.com/) - An AI-powered chatbot that automatically corrects your mistakes, rephrases your sentences and translates your content. Available in 50 languages
+2566. [Summit](https://www.summit.im/) - Reach your goals more easily with an AI coach who is there to advise, motivate and support you
+2567. [ProductBot (Claros)](https://www.getproduct.help/) - AI that assists you before you make product purchases
+2568. [ChatGPT Prompt Generator](https://kosuket-dev.github.io/ChatGPT-Prompt-Generator/) - An easy-to-use prompt generator that works on the basis of just 3 criteria: role, task and format.
+2569. [AI or Not](https://www.aiornot.com/) - An image detector that analyzes and accurately identifies whether an image has been generated by artificial intelligence
+2570. [HeyPhoto](https://hey-photo.com/) - Modify your facial features with the help of AI. Anonymize your face, add make-up, new hairstyles and more
+2571. [Hemingway App](https://hemingwayapp.com/) - An AI that helps you write original texts. Also checks your spelling and grammar
+2572. [Chatbros.ai](https://chatbros.ai/) - An AI chatbot that responds to your customers professionally and can guide them. Ideal for increasing your conversion rate
+2573. [Trolly.ai](https://trolly.ai/) - A collection of tools to help you write SEO articles faster. Available in 20 languages
+2574. [Is This Image NSFW](https://nsfw.m1guelpf.me/) - Upload an image and the AI will tell you if it is safe for your work (NSFW)
+2575. [Lampi AI](https://www.lampi.ai/) - An AI co-pilot that improves your efficiency and productivity. Optimize your data management easily and securely
+2576. [Nyx](https://nyx.gallery/) - A huge gallery of images of animals, objects or landscapes generated by the AI and free
+2577. [FrequentlyAskedAI](https://www.frequentlyaskedai.com/) - Quickly create an intelligent FAQ to provide instant answers to all your customers&#039; questions
+2578. [Shuttle](https://www.shuttle.dev/ai) - A platform for building and deploying cloud applications. Automates code generation and infrastructure setup
+2579. [Loyae](https://www.loyae.com/) - An AI application that helps you improve your website&#039;s search engine optimization (SEO). Makes your site more visible and attractive
+2580. [PicWonderful](https://www.picwonderful.com/) - Enhance, transform and edit your photos automatically with AI
+2581. [HitPaw](https://www.hitpaw.com/) - A site that brings together various AI tools such as the generation and editing of videos, images, etc.
+2582. [Finsheet](https://finsheet.io/) - An AI-based site that provides you with financial data via simple add-ons for Excel and Google Sheets
+2583. [Liarliar.ai](https://liarliar.ai/) - An AI that tries to detect a person&#039;s lying by analysing the micro-movements of their face, their emotions and the tone of their voice
+2584. [Usetwain](https://www.twain.ai/) - Write professional emails during your contacts with your customers and increase your sales
+2585. [BestBanner](https://bestbanner.jina.ai/) - An efficient image optimization and compression wizard for your websites. Increases site speed without compromising quality
+2586. [Hypotenuse ai](https://www.hypotenuse.ai/) - Generate content for social networks or for your brand&#039;s products
+2587. [Genera.so](https://www.genera.so/) - Transform your models into online applications without having to manage GPUs or build complex interfaces
+2588. [Finalle](https://finalle.ai/) - Get ahead of the stock market with this AI that analyzes trends in real time
+2589. [Holly AI](https://hiringagents.ai/) - Optimize your hiring with an AI-driven virtual recruitment agent. Benefit from targeted candidate selection and continuous learning
+2590. [ControlNet](https://huggingface.co/spaces/hysts/ControlNet) - A neural network to control and add additional conditions in Stable Diffusion
+2591. [Mayday](https://mayday.am/) - Optimize your time management with this AI-assisted calendar. Get personalized recommendations for your meetings
+2592. [Prompt Journey AI](https://promptjourney.aiboat.io/) - Access hundreds of highly effective prompts and increase your productivity with ChatGPT
+2593. [DomainHuntAI](https://www.domainhuntai.com/) - Powerful AI to generate domain name suggestions for your website. Find the perfect domain name for your business
+2594. [Manifest AI](https://getmanifest.ai/) - A shopping assistant based on GPT-3.5 and compatible with Shopify (eCommerce). Your customers receive personalized product recommendations
+2595. [Apphive](https://apphive.io/) - Creating simplified mobile applications with AI
+2596. [AICheatCheck](https://aicheatcheck.com/) - Help for teachers to detect if content is written by an AI
+2597. [YT Copycat](https://ytcopycat.com/) - Transformez des vidéos YouTube en textes de qualité avec cet assistant d&#039;IA. Idéal pour les blogueurs et les professionnels
+2598. [DeepCore](https://deepcore.petroleum.digital/) - Neural networks for automated rock description and core samples extraction from images. They are suitable for geologists
+2599. [Voicepanel](https://www.voicepanel.com/) - Conduct large-scale in-depth surveys with AI. Get detailed statistics and feedback quickly and cost-effectively
+2600. [CandyIcons](https://www.candyicons.com/) - A huge catalog of icons generated by an AI. You get all the rights for full copyrights
+2601. [Zocket](https://zocket.ai/) - An AI platform to quickly create ads on social networks. Allows you to optimize your marketing campaigns while improving their performance
+2602. [AIQrArt](https://aiqrart.co/) - An AI that fuses art and code to create unique, aesthetically stylish QR codes. Give your brand the opportunity to stand out with artistic QR codes
+2603. [No-Background](https://www.no-background.coffee/) - A service that uses AI to automatically remove backgrounds from your images. Ideal for e-commerce projects, graphic design, etc.
+2604. [FreePlanTour](https://www.freeplantour.com/) - An AI that creates personalized itineraries to help you during your travels, trips or vacations
+2605. [AICarousels](https://www.aicarousels.com/) - Create powerful carousels for social networks using AI. Customisable designs and the ability to export them in different formats
+2606. [Cover Letter AI](https://coverletter-ai.com/) - Easily generate personalized cover letters in minutes using AI
+2607. [This-mp-does-not-exist](https://vole.wtf/this-mp-does-not-exist/) - 
+2608. [TLDR this](https://www.tldrthis.com/) - Automatically summarize any type of text with AI: long essays, articles, books, etc.
+2609. [Pencil](https://www.trypencil.com/) - Find new angles for your advertising campaigns and boost your brand
+2610. [MaskmyPrompt](https://www.maskmyprompt.com/) - Hide and anonymize your prompts when using ChatGPT. Enhance your security and privacy effortlessly
+2611. [GPT Prompt Engineer](https://github.com/mshumer/gpt-prompt-engineer) - A practical tool for filing, organizing, testing and improving your productivity when using your prompts with an AI
+2612. [Ferret](https://check-ferret.webflow.io/) - An assistant that tells you who you should avoid and who will benefit you
+2613. [TruthGPT](https://twitter.com/elonmusk) - TruthGPT is a potential rival to ChatGPT, developed by X.ai, a company owned by billionaire Elon Musk
+2614. [Pictorial](https://www.pictorial.ai/) - Automatic creation by AI of quality design and graphic elements to be integrated on your websites
+2615. [Intellisay AI](https://www.intellisay.xyz/) - A voice productivity tool that creates and manages your daily tasks. Simply state your plans, and AI transcribes and analyzes them, providing you with an optimized schedule
+2616. [Flawless AI](https://www.flawlessai.com/) - Design and edit cinematic quality videos worthy of a Hollywood movie
+2617. [LDM3D](https://huggingface.co/docs/diffusers/main/en/api/pipelines/stable_diffusion/ldm3d_diffusion) - Generate 3D images from text (prompt). Accelerates the creation of 360° interactive content
+2618. [Bito AI](https://bito.ai/) - Outil multifonction pour les développeurs. Boostez votre manière de coder et votre productivité avec ChatGPT
+2619. [BHuman](https://www.bhuman.ai/) - Creation and customization of your videos to increase the attention of your viewers
+2620. [Imagica](https://www.imagica.ai/) - AI-assisted application creation without having to write a single line of code. Works from a prompt
+2621. [Eesel](https://www.eesel.app/) - An extension that adds a tab to your browser to organize and access your documents more efficiently.
+2622. [idict](https://www.idict.ai/en) - Chat without linguistic limits thanks to a real-time voice translation mobile app. Available on Google Play and App Store
+2623. [Have I Been Encoded](https://trackaianswers.com/) - Find out what AI algorithms know about you and what they say...
+2624. [Vitalentim](https://vitalentum.net/) - A creative platform powered by AI and a vibrant community. Share your prompts and images easily
+2625. [Creative Fast AID](https://creativefastaid.com/) - An innovative AI service for quickly generating ideological (NGO) or brand campaigns. Very easy to use with a quick
+2626. [JPGRM](https://jpgrm.com/) - Easily remove unwanted objects from your images with AI. Works on images up to 4K resolution
+2627. [Summarist](https://summarist.ai/) - Use this AI if you want quick, clear and accurate book summaries
+2628. [Picsart](https://picsart.com/) - AI tools to make artistic creations. Edit, draw and share your photos and videos
+2629. [iChatWithGPT](https://ichatwithgpt.com/) - Chat with ChatGPT in an application running on Iphone and Imessage
+2630. [ChatWizard](https://chatwizardai.com/) - An AI ChatBot that you can train and customize to interact with your customers
+2631. [PerfectEssayWriter AI](https://www.perfectessaywriter.ai/) - Write academic-level essays in seconds with a multi-tool AI platform. Stimulate your creativity and perfect your writing style.
+2632. [WNR.AI](https://wnr.ai/) - A community platform for creating and sharing GPT-4 super-prompts. Easy-to-use, ergonomic interface
+2633. [Autowrite App](https://autowrite.app/) - An AI writing assistant that helps businesses increase traffic, SEO and sales
+2634. [Viesus](https://www.viesus.cloud/) - AI that enhances and enlarges photos quickly and accurately, available as a web application and API
+2635. [Duet AI by Google](https://codeassist.google/products/business) - An AI assistant that integrates seamlessly with Google tools like Gmail or Docs. This AI runs on Google Cloud
+2636. [ParallelGPT](https://www.parallelgpt.ai/) - Enables multiple ChatGPT queries to be processed in parallel, making learning to code more efficient and collaborative
+2637. [Promptmakr](https://promptmakr.com/) - Prompt builder for engineers to enhance their creations. The ability to view and share prompts with community members
+2638. [Gladia](https://www.gladia.io/) - Analyze, transcribe and translate audio accurately with AI. Benefit from accurate and secure transcriptions with an API
+2639. [Turbologo](https://turbologo.com/) - Create professional logos with quality templates and customization tools
+2640. [Paperclips](https://www.paperclips.app/) - Generates flashcards from PDF files. Facilitates learning and exam preparation for students
+2641. [Gizzmo AI](https://gizzmo.ai/) - A WordPress plugin to simplify the creation of Amazon affiliate articles. Generate optimized content in just a few clicks
+2642. [PitchPower](https://pitchpower.ai/) - AI for consultants that creates customized proposals fast. Enables real-time collaboration and cloud access
+2643. [Reply Boy](https://replyboy.com/) - A Chrome extension that replies for you on the X platform and boosts your X account. You can choose the tone of your reply
+2644. [Make Logo AI](https://makelogo.ai/) - A paid but high quality logo generator
+2645. [Memorable Ad Maker](https://www.memorable.io/ad-maker) - Automatically generate ads from a prompt. Launch AI-powered marketing campaigns
+2646. [Article Fiesta](https://articlefiesta.com/) - An SEO article generator capable of generating high quality paragraphs from a few keywords
+2647. [TalkToVid](https://www.talkto.video/) - Get video transcripts and a conversational assistant, simply by providing the URL of a video. YouTube not yet supported
+2648. [Userdesk](https://userdesk.io/) - Quickly create code-free AI chatbots trained with your data. Improve customer support and boost productivity
+2649. [IconLab AI](https://www.iconlabai.com/) - An AI generator for automated, personalized creation of application icons (mobile or desktop)
+2650. [Zarla AI](https://www.zarla.com/) - Create professional websites fast with AI that generates your content and design. Automatic SSL and SEO optimization
+2651. [ChatTube](https://chattube.io/) - An extension allowing you to chat and have personalized AI interactions with a YouTube video
+2652. [Deepmind Sparrow](https://deepmind.google/) - A ChatBot like ChatGPT that answers questions accurately. An AI created by the Deepmind laboratory
+2653. [SEO GPT](https://seovendor.co/) - Free content generator based on GPT-3 to produce SEO optimized texts
+2654. [WriteSmart](https://writesmart.so/) - An AI that helps you write engaging responses and comments on LinkedIn posts
+2655. [Scribble AI](https://apps.apple.com/us/app/scribble-ai/id1662081018) - Automatic text generation for different content types with custom styling options
+2656. [Trickle](https://www.trickle.so/) - An AI-assisted workspace that combines notes, tasks and a knowledge base for more effective teamwork
+2657. [DomainWoohoo](https://www.domainwoohoo.com/) - An assistant that helps you find the perfect domain name. AI tells you instantly if the domain name is available or not
+2658. [ChainGPT](https://www.chaingpt.org/) - A deep learning based blockchain AI model that solves cryptographic and blockchain related tasks
+2659. [Blender Copilot](https://liberateyourmind.gumroad.com/l/blendercopilot) - An AI under GPT that speeds up and simplifies the creation of 3D models on Blender. Use of simple commands
+2660. [IMI Prompt](https://www.imiprompt.com/) - A prompt builder for the Midjourney AI. Easy to use and with many options
+2661. [AI Transcription by Riverside](https://riverside.fm/transcription) - An AI capable of transforming audio and video into text in over 100 languages, quickly and accurately
+2662. [Leny AI](https://leny.ai/) - A medical assistant (IA) who has great capabilities in the medical sector: analysis of symptoms, etc.
+2663. [Audie AI](https://audie.ai/) - An innovative platform that automatically transforms your books into high-quality audio books in less than 24 hours
+2664. [Musiclips](https://apps.apple.com/us/app/musiclips-for-spotify/id1669132017) - Discover new music suggestions and create personalized playlists according to your preferences. AI can be connected to Spotify
+2665. [DomainsGPT](https://oneword.domains/domains-gpt) - Find easily a domain name perfectly adapted to your business or your project with GPT
+2666. [Booke AI](https://booke.ai/) - Simplify your accounting with AI: OCR data extraction and easy software integration
+2667. [keyframes.studio](https://keyframes.studio/) - Create and edit videos for social networks. Benefit from comprehensive video editing software
+2668. [Insight Journal](https://www.insightjournal.ai/web) - Maintain a logbook or task journal using AI to optimize your daily routines
+2669. [Adept AI](https://www.adept.ai/) - An AI competitor to GPT that wants to help you by connecting to the internet
+2670. [Newswriter AI](https://newswriter.ai/) - An AI assistant for writing press releases in GPT-3
+2671. [AI Data Sidekick](https://www.airops.com/) - Use AI to write SQL code, read documentation, etc.
+2672. [MyMind](https://mymind.com/) - A memory aid that takes notes, classifies and orders in an intelligent way so that you don&#039;t forget anything
+2673. [Buni AI](https://trybuni.com/) - Create high-quality content in minutes with text, image and code generation tools
+2674. [Airbnb Review Summarizer](https://airbnbreviewsummarizer.vercel.app/) - A Chrome extension that summarizes Airbnb reviews based on your preferences. Time-saving AI
+2675. [Prompt Hunt](https://www.prompthunt.com/) - Create beautiful images with easy and intuitive to use prompts
+2676. [Pool Planner AI](https://poolplannerai.com/) - Upload an image of your garden and the AI will place the pool of your dreams. Test different pool shapes on your property
+2677. [Kombai](https://kombai.com/) - Transform your Figma mock-ups into high-quality React and HTML + CSS (vanilla/ tailwind) code in a single click using an AI model
+2678. [AutoBlogging Pro](https://autoblogging.pro/) - An AI tool that automates the creation of SEO articles for your WordPress websites and blogs
+2679. [Taption](https://www.taption.com/) - Efficiently convert audio and video content into text. Generate subtitles and translate videos in over 40 languages
+2680. [GPT-2 Output Detector](https://openai-openai-detector.hf.space/) - Detects if your text is written by an AI by giving you a percentage probability
+2681. [Product Buying Guides](https://product.xyz/) - Search for buying guides, product recommendations or reliable reviews with this intelligent, unbiased search engine
+2682. [Cactus Interior](https://cactusinterior.com/) - Unleash your imagination with AI that transforms your interior design from a simple photo of your room
+2683. [Elf Help](https://www.elfhelp.ai/) - Generate one or more personalized gift lists. Specially designed to find the perfect gift
+2684. [Polycam](https://poly.cam/) - Create quality 3D models from a photo, AI generates scans with LiDAR sensor
+2685. [Muzaic Studio](https://muzaic.studio/) - Easily compose custom soundtracks for your videos with AI. Available on Android and IOS
+2686. [Image Cleaner](https://objectremover.com/image-cleaner) - Remove unwanted objects from your images. An AI that can remove people, graffiti, watermarks, etc.
+2687. [Promptly](https://chromewebstore.google.com/detail/promptly/cbbcphmidjdoikocpbjohadbncadphkh) - An extension that under the aspect of a prompt increases tenfold the performance of AIs like ChatGPT or Jasper
+2688. [Orkoi](https://www.orkoi.com/) - Make a personalized plan with the help of AI for your trips and travels. Activities, restaurants, etc.
+2689. [Pixlr](https://pixlr.com/) - Free photo editor with various AI features like special effects, filters, etc.
+2690. [Kittl](https://www.kittl.com/tools/image-generator) - An AI-based graphic design tool that helps create impressive designs
+2691. [JediGPT](https://jedigpt.ai/) - An AI chatbot that wants to turn you into a Jedi master and offer you an extraordinary experience
+2692. [Creasquare](https://creasquare.io/) - A platform specialized in social networks: content writing, planning, scheduling, advertising, etc.
+2693. [Chat Jams](https://www.chatjams.ai/) - AI creation of personalized Spotify playlists through a fun and interactive chat interface
+2694. [Plask AI](https://plask.ai/en-US) - Animate 3D characters using intelligent motion capture
+2695. [AutoCode Pro](https://autocodepro.com/) - A personal coding assistant that can be used to create web applications, mobile apps or Chrome extensions
+2696. [FastTrack](https://www.guidedtrack.com/) - An AI hiring form that automates candidate screening, asks intelligent questions and optimizes the recruitment process
+2697. [Machined.ai](https://machined.ai/) - An AI-based multilingual text generator, specialized in SEO article writing. Possibility of using GPT 3.5 or GPT 4
+2698. [Hey There](https://heythere.ai/) - A site that offers expert AI assistants in various disciplines to quickly increase your productivity
+2699. [DB Pilot](https://www.dbpilot.io/) - An AI assistant expert in the generation and assistance of code in SQL language
+2700. [Grok-1.5](https://x.ai/blog/grok-1.5) - An LLM model developed by xAI with optimized reasoning capabilities and a context length of 128,000 tokens
+2701. [Shop Guru AI](https://www.shopguru.io/) - An AI assistant that helps you find the right product during your shopping sessions. Find useful information and the best prices
+2702. [Casper AI](https://chromewebstore.google.com/detail/casper-ai/fgfiokgecpkambjildjleljjcihnocel) - Smart Chrome extension that helps with various office tasks such as summarizing an article
+2703. [xAI (Elon Musk)](https://x.ai/) - X.ai is the startup dedicated to generative AI launched by Elon Musk.
+2704. [Plumy](https://plumy.app/) - An AI tool for Shopify eCommerce that optimizes your SEO and tries to increase your sales
+2705. [Surfer Seo](https://surferseo.com/) - An AI-powered tool that analyzes and optimizes your content (SEO). Improve your Google ranking thanks to your competitors
+2706. [AskNow](https://www.asknow.ai/) - Ask questions to the most famous people who lived on earth
+2707. [Maigon IO](https://maigon.io/) - Analyze your contracts and get all the important information with the help of an AI
+2708. [Snack Prompt](https://snackprompt.com/) - A community that shares the best performing prompts. Ranked by categories, popularity and votes
+2709. [MyPrint AI](https://www.myprint.ai/) - Upload 10 photos of yourself and the AI transforms you into various artistic styles. Printable on posters, mugs, etc.
+2710. [Shakespeare](https://www.shakespeare.ai/) - An AI-driven writer who can write text-based content for marketing and advertising campaigns
+2711. [WordfixerBot](https://www.wordfixerbot.com/) - AI writing assistant for paraphrasing, grammar checking, text summarization, etc.
+2712. [Folio](https://www.folio.la/) - Interactive product demo software designed for individuals, small teams and startups. Create captivating product demos without coding
+2713. [Eye2.ai](https://www.eye2.ai/) - Benefit from an online service that combines artificial intelligence and human expertise to precisely refine and humanize your content
+2714. [Pix2Pix Video](https://huggingface.co/spaces/fffiloni/Pix2Pix-Video) - Easily edit your videos from a text prompt or a short video clip
+2715. [Knit](https://promptknit.com/) - Connect to your team members and create, store, edit or execute prompts all at once. Promotes collaboration
+2716. [AI Cards](https://designstripe.com/ai-cards/) - Make modern and fully customizable Christmas cards (audio, images and text)
+2717. [Narrated Tours](https://narratedtours.com/) - Generate or listen to personalized audio tours when you visit a city. Ideal for tour guides
+2718. [ARTSMART AI](https://artsmart.ai/) - An image generator that can work with plugins. Automatic sharing on social networks
+2719. [Cohesive](https://cohesive.so/) - A set of AI tools for creating all kinds of content: YouTube scripts, texts, Tweets, paraphrasing, Instagram posts, etc.
+2720. [SaveDay](https://www.save.day/) - An AI bot designed for the Telegram application to store multimedia content and generate presentations
+2721. [AI Recipe Generator](https://recipes.lionix.io/) - An AI cook that generates customized recipes with the ingredients you have available
+2722. [Twelve Labs](https://www.twelvelabs.io/) - A set of APIs to integrate into video search features: targeted advertising, content moderation, media analysis, etc.
+2723. [Iconik AI](https://www.iconikai.com/) - Automatic generation of application icons. Choose from a wide range of design options, conforming to Apple and Google guidelines.
+2724. [Snowpixel](https://snowpixel.app/) - An AI that turns your ideas into works of art. Generate images, animations, pixel art, etc.
+2725. [Sana Labs](https://sanalabs.com/) - Automate the way you run your business with a collaborative AI platform
+2726. [Targum Video](https://targum.video/) - Automatically translate any video on social networks like YouTube or TikTok
+2727. [Gigapixel AI](https://www.topazlabs.com/) - Improve the quality and resolution of your images with a natural and realistic rendering. Adobe Lightroom and Photoshop compatible
+2728. [Soreal AI Studio](https://www.soreal.ai/) - A simple image generator that is perfect for the beginner
+2729. [Monitaur](https://www.monitaur.ai/) - Audit and track your performance in real time to improve your business
+2730. [DoubtClear AI](https://www.doubtclear.ai/) - A revolutionary tool that provides instant solutions to your academic doubts in a wide range of subjects
+2731. [Social Studio AI](https://socialstudio.ai/) - Automate your content production with an intelligent assistant. An AI created for the Instagram network
+2732. [Illustroke AI](https://illustroke.com/) - An AI that generates stunning vector illustrations from text
+2733. [ArxivGPT](https://chromewebstore.google.com/detail/solarxiv/fbbfpcjhnnklhmncjickdipdlhoddjoh) - An AI tool to summarize scientific documents and papers from the arXiv platform
+2734. [ChatGPT for Amazon](https://www.voc.ai/tools/chatgpt-for-amazon) - A Chrome extension for ChatGPT that allows Amazon sellers to increase their visibility and profits
+2735. [EditGPT](https://editgpt.app/) - An extension for editing and proofreading texts directly on ChatGPT. An intuitive and efficient tool
+2736. [ThunderContent](https://thundercontent.com/) - Writing tool specialized in writing articles
+2737. [WOXO](https://woxo.tech/) - Create compelling videos with AI using simple descriptions. Add visuals and music too
+2738. [EVE AI](https://dapp.eveai.xyz/) - Generation of artistic content based on templates to be integrated into your projects
+2739. [Tiny Magic](https://www.tinymagic.app/gmail-gpt-support-agent) - An email generator under GPT-3 to help you write your emails Pro. Chrome extension available
+2740. [Ultra-Attention](https://ultra-attention.com/) - Boost your productivity with this AI-based tool. Ideal for optimizing freelancers&#039; concentration and for remote working
+2741. [Maze AI](https://maze.guru/) - An AI-based image generator that runs on the Discord platform and allows you to share your art galleries
+2742. [Octocom](https://www.octocom.ai/) - Use an intelligent chatbot on your e-commerce to increase sales and improve your customers&#039; experience
+2743. [Sqriblr](https://sqriblr.com/) - An article generator that will find the most relevant images to illustrate your writing (with ChatGPT)
+2744. [Squirrly SEO](https://plugin.squirrly.co/) - A complete suite of AI-powered SEO tools that help optimize content and increase traffic
+2745. [Tweet to Video](https://fliki.ai/features) - Convert your tweets into videos to share on TikTok, YouTube Short, Instagram Reel and other platforms
+2746. [IconifyAI](https://www.iconifyai.com/) - Professional quality web and app icon generator in just a few seconds
+2747. [InterviewBot AI](https://interviewbot.com/) - An AI assistant that helps you prepare for professional interviews with various topics and personalized advice
+2748. [Ermine](https://www.ermine.ai/) - Transcribes audio directly from your microphone, while ensuring the confidentiality and security of your data
+2749. [Codenull AI](https://codenullai.versoly.page/) - a no-code platform that allows building AI models without coding and offering various services
+2750. [MarketingBlocks AI](https://marketingblocks.ai/) - All-in-one marketing AI assistant that can create landing pages, videos, ads, texts, etc.
+2751. [Cascadeur](https://cascadeur.com/) - 3D animation software with various tools and AI assistance
+2752. [PageGPT](https://pagegpt.pro/) - An AI-driven landing page creator that offers custom designs, copywriting, etc.
+2753. [Clarifai](https://www.clarifai.com/) - AI specialized in computer vision, NLP, and generative AI. Models your data (even unstructured) and is compatible with various sectors
+2754. [My AskAI](https://myaskai.com/) - Create your own personalized ChatGPT quickly and get instant responses from your content
+2755. [Project Description Generator](https://www.toptal.com/no-code) - Project description generator. Suggestion of the best no-code tools for your task
+2756. [AnimeAI App](https://animeai.app/) - Generate anime-style avatars from one of your photos, with a selection of custom styles
+2757. [Viable](https://www.askviable.com/) - A service to automate your data without losing quality
+2758. [Glass It Price Tracker](https://glassit.co/) - A price-tracking AI that monitors price variations on a daily basis. Be the first to be alerted to price reductions
+2759. [FlutterFlow AI Gen](https://www.flutterflow.io/ai-gen.html) - Build your mobile applications and websites by describing your idea with a text prompt
+2760. [Jukebox](https://openai.com/blog/jukebox/) - Creation of songs and music by Openai&#039;s AI
+2761. [DiffusionBee](https://diffusionbee.com/) - A simple way to generate artistic images using Stable Diffusion
+2762. [Polymath](https://github.com/samim23/polymath) - An AI that automatically sorts the music on your hard drive (Youtube too) by genre, tempo or structure
+2763. [Blur Background](https://www.aipassportphotos.com/blur-background) - Automatically blur the background of your photos. You can modify and adjust the intensity of the blur and download the result.
+2764. [Klynk](https://www.klynk.ai/) - Simplifies email campaign creation with AI and easy integration with CRM
+2765. [PatternAI](https://www.patterned.ai/) - Create patterns with custom and unique designs. Generated by an AI with a great artistic sense
+2766. [Embra](https://www.embra.ai/) - A general purpose personal assistant like ChatGPT for MAC
+2767. [Spellpage](https://www.spellpage.com/) - A platform that engages AI assistants to speed up your tasks, automate boring processes, etc.
+2768. [Filechat IO](https://platform.archesai.com/zh) - Ask questions to a personalized ChatBot by submitting your PDF, Word, etc.
+2769. [Great Headlines](https://www.greatheadlines.ai/) - AI that generates catchy headlines in seconds, ideal for marketers and copywriters
+2770. [Devi](https://ddevi.com/en) - A smart multi-tasking manager for your social networks that can monitor your leads and schedule your content
+2771. [Breeze AI](https://www.atom.com/name/Breeze.ai) - Effortlessly edit your product photos for your e-commerce sites or your marketing campaigns
+2772. [Magic AI Avatars](https://magicaiavatars.com/) - Get over 100 high quality custom avatars with expert AI in profile pictures
+2773. [Maverick AI](https://www.trymaverick.com/) - Produce personalized videos automatically for each of your customers (with their name pronounced)
+2774. [Streaming Options](https://www.streamingoptions.com/) - Optimize your streaming experience with this AI that gives you personalized recommendations based on your preferences
+2775. [Mixo AI](https://www.mixo.io/) - From a short description of your idea, automatically generate all the content of your site
+2776. [GPT Cheat Sheet](https://entreresource.com/chatgpt-cheat-sheet/) - A selection of quality ChatGPT prompts, free software and optimization tips
+2777. [Activazon](https://www.activazon.com/) - A smart detector that tracks crimes and misdeeds in your area in real time
+2778. [Bannerbear](https://www.bannerbear.com/) - Marketing automation tool, API and integrations to generate images, videos, PDFs, etc.
+2779. [Zeg AI](https://www.zeg.ai/) - Get effortless professional quality videos or photos (3D) for your commercial products
+2780. [Raycast Al](https://www.raycast.com/core-features/ai) - Improve the way you code using the power of AI and save time
+2781. [CoverDesign AI](https://coverdesignai.com/) - AI-based service helps create unique, eye-catching book covers
+2782. [ClassifyAI](https://github.com/WenServices/ClassifyAI) - AI that simplifies AI model integration, data classification, response management, application compatibility, communication, etc.
+2783. [TweetMe](https://no-code-ai-model-builder.com/) - An AI that imitates your writing style and tweets for you
+2784. [Rizz! Keyboard](https://rizzai.com/) - An AI designed for writing short texts: emails, texts, messages for social networks, etc.
+2785. [Visla](https://www.visla.us/ai-video-generator) - Describe what kind of video you want and the AI generates a video for your audience
+2786. [Workist](https://www.workist.com/) - AI software that automates your business document processing. Save time and reduce errors
+2787. [Puppetry](https://apps.apple.com/us/app/puppetry-for-talking-faces/id1671248086) - Animate your photos and create characters with an intuitive application (iPhone, iPad and Mac)
+2788. [CollovGPT](https://collov.ai/) - Find inspiration with an AI that transforms your room into different interior design styles
+2789. [AI Chat Travel Assistant](https://apps.apple.com/us/app/tripchatter-ai-travel-chat/id6446793041) - An assistant that helps you plan personalized trips with AI-based advice and recommendations
+2790. [Dumme](https://dumme.com/) - Create short videos with AI from your long content (TikTok, YouTube Shorts, etc.)
+2791. [AnySolve](https://www.anysolve.ai/) - A library of AI tasks to improve your efficiency at work. Easily simplify and automate repetitive tasks
+2792. [GPTKit](https://gptkit.ai/) - An AI that can easily detect if a text has been generated by an AI (GPT)
+2793. [Pineapple Builder](https://www.pineapplebuilder.com/) - Generation and development of automated websites thanks to AI: portfolios, e-commerce, landing pages, etc.
+2794. [Quinvio AI](https://www.quinv.io/ai) - Create a video quickly and easily with the help of an AI assistant
+2795. [Leap ML](https://www.tryleap.ai/) - Generate and edit images directly in your applications with an easy-to-use API
+2796. [Briefly AI](https://www.brieflyai.com/) - Briefly AI is a tool that uses AI to transcribe and summarize your meetings. It can also generate minutes in just a few minutes
+2797. [GymGenie](https://gymgenie.vercel.app/) - This AI creates sports programs adapted to your level, your weight and your goals
+2798. [Rotor Videos](https://rotorvideos.com/) - AI video creator for musicians. Fast and skillless production, including clips, effects and styles
+2799. [Vondy AI](https://www.vondy.com/) - An impressive collection of AI tools: editorial assistants, image generators, ads, etc.
+2800. [Cerebras-GPT](https://cerebras.ai/blog/cerebras-gpt-a-family-of-open-compute-efficient-large-language-models/) - A platform that makes seven open-source GPT-3 models available to improve accuracy and computational efficiency
+2801. [Maya AI](https://mayaknows.com/) - A voice generation system that helps understand business data quickly and easily
+2802. [GitFluence](https://www.gitfluence.com/) - Helps find the right Git command quickly with AI. Enter a description and get suggestions
+2803. [Videoleap](https://www.videoleapapp.com/) - All-in-one AI-assisted video editing platform. Easily edit, create and share
+2804. [AudioBot](https://audio-bot.com/) - Text to audio converter with over 500 natural voices. Available in 26 languages and downloadable in MP3
+2805. [AiPassportPhotos](https://www.aipassportphotos.com/) - Create the perfect photo for your passport or ID card, and stay compliant at the same time
+2806. [PDF Candy](https://pdfcandy.com/) - Easily transform and manipulate PDF files: convert, edit, merge, compress and much more
+2807. [tl;dv](https://tldv.io/) - An AI that helps you record, broadcast or transcribe your meetings (Google Meet and Zoom)
+2808. [ResumeCheck AI](https://resumecheck.net/) - Use AI to check and optimize your resumes. Correct your mistakes easily and automatically
+2809. [Automatic Chat](https://automatic.chat/) - Offer your website visitors a ChatBot like ChatGPT that will answer your customers&#039; questions
+2810. [Personal AI](https://www.personal.ai/) - An AI tool to easily generate new ideas and create new concepts
+2811. [Todo.is](https://todo.is/) - A platform to manage your tasks and projects, boost your productivity and collaborate more effectively as a team
+2812. [Webscrape Ai](https://webscrapeai.com/) - A web scraping tool under AI to automate data collection. No coding skills required
+2813. [Chadview](https://www.chadview.com/) - A Chatbot (extension) that provides real-time responses in your Zoom, Teams or Google Meet meetings
+2814. [Facetune](https://www.facetuneapp.com/) - A photo and video editing tool to create AI avatars, improve your selfies, etc.
+2815. [Imagine Me](https://imagineme.ai/) - Create art from one of your personal photos
+2816. [MySocialPulse](https://www.mysocialpulse.com/) - An AI that analyzes your actions/crypto, monitors your transactions, detects fraud and controls your emails
+2817. [Supertranslate](https://www.supertranslate.ai/) - Automatic subtitle generation in over 100 different languages
+2818. [PicTales](https://pictales.online/) - Turn your photos into compelling stories, ideal for albums and social media posts
+2819. [Copymate](https://copymate.app/) - An AI-powered SEO content generator that can quickly create optimized articles in multiple languages
+2820. [VidIq](https://vidiq.com/) - Find the hottest topics and keywords on YouTube. Grow your audience quickly.
+2821. [MagicRoom AI](https://magicroom.ai/) - Find inspiration with this AI that transforms your room from a picture
+2822. [Jife](https://jife.com/) - From a photo, AI transforms your room into a Japanese-style interior design
+2823. [Reetail AI](https://reetail.store/) - Create an e-commerce site in less than a minute, without the need for coding or knowledge
+2824. [Zevi.ai](https://www.zevi.ai/) - Boost your sales and conversions using an AI search solution
+2825. [Reachout AI](https://reachout.ai/) - AI video platform to personalize your content, improve your response rate and manage your sales more effectively
+2826. [Landing AI](https://makelanding.ai/) - Fast design of landing page websites. Design generated by an AI expert in the field
+2827. [Lumiere 3D](https://www.lumiere3d.ai/) - 3D video generation to present your products on your stores or e-commerce sites
+2828. [Drafter AI](https://drafter.ai/) - A NoCode platform to create AI-powered tools and automate your workflows (API)
+2829. [Nubrain.ai](https://nubrain.ai/) - An all-in-one AI toolkit that simplifies content creation, image generation, code, etc.
+2830. [Supercreator AI](https://www.supercreator.ai/) - a mobile app using AI to quickly produce short videos for TikTok, Reels, Shorts, etc.
+2831. [Monic AI](https://beta.monic.ai/) - Turn your notes into mock questions and exams in any language
+2832. [Prompt Studio](https://prompt.studio/) - AI makes it easy to create effective prompts. Refine your prompts professionally with filters
+2833. [Moda AI](https://lifesight.io/) - An all-in-one marketing platform for your e-commerce. Optimize your sales through omni-channel marketing strategies
+2834. [Digital First AI](https://www.digitalfirst.ai/) - An AI that simplifies the creation of marketing plans and optimizes your advertising campaigns
+2835. [Flux AI](https://getflux.io/) - A professional AI assistant that accompanies you during your meetings and automates repetitive tasks
+2836. [DoMyShoot](https://www.dresma.com/) - Simplified and professional realization of photoshoot of your products for your e-commerce sites
+2837. [Keyword Search](https://www.keywordsearch.com/) - A suite of marketing tools to optimize your advertising. Facilitates content creation and competitor analysis
+2838. [LightPDF AI](https://lightpdf.com/chatdoc) - Analyze, summarize or ask questions of your PDF files and get quick and accurate answers
+2839. [Pheeds Prompt Silo](https://pheeds.com/PromptSilo.php) - Prompt creator for ChatGPT and image generators
+2840. [Chat2CSV](https://chat2csv.com/) - A tool that transforms your CSV data into graphics using a prompt. Also respects your confidentiality
+2841. [Dispute AI](https://disputeaipro.com/) - Help improve your credit scores with AI in a simple, safe and affordable way
+2842. [Alphie](https://www.ojamuai.com/) - Explore with AI the trends and statistical data of any crypto in real time (zk-rollups)
+2843. [Convai](https://www.convai.com/) - Create characters to integrate into your creations (video games, chatbots, etc.).
+2844. [Genius Sheets](https://www.geniussheets.com/) - An AI tool that generates financial reports and models from Excel and Google Sheets
+2845. [Genius Sheets](https://www.geniussheets.us/) - An AI tool that generates financial reports and models from Excel and Google Sheets
+2846. [Skinive](https://skinive.com/) - An AI specialized in dermatology that detects diseases by analyzing your skin: cancer, herpes, acne, etc.
+2847. [TweetEmote](https://www.tweetemote.com/) - Improve the engagement rate of your followers on the Twitter network
+2848. [AI Code Reviewer](https://code-reviewer.vercel.app/) - An AI that examines your code, reports your errors and answers your questions
+2849. [ChatGPT for Google](https://chatgpt4google.com/) - Connect ChatGPT with Google search results. Extension available for Chrome and Firefox browsers
+2850. [Kleap](https://kleap.co/) - Create a website with the help of an AI in just a few seconds
+2851. [Maskr AI](https://maskr.ai/) - Add any celebrity to your photos with facial recognition
+2852. [Scrivvy AI](https://scrivvy.ai/) - Automatically summarize a YouTube video with AI and save hours of work
+2853. [Fathom.fm](https://hello.fathom.fm/) - This assistant finds you podcasts according to your interests
+2854. [MajorGen](https://www.majorgen.com/) - Create a ready-to-use resume and cover letter using your LinkedIn profile or by importing an existing resume
+2855. [EasyChat AI](https://easychat-ai.app/) - A third party application to use ChatGPT on Windows. Compatible with Markdown, dark mode, API, etc.
+2856. [Movie Deep Search](https://www.mycelebs.com/deepsearch/) - Describe the kind of movie you want to watch and the AI will find the perfect movie or series for you
+2857. [StyleMyRide AI](https://stylemyride.ai/) - Use AI to give your car a new look. Import a photo and choose from various tuning styles
+2858. [ViralViews](https://www.viralviews.co/) - Receive daily personalized content on the latest trends. Analyze what is going viral on social networks
+2859. [Avanzai](https://avanz.ai/) - An AI co-driver that enables rapid financial analysis by generating Python code from a prompt
+2860. [SocialBee](https://socialbee.com/ai-post-generator/) - Generate optimized content for social networks automatically with the help of AI
+2861. [Role Model AI](https://rolemodel.ai/) - Creation of customized AI assistants in the form of avatars that increase your productivity
+2862. [Krock IO](https://krock.io/) - Collaborate in real time and as a team in your animation or video projects. Team editing, video editing, etc.
+2863. [Sonix](https://sonix.ai/) - Transcribe and translate your subtitles automatically in just a few seconds
+2864. [Blend AI Studio](https://www.blendnow.com/) - Design professional looking photos for your Shopify products. Increase your conversion rate by up to 60%.
+2865. [TurnCage](https://turncage.com/) - From a few questions, this AI creates a website with a beautiful design
+2866. [GRID.is](https://grid.is/product/grid-sheets) - A spreadsheet editor enriched with AI assistance. Facilitates calculations, modeling, visualizations, etc.
+2867. [Text Generator](https://text-generator.io/) - High quality, multilingual AI text generator. You get 100 free requests per month
+2868. [tinyEinstein](https://www.tinyalbert.ai/) - An AI assistant expert in marketing, mainly for eCommerce like Shopify
+2869. [Yesil Health](https://yesilhealth.com/) - A personal health assistant who can answer your questions and analyze your symptoms
+2870. [Green Screen AI](https://greenscreenai.com/) - AI to easily remove unwanted elements from your photos, such as people or objects
+2871. [ToolBuilder AI](https://toolbuilder.ai/) - A multifunctional AI that can do stock market analysis, movie recommendations, create quizzes, etc.
+2872. [FrenchLab IO](https://www.frenchlab.io/) - An AI ChatBot that allows you to learn French directly on instant messaging
+2873. [Lunit AI](https://www.lunit.io/en) - An AI that can detect cancers with 97-99% accuracy
+2874. [Content At Scale](https://brandwell.ai/) - Copy and paste the text you want to check and the AI will tell you if it is really a human behind this content
+2875. [LanguagePro](https://bot.petit.today/) - An expert AI that assists you in your linguistic writing: translation, correction, summary, etc.
+2876. [Summate](https://summate.it/) - Intelligent data extraction and article summarization with the help of Full-Text RSS and OpenAI
+2877. [Promptstacks](https://www.promptstacks.com/) - Pre-validated prompts for models like ChatGPT. Includes support and a community to optimize prompts
+2878. [BrowseGPT](https://browsegpt.ai/) - A Chrome extension that uses AI to automate web browsing under GPT-3
+2879. [SymptomChecker IO](https://symptomchecker.io/) - From symptoms, get an online diagnosis. (not to be taken as real medical advice)
+2880. [Lensa AI](https://prisma-ai.com/lensa) - AI mobile application to edit your photos, faces, backgrounds, apply filters, etc.
+2881. [Textbuddy](https://textbuddy.com/) - Intelligent tool that analyzes your text to improve and simplify your writing
+2882. [promptoMANIA](https://promptomania.com/) - A very accurate and easy to use prompt builder to create high quality images
+2883. [Tailwind](https://www.tailwindapp.com/) - An AI tool dedicated entirely to marketing: planning, content management, analysis, optimization, etc.
+2884. [VenturusAI](https://venturusai.com/) - Use AI to evaluate business ideas. Generate instant, searchable and shareable reports
+2885. [Papers GPT](https://jessezhang.org/llmdemo) - Submit scientific papers to GPT and get expert AI in any domain
+2886. [Eightify](https://eightify.app/) - An extension for Chrome that can summarize and transcribe a YouTube video
+2887. [Slatebox](https://slatebox.com/) - A platform that creates visualizations from text, making it easy to collaborate and organize ideas
+2888. [Conju](https://www.conju.ai/) - Create and build applications (no code) using an intuitive drag-and-drop interface
+2889. [AI Named My Pet](https://www.ainamedmypet.com/) - AI name generator for animals, adapted to their personality and characteristics
+2890. [Qakaa](https://qakaa.com/) - A complete marketplace to find the best content for your projects
+2891. [SEO.ai](https://seo.ai/) - Quickly create quality, high-performance SEO content. Available in over 50 languages
+2892. [OpenL](https://openl.io/zh) - A multilingual AI translator, allowing a quick translation of your texts. 13 languages supported
+2893. [Illuminarty](https://illuminarty.ai/) - An AI that detects AI-generated, modified and Deepfake images through advanced algorithms
+2894. [Draw3D](https://draw3d.online/) - Turn your sketches into realistic and detailed photos. Also enjoy a complete image editor
+2895. [PrayGen](https://www.zerobot.ai/a/a-afS06buAZ-praygen) - An AI under GPT expert in religious books like the Koran, the Bible, the Torah or Gita
+2896. [WebCopilot AI](https://www.webcopilot.ai/) - A Chrome extension that assists you while browsing the web: writing emails, social networks, Google Sheet, etc.
+2897. [Verbatik](https://verbatik.com/) - Verbatik is a text-to-speech AI that turns your text into speech (with 600+ voices in 142 languages)
+2898. [Moji](https://apps.apple.com/us/app/moji-ai-chat-content-ai/id6443924609) - A multi-tasking AI assistant: writing, email, code, keyword and image generation. Available on IOS
+2899. [AILab Tools](https://www.ailabtools.com/) - Edit and enhance your photos with a site that offers several AI-based image processing tools
+2900. [Augment AI](https://www.augment.co/) - A personal life assistant under AI that can help you in your everyday life. A kind of butler
+2901. [Sturppy](https://www.sturppy.com/) - AI that helps startups and SMEs create financial models while fostering collaboration and investment
+2902. [Podsift](https://www.podsift.com/) - A free AI tool that sends summaries of your favorite podcasts directly to your mailbox
+2903. [Refact AI](https://refact.ai/) - An AI assistant for your coding sessions. Compatible with VS Code and JetBrains
+2904. [Zeemo](https://zeemo.ai/zeemo-app) - Transcribe your videos in writing without any software or special skills. Available in 17 languages
+2905. [ExplainPaper](https://www.explainpaper.com/) - Receive clear and simple explanations of texts even if they are very difficult to read
+2906. [Audyo](https://www.audyo.ai/) - Generate artificial voices and edit them to make them very human and pleasant to listen to
+2907. [Jason AI](https://reply.io/jason-ai/) - Manage B2B prospecting with the assistance of an AI, automate your exchanges and responses with your customers
+2908. [AIBrane](https://www.aibrane.com/) - An intelligent extension that follows you everywhere and radically increases your productivity
+2909. [Podsqueeze](https://podsqueeze.com/) - Quickly generate content for your podcasts: episode notes, Tweets, timestamps, newsletters, etc.
+2910. [Liner](https://chromewebstore.google.com/detail/liner-chatgpt%EF%BC%9Awebyoutube%E7%9A%84/bmhcbmnbenmcecpmpepghooflbehcack) - A Google Chrome extension to increase your productivity with ChatGPT. Also has a PDF assistant
+2911. [Glass Health AI](https://glass.health/ai) - An AI that helps medical professionals make a diagnosis based on symptoms
+2912. [Juice AI](https://juice.ai/) - An AI specialized in marketing content creation: SEO text generation, keywords, etc.
+2913. [Legalese Decoder](https://legalesedecoder.com/) - AI-assisted legal vocabulary simplification
+2914. [AIPEX Virtual Concierge](https://www.aipextech.com/) - Get a virtual concierge that never runs out for your hotels, rentals, Airbnb, etc.
+2915. [CAMIRA](https://camira.ai/) - A suite of AI applications for photographers, videographers, content creators, marketing, etc.
+2916. [Supernormal](https://www.supernormal.com/) - Stay connected and informed by video update with your collaborators
+2917. [Databorg AI](https://databorg.ai/) - Easily integrate a bot that can answer your visitors&#039; questions through an API
+2918. [Thisbeachdoesnotexist.com](https://thisbeachdoesnotexist.com/) - 
+2919. [Affable AI](https://www.bazaarvoice.com/products/bazaarvoice-affable-ai/) - Generation of marketing campaigns using Excel or DM files
+2920. [AI Genius](https://chromewebstore.google.com/detail/ai-genius/ohepjelkmfachklkbaidkgeidegifmdj) - A Chrome extension under AI that will follow you permanently on the web and help you in your daily tasks
+2921. [Editby](https://www.editby.ai/) - Be inspired by the most famous and influential Twitter accounts to become a key player on the networks
+2922. [Uminal](https://www.uminal.com/) - A service designed for ChatGPT that allows you to search directly on the web
+2923. [AI Product Photos](https://creatorkit.com/) - Edit and generate photos for your e-commerce products. Quickly improve your sales on Shopify
+2924. [Gita GPT](https://www.gitagpt.in/) - An AI to learn to decipher the ancient Indian scripture Bhagavad Gita
+2925. [Sumly AI](https://www.sumly.ai/) - Easily summarize your audio, video and podcast content on an AI-driven platform
+2926. [MagicBrief](https://magicbrief.com/) - A Chrome extension that simplifies creative collaboration on Facebook, Instagram and TikTok
+2927. [PatentPal](https://patentpal.com/) - An AI expert in intellectual property and patent design
+2928. [TheDream AI](https://thedream.ai/) - Use AI to create original profile pictures and avatars for social networks
+2929. [Jaq n Jil](https://jaqnjil.ai/) - An AI-based writing assistant for SEO and marketing content writing
+2930. [Galactica](https://galactica.org/) - Artificial intelligence trained with extensive scientific research material
+2931. [Adaptiv Academy](https://app.adaptiv.me/auth) - An AI assistant that answers your questions and recommends career choices based on your interests
+2932. [Adaptiv Academy](https://app.adaptiv.me/app/home) - An AI assistant that answers your questions and recommends career choices based on your interests
+2933. [Face26](https://face26.com/) - Automatically improve your photos, correct and optimize your images in one click. Suitable for PC and smartphones
+2934. [FormX.ai](https://www.formx.ai/) - An AI-based data extraction tool that digitizes physical documents (receipts, ID cards, etc.) into structured data
+2935. [Codesnippets](https://codesnippets.ai/) - An AI assistant for developers who want to easily create a library of secure code snippets
+2936. [Detangle AI](https://detangle.ai/) - AI that simplifies and summarizes your legal documents to make them easy to understand
+2937. [Chat Thing AI](https://chatthing.ai/) - Easily create AI ChatBots in ChatGPT using data from Notion, Google Docs, etc.
+2938. [MacGPT](https://goodsnooze.gumroad.com/l/menugpt) - Get quick access to ChatGPT AI on your Mac from the menu bar
+2939. [StoryLab AI](https://storylab.ai/) - An AI that generates content ideas, hooks and plans to improve your writing
+2940. [StoryAI](https://apps.apple.com/gb/app/storyai-ai-generated-stories/id6445949790) - Discover and read stories created by AI with StoryAI, various categories available
+2941. [Superpower GPT](https://chromewebstore.google.com/detail/superpower-chatgpt/amhmeenmapldpjdedekalnfifgnpfnkc) - Enhance your ChatGPT conversations with additional features like exporting, searching and more
+2942. [TeamSmart AI](https://www.teamsmart.ai/) - Boost your productivity with a Chrome extension for ChatGPT that can summarize text, generate code, etc.
+2943. [Narration Box](https://narrationbox.com/) - Generate voiceovers, narrations, podcasts, and more. With over 700 AI narrators to choose from
+2944. [Dystr](https://dystr.com/) - No-code help for engineers working on the cloud. Supports Amazon&#039;s AWS, Google Cloud or Microsoft Azure
+2945. [Paymefy](https://www.paymefy.com/) - Paymefy is an AI-powered automated reimbursement tool that reduces costs and delays
+2946. [Ask Poppy](https://www.poppylist.com/askpoppy) - Poppy helps you in everyday life, he can also assist you if you are pregnant
+2947. [Chatfuel AI](https://chatfuel.com/) - Easily create cross-platform AI ChatBots for your customers. Increase your engagement and conversion rates
+2948. [Spoke AI](https://www.spoke.ai/) - An OS for your business that allows for goal reminders to your team, instant notifications, etc.
+2949. [AskNotion](https://asknotion.app/) - Create a personal chatbot based on your Notion pages, synchronize an unlimited number of pages
+2950. [Podcast](https://podcast.ai/) - Every week, an AI generates a new podcast with a particular theme (science, movies, etc..)
+2951. [Magic Reach](https://www.magicreach.ai/) - Write more professional emails and increase your sales very quickly with AI
+2952. [Truewind](https://www.truewind.ai/) - Use AI to do your accounting or manage your finances (quickly and error-free)
+2953. [NameWizard AI](https://namewizard.ai/) - Find the best possible domain name for your project quickly with AI&#039;s original ideas
+2954. [SpeechFlow](https://speechflow.io/) - Use an API to build your text-to-speech applications. Accessible in several languages
+2955. [Articly](https://lp.articly.ai/) - Creation of articles, with an AI co-pilot, optimized for search engines (SEO)
+2956. [Glarity](https://glarity.app/) - Get a ChatGPT summary in Google/YouTube results with a free chrome extension
+2957. [LLaMA (META)](https://ai.meta.com/blog/large-language-model-llama-meta-ai/) - A ChatBot AI that competes directly with OpenAI and its very popular ChatGPT
+2958. [EvelynAI](https://t.me/EvelynxAI) - An AI on Telegram that will help you create messages, Tweets and many other things (under GPT-3)
+2959. [BrightBot](https://www.brightbot.app/) - Easily integrate a GPT ChatBot on your website. Increase your audience with AI
+2960. [Thisbaseballplayerdoesnotexist](https://thisbaseballplayerdoesnotexist.com/) - 
+2961. [Auri AI](https://auri.ai/) - An AI writing assistant offering spelling correction, paraphrasing, translation and text generation
+2962. [PixieBrix](https://www.pixiebrix.com/) - Boost your productivity with an AI-backed Chrome extension. Multitasking tools
+2963. [Jounce](https://www.jounce.ai/) - AI solution that helps you write your texts. Create copywrting content very quickly
+2964. [Keywrds AI](https://keywrds.ai/) - Use AI to generate keywords, find niches and SEO topics relevant to your audience
+2965. [AiBERT](https://aibert.co/) - A ChatBot integrated directly into WhatsApp that allows you to generate images and texts in ChatGPT
+2966. [R.O.B.](https://www.robotofbusiness.com/ai-website-builder) - Robot Of Business (R.O.B.) allows you to create a website quickly without having to write a single line of code
+2967. [Social Comments GPT](https://social-comments-gpt.com/) - A Chrome extension that uses the ChatGPT API to create engaging comments on social networks
+2968. [Relume Ipsum](https://www.relumeipsum.com/) - An AI-assisted writing tool for designers. Allows you to quickly generate text without leaving Figma
+2969. [Laion](https://laion.ai/) - Unleashing research related to machine learning and data optimization (ecological)
+2970. [Magical AI](https://www.timeos.ai/) - An AI to plan your meetings. Includes agenda creation, time suggestions and automated note taking
+2971. [Tweet Monk](https://tweetmonk.com/) - Improve the writing of your tweets and explode your audience on Twitter
+2972. [GPT2Markdown](https://chromewebstore.google.com/detail/gpt2markdown/mlfimpibamecbdnofjnbkjomeieclnjl) - An extension to easily export all your conversations with ChatGPT in Markdown format
+2973. [RespoAI](https://chromewebstore.google.com/detail/respoai/bedkffdgfejokiohjhkehankmamachma) - A browser extension that allows you to easily create thoughtful and effective responses
+2974. [SpellBound](https://ww25.spellbound.cc/) - An AI-based writing assistant to improve your style, correct your mistakes or grammar. Available on MacOS
+2975. [Legal Robot](https://legalrobot.com/) - Review your legal documents with the help of an AI. Then receive valuable advice and information
+2976. [Lavo AI](https://lavo.ai/) - Development of new tools and software by AI for the pharmaceutical and medical industry
+2977. [Happy Mama](https://happy-mama.vercel.app/) - Ask an artificial intelligence bot questions about your pregnancy and motherhood
+2978. [Botsheets](https://botsheets.com/) - Automates data collection and responses to your customers in direct connection with Google Sheets
+2979. [Audioread](https://audioread.com/) - Easily convert your reading to podcasts. Listen to any PDF, article, email, etc.
+2980. [Venturefy](https://www.venturefy.com/) - Increase customer confidence by displaying verified badges in your business partnerships
+2981. [Evolup](https://www.evolup.com/) - Create your customizable affiliate store on Amazon with an AI expert in marketing, SEO, etc.
+2982. [Deciphr AI](https://www.deciphr.ai/) - An AI platform to easily create notes and summaries of your favorite podcasts
+2983. [Dime A Dozen](https://www.dimeadozen.ai/) - Validate your business ideas quickly, an AI offering market research, competitive analysis, SEO, etc.
+2984. [Mental Models AI](https://learnmentalmodels.co/) - Decipher the mental models that can hinder your productivity
+2985. [SeamlessM4T](https://ai.meta.com/research/publications/seamlessm4t-massively-multilingual-multimodal-machine-translation/) - A multilingual (+100 languages), multitasking AI model that translates and transcribes your text or speech. Voice recognition support
+2986. [Dreamlife AI](https://apps.apple.com/us/app/dreamlife-ai-camera/id6444075319) - Use your camera and reinvent your interior rooms with the help of an interior design AI
+2987. [Onlycoms](https://onlycoms.com/) - Look for the domain name that fits perfectly with your website project
+2988. [Octane AI](https://www.octaneai.com/) - Ask your customers questions and boost your sales with AI interactions
+2989. [Mobile GPT](https://mobile-gpt.io/) - Mobile application that uses ChatGPT to generate documents, create images, etc.
+2990. [Lawrie AI](https://apps.apple.com/us/app/lawrie-ai/id6451135455) - An AI assistant to understand your contracts quickly and easily. Chat with your PDFs and get instant answers
+2991. [Wishes AI](https://wishesai.com/) - Generate unique messages (images and text) for your loved ones. Ideal for small and big occasions
+2992. [Aidaptive](https://aidaptive.com/) - Predict and improve your conversion and sales rates automatically
+2993. [Olli AI](https://www.govdash.com/) - An AI-powered platform that enables faster creation of data visualizations and facilitates their editing and export
+2994. [Autoblocks AI](https://www.autoblocks.ai/) - Create, deploy and monitor LLMs models with enterprise-optimized functionality
+2995. [Lebesgue](https://lebesgue.io/) - An AI that analyzes the market and allows you to make quality marketing optimizations for your online business
+2996. [SolidGrids](https://www.solidgrids.com/) - Automatic generation of professional images for your e-commerce sites
+2997. [Sellesta](https://sellesta.ai/) - Get automatic analysis and optimizations for your product listing on your Amazon store
+2998. [Brainfish](https://www.brainfishai.com/) - Optimize your business with an AI-based knowledge base. Get answers fast
+2999. [Byterat](https://www.byterat.io/) - An AI-based platform dedicated to battery engineers. Exploitation of test data by AI
+3000. [Prompt-Journey](https://promptjourney.app/) - Facilitates the creation of impactful prompts through a user-friendly and easy-to-use interface
 
