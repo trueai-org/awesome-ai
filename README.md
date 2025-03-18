@@ -4,7 +4,7 @@
 
 > **收录标准**：产品拥有社交官方账号，如：YouTube、TikTok、X、Twitter、Facebook、Reddit、Instagram、WhatsApp、LinkedIn、VK、Snapchat、Vimeo、Pinterest、Behance、Flickr、Quora、Discord、Tumblr、Medium、快手、抖音、微博、小红书、Bilibili、GitHub、Telegram等。
 
-## 排行榜
+## 排行榜 [2025-03-18]
 
 1. [HubSpot CRM](https://www.hubspot.com/ai-powered-crm/am) - Optimize your sales and marketing with a particularly intuitive, AI-driven professional CRM. Track your performance in real time and automate tasks more efficiently
 2. [ChatGPT](https://chatgpt.com/) - The world&#039;s most famous conversational assistant. Ask your questions and get precise answers
